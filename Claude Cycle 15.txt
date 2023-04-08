@@ -1,0 +1,23 @@
+Claude Cycle 15
+
+Dialogue:: There you are. I hope you're feeling well today. I slept weird on my neck, but I feel... better than usual.
+
+Option1:: You look nice and relaxed, Claude. //Emote none Happy
+Option2:: Are you happy with our relationship? //Emote none Happy
+
+Response1:: If I do, it's only because of you. You have me thinking about things other than my work. Sometimes it's nice to... unfocus. 
+Response2:: Finding happiness is something I've had trouble with... but when it comes to you, it's been as natural as breathing. I actually can't believe how happy you've made me.[]When I think about tomorrow, I don't just hear music. I hear your voice, XX.  
+
+Option1a:: Unfocus what?
+Option1b:: So you actually feel better, too?
+
+Response1a:: Just, myself. It's a relief.[]I think I was working myself ragged before you started spending time with me. In fact, having something else to focus on has made my work a lot more productive.
+Response1b:: Definitely. I think I was working myself ragged before you started spending time with me. In fact, having something else to focus on has made my work a lot more productive.
+
+Option2a:: You should still focus on your music. //Relationship Claude15 -1 Sad
+Option2b:: Is there room for both me and music in your life? //Relationship Claude15 2 Romantic
+
+Response2a:: Is that really what you think? I see.
+Response2b:: Fair question, heh. There's more than enough room for you. And if it came down to it, I see myself putting you before my music. You've come to mean that much to me.[]I hope you don't think that sounds like too much, XX. I just don't see myself without you anymore. 
+
+End

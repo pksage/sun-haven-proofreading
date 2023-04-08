@@ -1,0 +1,9 @@
+Allison Cycle 0
+
+Dialogue:: My name's Allison, but my friends call me Allie. What's yours?
+
+Option1:: I'm XX. Nice meeting you!
+
+Response1:: Very glad to meet you, XX! It's nice to see fresh faces in this town.
+
+End

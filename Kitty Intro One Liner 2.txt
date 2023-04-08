@@ -1,0 +1,5 @@
+Kitty Intro One Liner 2
+
+Dialogue:: Hey again, new farmer! I have to go care for my animals, but I'll look for you around town.
+
+End

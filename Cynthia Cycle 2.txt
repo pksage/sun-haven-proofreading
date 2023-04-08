@@ -1,0 +1,33 @@
+Cynthia Cycle 2
+
+Dialogue:: Hello, little farmer.[]Oh - you look sick! Could it be a lovebug?
+
+
+Option1:: What's the farthest you've traveled for work?
+
+Option2:: Have you found a partner for yourself?
+
+
+Response1:: I once took a boat down to the Southern Islands. Talk about a good time![]The people down there are some of the most romantic I've ever met.
+I once took a boat down to the Southern Islands. Talk about a good time![]The people down there are some of the most romantic I've ever met.
+Response2:: Unfortunately, my lifestyle keeps me from setting down roots. But believe me, there have been offers!
+
+
+Option1a:: I'm sure you fit right in, then. //Relationship Cynthia2 2
+
+Option1b:: They probably didn't need your help, then. //Relationship Cynthia2 -1
+
+Response1a:: Oh yeah, I don't know if I've ever sold as much as I did down there. I was out of merchandise in a week!
+
+Response1b:: Don't underestimate how good I am at my job, sweetie.
+
+
+Option2a:: No surprise there! //Relationship Cynthia2 2
+
+Option2b:: Offers? Here in Sun Haven? 
+
+Response2a:: Are you practicing your lines? Because that was a good one!
+
+Response2b:: Well sure, just the other day... actually, I better not. Nobody likes a gossip!
+
+End

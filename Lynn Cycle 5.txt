@@ -1,0 +1,33 @@
+Lynn Cycle 5
+
+Dialogue:: Hi again, XX. Do you want to chat? I've been trying to be more social lately.
+
+Option1:: If you want to be social, you should try the tavern.
+
+Option2:: So Lynn... do you have a partner back home? //Emote none Embarrassed
+
+
+Response1:: I do go there, at the end of hard work days when I need to zone out. I like to find a corner of the tavern and listen to the chatter of voices for a while. It's oddly soothing!
+
+Response2:: As in, a romantic partner? Sorry, that caught me off guard.[]Just pretend like I'm not blushing for a second![]The answer is no. Actually... I've never even been on a date.[]Oh sheesh, why did I tell you that?? Pretend like you don't know that, okay?
+
+
+Option1a:: I'm surprised you can zone out in the tavern with all that noise. //Emote none Happy
+
+Option1b:: I'm surprised you don't join in the conversation. //Emote none Happy
+
+Response1a:: Small talk is difficult for me, but a room full of voices has a good feeling to it. I'll even close my eyes to listen... and then it doesn't feel like I'm alone at my table.
+
+Response1b:: Small talk is difficult for me, but a room full of voices has a good feeling to it. I'll even close my eyes to listen... and then it doesn't feel like I'm alone at my table.
+
+
+Option2a:: If you lived in the Great City, I bet you'd get lots of dates. //Relationship Lynn5 2 Happy
+
+Option2b:: I knew it. //Relationship Lynn5 -1 Sad
+
+Response2a:: Oh, shush or my face will get all red!!
+
+Response2b:: Oh? Is it that... unsurprising? I guess I shouldn't be surprised, either.
+
+
+End

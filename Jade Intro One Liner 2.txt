@@ -1,0 +1,4 @@
+Jade Intro One Liner 2
+
+Dialogue:: I prefer to work in the café. The smell of coffee gets my brain working harder!					 																																																							
+End

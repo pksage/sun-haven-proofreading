@@ -1,0 +1,23 @@
+Gorwin Cycle 1
+
+Dialogue:: Ah, XX! Delighted to see you, my friend. How can I assist you today?
+
+Option1:: I'm curious about Nel'Vari's history.
+Option2:: I'm curious about the Nel'Vari Elves.
+
+Response1:: To learn about our history, you need only learn the history of the Grand Tree. We've been with it since the first Elves stepped foot on these grounds.[]Yes, our origins are entwined with the tree like so many blooming vines, hoho! 
+Response2:: Ah, wonderful! But be careful XX, if you become too comfortable here then you may never want to leave, hoho![]I'm sure you know by now that there are different tribes of Elves, yes? Many Elves live a nomadic life in our world. Never settling, always moving.[]Nel'Vari Elves are different though, because we've been with the Grand Tree for the entire history of our civilization!
+
+Option1a:: So you're just tree people? //Relationship Gorwin1 -1
+Option1b:: No wonder it's such a revered monument. //Relationship Gorwin1 2
+
+Response1a:: It seems you think the same as so many outsiders in the past who have disregarded the tree as any old stump. Pity you can't see the world through my eyes.
+Response1b:: Indeed, and I'm glad you see it that way too. Outsiders in the past have disregarded the tree as any old stump.[]Only those who have taken the time to understand our people have also grasped the tree's importance.[]What I'm saying is, you have the spirit of a true Nel'Vari Elf! Hohoho!
+
+Option2a:: Do you think it's better this way?
+Option2b:: None of you have ever left?
+
+Response2a:: I don't know that it's better, but it's certainly peaceful. Just ask any of our more curious kin who have wandered off into the forest. You'll learn that they always find their way back home.[]Life in Nel'Vari is sweet, what can I say? Hoho!
+Response2b:: Hoho, certainly a handful of our more curious kin have wandered off into the forest, but they find their way back home.[]Life in Nel'Vari is sweet, what can I say? Hoho!
+
+End

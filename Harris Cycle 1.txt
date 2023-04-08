@@ -1,0 +1,23 @@
+Harris Cycle 1
+
+Dialogue:: Ya' gotta work hard if you wanna make that bread. By bread I mean money!
+
+Option1:: What made you choose this profession?
+Option2:: Your work can't be easy.
+
+Response1:: Welp, I always wanted to be a merchant. But all the merchants I saw were selling stuff like gold necklaces 'n swords 'n whatnot. I didn't know how to make necklaces and swords, but I <i>did</i>  know how to chop a tree or break a rock!
+Response2:: Ah, it ain't too bad. Plenty of rocks and trees and whatnot to break down and take to market. The best part is that there's no competition! Who else is sellin' <i>rocks</i>?!
+
+Option1a:: That makes sense!
+Option1b:: Making gold necklaces isn't easy, to be fair.
+
+Response1a:: It sure does! I cornered an untapped market with nothin' more than my tools!
+Response1b:: Yeah! So I didn't! I cornered an untapped market with nothin' more than my tools!
+
+Option2a:: Don't hurt yourself. //Relationship Harris1 -1
+Option2b:: Your work ethic is inspirational! //Relationship Harris1 2
+ 
+Response2a:: Don't worry about me. Just buy my stuff!
+Response2b:: Is that so? Hmm... can I <i>sell</i>  inspiration?
+
+End

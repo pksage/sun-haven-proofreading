@@ -1,0 +1,23 @@
+Catherine Cycle P10
+
+Dialogue:: Sometimes I feel my witchcraft isn't... up to snuff, compared to the Blessed like Lucia.
+
+Option1:: Your witchcraft is very useful. //Emote none Embarrassed
+Option2:: What can someone who's been blessed do that a witch can't?
+
+Response1:: Heh, thank you, XX. I think so, too. I just sometimes see one who has been blessed and their raw power makes my craft seem so humble in comparison. 
+Response2:: Witchcraft is a lot more reserved than the magic you see someone who's been blessed do.[]We don't shoot fire or conjure lightning, it's more about reading the natural auras of living things. Being in tune with life, and working off of that energy.
+
+Option1a:: You just have to focus on what you're good at.
+Option1b:: Even the Blessed feel this way sometimes.
+
+Response1a:: I guess you're absolutely right. I'm usually so confident with my ability, but we all doubt ourselves sometimes, right? Even Lucia must! Thanks for hearing me out.
+Response1b:: I guess you're absolutely right. I'm usually so confident with my ability, but we all doubt ourselves sometimes, right? Even Lucia must! Thanks for hearing me out.
+
+Option2a:: Maybe you can ask Elios to give you his blessing? //Relationship CatherineP10 -1 Mad
+Option2b:: Maybe it's not as flashy, but your witchcraft is still worth appreciating. //Relationship CatherineP10 2 Happy
+
+Response2a:: I wouldn't want to do anything like that, XX. I don't want to give up who I am. 
+Response2b:: I know, and you're right. I guess that's what I really like about it. I don't have to be big and showy, I'm a witch!
+
+End

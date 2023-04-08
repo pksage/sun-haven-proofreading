@@ -1,0 +1,31 @@
+Stephen Cycle 1
+
+Dialogue:: Oh- heh... It's you...[]<i>Stephen coughs nervously, not able to find his words for a moment.</i>[]Er... say, I never did have a moment to say this, but... thanks for the second chance you gave me back there.
+
+Option1:: You're welcome for the second chance.
+
+Option2:: Why turn to crime in the first place?
+
+
+Response1:: I promise that my days of poaching are behind me! I didn't mean to harm anyone, especially not any animals or anything like that. It's relieving to be living on the right side of the law!
+
+Response2:: I want to say that I was a poor young boy who didn't have any choice... but that isn't entirely honest. I have a lot to reflect on now that I've gotten this second chance.
+
+
+Option1a:: You better be on your best behavior from now on. //Relationship Stephen -1
+
+Option1b:: We all make mistakes in life. //Relationship Stephen 1
+
+Response1a:: ...Right.[]<i>Stephen coughs into his hand, a look of shame on his face.</i>
+
+Response1b:: Boy am I glad you're the forgiving type. I won't let it go to waste, that's a promise!
+
+
+Option2a:: Welcome to the right side of the law. 
+
+Option2b:: I hope you learn that honesty pays.
+
+Response2a:: Heheh. I've got you to thank for that, don't I? Who knew old Stephen would get a second chance.
+
+Response2b:: Heheh. I've got you to thank for the opportunity, don't I? Who knew old Stephen would get a second chance.
+End

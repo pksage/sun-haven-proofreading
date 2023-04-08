@@ -1,0 +1,29 @@
+JudithsWeeds
+
+Dialogue:: It used to be that young folk like you would help us old folk when we needed it. What do you say, are you willing to lend me a hand?
+
+
+Option1:: You don't seem to have any trouble getting around.
+
+Option2:: You don't look that old!
+
+Option3(Permanent):: What do you need help with?
+
+
+Response1:: I would do it myself, but my knee is acting up again. I try not to show it to keep people from worrying.
+
+Response2:: Oh, aren't you sweet. Believe me, I feel my age. 
+
+Response3:: The weeds are eating up my yard again. I just need someone to cut them back for me.
+
+
+Option3a:: No problem, I'll take care of it. //Quest none JudithsWeedsQuest
+
+Option3b:: I'm sorry, I can't right now.
+
+
+Response3a:: It's nice to see that the younger generation still has some respect for their elders. (End)
+
+Response3b:: I guess things really have changed. Nobody has time to help a neighbor anymore. (End)
+
+End

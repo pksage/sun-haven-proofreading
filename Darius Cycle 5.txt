@@ -1,0 +1,33 @@
+Darius Cycle 5
+
+Dialogue:: Hello again, XX.
+
+Option1:: Wait, did you actually call me by my name?
+
+Option2:: I want to contribute to Withergate's prosperity, my prince. 
+
+
+Response1:: Don't push it. You're walking a razor-thin line right now. Make wise decisions.
+
+Response2:: Are you suggesting that Withergate needs the help of an outsider?
+
+
+Option1a:: Does this mean I can call you Darius? //Relationship Darius5 -1 Mad
+
+Option1b:: I'm honored, Prince Darius. //Relationship Darius5 2
+
+Response1a:: That's pushing it. You're still an outsider.
+
+Response1b:: I'm glad that my investment in you hasn't been a complete waste of time.
+
+
+Option2a:: Not at all, my prince. I only want to help if I can.
+
+Option2b:: Everyone needs help, sometimes. //Emote none Mad
+
+Response2a:: If you wish to join the higher levels of our society, you must learn not to degrade yourself like this.
+
+Response2b:: Your Human town might call for aid when things get rough, but Withergate succeeds on its own. You have nothing to offer us.
+
+
+End

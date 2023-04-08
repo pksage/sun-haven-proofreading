@@ -1,0 +1,23 @@
+Kitty Cycle 15
+
+Dialogue:: Sometimes I get bored at home, but it's easy to relax around you. XX, you're like magic!
+
+Option1:: It's funny - I can never tell when you're relaxed.
+Option2:: Kitty, are you happy in our relationship?
+
+Response1:: That's because I'm still a kitten at heart, nya nya. Even when I'm relaxing, I am ready to pounce!
+Response2:: Wha? Of course Kitty is happy! I'm always so joyful around you, XX.[]In fact... I have been thinking a looot about the next step for us! Do you know what Kitty is talking about, XX?[]Kitty will give you a hint - I'm ready to be with you <i>forever!</i>
+
+Option1a:: That's what makes you fun! //Emote none Happy
+Option1b:: I want to be more like you, Kitty - I want to have more fun! //Emote none Romantic
+
+Response1a:: I think so too, even if some people say I need to grow up. I only want to be my natural self!
+Response1b:: It's a good thing we're dating, nya! We can always have fun together!
+
+Option2a:: I don't understand. //Relationship Kitty15 -1 Sad
+Option2b:: I think I understand! //Relationship Kitty15 2 Happy
+
+Response2a:: Oh nyan... Maybe this isn't the right time after all.
+Response2b:: Good good! It's the perfect time, XX. I'm ready and very very excited!
+
+End

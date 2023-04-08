@@ -1,0 +1,29 @@
+Anne Cycle P10
+
+Dialogue:: Hmph. That's odd, could I seriously have miscounted?
+
+Option1:: I'm shocked you made a mistake in your counting!
+Option2:: So what's the problem?
+
+Response1:: Hey, no one's perfect. My income does rely on being precise, however...
+
+Response2:: It seems I accidentally ordered too much iron ore. I had a contract to supply Rex, but now I've got extra...
+
+Option1a:: I'm sure you'll find it again, and then it's like a bonus!
+
+Option1b:: So work double-time and make up the loss!
+
+Response1a:: Heh. XX, I like the way you think. I'd prefer to have it now, but I suppose that's just life sometimes.
+
+Response1b:: That's a good idea. Glad I thought of it first! I'm already calculating how to make up this little mishap. More importantly, though, is how to ensure it doesn't happen again. 
+
+
+Option2a:: So what? Just give him the extra ore as a gift. //Relationship AnneP10 -1
+Option2b:: Maybe Solon would buy it? //Relationship AnneP10 2
+
+
+Response2a:: I... I... I don't know what to say... That is genuinely a terrible suggestion, XX![]I'm trying to run a business. If Rex wants the extra ore, Rex can pay for it.
+
+Response2b:: Silly XX, trying to play merchant like me.[]Solon is only interested in refined bars, though perhaps if I had someone to turn the ores into bars for me then I could make my money back.
+
+End

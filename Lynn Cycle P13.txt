@@ -1,0 +1,34 @@
+Lynn Cycle P13
+
+Dialogue:: Catherine is a great neighbor, and it's really nice living so close to where I work. You're all the way out there on your farm, don't you ever get lonely?
+
+
+Option1:: I tend to keep pretty busy.
+
+Option2:: It's hard to get lonely with such good friends, though.
+
+
+Response1:: That is very true. You're always coming and going, it seems. I don't know where you find the energy!
+
+Response2:: That's a very sweet thing of you to say. You must have met most of the people around town by now. I'm still a little shy, even after all this time.
+
+
+Option1a:: I see you working hard all the time, too. //Relationship LynnP13 2 Happy
+
+Option1b:: Hey, I'm Blessed and you're not. //Relationship LynnP13 -1 Mad
+
+Response1a:: Do you really notice? Solon is always telling me to slow down, but my mother was a real whip cracker! I don't know how to slow down, sometimes!
+
+Response1b:: Maybe I'm not Blessed like you, but you seem like you're being a little bit rude about it...
+
+
+Option2a:: You're doing fine, Lynn. Everyone is glad to have you. //Relationship LynnP13 2
+
+Option2b:: Come out of your shell a bit sometime. 
+
+Response2a:: You're right, XX. I should come out of my shell a little more often and get around town! Thanks for giving me a confidence booster.
+
+Response2b:: Yeah, I should try getting out and seeing more things Sun Haven has to offer. Kitty keeps asking me to visit her pet shop!
+
+
+End

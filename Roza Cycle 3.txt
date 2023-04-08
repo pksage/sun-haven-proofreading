@@ -1,0 +1,33 @@
+Roza Cycle 3
+
+Dialogue:: I love everything about my position... except for the barracks.[]I would kill for my own living quarters!
+
+
+Option1:: Does Nathaniel get his own quarters?
+
+Option2:: What's your favorite meal that you can't get at the barracks?
+
+
+Response1:: Don't remind me. It's still in the barracks, but he gets a whole room to himself. Perks of being captain.
+
+Response2:: Hm, tough call. I'll say chicken salad because it's got everything my body needs.
+
+
+Option1a:: You deserve those perks, too. //Relationship Roza3 -1
+
+Option1b:: What's the army motto - "Duty through service?" //Relationship Roza3 2
+
+Response1a:: That's not a very military mindset, farmer. Once you start thinking things are unfair, you start to lose your nerve.[]You get what you earn, and I haven't earned it yet. But I will.
+
+Response1b:: That's right, farmer. And a good reminder to me.[]I'll get my perks one day, but for now I have to do my duty.
+
+
+Option2a:: Okay, but what about dessert?
+
+Option2b:: Wow, you're even efficient when you eat.  
+
+Response2a:: I don't eat it often but... I can't resist chocolate ice cream. It's simply the perfect dessert.
+
+Response2b:: You say that like it's a bad thing.
+
+End

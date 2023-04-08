@@ -1,0 +1,23 @@
+Jun Cycle 15
+
+Dialogue:: Is there anything you need? I want to be sure you're completely taken care of.
+
+Option1:: You don't need to worry about me. //Emote none Embarrassed
+Option2:: Are you happy in our relationship?
+
+Response1:: I can't help it, it's my job! You might as well ask a bird not to fly or sing.[]I'll always be looking after you, XX.
+Response2:: Of course I am, XX. Aren't you, or is something wrong? 
+
+Option1a:: I wouldn't have it any other way. //Emote none Happy
+Option1b:: We'll look after each other, Jun. //Emote none Happy
+
+Response1a:: Heh, that's so like you. You always let me be myself.
+Response1b:: Heh, that's so like you. Only you would think to take care of the counselor.
+
+Option2a:: I have doubts. //Relationship Jun15 -1 Sad
+Option2b:: I'm just thinking about our future together. //Relationship Jun15 2 Romantic
+
+Response2a:: Well, at least we're talking about it. Addressing the problem is always the first step. I'm willing to work through this if you are, XX.
+Response2b:: Oh... XX, if you're saying what I think you're saying then you should know that I've already thought about this a lot.[]I'm not afraid of commitment, and the idea of being with you for the rest of my life is... a dream!
+
+End

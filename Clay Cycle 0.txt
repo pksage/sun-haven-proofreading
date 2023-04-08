@@ -1,0 +1,9 @@
+Clay Cycle 0
+
+Dialogue:: Eh, hey. I'm Clay. Who are you again?
+
+Option1:: I'm XX.
+
+Response1:: Right, that's your name. The Elder told us about you. Guess I forgot.
+
+End

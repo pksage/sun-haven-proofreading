@@ -1,0 +1,23 @@
+Felicity Cycle 2
+
+Dialogue:: Hey, XX! I want to ask you a question... what is Sun Haven like?
+
+Option1:: Why do you want to know about Sun Haven?
+Option2:: Where is your old village?
+
+Response1:: Well, it's like I said. I used to live in a town where Humans and Demons lived side by side. I've heard Sun Haven doesn't have many Demons. Do you think folks down there would like me?
+Response2:: It's here, in the Western Region! Honestly, I keep this a secret, because it's a <i>little</i>  embarrassing to admit where I really come from, but I can trust you.[]See, I'm not really from a village... I'm from the Great City!
+
+Option1a:: You'd fit right into Sun Haven.
+Option1b:: You might be a little... sparkly for their tastes.
+
+Response1a:: Do you really think so? I know Humans and Demons can get along really well, they just have to trust each other. Is that really so much to ask?
+Response1b:: Is that so? Then it sounds like they NEED someone like me down there to introduce them to a new style! I'm gonna bug Felix to take a trip with me to Sun Haven sometime!
+
+Option2a:: I'm from the Great City, too!
+Option2b:: Small world. I'm also from the Great City.
+
+Response2a:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
+Response2b:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
+
+End

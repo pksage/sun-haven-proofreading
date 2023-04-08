@@ -1,0 +1,23 @@
+Granny Cycle 1
+
+Dialogue:: How lovely to see you again![]Oh dear, I hope you aren't hurt.
+
+Option1:: I'm not hurt, just visiting.
+Option2:: What do you do here, Granny?
+
+Response1:: Oh, how wonderful. I wish we had more visitors here. On the other hand, perhaps that's not best for the patients.[]Well, peace and quiet is nice too!
+Response2:: I help in any way I can. Lately, that means baking plenty of cookies for our hungry friend here!
+
+Option1a:: Do you get bored here?
+Option1b:: The farm gets quiet, too.
+
+Response1a:: Certainly, sometimes. But the slow times help me appreciate the thrills of life. Remember that the next time you're twiddling your thumbs, young one!
+Response1b:: That's right, you're the farmer. How lovely! You must be well-acquainted with the peace and quiet.[]I can feel it in your energy, too - such a calm, powerful spirit you have.
+
+Option2a:: Keeping spirits high is important work. //Relationship Granny1 2
+Option2b:: It doesn't seem like you're needed here. //Relationship Granny1 -1
+
+Response2a:: That's exactly right, dear! My, you speak like an old soul. So nice to see you again.
+Response2b:: It pains me to see the younger generations so ill-mannered...
+
+End

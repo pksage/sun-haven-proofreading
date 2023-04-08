@@ -1,0 +1,23 @@
+Vaan Cycle 18
+
+Dialogue:: I spoke with Nivara today. It was the first time in a long while.
+
+Option1:: You haven't been speaking to her as much?  //Emote none Sad
+Option2:: What did you talk about?
+
+Response1:: No, I haven't. I actually didn't realize how long it's been since our last conversation. Do you think that's a bad thing?
+Response2:: She said that my spirit feels stronger than the last time we met. Before I could even respond to that, she said she could feel an abundance of love in my energy.[]According to Nivara, knowing love is crucial to spiritual freedom. I'm still exploring that idea.
+
+Option1a:: Isn't that like skipping school?
+Option1b:: Don't you think she still has much to teach?
+
+Response1a:: She certainly has a few lessons left for me, probably more than I realize. You're right, XX. I'll make a better effort to see her more often.
+Response1b:: She certainly has a few lessons left for me, probably more than I realize. You're right, XX. I'll make a better effort to see her more often.
+
+Option2a:: Let me know if you need any help testing that idea! //Relationship Vaan18 2 Happy
+Option2b:: Do you really think she could sense that? //Relationship Vaan18 -1
+
+Response2a:: Heh, oh XX. I'm already getting all the "help" I need from you.[]I should thank you, actually. I didn't realize it, but you've accelerated my spiritual growth here. And just by being yourself! You're truly remarkable, XX.
+Response2b:: Of course, XX. It's not our place to doubt the guardian dragons, especially not Nivara. I'm sure you wouldn't cast doubt on Elios.
+
+End

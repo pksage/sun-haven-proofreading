@@ -1,0 +1,9 @@
+Arianella Cycle 0
+
+Dialogue:: I thought I felt somebody bouncing on my web out there! Welcome to my shop, traveler, I hope you find something you like. Everything you see is handmade by me!
+
+Option1:: Good to meet you, my name is XX.
+
+Response1:: Well hello, XX. My name is Arianella. I'm the only silk-spinning seamstress you'll find in Withergate. I'm so very happy to have you here!
+
+End

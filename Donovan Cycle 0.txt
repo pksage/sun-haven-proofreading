@@ -1,0 +1,9 @@
+Donovan Cycle 0
+
+Dialogue:: Demons and ghosts are normal around here, but someone from Sun Haven? That's new! I'm Donovan, by the way.
+
+Option1:: Hey Donovan, I'm XX. Wait, how can you tell that I'm from Sun Haven?
+
+Response1:: It's written all over your face. See, on your forehead right there, it says "Kick me, I'm from Sun Haven."[]Just messing with you, XX! I saw you come in from the sewer entrance. That only goes to Sun Haven, so it wasn't hard to figure out.
+
+End

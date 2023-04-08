@@ -1,0 +1,23 @@
+Darius Cycle 18
+
+Dialogue:: Ah, XX. There are days when I simply need to look into your face to calm myself down.
+
+Option1:: Has it been a rough day? //Emote none Sad
+Option2:: Do you really feel calm just by looking at me? //Emote none Happy
+
+Response1:: Xyla and Cordelia can't stop arguing about where to place a new water feature. I fear it will never see the light of the moon at this rate. 
+Response2:: Hah! You love drawing compliments out of me, don't you? Fine, fine.[]Yes, XX. The sight of your face dispels all unwanted distractions from my mind. It's something I noticed about you early on, actually. 
+
+Option1a:: They must really care about it.
+Option1b:: Isn't one of them in charge of the other?
+
+Response1a:: I'm not so sure. In truth, I sometimes think they fight with each other simply to assert dominance.[]They both hold an equal position next to my father, you see, but neither of them can settle for that. So instead, they fight like children.
+Response1b:: Actually, they both hold an equal position next to my father. But neither of them can settle for that, so instead they fight like children.
+
+Option2a:: So you really liked me from the start?? //Relationship Darius18 2 Embarrassed
+Option2b:: The sight of you did the same for me, Darius. //Relationship Darius18 -1 Embarrassed
+
+Response2a:: As much as I tried not to, I still did. There, now you know. Don't go spreading the word, though. If everyone knew I was a "love at first sight" kind of guy, my reputation would never recover.
+Response2b:: Is that so? Even from the beginning? Ah... I was hoping to make you fear me. I must be losing my touch.
+
+End

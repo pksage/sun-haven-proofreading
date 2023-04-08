@@ -1,0 +1,25 @@
+CatherinesFertilizerQuest
+
+Dialogue:: Hey, XX! Since you're the only farmer in town, I thought you could help me out.
+
+
+Option1:: Why do you need a farmer?
+
+Option2(Permanent):: What do I need to do?
+
+
+Response1:: I need someone to grow my Cinaberry plant for me, but nobody has a free plot of dirt. Then I remembered, duh, XX has plenty of free dirt!
+
+Response2:: The thing is, I have a new kind of fertilizer that I'd like to test. Will you try it out for me? I'll give you the seeds to try it with and everything!
+
+
+Option2a:: I'll get right on that. //Quest none CatherinesFertilizerQuest
+
+Option2b:: I'm too busy to help.
+
+
+Response2a:: Oh, perfect! I can't wait to see what crops up! (End)
+
+Response2b:: Oh. Well, I understand. (End)
+
+End

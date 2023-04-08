@@ -1,0 +1,33 @@
+Vaan Cycle 13
+
+Dialogue:: I can smell the sea on the wind, even this far into the forest. That means a lucky day!
+
+Option1:: What are you up to today?
+
+Option2:: I didn't think you believed in luck.
+
+
+Response1:: There's a heavy branch that sticks out of the top of the Grand Tree which makes for a good seat. I was hoping to spend some time up there today.
+
+Response2:: Well, you know that I think the future is completely in our control. But outside forces have an influence too, even if it's small.
+
+
+Option1a:: That sounds peaceful. //Relationship Vaan13 2 Happy
+
+Option1b:: That sounds dangerous. //Relationship Vaan13 -1
+
+Response1a:: It's like a separate little world up there. I've been watching a bird's nest that I think is close to hatching, too. I hope to see it when it happens!
+
+Response1b:: Maybe it is, but I've found great clarity in places like that.
+
+
+Option2a:: What do you mean?
+
+Option2b:: I've had great luck since I moved to Sun Haven. //Emote none Happy
+
+Response2a:: Let me put it this way - if you work harder, then your farm succeeds. But sometimes it rains, and your farm succeeds without you.[]That's a small example of how luck can help us, even when we're firmly in control of our actions.
+
+Response2b:: You took matters into your own hands - chose your own future - and the luck rode in your wake.
+
+
+End

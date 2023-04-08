@@ -1,0 +1,23 @@
+Darius Cycle P10
+
+Dialogue:: Ah XX, the cold night air is refreshing, yes?
+
+Option1:: The darkness is quite invigorating.
+Option2:: The Moon Dragon's power has made a wonderful community here.
+
+Response1:: Yes, quite so. It makes me feel like I could build or raze a castle all on my own.[]When my people were forced to endure sunlight we were severely limited in what we could get done, especially when it came to securing our city.
+Response2:: It's true that we owe our gratitude to Dynus, though debt to a dragon isn't truly something I relish.
+
+Option1a:: Thank goodness for Withergate's darkness, then.
+Option1b:: That all seems a problem of the past, at least.
+
+Response1a:: Hm, yes. Fortunate, though it is not something to rely on forever. Until my family holds the key to eternal darkness for themselves, that is.
+Response1b:: It is. But complacency is the death of power, XX. I won't rest until my hold on power is absolute, but you knew that.
+
+Option2a:: Do you believe you could achieve darkness without Dynus's magic? //Relationship DariusP10 2
+Option2b:: Don't you think you'll always be indebted to Dynus? //Relationship DariusP10 -1 Mad
+
+Response2a:: Dragons are large, XX. But the world is far larger. If Dynus is capable of creating eternal darkness, then why can't I find the same power somewhere out there? Perhaps someday...
+Response2b:: The thought of that brings the taste of steel to my mouth... One day, I will sever our reliance to the Moon Dragon.
+
+End

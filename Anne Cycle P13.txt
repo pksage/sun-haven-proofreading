@@ -1,0 +1,29 @@
+Anne Cycle P13
+
+Dialogue:: How's the farm treating you, XX? I can't imagine the labor of keeping up a farm!
+
+Option1:: Why were you wondering about my farm?
+Option2:: You work pretty hard, too.
+
+Response1:: Oh, come now, don't give me that look! I'm not <i>always</i> trying to get something from you. I like to chat, too.
+
+Response2:: Sure, but I've come a very long way from doing any of my own dirty work. You're out there everyday, working in the dirt.[]Truth be told, the only physical labor I want to do is counting my money.
+
+Option1a:: Sometimes it's hard to tell with you.
+
+Option1b:: I've learned to play it safe with you.
+
+Response1a:: Is that so? Good! I try to keep people on their toes. I don't want people thinking they've figured me out, because then they think they can haggle with me.
+
+Response1b:: Is that so? Good! I try to keep people on their toes. I don't want people thinking they've figured me out, because then they think they can haggle with me.
+
+
+Option2a:: Sounds like you've found your true calling. //Relationship AnneP13 2 Happy
+Option2b:: On second thought, you sound kind of lazy. //Relationship AnneP13 -1 Mad
+
+
+Response2a:: That's true, this is who I am. And I wouldn't change that for anything, not even a mountain of gold. 
+
+Response2b:: Well that's the funny thing about thoughts. You can have as many of them as you like, but it doesn't mean they're any good. 
+
+End

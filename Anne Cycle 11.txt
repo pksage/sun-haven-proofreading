@@ -1,0 +1,34 @@
+Anne Cycle 11
+
+Dialogue:: Hey, good lookin'!
+
+Option1:: So should I call you sweetie now?
+
+Option2:: Being together is a relief - I was getting tired of flirting. //Emote none Happy
+
+
+Response1:: Call me anything other than Anne, and I'll buy your farm out from under you. Then you'll be farmless!
+
+Response2:: Yeah, I was getting tired of your flirting too!
+
+
+Option1a:: There's no way you could afford that. //Relationship Anne11 -1 Mad
+
+Option1b:: I would laugh, but I know you really could. //Relationship Anne11 2
+
+Response1a:: Don't make me prove you wrong, XX!
+
+Response1b:: You're smart. I actually thought about buying that land a while back. Good thing I didn't or you wouldn't have a home.
+
+
+Option2a:: Hey, that's uncalled for!
+
+Option2b:: Wait, was I bad at flirting?
+
+Response2a:: Relax, I'm just messing with you. I'm glad we're done playing games, too. Being together is loads easier.
+
+Response2b:: Relax, I'm just messing with you. I'm glad we're done playing games, too. Being together is loads easier.
+
+
+End
+

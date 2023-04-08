@@ -1,0 +1,33 @@
+Xyla Cycle 3
+
+Dialogue:: Look here, it's the Withergate Wannabe! You just can't stay away can you?
+
+Option1:: Do you have any plans for Withergate?
+
+Option2:: So you like it in Withergate? //Emote none Happy
+
+
+Response1:: One word: expansion. I've clearly done a bang-up job with the space we have here, but I want to see Withergate become a real metropolis!
+
+Response2:: If I didn't, don't you think I'd leave? Of course I like it here! In a city of dimwitted monsters and demons, a person like me can have a lot of fun.
+
+
+Option1a:: That seems a little idealistic. //Relationship Xyla3 -1 Mad
+
+Option1b:: A monster metropolis, huh? If anyone can do it, it would be you. //Relationship Xyla3 2 Happy
+
+Response1a:: Idealistic is thinking you can snap off little comments like that without getting called out. Seriously outsider, who do you think you're talking to?
+
+Response1b:: You've got an eye for aptitude. You're sharper than you look, outsider.
+
+
+Option2a:: That sounds a little mean.
+
+Option2b:: You definitely have confidence going for you.
+
+Response2a:: No need to get your feelings hurt, outsider. I'm not trying to hurt your feelings or anything. If I was, you would know it.
+
+Response2b:: Take it from me, confidence will take you places in this town. Flattery, on the other hand, will not... Unless you catch me on a good day.
+
+
+End

@@ -1,0 +1,33 @@
+Iris Cycle 6
+
+Dialogue:: Vaan told me you're a farmer. Why didn't you tell me that you work with plants, too??
+
+Option1:: I know you work mostly with plants, but have you ever tried your magic on animals?
+
+Option2:: Do you enjoy working with plants all the time? //Emote none Happy
+
+
+Response1:: Casting enchantments on animals is a big mistake. The spell has to be exactly correct because even the tiniest miscalculation can have huge effects. Trees and rocks are safer, trust me.
+
+Response2:: Oh yeah, I absolutely love plants! It's why I've dedicated my work to them, of course. They're so important to our world, don't you agree?
+
+
+Option1a:: You didn't answer the question. //Emote none Embarrassed
+
+Option1b:: You seem to know a lot about how difficult it is. //Emote none Embarrassed
+
+Response1a:: ... Okay look, I only tried it once when I was really young. I took a bucket of worms and tried to make them all bigger. Instead I made a kind of... worm ball. It wasn't pretty and I never tried again.
+
+Response1b:: ... Okay look, I only tried it once when I was really young. I took a bucket of worms and tried to make them all bigger. Instead I made a kind of... worm ball. It wasn't pretty and I never tried again.
+
+
+Option2a:: I don't really care for plants. //Relationship Iris6 -1 Sad
+
+Option2b:: Absolutely, plants keep us all alive! //Relationship Iris6 2 Happy
+
+Response2a:: How can you think that?
+
+Response2b:: That's exactly right, we wouldn't last a year without plants. No wonder you found your way into Nel'Vari - you really think like one of us!
+
+
+End

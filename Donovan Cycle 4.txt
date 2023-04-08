@@ -1,0 +1,33 @@
+Donovan Cycle 4
+
+Dialogue:: Hey XX! I'm glad to see you, I was getting pretty bored.
+
+Option1:: Are you just talking to me because you're bored, or because you like me?
+
+Option2:: If you're bored, tell me the wildest thing that happened to you last week.
+
+
+Response1:: That's a hard question, XX. On the one hand, I'm very bored. On the other, I actually do like you for some reason. I guess I just don't know how to answer the question.
+
+Response2:: Last week... Oh, you've heard of Elementals? People made of fire or ice or whatever? I was sitting on a rock taking a rest and... Yep, it was an elemental.[]This lady was not happy to wake up under my butt, let me tell you. She threw me so far, I landed in a harpy's nest halfway up a tree.[]The upside? Harpy omelettes for breakfast the next day!
+
+
+Option1a:: What do you mean, "for some reason?" //Emote none Embarrassed
+
+Option1b:: Sounds like you're avoiding the question... //Emote none Embarrassed
+
+Response1a:: Don't take it the wrong way - I just mean that I usually don't hang around the same people for too long. But I like chatting it up with you.
+
+Response1b:: Don't take it the wrong way - I just mean that I usually don't hang around the same people for too long. But I like chatting it up with you.
+
+
+Option2a:: There's no way that's all true. //Relationship Donovan4 -1 Mad
+
+Option2b:: Harpy's eggs? I've never had them, but I'll try anything. //Relationship Donovan4 2 Happy
+
+Response2a:: Believe it or not, I don't care. I know what happened.
+
+Response2b:: That's the right kind of attitude! Heck, I'll even make you an omelette someday.
+
+
+End

@@ -1,0 +1,33 @@
+Jun Cycle 11
+
+Dialogue:: After all this time together, I only feel closer than ever with you, XX. I don't know how I could get any happier.
+
+Option1:: Have you ever been this close with someone before?
+
+Option2:: Jun, more and more I feel like we were meant for each other.  //Emote none Romantic
+
+
+Response1:: I'm curious... What if I had been? How would that make you feel?
+
+Response2:: I strongly believe in fate and I'm sure that my fate is with you. XX, let's allow our destinies play out.
+
+
+Option1a:: That might be a disappointment, but nothing I couldn't move past.
+
+Option1b:: I wouldn't mind - you're your own person.
+
+Response1a:: Thank you for your honesty. Don't worry XX, I've only had passing fancies in my time. I've never connected with anyone like you before.
+
+Response1b:: A very healthy mindset. XX, I have a suspicion you would make a good counselor yourself![]To answer your question, I've only had passing fancies in my time. I've never connected with anyone like you before.
+
+
+Option2a:: I don't believe in fate at all. //Relationship Jun11 -1 Sad
+
+Option2b:: Fate definitely brought us together! //Relationship Jun11 2 Happy
+
+Response2a:: Well, that's not very romantic...
+
+Response2b:: And nothing in this world will break us apart, XX. Nothing.
+
+
+End

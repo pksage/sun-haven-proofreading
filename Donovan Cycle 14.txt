@@ -1,0 +1,33 @@
+Donovan Cycle 14
+
+Dialogue:: Seeing how you live your life, I'm starting to get it. Maybe.[]It doesn't look so bad, settling in one spot.
+
+Option1:: Now there's something I never thought I'd hear you say. //Emote none Embarrassed
+
+Option2:: Where would you settle down, if you could?
+
+
+Response1:: Heh, me either. I guess I'm starting to rethink some things. It's new. And weird. XX, you're making me weird.
+
+Response2:: The sewer isn't good enough? No actually, you're probably right... I don't really want to spend the rest of my life surrounded by rats. Even if they're fun to scare away.
+
+
+Option1a:: You're finally growing up. //Relationship Donovan14 -1 Sad
+
+Option1b:: I couldn't make you any weirder than you already are. //Relationship Donovan14 2 Happy
+
+Response1a:: I don't know if you meant it, but hearing that you think I'm childish is pretty brutal.
+
+Response1b:: You're one to talk! You met me in a city that was rumored to be full of "vicious monsters," remember? Only a real weirdo would go looking for a place like that!
+
+
+Option2a:: You didn't answer the question!
+
+Option2b:: I was hoping you'd say something like that.
+
+Response2a:: I guess if I could choose any place, it would be someplace with a lot of nature. The city is fun and all, but there are too many rules. I need more space.[]Actually, a farm wouldn't be half bad. 
+
+Response2b:: I guess if I could choose any place, it would be someplace with a lot of nature. The city is fun and all, but there are too many rules. I need more space.[]Actually, a farm wouldn't be half bad.
+
+
+End

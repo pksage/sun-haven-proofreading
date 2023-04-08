@@ -1,0 +1,33 @@
+Lynn Cycle 11
+
+Dialogue:: I never noticed how defined your features are. I love looking at your face!
+
+Option1:: I bet I would look better in something made by you.
+
+Option2:: Every day I see your face is a good day, Lynn. //Emote none Happy
+
+
+Response1:: You mean like armor? I guess I could do that, but you'd have to put in an order with Solon and I would need your measurements.
+
+Response2:: Come on XX, you know I hate it when you make my face turn red!
+
+
+Option1a:: You can measure me here and now! //Relationship Lynn11 -1
+
+Option1b:: Just kidding, I don't want to add to your workload. //Relationship Lynn11 2
+
+Response1a:: You know, I'm actually really busy with other work, XX. Maybe another time.
+
+Response1b:: Oh, XX you goose! You had me going there.[]Uh oh, am I too gullible?
+
+
+Option2a:: I'm surprised I still have that effect on you. 
+
+Option2b:: Even if you still get embarrassed, you've really come out of your shell since we met.
+
+Response2a:: Honestly, I don't know if you ever WON'T have that effect on me. Just go easy on me, okay?
+
+Response2b:: Thank you XX. I know I've come a long way, but I think you take a little credit for that, too. 
+
+
+End

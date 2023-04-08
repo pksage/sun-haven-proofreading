@@ -1,0 +1,33 @@
+Lucia Cycle 4
+
+Dialogue:: There are times when I look over Sun Haven and remember that I'm in charge. As a young girl, I never would have imagined it.
+
+Option1:: So you were born in Sun Haven?
+
+Option2:: What do you think you would be doing if you weren't Sun Haven's Archmage?  //Emote none Happy
+
+
+Response1:: Yes, I'm proudly native to Sun Haven! I was raised here by my grandparents.[]I would not have gained control over my magic as a child without Grandfather. Now I think about him whenever I cast a spell. In that way, I keep his memory alive.
+
+Response2:: Hm... I imagine I would go into teaching, like Jun. I could teach kids how to control magic like my grandfather did for me.[]Oh, then my pupils would call me master! Little firebugs, how adorable!
+
+
+Option1a:: Your grandfather left a good legacy behind. //Relationship Lucia4 2 Happy
+
+Option1b:: Do you ever think that you're holding onto the past too much? //Relationship Lucia4 -1
+
+Response1a:: That's sweet, XX. Thank you for listening. It may be childish, but I like to remember him out loud in stories.
+
+Response1b:: Either you're completely out of touch with your emotions or you've never lost anyone important. For your sake, I hope it's the latter.
+
+
+Option2a:: You'd be an excellent teacher. 
+
+Option2b:: Maybe you can do that when you're finished as Archmage.
+
+Response2a:: Thank you XX, I think so too. Oh, and then I could leave stamps on students' homework! Stamps with sayings such as, "YOU'RE ON FIRE!" and "HOT STUFF!"[]All right then, it's settled. I would be a teacher - if only for the fun stamps.
+
+Response2b:: In truth, I've no idea when that will be.[]I'm quite protective over this town, so I intend to retain my position until I find a replacement about whom I'm absolutely certain.
+
+
+End

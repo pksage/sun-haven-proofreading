@@ -1,0 +1,23 @@
+Kara Cycle 3
+
+Dialogue:: Pod asks about you all the time, you know. You're turning into a real role model for him.
+
+Option1:: What does Pod ask about?
+Option2:: Do you have a role model here in Sun Haven?
+
+Response1:: Mostly what you're doing or where you're going. He even asks when he'll be able to go help you on your farm. It's the cutest thing!
+Response2:: A role model? I'm not sure... if I had to choose, I suppose it would have to be Lucia. She's still young, but she's dedicated.
+
+Option1a:: I'd be happy to have Pod's help! //Relationship Kara3 2
+Option1b:: I don't need some kid running around my farm. //Relationship Kara3 -1
+
+Response1a:: Heh, he will be delighted to hear that![]Though on second thought, maybe not. I don't know how I feel about him using those tools...
+Response1b:: Goodness, XX. He's just a curious boy, you know. He won't actually bother you.
+
+Option2a:: Is it weird to call her a role model since she's so young?
+Option2b:: Lucia is a good choice.
+
+Response2a:: She may be younger than me, but her work ethic is inspiring. If she can take care of an entire town, there's no reason I can't take care of one little Pod.
+Response2b:: She may be younger than me, but her work ethic is inspiring. If she can take care of an entire town, there's no reason I can't take care of one little Pod.
+
+End

@@ -1,0 +1,23 @@
+Phoebe Cycle 1
+
+Dialogue:: Hello again. I'm glad there's someone in this town who knows my secret. Pretending to be one of the monsterfolk can get tiring.
+
+Option1:: Does anyone really believe you're not Human?
+Option2:: Why are you pretending you're not Human?
+
+Response1:: Most people don't bother looking under my big hat. I don't think I could have gotten this far without it.
+Response2:: Didn't I tell you that I'm undercover? I'm actually part of the Great City's governing board... or, I will be once I come back with the evidence that I need.
+
+Option1a:: Maybe nobody cares if you're Human? //Relationship Phoebe1 -1
+Option1b:: That's clever, using your short height to your advantage. //Relationship Phoebe1 2
+
+Response1a:: Are you kidding?? Have you seen the monsters here? They would gobble me up in an instant!
+Response1b:: Hey - I am not that short!![]But, er, thanks. Yes, it's a good plan. One that will surely pay off soon.
+
+Option2a:: What kind of evidence are you after?
+Option2b:: So you're just trying to get a promotion?
+
+Response2a:: I'm here to prove that the monsterfolk are planning to attack the Great City or any other Human town. If I can get that information, then I'm sure to get the promotion I've been after![]Say, you haven't heard anything about an attack, have you? I've been here for a while now and still haven't come up with any evidence...
+Response2b:: Not just any promotion, but a promotion to the top! I just need evidence that the monsterfolk are planning to attack the Great City or any other Human town.[]Say, you haven't heard anything like that, have you? I've been here for a while now and still haven't come up with any evidence...
+
+End

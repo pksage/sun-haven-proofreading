@@ -1,0 +1,33 @@
+Lynn Cycle 6
+
+Dialogue:: XX! I'm glad you're here, I could use a friendly face. I've been pretty stressed out...
+
+Option1:: Maybe a walk on the beach would relax you.
+
+Option2:: Why don't we meet up together? Sounds like we could both use it.
+
+
+Response1:: I've only been down there once. Maybe I should spend more time in nature. What do you think?
+
+Response2:: Oh! Wow, just... the two of us? That sounds nice! Let's do it.
+
+
+Option1a:: Nature helps to clear your head, sometimes.
+
+Option1b:: Nature won't help with your stress. Maybe you should talk to Jun.
+
+Response1a:: Well, it's certainly a better solution than no solution at all. Thanks XX, I'll give it a shot.
+
+Response1b:: Oh yeah, he's the counselor right? I don't know if I could do that, though. Just open up to a complete stranger... but maybe it wouldn't be so bad.
+
+
+Option2a:: Tomorrow, then? //Quest none LynnHangout1Quest
+
+Option2b:: On second thought, we better not. //Relationship Lynn6 -1 Embarrassed
+
+Response2a:: Yeah! I think I already know where we should go. Just meet me in front of my house tomorrow at 10:00 am!
+
+Response2b:: Now that you mention it, I suppose you're right.
+
+
+End

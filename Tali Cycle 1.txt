@@ -1,0 +1,23 @@
+Tali Cycle 1
+
+Dialogue:: Hey, it's the weirdo! I wondered if I'd see you again. Us weirdos gotta stick together, hehe.
+
+Option1:: Who are you, anyway?
+Option2:: Why do you keep calling me a weirdo?
+
+Response1:: Hop, hop! You can call me Tali. Because that's what my name is![]When I was a Human, I had lots of friends! But they're all scared of me now, so I left my home land. You could say I'm homeless, but Withergate is a home for everyone!
+Response2:: Aw, don't feel bad! Being a weirdo is a good thing. Just look at me, hehe. I'm a <i>hopping vampire</i>, it's like a vampire, but with hopping! Pretty weird, right?
+
+Option1a:: You definitely stand out around here. //Relationship Tali1 2
+Option1b:: You're not that different from everyone else here. //Relationship Tali1 -1
+
+Response1a:: Don't you mean <i>hop</i> out?! Hehe![]Withergate is nice, but someday I'll get bored and go somewhere else! Maybe we'll meet again in a distant land. That'd be neat, huh?
+Response1b:: Aw, but I want to be a weirdo, like you, weirdo! Hehe.
+
+Option2a:: But... you're not hopping.
+Option2b:: Why do you like hopping?
+
+Response2a:: Hehe, I only said I was a hopping vampire. I didn't say I actually hopped, you weirdo! Hop hop!
+Response2b:: Hehe, I only said I was a hopping vampire. I didn't say I actually hopped, you weirdo! Hop hop!
+
+End

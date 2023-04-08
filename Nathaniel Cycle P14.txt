@@ -1,0 +1,23 @@
+Nathaniel Cycle P14
+
+Dialogue:: I think I feel a blister on my foot. I'll have to address it as soon as I can, an infected blister is no good.
+
+Option1:: Who treats the soldiers when you're wounded?
+Option2:: If you could change something about Sun Haven, what would it be?
+
+Response1:: Oh, you mean like blisters on the foot? Heh. All of our medical aid is provided by the local hospital, Doctor Wornhardt does a great job with us.[]Thankfully we don't normally need much more than that, though we do have a few soldiers trained as medics. Field medics don't quite have the finesse of a doctor, though.
+Response2:: Hm, that's a pretty big question. Well, let's see...[]I love cozy little Sun Haven, but if there's one thing I miss from my time in the Great City, it's all the roads being stone![]Stone roads are harder than dirt, but much smoother. All these rough dirt roads give me blisters!
+
+Option1a:: I'm glad you all get taken care of. //Relationship NathanielP14 2 Happy
+Option1b:: Using the town doctor seems lazy on the military's end. //Relationship NathanielP14 -1
+
+Response1a:: Yeah, the military is very generous when it comes to our medical care. It's one of the best things about the army life, actually. I never have to worry about medical bills!
+Response1b:: I have no idea why you'd feel that way. Wornhardt is a great physician, and he's entirely local. It makes the most logistical sense for the military to send us his way.
+
+Option2a:: Sun Haven probably isn't big enough to justify paved streets. //Emote none Sad
+Option2b:: Lucia would never agree to budget out paved streets. //Emote none Sad
+
+Response2a:: Yeah, I've long since given up hope of anything like that. Ah well, blisters are just an occupational hazard.
+Response2b:: Yeah, I've long since given up hope of anything like that. Ah well, blisters are just an occupational hazard.
+
+End

@@ -1,0 +1,9 @@
+Kelsey Cycle 0
+
+Dialogue:: Hi hi! Come to see some great wares?
+
+Option1:: Hi there, what do you have?
+
+Response1:: I have many amazing things, yes yes! Prepared by the animals on my family's farm! Have a look, won't you?
+
+End

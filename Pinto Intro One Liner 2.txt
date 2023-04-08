@@ -1,0 +1,5 @@
+Pinto Intro One Liner 2
+
+Dialogue:: I'm trying to choose between crossbows and swords. I have terrible aim, but swords are so heavy...								
+
+End

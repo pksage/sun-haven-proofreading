@@ -1,0 +1,33 @@
+Calvin Cycle 2
+
+Dialogue:: Is it boring working on a farm? It must be more fun than standing in one spot all day.
+
+
+Option1:: You're the most bored person I've ever met.
+
+Option2:: Running a farm is a lot of work.
+
+
+Response1:: Oh yeah? That's kind of a compliment. Kind of.
+
+Response2:: I'm up for a challenge. What do you say, need a farmhand?
+
+
+Option1a:: I don't see how it's a compliment.
+
+Option1b:: You're a strange one, Calvin.
+
+Response1a:: Well I've never been the "most" anything before. At this point, I'll take what I can get.
+
+Response1b:: Strange times make strange people. Isn't that the saying?
+
+
+Option2a:: I'll let you know if I do. //Relationship Calvin2 1
+
+Option2b:: Definitely not. //Relationship Calvin2 -1
+
+Response2a:: Really? I was just joking, but if you offered me a job I might actually be tempted to take it.
+
+Response2b:: You could just say "no."
+
+End

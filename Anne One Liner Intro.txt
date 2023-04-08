@@ -1,0 +1,5 @@
+Anne One Liner Intro
+
+Dialogue:: Talk to me when you've planted those seeds and gathered some wood!
+
+End

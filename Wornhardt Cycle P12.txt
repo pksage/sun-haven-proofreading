@@ -1,0 +1,23 @@
+Wornhardt Cycle P12
+
+Dialogue:: Taking good care of your weapons, XX?
+
+Option1:: Asking about my weapons is a bit random for you, Wornhardt.
+Option2:: What about you? Do you take good care of your stuff?
+
+Response1:: Haha, it is, isn't it? But the best medicine is preventative. When you're out there putting yourself in harm's way, your first "medicine" is your armor and weapons.[]So keep them in good condition, and stay safe out there for me!
+Response2:: Fair question! To answer it, of course I do. I always make sure to have fresh scalpels and needles on hand! Only the sharpest, for best results.[]I never want to put in less than maximum effort in what I do. Anything less is selling the people I care about short.
+
+Option1a:: You've got it, doctor! //Relationship WornhardtP12 2 Happy
+Option1b:: I'll be fine, don't worry so much. //Relationship WornhardtP12 -1 Sad
+
+Response1a:: I try not to overstep when it comes to telling my patients how to live their lives, but I do want to make sure everyone is taking care of themselves.[]Thanks for understanding, XX!
+Response1b:: Please don't think I'm nagging you, XX. I'm just worried about your health and safety.
+
+Option2a:: You sure think two steps ahead. //Emote none Happy
+Option2b:: That does make a lot of sense. //Emote none Happy
+
+Response2a:: Hey, I tell Solon to never overdo it with his blacksmithing. I always remind Anne to lift her boxes and crates with the legs, not the back.[]The best way to cure an injury is to not have it in the first place!
+Response2b:: Hey, I tell Solon to never overdo it with his blacksmithing. I always remind Anne to lift her boxes and crates with the legs, not the back.[]The best way to cure an injury is to not have it in the first place!
+
+End

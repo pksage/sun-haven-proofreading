@@ -1,0 +1,33 @@
+Donovan Cycle 1
+
+Dialogue:: It's my new favorite person, XX![]Let's talk.
+
+Option1:: You seem to know this town well. What do you do for fun around here?
+
+Option2:: So you live here?
+
+
+Response1:: I hang around the carnival a lot. I wait for people to lose the games so I can step up and win right afterwards, heheh.[]Honestly, how hard is it to count jellybeans?
+
+Response2:: Sure, why wouldn't I? It's the city of darkness! What am I going to do, just pass up the chance to live in darkness forever? I don't think so.
+
+
+Option1a:: Carnival? //Emote none Happy
+
+Option1b:: That sounds kind of mean. //Emote none Happy
+
+Response1a:: Don't tell me you haven't been to the carnival yet! Man, you're in for a treat. The food is unhealthy and there are so many people that you can't escape the body odor! You'll love it.
+
+Response1b:: I promise, I'm only mean when it's funny.
+
+
+Option2a:: Only monsters live in darkness. //Relationship Donovan1 -1 Mad
+
+Option2b:: Maybe I should try living in the darkness for a while. //Relationship Donovan1 2 Happy
+
+Response2a:: Well... yeah. Look around, we're all monsters here. You might want to rethink your view on monsters. Or at least, shut up about it!
+
+Response2b:: Really, you? I would love to see that! You could show the Human town that not everything is scary in the dark.
+
+
+End

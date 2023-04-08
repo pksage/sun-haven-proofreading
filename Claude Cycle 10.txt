@@ -1,0 +1,33 @@
+Claude Cycle 10
+
+Dialogue:: Another day in Sun Haven... sometimes the days here seem indistinguishable. But some days are special.
+
+Option1:: Special? Is today a special day, Claude? //Emote none Embarrassed
+
+Option2:: Do you have any plans for the future, Claude?
+
+
+Response1:: I guess you could say that.[]I'm not used to sharing myself with people, but there's something nice about it. So I want to share something with you, XX. It's the key to my house.
+
+Response2:: Future? I can't think that far ahead. I'm trying to focus completely on the present. It's the only way I can make music.
+
+
+Option1a:: Are you sure? This seems important. //AddItem none Claude'sHouseKey 1
+
+Option1b:: I don't know what to say, Claude. //AddItem none Claude'sHouseKey 1
+
+Response1a:: Sure it is, the key to my house is like the key to my life. I want you to know that you're welcome in my life, XX. Here, take it. 
+
+Response1b:: Sure it is, the key to my house is like the key to my life. I want you to know that you're welcome in my life, XX. Here, take it.
+
+
+Option2a:: If you never think of the future, then how will you make progress? //Relationship Claude10 -1 Mad
+
+Option2b:: That's very fitting for you! //Relationship Claude10 2 Happy
+
+Response2a:: You obviously don't know what progress means to me. 
+
+Response2b:: It sounds like you mean that as a compliment, so thank you. 
+
+
+End

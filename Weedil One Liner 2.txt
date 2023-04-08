@@ -1,0 +1,5 @@
+Weedil One Liner 2
+
+Dialogue:: What's wrong? Haven't you been humilated enough? <i>(So embarassed!)</i>. Don't tell me you want </i>more</i>?!
+
+End

@@ -1,0 +1,9 @@
+Dew Cycle 0
+
+Dialogue:: Hello stranger! I love talking to strangers.
+
+Option1:: Er, my name is XX. You should be careful who you talk to.
+
+Response1:: Huh? Why? I don't get it.[]Well, my name is Dew!
+
+End

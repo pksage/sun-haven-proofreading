@@ -1,0 +1,34 @@
+Lynn Cycle 9
+
+Dialogue:: My favorite farmer! Are you feeling good today? I am!
+
+Option1:: You seem more cheery than usual. //Emote none Happy
+
+Option2:: You know, Lynn, I can't stop thinking about you...
+
+
+Response1:: I'm just excited. Excited because I have something special for you!
+
+Response2:: Really? I think about you a lot, too, XX... I think about you a lot.
+
+
+Option1a:: Don't keep me waiting - I can't handle the anticipation! //AddItem none Lynn'sShield 1
+
+Option1b:: Oh Lynn, you didn't have to do anything for me. //AddItem none Lynn'sShield 1
+
+
+Response1a:: Well, I wanted to make something for you but then I thought maybe you deserved something even more special. So, here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
+
+Response1b:: Well, I wanted to make something for you but then I thought maybe you deserved something even more special. So, here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
+
+
+Option2a:: I want you to know, I think we should just stay good friends. //Relationship Lynn9 -1
+
+Option2b:: Then let's go out together! //Quest none LynnHangout2Quest
+
+Response2a:: I see... That's fine, XX. I'm glad to be your friend!
+
+Response2b:: I would love that! Let's go to my house tonight. Maybe come by around 5:00 pm?
+
+
+End

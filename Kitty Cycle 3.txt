@@ -1,0 +1,33 @@
+Kitty Cycle 3
+
+Dialogue:: In my whole life here, I've never seen the town so very very quiet as this last year.
+
+Option1:: Are you worried about the rumors going around?
+
+Option2:: What was it like growing up here?
+
+
+Response1:: You're talking about Withergate, nya? A city of monsters sounds bad! But maybe they're nice monsters? I think it's scary not to know!
+
+Response2:: Sun Haven has always been fun for me to explore, nya. There's lots of trees to climb, you know. Perfect for a growing kitty, nya nya![]One time I got stuck and Nathaniel had to come save me, teehee!
+
+
+Option1a:: You don't need to be scared of rumors. //Emote none Embarrassed
+
+Option1b:: I'll protect you, Kitty! //Emote none Happy
+
+Response1a:: Maybe... but I can't help but be on guard.
+
+Response1b:: Nya!! Thank you, XX! You're such a brave friend!
+
+
+Option2a:: Sun Haven wouldn't be the same without you, Kitty. //Relationship Kitty3 2 Happy
+
+Option2b:: It sounds like you've been causing trouble your whole life. //Relationship Kitty3 -1 Sad
+
+Response2a:: Ah!! You're too nice, nya! You make Sun Haven even better than it was before, too.
+
+Response2b:: Trouble? Kitty? Nyaaan...
+
+
+End

@@ -1,0 +1,33 @@
+Xyla Cycle 16
+
+Dialogue:: There's my farmer! So how much of your farm belongs to me now that we're married?
+
+Option1:: Um... none of it?
+
+Option2:: Did you ever see this in your future?
+
+
+Response1:: What? Booo. I thought that married people had to share everything they own!
+
+Response2:: What, falling for the romantic wiles of the Human Town's only farmer? Of course XX, this was always the plan.
+
+
+Option1a:: You don't need a wedding to get what you want, Xyla. //Relationship Xyla16 2
+
+Option1b:: Then do I own half of all your stuff? //Relationship Xyla16 -1 Mad
+
+Response1a:: Hey, good point! I always was a "take now, avoid questions later" kind of person.
+
+Response1b:: Huh? No way![]I worked way too hard to get robbed by some bozo with a ring.
+
+
+Option2a:: Ha ha, your sarcasm is so funny. //Emote none Romantic
+
+Option2b:: Okay, I guess this is a bit of a surprise for us both.
+
+Response2a:: I think so, too! I'm glad we share this completely genuine, mutual appreciation for my humor.
+
+Response2b:: You mean you didn't plan on getting romantically involved with the Demon King Minos's right hand on the royal council? Or did you just not expect to fall in love with a Demon?[]Either way, don't act like I'm not the most exciting thing that's ever happened to you!
+
+
+End

@@ -1,0 +1,34 @@
+Darius Cycle 12
+
+Dialogue:: XX, you're looking strong. That's good. I don't want the citizens to think that I waste my time with weaklings.
+
+Option1:: I've noticed people around town talking about us.
+
+Option2:: You used to think of me as a weakling, you know.
+
+
+Response1:: I'm the prince, of course people will talk. Let them. What have they got to say?[]I know it's unfamiliar to you, but you belong to an exalted class now, XX. You're above the common folk. One of the elites.
+
+Response2:: That's true. Rarely, people can surprise you and rise above their position in society.[]However, you're one of a kind, XX. I don't expect to find another like you.
+
+
+Option1a:: I don't like thinking that way. I'm not better than other people. //Relationship Darius12 -1
+
+Option1b:: I'm finally where I belong - next to you. //Relationship Darius12 2 Happy
+
+Response1a:: But XX, you are. No matter. You will eventually learn to embody your privilege soon enough. 
+
+Response1b:: I can't wait to rule with you at my side. The legacy we create together will be unprecedented.
+
+
+Option2a:: I'm grateful that you can see my strength now. //Emote none Happy
+
+Option2b:: It's all because you gave me a chance. //Emote none Happy
+
+Response2a:: Thank goodness I had the patience not to lock you away immediately upon arrival. I really came close, you know!
+
+Response2b:: Thank goodness I had the patience not to lock you away upon arrival. I really came close, you know!
+
+
+End
+

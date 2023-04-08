@@ -1,0 +1,9 @@
+Felicity Cycle 0
+
+Dialogue:: Oh hey there! Have we met before? I'm Felicity! Who are you?
+
+Option1:: Hey there, Felicity. My name is XX.
+
+Response1:: Oh, are you the outsider from the Human town? I had some trouble when I first moved here, too, but I'm sure you're fitting in great!
+
+End

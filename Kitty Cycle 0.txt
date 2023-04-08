@@ -1,0 +1,9 @@
+Kitty Cycle 0
+
+Dialogue:: Hiiiii! I'm Kitty! You're that new farmer in town, aren't ya? Nya nya!
+
+Option1:: That's right, I'm the farmer. My name's XX. //Emote none Happy
+
+Response1:: XX, XX! So happy to meet you, nya. 
+
+End

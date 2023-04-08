@@ -1,0 +1,33 @@
+Donovan Cycle 2
+
+Dialogue:: Enjoying Withergate? There's always something to do here.
+
+Option1:: What do you do here in your down time?
+
+Option2:: So do you like this city a lot?
+
+
+Response1:: I talk to people, sniff around, look for something fun. I don't really like having down time, so I try to find something to do as soon as I can.
+
+Response2:: This place is a great home base when I need one. Lots of good food and new people to talk to. Yeah, it's a nice spot when you've got nowhere else to go.
+
+
+Option1a:: I agree, I hate wasting a day. //Relationship Donovan2 2 Happy
+
+Option1b:: I don't like being busy all the time. //Relationship Donovan2 -1
+
+Response1a:: Right? Some people just want to put their feet up, but my feet are restless. You and I are more alike than I thought, XX.
+
+Response1b:: I get it. Taking life slow can be nice, but it's not my style.
+
+
+Option2a:: There are rumors in Sun Haven that Withergate is a dangerous place.
+
+Option2b:: Have you lived here for a long time?
+
+Response2a:: Those Humans are so funny! Look around and tell me where the danger is. The hat shop? Oh I know, the pet shop! Aw, you're scared of hamsters, how cute.
+
+Response2b:: The Demons only opened the city up to monsterfolk maybe ten years ago. Even though Amari aren't really considered monsterfolk, you can bet I was one of the first ones here.[]Come on, a city of darkness? How could I resist!?
+
+
+End

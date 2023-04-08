@@ -1,0 +1,9 @@
+Harris Cycle 0
+
+Dialogue:: Howdy-dooie! See anything that excites your interests?
+
+Option1:: Hi... who are you?
+
+Response1:: Sorry, my face a little dirty? I just got back from workin' the field! I work all day gathering material, then I sell the fruits of my labor in towns like these.
+
+End

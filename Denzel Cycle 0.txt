@@ -1,0 +1,9 @@
+Denzel Cycle 0
+
+Dialogue:: Hello! My name is Denzel, and this is my immaculate fried food stand. Welcome!
+
+Option1:: Thanks Denzel, my name is XX.
+
+Response1:: XX! Are you ready to have the meal of a lifetime?? Hahaha!
+
+End

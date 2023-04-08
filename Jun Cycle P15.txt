@@ -1,0 +1,23 @@
+Jun Cycle P15
+
+Dialogue:: I'm trying to find a good book for the kids to read, but I've almost read everything the library has to offer.
+
+Option1:: Maybe you could make up your own stories. //Emote none Happy
+Option2:: What kind of books do you like to read personally? //Emote none Embarrassed
+
+Response1:: Heh, that's a creative idea! I'm afraid I'm not as creative as you, though. I've tried storytelling before, and I'm no good unless the story is written down.
+Response2:: This is a little embarrassing, but I'm a sucker for a good romance. Anything with a "happily ever after" does the trick for me.
+
+Option1a:: I bet you could become a great writer with practice! //Relationship JunP15 2 Embarrassed
+Option1b:: You don't have to tell me. //Relationship JunP15 -1 Sad
+
+Response1a:: Ah, thanks! I'm not so sure, but everything is worth a proper try, I suppose.
+Response1b:: Oh... I'm sorry, have I bored you with my stories in the past? Or... do you mean right now? Hm.
+
+Option2a:: Romance? I should have known! //Emote none Sad
+Option2b:: Romance? I don't see the appeal. //Emote none Sad
+
+Response2a:: Why, uh, do you say that? Actually you know what, don't answer that question.
+Response2b:: No, not even a little? That's too bad. I have one I thought was perfect for you, but I guess I'll just return it to the library.
+
+End

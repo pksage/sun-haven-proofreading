@@ -1,0 +1,9 @@
+Granny Cycle 0
+
+Dialogue:: Hello, dearheart. Who might you be? 
+
+Option1:: My name is XX, pleased to meet you.
+
+Response1:: Such proper manners, how lovely. Just call me Granny. Everyone else does!
+
+End

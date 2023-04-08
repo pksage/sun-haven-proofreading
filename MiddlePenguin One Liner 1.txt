@@ -1,0 +1,5 @@
+Middle Penguin One Liner 1
+
+Dialogue:: Nothing to see here, citizen.	
+
+End

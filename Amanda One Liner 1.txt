@@ -1,0 +1,5 @@
+Amanda One Liner 1
+
+Dialogue:: Are you here to find a book, or are you planning to chat all day?
+
+End

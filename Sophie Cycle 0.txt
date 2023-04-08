@@ -1,0 +1,9 @@
+Sophie Cycle 0
+
+Dialogue:: Oh, hello there. I'm Sophie, glad to make your acquaintance.
+
+Option1:: Hi Sophie, I'm XX.
+
+Response1:: Ooh, you're the farmer. That must be nice, growing crops for a living.
+
+End

@@ -1,0 +1,33 @@
+Heather Cycle 1
+
+Dialogue:: Hello! Looking for a pick-me-up?
+
+
+Option1:: Where do you get your food?
+
+Option2:: So is coffee your passion?
+
+
+Response1:: I actually managed to set up a daily order with the baker, Liam. He's a really talented artisan. And so close! It's quite convenient. 
+
+Response2:: I don't know if my passion is coffee, exactly... But! I do enjoy being hospitable and helping people start their days.[]It helps to start your day with a smiling face. I'm more than happy to provide the smile!
+
+
+Option1a:: I'm glad Liam is getting more business.
+
+Option1b:: You chose a good place to open shop!
+
+Response1a:: He should have plenty of business now that I'm here. I saw he has two little girls with him, too.[]Not that I was spying or anything! I'm not <i>that</i> nosy, heh. I just like to know where my money is going.
+
+Response1b:: The opportunity sort of fell into my lap, actually. I was just passing through on my way to the bigger cities farther west, but then I saw the café was available.[]And it was so cute! I just had to buy it up. I only hope my investment has a nice return... I hope you drink a lot of coffee! 
+
+
+Option2a:: It's important to start the day on a positive note. //Relationship Heather1 2
+
+Option2b:: You really think you're making that much of a difference? //Relationship Heather1 -1
+
+Response2a:: That's exactly what keeps me in hospitality work. Interacting with people and helping them in small ways is gratifying work. 
+
+Response2b:: As a matter of fact, I do. Anyone who thinks differently can politely hush up!
+
+End

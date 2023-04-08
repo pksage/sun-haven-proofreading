@@ -1,0 +1,23 @@
+Nivara Cycle 4
+
+Dialogue:: Stay awhile, XX, and listen.
+
+Option1:: What do you think of Sun Haven and Nel'Vari being friends?
+Option2:: Tell me about your relationship with Dynus.
+
+Response1:: Such a thing would be a wonderful development.[]Elios and I have agreed on this for a very long time. However, where he believes that the people of Sun Haven have been ready to meet Nel'Vari for a great while now, I have been less certain.[]I'm unsure if the Nel'Varians are fully prepared for the outside world. I have not not pushed to make a union occur the way that Elios has.
+Response2:: Dynus is very dear to me. He has his own way of looking at the world, and I try to understand his perspective. It is not easy, but I do not have it in myself to see him as a villain. Only... that he has yet to grow.[]He forged his own view of the world at a young age. Elios and I have much responsibility to bear for that.
+
+Option1a:: I think Elios is right. //Relationship Nivara4 2
+Option1b:: I think you're right, Nivara. //Relationship Nivara4 2
+
+Response1a:: He may be, little sprout. I am wise, but I am not all-knowing. Perhaps Elios is right, and I worry for nothing.
+Response1b:: I will never know if I am truly right or not. I let my best judgment guide me. Just as you and all other wise things do.
+
+Option2a:: You and Elios?
+Option2b:: Wait... you and Elios? But how?!
+
+Response2a:: The three of us were once young dragons. We were powerful even as hatchlings, and we grew much faster than normal dragons. So we assumed a leadership position over our draconic flock.[]...It is a very long story, XX. Dynus was the most impressionable and passionate between the three of us. Even if it's only in hindsight, Elios and I should have worked harder to temper Dynus. I consider it our failure.
+Response2b:: The three of us were once young dragons. We were powerful even as hatchlings, and we grew much faster than normal dragons. So we assumed a leadership position over our draconic flock.[]...It is a very long story, XX. Dynus was the most impressionable and passionate between the three of us. Even if it's only in hindsight, Elios and I should have worked harder to temper Dynus. I consider it our failure.
+
+End

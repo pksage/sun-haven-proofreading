@@ -1,0 +1,5 @@
+Clary One Liner 1
+
+Dialogue:: I've been taking care of these little fellas all year long! Now's the time to take them home with you! Come on, they're friendly!
+
+End

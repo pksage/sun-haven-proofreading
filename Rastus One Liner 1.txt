@@ -1,0 +1,4 @@
+Rastus One Liner 1
+
+Dialogue:: Curses! Curses again! Despite my expert performance in retrieving King Minos's lost little pet, I've been <i>demoted</i>  to carnival guard![]Grr! Guarding the carnival is <i>Linus</i>  work! I should be doing something more befitting my station. Captain of the Witherguard would be more like it!					
+End

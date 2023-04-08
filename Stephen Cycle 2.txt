@@ -1,0 +1,33 @@
+Stephen Cycle 2
+
+Dialogue:: You know what's crazy? You gave me a new lease on life, but I don't think we ever introduced ourselves! My name is Stephen. The... er, <i>retired</i>  poacher.
+
+
+Option1:: You can call me XX. I'm the farmer.
+
+Option2:: Do you ever think of working any other jobs?
+
+
+Response1:: You mean to tell me our Glorite operation got taken out by a farmer?[]...[]...Heheheh. That's life, isn't it?
+
+Response2:: Eh, I don't know. The only things I've been good at are stealing and helping out Mari n' Ronald. I try to stick with what I know I'm good at.
+
+
+Option1a:: I'm not JUST a farmer.
+
+Option1b:: I'm someone of many talents.
+
+Response1a:: After the things I've heard about you, I'm inclined not to argue!
+
+Response1b:: After the things I've heard about you, I'm inclined not to argue!
+
+
+Option2a:: Give something new a try sometime. //Relationship Stephen 1
+
+Option2b:: You lack motivation. //Relationship Stephen -1
+
+Response2a:: Well... I got a second chance at life, maybe that's a wake up call to, you know, 'find myself' or whatever you want to call it. Alright, I'll think about it! 
+
+Response2b:: I'm comfortable with where I am. If that's lacking motivation, then that's how it is.
+
+End

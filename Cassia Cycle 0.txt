@@ -1,0 +1,9 @@
+Cassia Cycle 0
+
+Dialogue:: Hello there. Enjoying the darkness?
+
+Option1:: Hey, I'm XX. Who are you?
+
+Response1:: Pleased to meet you, XX. I'm Cassia. I understand if you stare a bit. It's not every day that you see someone who is half-Naga, half-Demon.
+
+End

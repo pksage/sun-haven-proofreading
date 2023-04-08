@@ -1,0 +1,23 @@
+Jun Cycle P13
+
+Dialogue:: How are you today, XX?
+
+Option1:: How are <i>you</i> doing, Jun? //Emote none Embarrassed
+Option2:: I've been busy with... farmer things.
+
+Response1:: Oh, hah. Caught me off guard for a second. I'm so used to asking how everyone else is doing that I never stop to think about myself.[]I'm actually doing just fine, thank you for asking. I love asking others how they're doing, but it's good to be asked myself every once in awhile.
+Response2:: From what I can tell, "farmer things" seems to be all sorts of stuff! It's actually amazing, everything you seem to do.[]I like to think a little bit of your energy has rubbed off on everyone.
+
+Option1a:: Keep up the good spirits, Sun Haven relies on you! //Relationship JunP13 2 Happy
+Option1b:: This counselor stuff seems like a breeze. //Relationship JunP13 -1 Mad
+
+Response1a:: Don't I know it. It's a big task, but it's one I'm glad to take up. Positive reinforcement like yours makes it all the easier, though. So thanks for that, really.
+Response1b:: There's much more to being a counselor than just asking how someone is doing, XX.[]I appreciate you asking me how I'm doing, but please don't go off and try to give people counseling...
+
+Option2a:: I'm glad to help Sun Haven. //Emote none Happy
+Option2b:: I suppose I haven't noticed. //Emote none Happy
+
+Response2a:: I'm sure you are! It's good our town has so many dedicated people living in it. Maybe we aren't as big as the Great City, but we have a lot of heart.[]It's why I like to keep up to date on everyone and see how they're doing.
+Response2b:: Well, you're always pretty busy so there's nothing odd about that. It's my job to keep up with everyone on their day-to-day feelings, though.[]It's why I like to catch up with people and see how they're doing. 
+
+End

@@ -1,0 +1,4 @@
+Lucia One Liner Dating 1
+
+Dialogue:: You should know I'm never too busy to talk with you, XX.
+End

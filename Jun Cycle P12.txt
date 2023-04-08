@@ -1,0 +1,23 @@
+Jun Cycle P12
+
+Dialogue:: Sunny days are always nice, but I still appreciate a good gloomy day now and again.
+
+Option1:: Does Sun Haven get many gloomy days?
+Option2:: What do you like to do on a gloomy day?
+
+Response1:: Not usually. It's a bit out of our weather pattern, if you haven't realized that yet. I guess as a farmer, you would prefer it to be perfect farming weather, more often than not!
+Response2:: Well, it's a perfect excuse to relax at home. I like to lay back and maybe focus on mind games or a picture puzzle.[]If you try looking on the positive sides, then I believe you can find something good about almost any situation.
+
+Option1a:: Sun Haven does seem to have predictable weather. //Emote none Happy
+Option1b:: As long as the weather is fine for farming, I'm not bothered. //Emote none Happy
+
+Response1a:: That's a good thing, though, isn't it? No big surprises must make your farming much easier.
+Response1b:: Ah, if only everyone could be as laid back as you, XX. The world would be a better place.
+
+Option2a:: You must be good at always seeing positive sides. //Relationship JunP12 2 Happy
+Option2b:: No way, I hate days that are gloomy. //Relationship JunP12 -1 Sad
+
+Response2a:: It's a skill I've gotten very adept at, that's for sure. It all stems from not wanting to take any days for granted, no matter what they are.
+Response2b:: I see. Not shocking, I suppose, as most people would probably agree with you. Still, I feel like you're missing out by not seeing the good in every day.
+
+End

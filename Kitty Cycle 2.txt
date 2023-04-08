@@ -1,0 +1,33 @@
+Kitty Cycle 2
+
+Dialogue:: Hiiiii XX. Are you happy you moved to Sun Haven yet, nya?
+
+Option1:: Have you always lived in Sun Haven?
+
+Option2:: What's your favorite place in Sun Haven?
+
+
+Response1:: Almost my whole whole life, I have. It's my favorite place for sure!
+
+Response2:: I like all the birdies that stop by the bird bath outside of Catherine's house. But she asks me to leave them alone, nyan. I just can't help but swat at them, teehee.
+
+
+Option1a:: Could you see yourself living anywhere else?
+
+Option1b:: It seems like a lot of travelers end up staying in Sun Haven.
+
+Response1a:: Maaaaybe the Great City, nya. But I've never seen the Great City before. It would be a Kitty adventure!
+
+Response1b:: Sure sure, they know I'm here! Teehee, just kidding.
+
+
+Option2a:: You shouldn't attack the poor birds. //Relationship Kitty2 -1 Sad
+
+Option2b:: I bet you could catch them easily! //Relationship Kitty2 2 Happy
+
+Response2a:: I can't help it, they're so flappy! Besides, I'm not <i>really</i> attacking, just playing.
+
+Response2b:: Oh yes, nya! But don't worry, I don't hurt the little cuties! 
+
+
+End

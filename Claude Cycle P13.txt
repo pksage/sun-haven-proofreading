@@ -1,0 +1,23 @@
+Claude Cycle P13
+
+Dialogue:: Hey there, XX. How are the, ehm, seeds growing?
+
+Option1:: What makes you ask about my seeds? //Emote none Embarrassed
+Option2:: You should start your own garden!
+
+Response1:: Heh, it was a bad attempt at small talk, I know. We've been talking so much recently, though. I wanted to try asking you something related to farming.[]...But I suddenly realize I know nothing about it, really. I feel guilty, you've talked to me so much about my music. 
+Response2:: I don't think I could do anything like that. What would I even grow? Flowers? Potatoes?
+
+Option1a:: I appreciate the effort. //Relationship ClaudeP13 2 Happy
+Option1b:: Yeah, maybe stick to your music from now on. //Relationship ClaudeP13 -1 Sad
+
+Response1a:: I've never been the best at making friends, XX. I want to try and change that, though. So thanks for giving me some credit. 
+Response1b:: That seems unusually blunt for you, XX. If that's how you feel, then forget it. 
+
+Option2a:: I could show you the ropes sometime. //Emote none Happy
+Option2b:: Maybe gardening isn't for everyone.
+
+Response2a:: An... interesting proposal, but I don't know about that. I like to stick with what I'm comfortable with, but the offer is appreciated. 
+Response2b:: This is true. I was never cut out to be a farmer, if that wasn't incredibly obvious.
+
+End

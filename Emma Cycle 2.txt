@@ -1,0 +1,33 @@
+Emma Cycle 2
+
+Dialogue:: Yesterday I found a really long bug behind the house! I showed it to Liam but he ran away. That's when I learned not everyone likes bugs.
+
+
+Option1:: You like bugs?
+
+Option2:: Did Liam really run away?
+
+
+Response1:: I think they're weird. So, yes! You like bugs too, right?
+
+Response2:: My brother doesn't like bugs like me. One time he found little beetles in the flour and screamed!
+
+
+Option1a:: Bugs are gross!
+
+Option1b:: Bugs are cool!
+
+Response1a:: Aww, you don't like them? Maybe you just haven't found the right bug. //Relationship Emma2 -1
+
+Response1b:: You like them too?? Oh, I heard there's some real big bugs in the forest! //Relationship Emma2 2
+
+
+Option2a:: You must be brave to play with bugs. 
+
+Option2b:: Be sure to wash your hands - bugs are dirty!
+
+Response2a:: I don't know. It's fun to me, not scary.
+
+Response2b:: That's what Liam always says. I'm really good about washing hands now.
+
+End

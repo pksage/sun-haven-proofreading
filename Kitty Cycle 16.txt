@@ -1,0 +1,23 @@
+Kitty Cycle 16
+
+Dialogue:: Hey XX, do you know what I am? I'm the happiest Kitty alive!
+
+Option1:: What has you so happy? //Emote none Happy
+Option2:: Is this really the happiest you've ever been?
+
+Response1:: Don't act like you don't know! You're just teasing Kitty, nya!
+Response2:: Hm, I think so. The only other time I can think of is when I was in the circus. Kitty slipped off her rope and fell very very far to the ground, nyan.[]I thought everyone would be disappointed, but they all cheered for me when I landed on my feet!
+
+Option1a:: I'm only joking, Kitty!  //Emote none Romantic
+Option1b:: You think it's fun, too!  //Emote none Romantic
+
+Response1a:: Teehee, I know that! XX is very silly, but very fun too. It's why I love you!
+Response1b:: Teehee, I know that! XX is very silly, but very fun too. It's why I love you!
+
+Option2a:: A mistake is nothing to be happy about. //Relationship Kitty16 -1
+Option2b:: That's amazing, Kitty! //Relationship Kitty16 2 Happy
+
+Response2a:: Mm, I disagree! Turning a mistake into a happy moment is a great thing, nya! Maybe you just don't understand?
+Response2b:: Because Kitty wasn't hurt? It's normal for me! I fall all the time and haven't been hurt not once, nya!
+
+End

@@ -1,0 +1,33 @@
+Wornhardt Cycle 4
+
+Dialogue:: It's great to see you, XX... Whoa, you're staring pretty hard. Is something wrong?
+
+Option1:: I've been waiting a while to say this, but... you have some really great hair!
+
+Option2:: Sorry, I didn't mean to stare.
+
+
+Response1:: Oh! Hah, thank you. It actually grew out before I moved here, when I wasn't taking very good care of myself. But then I decided to keep it!
+
+Response2:: No harm done, XX. I know I can look a bit run down at times. That's to be expected after twelve years of medical work.
+
+
+Option1a:: It definitely suits you.  //Emote none Happy
+
+Option1b:: It looks like you're taking better care of yourself now.  //Emote none Happy
+
+Response1a:: I'm glad you think so. It's always nice getting unexpected compliments.
+
+Response1b:: Thanks! I must be having a really good hair day, haha!
+
+
+Option2a:: Actually, I was going to say that you look pretty good! //Relationship Wornhardt4 2 Romantic
+
+Option2b:: It's nothing a good night's sleep can't fix. //Relationship Wornhardt4 -1 Sad
+
+Response2a:: Oh? Heh, you're a real charmer, XX! I hope we get to spend a lot of time together.
+
+Response2b:: Oh? Hm. I wasn't really looking for that kind of advice, but thank you anyway.
+
+
+End

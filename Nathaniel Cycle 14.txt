@@ -1,0 +1,33 @@
+Nathaniel Cycle 14
+
+Dialogue:: Ever since we started dating, the soldiers have been whispering and giving me funny looks. I don't get it!
+
+Option1:: They must be curious about us.
+
+Option2:: Are you worried this will affect your authority with them?
+
+
+Response1:: Lester and Allison, maybe. But Calvin? I can't imagine he cares one bit.
+
+Response2:: Oh, no. If anything, they will make some jokes behind my back and forget about it. I've been their captain too long for them to see me as anything else.
+
+
+Option1a:: Be honest - do you like the attention?
+
+Option1b:: Does it bother you that they talk about us?
+
+Response1a:: I've never cared to be the center of attention, not unless I'm addressing my soldiers. But I guess there's something kind of fun about it!
+
+Response1b:: I've never cared to be the center of attention, not unless I'm addressing my soldiers. But I guess there's something kind of fun about it!
+
+
+Option2a:: The way you maintain your authority is always impressive. //Relationship Nathaniel14 2 Happy
+ 
+Option2b:: I wouldn't be so sure. //Relationship Nathaniel14 -1 Mad
+
+Response2a:: Heh, you think so? Well thanks, XX.[]Somehow you always find a way to boost me up, even when I don't think I need it.
+
+Response2b:: You don't know them like I do, XX.
+
+
+End

@@ -1,0 +1,33 @@
+Claude Cycle 14
+
+Dialogue:: Maybe one day we'll get out of Sun Haven. What do you think, XX?
+
+Option1:: One step at a time, Claude.
+
+Option2:: I'm curious, where would you live if you weren't in Sun Haven?
+
+
+Response1:: You're right, I'm sorry. I haven't ever felt such excitement for the future. It's difficult not to indulge in fantasy.
+
+Response2:: If I had my choice, probably somewhere in the Northern Region. I hear the cold is unforgiving. There must be a song somewhere in all that cold.
+
+
+Option1a:: I would never leave Sun Haven with you. This is my home. //Relationship Claude14 -1
+
+Option1b:: It doesn't matter where, Claude, as long as we're together. //Relationship Claude14 2 Happy
+
+Response1a:: I see. I guess Sun Haven really grew on you. If I have to stay here longer, at least it's with you.
+
+Response1b:: Everything you say to me is soothing to my mind. Right when my thoughts start racing, you come in and slow everything down. It's a really good thing for me, XX.
+
+
+Option2a:: That's not what I expected at all.
+
+Option2b:: That makes sense for you.
+
+Response2a:: Well, the south is nothing but tourist trap islands. East and west are just more of the same. The north is the only place that offers anything different.
+
+Response2b:: Well, the south is nothing but tourist trap islands. East and west are just more of the same. The north is the only place that offers anything different.
+
+
+End

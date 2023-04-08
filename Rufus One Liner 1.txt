@@ -1,0 +1,5 @@
+Rufus One Liner 1
+
+Dialogue:: I went for a hike in the haunted woods the other day. I found some weird looking stone, so I picked it up...[]Ever since then, I've been having this crazy dream! Some shadowy figure guy mutters some crap about something called an <i>O'aj'loza</i>. Over and over again. It's enough to drive a Demon absolutely MAD! Wahahahah!!!!
+
+End

@@ -1,0 +1,33 @@
+Lynn Cycle 18
+
+Dialogue:: I got a letter the other day from my mother. She can't believe I married someone as incredible as you!
+
+Option1:: What's so hard to believe about you marrying me?
+
+Option2:: How's everyone doing back home, anyways?
+
+
+Response1:: Well, I never told you this, but when we first started getting a little serious, I wrote to my mother about you. At first she didn't seem to approve of you.[]...But after hearing more about all the incredible things you've done, she really came around. I'd love it so much if you could meet one day in person.
+
+Response2:: Oh, everyone is getting by just well! They all say they miss me, but it's okay. They're never too far away, after all.
+
+
+Option1a:: I'm glad I got her seal of approval. //Relationship Lynn18 2 Happy
+
+Option1b:: Your mother seems really judgy. //Relationship Lynn18 -1
+
+Response1a:: She can be a bit old fashioned, but she always means well. She knows farming is dutiful and important, but she always envisioned me with someone "worthy."[]I guess you're more than worthy for her taste, XX!
+
+Response1b:: She can be... really old fashioned, yeah. But she means well. I hope you don't think she's too judgmental or anything.
+
+
+Option2a:: How long does it take to get back to your home village? 
+
+Option2b:: You should visit them all.
+
+Response2a:: Well, it's about two days by train, but that's only because it takes a day to travel from East Station to the Mountain Station.[]The two train stations aren't connected by rails yet, but someday they will be. Then going right from Sun Haven to my village will be a single train ride![]We'll be able to visit all the time, and my mother will finally see why you're the one I married, no matter what she thinks!
+
+Response2b:: That's a wonderful idea, but I could never visit them without bringing you! We're both a bit busy for that right now, though.[]It's just two days of travel by train, but the railroad ends at the Eastern Station, so you have to travel on foot to the Montain Station to continue on to my village.[]Someday, though, the railroads will be connected, and it'll be a straight shot from Sun Haven to my village![]We'll be able to visit all the time, and my mother will finally see why you're the one I married, no matter what she thinks!
+
+
+End

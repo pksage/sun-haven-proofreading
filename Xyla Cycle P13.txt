@@ -1,0 +1,23 @@
+Xyla Cycle P13
+
+Dialogue:: I'd love to organize a Withergate chess tournament, but something else always seems to get in the way.  
+
+Option1:: You want to organize a chess tournament?
+Option2:: What's stopping you from organizing a chess tournament? //Emote none Mad
+
+Response1:: Of course. You remember I'm something of a monster at chess, don't you? I'd love to put my skills on display in a grand city-wide tournament, to show everyone who's boss.
+Response2:: Where do I begin! I'm backlogged out for the next two-hundred and eighty years.[]Mostly on urban expansion, though Darius constantly mentions wanting to add another seven wings onto Withergate Castle.
+
+Option1a:: A chess tournament would be great for Withergate. //Relationship XylaP13 2 Happy
+Option1b:: No one in Withergate would bother with a chess tournament. //Relationship XylaP13 -1 Mad
+
+Response1a:: Glad you agree, XX. I love all the other attractions Withergate has to offer, but I feel the city has always lacked something to really challenge the mind.[]I'll make it happen, one of these days.
+Response1b:: Look at you, speaking so frank. Hey, guess what? I'm the one with all the public statistics and data! Remember that no one wants to hear your uninformed thoughts.[]Especially me.
+
+Option2a:: Darius wants seven wings added to the castle?
+Option2b:: Can't you just work harder? //Relationship XylaP13 -1 Mad
+
+Response2a:: He has this big, dramatic vision of seven spires topping the castle. It's so grand and ridiculous, so naturally I absolutely love the idea.[]But it'll add another thirty years of work, at least. Curse Darius and his impeccable taste in excessive architecture!
+Response2b:: Gee, wow. Never thought about "just work harder", brilliant thinking, XX. I'm making fun of your stupid idea, of course.
+
+End

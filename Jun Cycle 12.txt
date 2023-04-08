@@ -1,0 +1,33 @@
+Jun Cycle 12
+
+Dialogue:: XX, have you ever tried painting? I'll teach you how sometime!
+
+Option1:: You're so talented, Jun. I'm jealous!
+
+Option2:: You're always teaching. Do you ever get tired of teaching the kids?
+
+
+Response1:: It's no big deal, I just find things that relax my mind and practice them. It's the same with meditation.[]Do you have a hobby like that, something that relaxes you?
+
+Response2:: I'll never get tired of it, especially with the children. Helping them learn how to problem-solve and follow their curiosity makes my days feel meaningful.[]One day I'll be teaching my own kids and watching them grow, and that will be even more meaningful.
+
+
+Option1a:: For me, it's farming. //Emote none Embarrassed
+
+Option1b:: You relax me more than anything, Jun. //Emote none Embarrassed
+
+Response1a:: Of course, I should have guessed that one.
+
+Response1b:: Ah, XX! You're too good at making me blush!
+
+
+Option2a:: Aw Jun, you're going to be the best dad one day! //Relationship Jun12 2 Happy
+
+Option2b:: I don't know how you can stand being around kids that much. //Relationship Jun12 -1 Sad
+
+Response2a:: Thank you, XX. That means a lot, especially coming from you.
+
+Response2b:: I didn't know you had so much trouble with children, XX. That could be a problem one day.
+
+
+End

@@ -1,0 +1,33 @@
+Honey Cycle 1
+
+Dialogue:: In a way, Withergate reminds me of the coral reefs in the ocean. So many different people in such a small area!
+
+
+Option1:: Aren't you a Mermaid?
+
+Option2:: Why aren't you in the ocean right now?
+
+
+Response1:: What gave it away?[]I'm joking! Hehe, I must be the first Mermaid you've ever met. I'm not surprised - we're a very private type of people.
+
+Response2:: Hehe, I guess you would be curious about that. I ended up here by accident, actually.[]I got swept up in an unexpected current and it carried me to this river right here. When I saw where I was - a big city with glittering lights and new people to meet - how could I leave?
+
+
+Option1a:: So not all mermaids are as friendly as you? //Relationship Honey1 2
+
+Option1b:: With tails like that, it's no wonder your people stay in the ocean. //Relationship Honey1 -1
+
+Response1a:: Aw, thanks! I suppose I do stand out from the rest of the Mermaids. I've always been interested in strangers, but most Mermaids hide from strangers to protect our people.
+
+Response1b:: Not all of us do. Some Mermaids go on great adventures! I'm evidence of that, aren't I?
+
+
+Option2a:: So you're just staying here, then?
+
+Option2b:: Don't you miss your home?
+
+Response2a:: Well I'm sure I'll go home sometime, but for now I want to enjoy the city. It's good to have some new experiences, you know?[]Plus, there's a prize at the carnival that I've been trying to win for weeks now!
+
+Response2b:: I'm sure my home will still be there when I get back. Our reefs are protected by powerful Elementals. Oh, I wonder if they've been looking for me...
+
+End

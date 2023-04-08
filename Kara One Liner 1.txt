@@ -1,0 +1,5 @@
+Kara One Liner 1
+
+Dialogue:: Have you seen my boy today? Oh nevermind, it's impossible to keep an eye on him.								
+
+End

@@ -1,0 +1,33 @@
+Donovan Cycle 11
+
+Dialogue:: There's my little farmer! I don't know why, but it's adorable to me that you're a farmer.
+
+Option1:: Not everyone can live as freely as you do.
+
+Option2:: My job feeds a lot of people, you know.
+
+
+Response1:: Sure they can, it's easy. All I do is take jobs as they come. What's hard about that? People need help with stuff all the time.
+
+Response2:: I know, you're a total provider! I'm not making fun of you or anything. I just think it's cute.
+
+
+Option1a:: I don't think it's smart to live without steady work. //Relationship Donovan11 -1 Sad
+
+Option1b:: People would be happier if they lived like you. //Relationship Donovan11 2 Happy
+
+Response1a:: Maybe there's better things in life than being smart. Dating me sure isn't smart, but here you are!
+
+Response1b:: I've been saying that for years! Everyone could stand to loosen up a bit.
+
+
+Option2a:: I can't tell if you're making fun of me. //Emote none Embarrassed
+
+Option2b:: I guess I'll take that as a compliment? //Emote none Embarrassed
+
+Response2a:: Ah, shoot. I don't mean to be a jerk. I just see you making your living and compare it to my life. I guess it's funny how different people's lives are... well, different.
+
+Response2b:: Ah, shoot. I don't mean to be a jerk. I just see you making your living and compare it to my life. I guess it's funny how different people's lives are... well, different.
+
+
+End

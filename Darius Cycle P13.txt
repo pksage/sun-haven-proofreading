@@ -1,0 +1,23 @@
+Darius Cycle P13
+
+Dialogue:: My blade has grown ever so dull. I suppose it <i>has</i> been fifty years since I had it sharpened.
+
+Option1:: Your sword sure does make you look imposing.
+Option2:: It's been fifty years since you sharpened your sword?
+
+Response1:: You really think so, hm? Of course you do. I am Darius, prince of Withergate! Son of Minos! Might is my right, and my choice in arms reflects that.
+Response2:: This blade is more powerful than most any other. I've cut down foes in full Mithril as if they were wheat to a scythe.[]It rarely needs service, despite how often I might use it.[]It isn't just a weapon, however. It is a symbol of my family's raw strength. What I hold here is my family's legacy.
+
+Option1a:: Isn't it heavy?
+Option1b:: I'd like to give it a swing sometime.
+
+Response1a:: For lesser beings, maybe. For me, commanding this blade is second nature.
+Response1b:: You have bold desires, XX. But this blade belongs solely to me. Besides, I doubt you could even lift it from the ground, let alone swing it.[]This is a blade meant for a wielder who is of, shall we say... a higher caliber.
+
+Option2a:: I suppose such a powerful blade suits you. //Relationship DariusP13 2 Happy
+Option2b:: You'd better take care of it quickly. //Relationship DariusP13 -1 Mad
+
+Response2a:: You are right, XX. I have to keep myself in perfect condition, especially my weaponry. My reputation must always precede me, after all.[]I'll have Xyla deal with it. 
+Response2b:: Watch how you speak, XX. We are friends, but I am still the prince. You don't give the commands, <i>I do</i>.
+
+End

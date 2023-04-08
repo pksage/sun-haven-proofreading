@@ -1,0 +1,5 @@
+Jun One Liner Fall 3
+
+Dialogue:: A bowl of chicken noodle soup would be perfect on a day like this.
+
+End

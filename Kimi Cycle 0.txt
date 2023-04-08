@@ -1,0 +1,9 @@
+Kimi Cycle 0
+
+Dialogue:: Hello, hello! I have plenty of handmade Elven clothing for sale. Or, are you not a customer?
+
+Option1:: I'm just saying hi. My name is XX, it's great to meet you!
+
+Response1:: Oh, sorry about that! I've been told I can be a bit too pushy with my sales.[]My name is Kimi, and it's wonderful to meet you.
+
+End

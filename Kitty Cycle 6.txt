@@ -1,0 +1,34 @@
+Kitty Cycle 6
+
+Dialogue:: XX! Are you happy to see me? I'm happy to see you, of course!
+
+
+Option1:: Kitty, I have a special question for you. Do you want to go on a date? //Emote none Embarrassed
+
+Option2:: Are you okay? You look anxious. //AddItem none Kitty'sCatToy 1
+
+
+Response1:: A date? With XX, and Kitty? For real, nya?
+
+Response2:: Kitty's excited! I have a surprise for you, XX. A gift from me!
+
+
+Option1a:: Yes, for real! //Quest none KittyHangout1Quest
+
+Option1b:: Actually Kitty, I think it's a mistake. //Relationship Kitty6 -1 Sad
+
+Response1a:: OH MY GOSH! Yes XX, nyaaa! You can meet me in front of my house in the morning at 10:00 am for our first date!
+
+Response1b:: Oh no, is it my fault? Whatever it was, I didn't mean it...
+ 
+
+Option2a:: You got me something?
+
+Option2b:: Thanks Kitty! What is it?
+
+Response2a:: I made it myself! It's a toy to keep you from getting bored, nya. It's my favorite one, and it's for you because you're my favorite friend! Here, take it take it!
+
+Response2b:: I made it myself! It's a toy to keep you from getting bored, nya. It's my favorite one, and it's for you because you're my favorite friend! Here, take it take it!
+
+
+End

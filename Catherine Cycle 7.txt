@@ -1,0 +1,33 @@
+Catherine Cycle 7
+
+Dialogue:: Sorry if I seem a little off. My aura is pinker than usual today.
+
+Option1:: Are you seeing anybody?
+
+Option2:: Catherine... I was hoping to ask you on a date. //Emote none Romantic
+
+
+Response1:: Oh no, nothing romantic like that. I have plenty of friends, but just friends. I haven't had many romances in town, actually.
+
+Response2:: You were hoping to? Well... I hope you do too! Now would be a good time, if you're going to ask.
+
+
+Option1a:: That's surprising to hear... //Relationship Catherine7 2 Romantic
+
+Option1b:: Well that's unsurprising. //Relationship Catherine7 -1 Mad
+
+Response1a:: Oh, surprising huh? XX, it almost sounds like you were hoping for that answer!
+
+Response1b:: Oh, I didn't realize I was so undesirable to you. Good to know, XX.
+
+
+Option2a:: Actually, I better not.
+
+Option2b:: Let's go on a date together! //Quest none CatherineHangout1Quest
+
+Response2a:: Oh, no? Well, all right XX. I'm just as happy to be your friend.
+
+Response2b:: Oh my, what a surprise! Hehe, of course I'll go out with you XX! Meet me in front of my house tomorrow at 5:00 pm.
+
+
+End

@@ -1,0 +1,33 @@
+Vaan Cycle 12
+
+Dialogue:: XX, I think you've gotten stronger since we first met. I wonder, is that the farming? Or have you been going on adventures without me?
+
+Option1:: You go on adventures without me, right?
+
+Option2:: I can't help it if I'm getting stronger. //Emote none Embarrassed
+
+
+Response1:: Oh, yes. I didn't mean to sound like I was accusing you or anything. It's important to spend time apart, too.
+
+Response2:: Of course not. I actually think it looks quite good on you. I'm happy to see you taking good care of yourself, that's all.
+
+
+Option1a:: Do you wish we spent more time together?
+
+Option1b:: Do you think we spend too much time together?
+
+Response1a:: I'm not worried about us, XX. It's good to have some space. Something Nivara once told me is, "the tallest trees of the forest grow not in each other's shadow."
+
+Response1b:: I'm not worried about us, XX. It's good to have some space. Something Nivara once told me is, "the tallest trees of the forest grow not in each other's shadow."
+
+
+Option2a:: Oh Vaan - still admiring me from afar after all this time? //Relationship Vaan12 2 Happy
+
+Option2b:: Will you ever stop watching me from a distance? //Relationship Vaan12 -1 Sad
+
+Response2a:: I can't help it if I'm enamored by you still. You won my heart at first sight, and every time after that.
+
+Response2b:: Ah! When you point it out like that, it makes it sound bad!
+
+
+End

@@ -1,0 +1,9 @@
+Reed Cycle 0
+
+Dialogue:: Excuse me, I don't mean to be rude, but you're blocking my sun.
+
+Option1:: Oh, I apologize. I'm XX.
+
+Response1:: Hello, XX. I'm Reed. No need to apologize, just be mindful. I need plenty of sunlight each day.
+
+End

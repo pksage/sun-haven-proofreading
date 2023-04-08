@@ -1,0 +1,23 @@
+Darius Cycle 15
+
+Dialogue:: Hm? XX, you look perplexed. If someone has wronged you, I will have the guards on them in moments! 
+
+Option1:: It's nothing like that. I'm just thinking about our future. //Emote none Happy 
+Option2:: Are you happy with our relationship? //Emote none Happy
+
+Response1:: Ah, our future. I cannot wait, XX! The city will be ours to share. With your charm and my ferocity, certainly we will go down in history as great leaders. 
+Response2:: XX, you little fool. I am quite happy with you. In fact, one day I will be Withergate's king and I want you beside me on the throne. 
+
+Option1a:: You really think I'll be a good leader? //Emote none Romantic
+Option1b:: As long as we're together, then I don't care where we are.
+
+Response1a:: You're already a leader, XX. I can see it in you. If you can't see it then you're not looking with your eyes, because it is clear as the moon to me. 
+Response1b:: A silly thing to say, don't you think? Surely we would never forsake our power and responsibility to Withergate.[]We can stay together right here, XX.
+
+Option2a:: There's only one way to make that happen. //Relationship Darius15 2 Romantic
+Option2b:: Is that what's best for us? //Relationship Darius15 -1 Sad
+
+Response2a:: Indeed, now you're catching on! Heheh, I mean that I am ready for you whenever you're ready for me. And don't worry about the ring - any kind will do, so long as it's from you. 
+Response2b:: Of course it is. Do you doubt my word, XX? Or perhaps, you don't feel the way I do. 
+
+End

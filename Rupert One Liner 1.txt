@@ -1,0 +1,5 @@
+Rupert One Liner 1
+
+Dialogue:: Eh? You say you're an angler? You don't look like any angler I've seen before.						
+
+End

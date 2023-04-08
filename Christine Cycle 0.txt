@@ -1,0 +1,9 @@
+Christine Cycle 0
+
+Dialogue:: Hey there! Nice to see a new face in town. Call me Christine.
+
+Option1:: My name's XX!
+
+Response1:: What a fun name! Well I hope you're looking for seeds, XX. I've got plenty!
+
+End

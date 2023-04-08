@@ -1,0 +1,23 @@
+Iris Cycle 18
+
+Dialogue:: The Elven Elder told me they approved of our union. You may not quite grasp the significance of that, but it's really amazing!
+
+Option1:: What's the significance of the approval?
+Option2:: Haven't you met anyone outside of Nel'Vari before?
+
+Response1:: It means you're fully recognized as part of Nel'Vari. I didn't need the approval of the Elder to marry you, but it does mean you're an honorary member of Nel'Vari.[]Isn't that wonderful?
+Response2:: Only a few people, travelers in the forest. Nobody that caught my eye.[]I guess I could get myself out more. Outside of Nel'Vari, I mean.
+
+Option1a:: I'm glad to be accepted as part of Nel'Vari. //Relationship Iris18 2 Happy
+Option1b:: I don't need an Elven Elder to tell me what I am. //Relationship Iris18 -1
+
+Response1a:: Aw, I knew it would happen eventually. You've spent so much time there, and of course marrying me. There was no way you wouldn't be recognized by the Elder. 
+Response1b:: Calm down, XX. It's just an old traditional thing. No one is trying to control you.
+
+Option2a:: I'll show you Sun Haven one day!
+Option2b:: It's not worth it. The forests are too dangerous.
+
+Response2a:: Really? The Human town, huh? I could learn a lot by walking around your town!
+Response2b:: I can very well handle myself, XX. I could even teach you a thing or two.
+
+End

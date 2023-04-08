@@ -1,0 +1,54 @@
+Vending Machine Game 3
+
+Dialogue:: <i>You press one of the buttons, but the machine registers a different input!</i>
+
+
+Option:: Tickle the machine.
+
+Option:: Randomly press buttons. //RIGHTANSWER
+
+Option:: //HEALTH2 Kick the machine.
+
+
+Response:: <i>Tickle tickle tickle! You tickle the machine with your best tickling techniques. The machine, a cold and unfeeling inanimate object, does not respond.</i>
+
+Response:: <i>Losing your patience, you press every single button on the machine in random order. Finally, the machine yields and registers your initial input.</i>
+
+Response:: <i>You fall silent. Closing your eyes, you let inner-tranquility wash over you. You are a still leaf in a raging pond...</i>[]<i>You summon strength, deep from within...</i>[]<i>You channel all of that strength... directly to your leg...</i>[]<i>...And let loose with an earth-shattering, sky-splitting kick that no man or beast could deny!!!</i>[]<i>...Ow! Your foot hurts, and the machine seems utterly unphased.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine vanishes into thin air!</i>
+
+
+Option:: Tell the machine a funny story.
+
+Option:: Jump on top of the machine.
+
+Option:: Find it with feel. //RIGHTANSWER
+
+
+Response:: <i>You begin to recount to the invisible machine a tale all about the time you mistook Lucia for a red-tailed horse. Several onlookers stare at you with concern and worry.</i>
+
+Response:: <i>You attempt to jump on top of the machine... but owing to the fact that it's invisible, you miss your footing and fall into a puddle. How unpleasent.</i>
+
+Response:: <i>The machine may be invisible to the naked eye, but you can still use your hands to feel around for it... a button here, a knob there... yeah, this'll work.</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine relequinishes the potion, and instead of falling down where you can grab it, the potion floats inside the machine!</i>
+
+
+Option:: //HEALTH2 Shake the machine. //RIGHTANSWER
+
+Option:: Do your best Emmett impression.
+
+Option:: Press every button at once.
+
+
+Response:: <i>Oh no, your potion isn't getting away that easy! You shake the machine, knocking the potion about. Whatever is causing the potion to levitate fails to withstand your onslaught, and down the potion goes!</i>
+
+Response:: <i>You channel your inner-Emmett and begin complaining about your busy work schedule. It's not the best impression ever, and gets you nowhere with the machine.</i>
+
+Response:: <i>Maybe one of these buttons is the "stop floating" button? Maybe ALL OF THEM ARE?? You press every single button all at once, but still the potion floats.</i>
+
+
+End

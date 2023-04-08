@@ -1,0 +1,4 @@
+Jade One Liner 3
+
+Dialogue:: I don't want to sound rude, but I'm in the zone right now. Let's talk later?						 																																																							
+End

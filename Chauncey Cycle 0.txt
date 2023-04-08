@@ -1,0 +1,9 @@
+Chauncey Cycle 0
+
+Dialogue:: What's a chap like you doing on a fine night like this? If you're looking for a challenge, you've come to the right Slime![]What's your name, chap?
+
+Option1:: I'm XX. What kind of game is this?
+
+Response1:: It's a pleasure, XX. Call me Chauncey! Mine is a game of perception and attention to detail. But, maybe that's not your kind of game...
+
+End

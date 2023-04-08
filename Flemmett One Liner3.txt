@@ -1,0 +1,5 @@
+Flemmett One Liner3
+
+Dialogue:: You seem like a lively one. I don't think we'll get along too well.			
+
+End

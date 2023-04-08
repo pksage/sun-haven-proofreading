@@ -1,0 +1,33 @@
+Albert Cycle 1
+
+Dialogue:: After living here for thirty years, I can tell you this for sure - Sun Haven never gets dull.
+
+
+Option1:: Thirty years is a long time.
+
+Option2:: What's your favorite memory from your time here?
+
+
+Response1:: I know, I'm an old geezer. I don't mind one bit! I've got a lot of experience to lean on.
+
+Response2:: The best day of my life was the day I met my wife Judith. I was still new in Sun Haven, and she smiled at me from across the town square. Took my breath away!
+
+
+Option1a:: Have any advice for someone like me? 
+
+Option1b:: What has your experience taught you? 
+
+Response1a:: Hm, I guess if I've learned anything in my time... Don't eat a bowl of spiced beans before getting into a suit of armor.
+
+Response1b:: Hm, I guess if I've learned anything in my time... Don't eat a bowl of spiced beans before getting into a suit of armor.
+
+
+Option2a:: That's so romantic! //Relationship Albert1 2
+
+Option2b:: Sounds like you've lived a pretty boring life. //Relationship Albert1 -1
+
+Response2a:: Every day I'm thankful that we met so early. It's been paradise ever since.
+
+Response2b:: Is this how the youth treats their elders now? What a shame...
+
+End

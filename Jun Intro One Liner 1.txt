@@ -1,0 +1,5 @@
+Jun Intro One Liner 1
+
+Dialogue:: You'll have an easy time getting to know Sun Haven, XX, I just know it.
+
+End

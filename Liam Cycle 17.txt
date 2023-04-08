@@ -1,0 +1,23 @@
+Liam Cycle 17
+
+Dialogue:: Jordan really saved me today. I forgot to do an egg wash on the bread last night, but he came in early and took care of it for me.
+
+Option1:: He really helps out, huh?
+Option2:: Are you being replaced as the town's best baker? //Emote none Embarrassed
+
+Response1:: Jordan? Absolutely! I just wish I could pay him more... Anyway, he seems to genuinely like working in the bakery.
+Response2:: Heh, I don't know about that. But Jordan really is a skilled baker. I wouldn't be surprised if he opened his own shop one day!
+
+Option1a:: He's a good friend. //Relationship Liam17 2 Happy
+Option1b:: You really should pay him better. //Relationship Liam17 -1 Sad
+
+Response1a:: Yeah, I guess he is a friend![]I don't know why, but I've only ever thought of him as my coworker. But we've worked together for so long, how could we not be friends?
+Response1b:: I'm paying all I can afford right now, XX. Please don't make me feel worse about it.
+
+Option2a:: Wouldn't that be competition for you? //Emote none Embarrassed
+Option2b:: I'm glad you're supportive of him.
+
+Response2a:: Oh. Right. Aw man, what if he bakes better bread than I do?[]I better start thinking of some specialty items... and I should stop telling Jordan all my recipes.
+Response2b:: Yeah... wait, do you think that's a bad idea? What if he becomes my competition? And what if he bakes better bread than me?[]I better start thinking of some specialty items... and I should stop telling Jordan all my recipes.
+
+End

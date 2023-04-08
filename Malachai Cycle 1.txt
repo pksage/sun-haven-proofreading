@@ -1,0 +1,23 @@
+Malachai Cycle 1
+
+Dialogue:: If you wanna get pumped, you're in the right place!
+
+Option1:: Where do you get all these pumpkin things?
+Option2:: Are you an Amari?
+
+Response1:: Funny story, actually! I was traveling to Withergate from the far west when I saw a little Elf lady in the forest, working on some kind of magic something-or-other.[]Well she poured some potion on a squash and it grew the size of a house! So naturally, I snatched that magic potion from under her nose when her back was turned, heheh.
+Response2:: Who, me? No way! I'm a regular old Human, believe it or not. I just got on the bad side of a witch some time ago. Thought I was going to live my whole life as a freak until I heard about this place!
+
+Option1a:: You're a no-good thief. //Relationship Malachai1 -1
+Option1b:: Lucky find! //Relationship Malachai1 2
+
+Response1a:: Yeah, and? Look, buy a pumpkin or don't.
+Response1b:: Exactly! So when I got here, I met up with Dr. Barley and he figured out what was in the potion. Now I can make it do lots of different things!
+
+Option2a:: So you think everyone here is a freak?
+Option2b:: You must not be very popular if you talk that way about everyone here.
+
+Response2a:: Of course! Look around you! I'm a freak, he's a freak, she's a freak - we're all freaks! Even you!
+Response2b:: You're too sensitive. Nobody else even cares - look around you! I'm a freak, he's a freak, she's a freak - we're all freaks! Even you!
+
+End

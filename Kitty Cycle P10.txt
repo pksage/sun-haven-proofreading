@@ -1,0 +1,23 @@
+Kitty Cycle P10
+
+Dialogue:: Lately a big, mean dog has been chasing my kittens, nyan!
+
+Option1:: Are your kittens okay? //Emote none Sad
+Option2:: You must really hate this dog.
+
+Response1:: They're all safe and sound right now, nya! The first time that dog came by, though, it was terrible! Kitty had to look everywhere for the kittens after they ran off!
+Response2:: I don't <i>hate</i> the doggy, even if it chases my kittens. Kitty has tried to make friends with dogs before, but it's so hard, nyan! They just wanna chase Kitty, usually![]Kitty has been friends with dog Amari before, so why can't cats and dogs get along?! 
+
+Option1a:: Do you think your kittens are in danger?
+Option1b:: I hope your kitties are okay!
+
+Response1a:: Nya. It's fine, mostly. I always scoop them up quick quick when I hear the dog coming, now. Kitty has very good hearing, you know!
+Response1b:: Nya. It's fine, mostly. I always scoop them up quick quick when I hear the dog coming, now. Kitty has very good hearing, you know!
+
+Option2a:: Dogs and cats getting along would be so cute. //Relationship KittyP10 2 Happy
+Option2b:: Dogs and cats aren't supposed to get along. //Relationship KittyP10 -1 Sad
+
+Response2a:: See, nya? You get it, XX! Kitties and puppies being friends, friends, friends! Very cute, yes?
+Response2b:: Nyan. That's not a great way to look at the world. It must be so sad, thinking you couldn't be someone's friend just because of how you are!
+
+End

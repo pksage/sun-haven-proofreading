@@ -1,0 +1,8 @@
+Shady Music Festival One Liner 1
+
+Dialogue:: Hey, kid. I don't got nothin' right now... why don't you come back after the shows? I'll have something you can buy then, heheh....
+
+Option1:: Okay, Mr. Weird Tentacle Man!
+Option2:: You seem a little sketchy, but alright...
+
+End

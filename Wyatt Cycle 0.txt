@@ -1,0 +1,9 @@
+Wyatt Cycle 0
+
+Dialogue:: What are you looking at? Haven't you ever seen a mighty dragon before?[]Okay, maybe I'm not a guardian like the Moon Dragon... but I can still breathe fire! A little.
+
+Option1:: My name is XX. I didn't mean to stare.
+
+Response1:: Ehh, it's fine. My name is Wyatt. I can't really get mad at you for looking. I <i>am</i> an impressive dragon, after all!
+
+End

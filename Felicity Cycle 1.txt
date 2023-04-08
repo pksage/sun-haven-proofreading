@@ -1,0 +1,23 @@
+Felicity Cycle 1
+
+Dialogue:: Hey again, XX! Are you fitting in yet? Don't worry, it took some time for me, too.
+
+Option1:: Why would Withergate treat other Demons like outsiders?
+Option2:: You don't look like any Demon I've ever seen before.
+
+Response1:: I'm a Demon, but I come from a village where Humans and Demons live side by side. When I first arrived here, everyone called me an outsider, too!
+Response2:: Hehe, where I'm from, Demon culture is a bit different. We're more adapted to living in the sunlight, unlike Demons from Withergate. Still, I looove the darkness!!
+
+Option1a:: Why did you move to Withergate?
+Option1b:: How did you deal with it?
+
+Response1a:: I met my boyfriend Felix when he visited my village a couple of years ago. He told me all about Withergate, and I had to check it out! So here I am.
+Response1b:: I just gave it time. Soon enough, everyone got to know me well enough that they accepted me. As long as you're not a jerk, people will come around!
+
+Option2a:: Your style is very unique! //Relationship Felicity1 2
+Option2b:: Is it really a good idea to be so different here? //Relationship Felicity1 -1
+
+Response2a:: It really does make me stick out around here, doesn't it?! That's okay! I love turning heads, and I love keeping up with Withergate's crazy style!
+Response2b:: What a silly question. I love my style, it doesn't matter what you think about it. Or anyone else, for that matter!
+
+End

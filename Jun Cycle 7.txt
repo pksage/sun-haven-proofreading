@@ -1,0 +1,32 @@
+Jun Cycle 7
+
+Dialogue:: Did you do your hair different? Wait, that's just the wind. Let me fix that for you.
+
+Option1:: Thanks Jun - but my hair will never look as good as yours!
+
+Option2:: Jun, I really enjoy getting to know you. Let's go out on a date!  //Emote none Romantic
+
+
+Response1:: Ah! So you do like my hair after all? I've wondered what you think about it. Don't be afraid to tell the truth - I can take it!
+
+Response2:: I feel the same way. Talking to you is so easy, I can't explain it.
+
+
+Option1a:: If you want the full truth, it is a bit much. //Relationship Jun7 -1 Sad
+
+Option1b:: I love the style and color. It's perfect for you. //Relationship Jun7 2 Romantic
+
+Response1a:: That's what you think? Maybe it's time for a change...
+
+Response1b:: I'm starting to think<i>you're</i> perfect for me, XX.[]Oh, I hope that wasn't too forward!
+
+
+Option2a:: Then again, maybe a date is a bad idea. //Emote none Sad
+
+Option2b:: So that's a yes? //Quest none JunHangout2Quest
+
+Response2a:: If that's how you feel, I'll respect that. But you should know, that's not how I feel at all.
+
+Response2b:: I won't lie - I would absolutely love to go out with you, XX.[]Meet me at my house tomorrow at 5:00 pm, okay? I'll see you there!
+
+End

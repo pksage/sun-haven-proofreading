@@ -1,0 +1,9 @@
+Alfie Cycle 0
+
+Dialogue:: Clear the way, please. I've got all sorts of things to do today.
+
+Option1:: Oh, sorry. I didn't mean to get in your way.
+
+Response1:: It's alright. We're just always busy here. Busy like bees.
+
+End

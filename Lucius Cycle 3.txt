@@ -1,0 +1,23 @@
+Lucius Cycle 3
+
+Dialogue:: Hello, XX! Busy at work again, are we?
+
+Option1:: What are you up to right now, Lucius?
+Option2:: What do you like to do for fun?
+
+Response1:: I'm thinking about some of my favorite owls. The owls of Nel'Vari are excellent predators, and completely silent when they fly through the night sky.[]Lately, though, I believe they've fallen on hard times with their hunts. If the owls are finding less prey to catch, then it must mean there's less prey to go around. I do hope the situation improves soon.
+Response2:: Oh, well, when I'm not able to gaze up at the moon, I do enjoy good music. Which Nel'Vari is full of![]The natural hymns of the night - the chirping of the insects and the unfiltered rushing of the river... are beautiful. But a hot bowl of noodles and the mushroom bards is also perfectly acceptable.
+
+Option1a:: Nature sounds very complex. //Relationship Lucius1 2
+Option1b:: Why don't you think of the poor prey animals? //Relationship Lucius1 -1
+
+Response1a:: It is! Very complex, and delicate. Nivara once explained to me that nature is like a chain, each individual link of the chain relies on the link below and above it.[]If just one link breaks, the chain snaps. I didn't think Nivara was the type to use chains as a metaphor, but it certainly painted an effective picture.
+Response1b:: But I do. Nature is a delicate balance, and every step of it must be maintained. If there's something wrong with the animals the owls prey on, I want to figure out what it is, and help fix it.[]Maybe it was too much of me to expect you to understand right away.
+
+Option2a:: What about griffon riding?
+Option2b:: What about something like painting, or exploring?
+
+Response2a:: Hmm, I've never been much of an adventurous type before... but I won't know unless I give it a try, right? Hey, do you suppose I could ride a griffon at NIGHT? Now THAT would AMAZING.
+Response2b:: I tried painting once, actually. But it's sort of hard to do at night. So I tried painting during the day, and realized I was terrible at it. Do you think I'd make a good painter? Perhaps I could give it another try.
+
+End

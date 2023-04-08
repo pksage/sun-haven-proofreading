@@ -1,0 +1,23 @@
+Vaan Cycle 16
+
+Dialogue:: It takes someone special to capture my attention, XX. And now you've captured so much more than that!
+
+Option1:: I don't like to think that I've "captured" you. //Emote none Embarrassed
+Option2:: You don't feel restricted by our marriage?  //Emote none Romantic
+
+Response1:: I only meant it as an expression, but I see your point. Maybe a better word is "won."[]Oh, but does that make me sound like too much of a prize?
+Response2:: I might, if it were with anyone else. But you've always encouraged my freedom, XX. More than that, you've inspired me to thrive in it.[]Heh, sorry if I'm getting too serious. I get carried away with you!
+
+Option1a:: A prize is exactly what you are! //Relationship Vaan16 2 Happy
+Option1b:: We could always just say, "married!"  //Emote none Happy
+
+Response1a:: Ah! XX, you're such a jokester! I'm going to get smile lines because of you.
+Response1b:: I guess that's easiest, huh? Heh, with how much you make me smile, XX, I see smile lines in my future.
+
+Option2a:: You can get a little intense sometimes. //Relationship Vaan16 -1 Sad
+Option2b:: I like it when you get carried away. //Relationship Vaan16 2 Happy
+
+Response2a:: Apologies, XX. I didn't know it bothered you. I always thought you could handle my spirit, but I suppose I was wrong.
+Response2b:: And you manage to build my spirit up even more! I'm lucky to have found someone exactly as passionate as me.
+
+End

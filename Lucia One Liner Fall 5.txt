@@ -1,0 +1,5 @@
+Lucia One Liner Fall 5
+
+Dialogue:: You're looking stronger, XX. Have you been doing lots of training? It's just as Elios said - I knew you would!
+
+End

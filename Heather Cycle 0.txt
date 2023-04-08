@@ -1,0 +1,9 @@
+Heather Cycle 0
+
+Dialogue:: Oh, hi there! Welcome in, my name is Heather. 
+
+Option1:: Hi Heather, I'm XX.
+
+Response1:: Good to meet you. Say, are you the XX that funded the café renovation? You're the reason I have a job! Thank you.
+
+End

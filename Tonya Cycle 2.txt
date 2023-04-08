@@ -1,0 +1,33 @@
+Tonya Cycle 2
+
+Dialogue:: Hey, farmer. I'm having a great cardio day. Here's a cardio tip for you - have a kid!
+
+
+Option1:: It's amazing that you stay so positive these days.
+
+Option2:: In your experience, what's the hardest thing about being a mom?
+
+
+Response1:: Do you mean because Sun Haven is hurting a little bit right now?[]You know, I could waste my energy being worried about it if I wanted to, but I don't see any point in that. So I focus on other things, like my job and family.
+
+Response2:: The hardest thing? Hm, let me think... I guess it's not knowing what kind of trouble goes on while I'm gone during the day.[]Giuseppe is great at being a dad, but not always the best at being an adult.
+
+
+Option1a:: It's important to focus on what makes you happy. //Relationship Tonya2 2
+
+Option1b:: It sounds like you're ignoring reality. //Relationship Tonya2 -1
+
+Response1a:: Exactly. Stressing out about the bad stuff never helped anyone.
+
+Response1b:: Call it what you want, farmer. We all have to get by somehow.
+
+
+Option2a:: Does that get tiresome?
+
+Option2b:: At least he makes Topi happy, right?
+
+Response2a:: Sure, but it's also why I love him. He reminds me that I'm allowed to have fun, too.
+
+Response2b:: When it comes down to it, that's all that really matters... but it helps that he watches Topi when I take my afternoon nap, too.
+
+End

@@ -1,0 +1,5 @@
+NPC One Liner 2
+
+Dialogue:: I love that the sun is always shining here.	It reminds me to shine, too!									
+
+End

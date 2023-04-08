@@ -1,0 +1,5 @@
+Scott Intro One Liner 2
+
+Dialogue:: I hear the legendary blacksmith Solon lives here. I wonder if he'd be willing to barter.															
+
+End

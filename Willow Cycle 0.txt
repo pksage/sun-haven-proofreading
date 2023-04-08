@@ -1,0 +1,9 @@
+Willow Cycle 0
+
+Dialogue:: Hmm? I haven't seen you before...
+
+Option1:: I'm new to Nel'Vari. My name is XX.
+
+Response1:: XX, I'm Willow. Remember my name because one day I'm going to be the most powerful enchantress in the world!
+
+End

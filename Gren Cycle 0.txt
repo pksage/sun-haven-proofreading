@@ -1,0 +1,9 @@
+Gren Cycle 0
+
+Dialogue:: You look familiar. Have I seen you swimming in the river?
+
+Option1:: ... No? My name is XX, I'm a farmer from Sun Haven.
+
+Response1:: Oh! I'm sorry, I mistook you for an amphibian friend of mine. My name is Gren.
+
+End

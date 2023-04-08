@@ -1,0 +1,25 @@
+CamilasCravingQuest
+
+Dialogue:: People around town say that you're a helpful neighbor. Want to prove it?
+
+
+Option1:: Prove it how?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: I'm craving fish for dinner, but I won't have time to stop by the store today. Besides, fresh fish is way better than store-bought.
+
+Response2:: If you catch me a fresh <color=#39CCFF>Sea Bass</color> for dinner, it would really make my day.
+
+
+Option2a:: I'll get right on that. //Quest none CamilasCravingQuest
+
+Option2b:: I'm too busy to help.
+
+
+Response2a:: You will? Okay neighbor, come find me when you've made a catch. (End)
+
+Response2b:: Turns out your reputation was just nonsense after all. (End)
+
+End

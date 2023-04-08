@@ -1,0 +1,23 @@
+Iris Cycle P11
+
+Dialogue:: One of the gem cutters just got done carving a stunningly beautiful sapphire this morning. Its fresh edges caught the sunlight so fantastically!
+
+Option1:: I thought your passion was enchanting.
+Option2:: Lots of people in Sun Haven love gemstones too.
+
+Response1:: Of course I love the work that I do as an enchanter, it's what I've put my life towards mastering.[]But I still can't resist a big, beautiful gemstone. Even if I don't appreciate them as a functional thing, they're just so pretty. That's worth something on its own, I think.
+Response2:: Oh really? So a love for shining gemstones isn't unique to Nel'Vari. Funny how the things that bridge different people together seem to be the most simple.[]No advanced words or traditions... just shiny gemstones.
+
+Option1a:: I had no idea you appreciated rocks so much.
+Option1b:: Why don't you try using gemstones in your work?
+
+Response1a:: Gemstones aren't rocks! Well, okay, they are. But they're beautiful products of the earth, whether freshly hewn from the mine or cut into a splendid shape.
+Response1b:: They're two totally separate interests, XX. Gemstones are just pretty to look at or hold. I don't feel any need to try using them in my enchanting.
+
+Option2a:: Looks like people really aren't all that different. //Relationship IrisP11 2 Happy
+Option2b:: I don't think mutual interest in gemstones matters very much. //Relationship IrisP11 -1 Mad
+
+Response2a:: I guess we really aren't. Now I'm wondering what else Nel'Vari has in common with Sun Haven!
+Response2b:: You need to try and see the bigger picture. It's not about the gemstones themselves, it's about similar interests connecting different people. Just forget about it, actually.
+
+End

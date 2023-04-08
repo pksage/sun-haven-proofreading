@@ -1,0 +1,33 @@
+Catherine Cycle 2
+
+Dialogue:: Hello again, XX. Another beautiful day, don't you think? It's easier to work when the weather is nice.
+
+Option1:: What kind of work do you do here?
+
+Option2:: You seem like someone with a plan. What are your goals?
+
+
+Response1:: Herbal remedies are my specialty, but I also dabble in potions.
+
+Response2:: Honestly, I just want to see my city thrive again. I even go around town casting small enchantments to help bring some business back to town.[]And you know... I wouldn't mind finding a cute partner in the meantime!
+
+
+Option1a:: Is all of that safe?
+
+Option1b:: Why come to you for remedies when we can just go to Dr. Wornhardt?
+
+Response1a:: People have doubted my products before, but they change their mind when they actually try some. Here XX, take a sample!
+
+Response1b:: Wornhardt is great at what he does, but he can't give the same boosts I can. Try some of my restorative herbs sometime and you'll see what I mean.
+
+
+Option2a:: I'm sure you'll find someone soon, Catherine! //Relationship Catherine2 2 Happy
+
+Option2b:: Why cast enchantments when Elios's magic helps the whole town? //Relationship Catherine2 -1 Mad
+
+Response2a:: Oh, you think? Do you know something that I don't, XX?[]Just kidding, but thanks for the vote of confidence!
+
+Response2b:: I guess that's the difference between us, XX. I can't just sit around while somebody else fixes things for me.
+
+
+End

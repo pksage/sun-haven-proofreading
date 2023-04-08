@@ -1,0 +1,23 @@
+Jun Cycle 18
+
+Dialogue:: I don't remember my dream last night, but I woke up feeling entirely at peace. I wonder what was going on in my head!
+
+Option1:: Don't you usually wake up feeling that way?
+Option2:: I bet I know what you were dreaming about. //Emote none Romantic
+
+Response1:: People are often surprised to learn this, but I'm actually a rather restless sleeper. It's why a quiet morning routine is important to start my day.
+Response2:: Oh, stop you. I already know what you're going to say - you!
+
+Option1a:: I appreciate quiet in the morning too. //Relationship Jun18 2 Happy
+Option1b:: I like to get straight to work when I wake up. //Relationship Jun18 -1
+
+Response1a:: That makes sense. We're kindred spirits, you and I.
+Response1b:: Ah, that makes sense. Farming is busy work, after all. But I'm afraid I wouldn't be mentally prepared for the day if I went straight to work.
+
+Option2a:: Actually, I was going to say the sunset over the farm.  //Emote none Happy
+Option2b:: Of course it was me! //Emote none Embarrassed
+
+Response2a:: Oh! That's a good guess, actually. It almost feels right, too.[]Oh well, I guess I'll never know. But now I'm in the mood to watch tonight's sunset!
+Response2b:: You know XX, I do have other interests outside of you. However... you're probably right.
+
+End

@@ -1,0 +1,23 @@
+Darius Cycle P12
+
+Dialogue:: Ahh, the shipment of tombmelon wine has finally arrived. How timely.
+
+Option1:: Do you enjoy wine?
+Option2:: Tombmelon wine? Could I learn to make that?
+
+Response1:: You were expecting me to drink anything less? For someone of my status, it's either wine or thirst.[]I would never lower myself to anything else. So to say I "enjoy" wine is a wild understatement.
+Response2:: I'm sure you might be an eager cook, XX, but this is something you'll never learn to make. The recipe is known only to Withergate's royal vintners.[]It is a drink of Demon royalty, as it has been for one thousand years and shall be for countless thousands more.
+
+Option1a:: I would expect as much from you. //Emote none Happy
+Option1b:: You have such a refined taste. //Emote none Happy
+
+Response1a:: You've learned much about me, XX. Maybe the most important thing you've learned is to never question what I say.[]Come to think of it, it's definitely the most important thing. 
+Response1b:: You've learned much about me, XX. Maybe the most important thing you've learned is to never question what I say.[]Come to think of it, it's definitely the most important thing. 
+
+Option2a:: This wine must be very important to your family. //Relationship DariusP12 2
+Option2b:: Wine from a melon sounds pretty weird, anyways. //Relationship DariusP12 -1 Mad
+
+Response2a:: There are two worlds, XX. My family and our allies live in one, and everyone else lives in the other. We are separated by a fundamental culture.[]From how we dress, how we speak and even what we eat and drink. That is the difference between you and I. You do not have to understand it, but you will have to recognize it.
+Response2b:: You've the taste of a low-born, XX. Your opinion on the subject is irrelevant. 
+
+End

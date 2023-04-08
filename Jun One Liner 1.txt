@@ -1,0 +1,5 @@
+Jun One Liner 1
+
+Dialogue:: Hello, XX. Have a wonderful day.
+
+End

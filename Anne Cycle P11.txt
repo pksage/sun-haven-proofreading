@@ -1,0 +1,29 @@
+Anne Cycle P11
+
+Dialogue:: I'm stocking white sand, all the way from the volcanic beaches of the Southern Islands! They say it has medicinal purposes.
+
+Option1:: I don't know about that, but it does sound like fancy sand.
+Option2:: Do you believe the sand really works as medicine?
+
+Response1:: Yes. It's super fine, even for your typical beach sand. Pure white, too.[]Sailors say it looks like snow from a distance. And it even stays nice and cool in the sun!
+
+Response2:: Well... no. I think it's just white sand. Pretty sand, but still just sand.[]But it's not like I'm the one who's calling it medicine! People can believe what they want, I just sell the goods.
+
+Option1a:: It's like a touch of the south. //Emote none Happy
+
+Option1b:: It would look pretty in a glass bottle.
+
+Response1a:: ...[]Can I use that as a sales pitch? I'm using it as a sales pitch. 
+
+Response1b:: Hm. An interesting idea, very classy. Most people would call it "decorative art," but I just call it "an easy way to charge more than it's worth."[]I wonder where I could source some fancy looking bottles... Hmm...
+
+
+Option2a:: You just told me that people use it as medicine! //Relationship AnneP11 -1 Mad
+Option2b:: Calculating as ever, Anne. //Relationship AnneP11 2
+
+
+Response2a:: No, I said <i>they say</i> it has medicinal purposes. That's totally different!
+
+Response2b:: Aw, why thank you, XX. Wait, you <i>did</i> mean that as a compliment, right?[]It's not like I'm the one who started the idea that the sand does anything, you know!
+
+End

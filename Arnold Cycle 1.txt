@@ -1,0 +1,23 @@
+Arnold Cycle 1
+
+Dialogue:: It's a bit dark in Withergate, but I don't mind!
+
+Option1:: Why don't you mind the darkness?
+Option2:: Do you like living here?
+
+Response1:: I'm a Naga, can't you tell? You know that we all lived underground for centuries, right?[]It was even darker down there, and a waste of time if you ask me!
+Response2:: It's great!! The people here are accepting of everyone, once you get to know them. I haven't seen a city like this anywhere before - it's a revolutionary community!
+
+Option1a:: You must like the surface better than underground.
+Option1b:: You seem so positive!
+
+Response1a:: You have no idea! Underground was <i>totally</i> dark. Even if Withergate is eternally dark, there's still so much light and, more importantly, so much to do!
+Response1b:: I'm making up for lost time! I want everyone to see all the hard work I've put into my muscles.[]Are you with me, XX? Let's pose!
+
+Option2a:: More cities could learn from Withergate. //Relationship Arnold1 2
+Option2b:: Withergate is dangerous. //Relationship Arnold1 -1
+
+Response2a:: I feel the same way! Can you imagine if every city in the world was like this one? We could have world peace in no time!
+Response2b:: What do you mean, dangerous how? Should I be concerned? These muscles are just for show, you know!
+
+End

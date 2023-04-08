@@ -1,0 +1,33 @@
+Claude Cycle 8
+
+Dialogue:: You're looking nice, XX. I like keeping company with orderly people.
+
+Option1:: I feel like we're getting to be pretty good friends.
+
+Option2:: Do you ever wish you had more close friends?
+
+
+Response1:: Well... sure. I suppose I'd call us friends at this point. I mean, if you think so too.
+
+Response2:: No, never. People are distracting.[]Friends and family make a lot of people happy, but it's just different for me. Nobody seems to understand that.
+
+
+Option1a:: That doesn't sound very friendly. //Emote none Mad
+
+Option1b:: I'm glad to hear you say that, Claude!
+
+Response1a:: That's about as friendly as I get, XX. You can take it or leave it.
+
+Response1b:: Thanks for not teasing me about it.
+
+
+Option2a:: Everyone needs somebody in their life. //Relationship Claude8 -1 Sad
+
+Option2b:: Everyone finds happiness in their own way. //Relationship Claude8 2 Happy
+
+Response2a:: Apparently, you're one of those people who don't get it.
+
+Response2b:: That's exactly right. It looks like you're both thoughtful and fashionable.
+
+
+End

@@ -1,0 +1,54 @@
+Vending Machine Game 5
+
+Dialogue:: <i>A giant bat suddenly flies in your way!</i>
+
+
+Option:: Dance awkardly.
+
+Option:: Shoo it away. //RIGHTANSWER
+
+Option:: Jump on top of the machine.
+
+
+Response:: <i>You begin a very awkward dance, flailing your arms around with abandon. The bat looks at you with utter disapproval. You both know you don't deserve a potion for this.</i>
+
+Response:: <i>You shoo the big hairy bat away, who apologizes for getting in your way. He seems like a nice guy, really.</i>
+
+Response:: <i>From your vantage point atop the machine, you watch the bat insert his own ticket into the machine... and receive his potion without any trouble. You reflect on the unfairness of life.</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine mixes all of the potions around!</i>
+
+
+Option:: Attempt to befriend the machine.
+
+Option:: //HEALTH2 Pick the machine up and drop it. //RIGHTANSWER
+
+Option:: Tell the machine a funny story.
+
+
+Response:: <i>You suggest that you and the machine could put your differences aside and become friends. The machine declines your offer of friendship. Wow, what a jerk!</i>
+
+Response:: <i>With a grip to rival the greatest of Guardian Dragons you heft the machine up off the ground a good inch or two. You then let it fall back down. All the potions inside conveniently rearrange themselves back to normal!</i>
+
+Response:: <i>You recount to the machine a story of the time your home in the Great City was suddenly flooded with uncooked cake batter, from a bakery explosion down the street. The machine doesn't even smirk at the hilarious tale.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine suddenly shrinks, turning as tiny as a mouse!</i>
+
+
+Option:: //TICKETS1 Insert another ticket.
+
+Option:: Press every button at once.
+
+Option:: Threaten to squish it. //RIGHTANSWER
+
+
+Response:: <i>You pull another ticket out of your pocket and attempt to feed it into the machine. The machine, having shrunk to roughly the size of the ticket, is much too small to accept it. Too bad you don't have any tiny tickets.</i>
+
+Response:: <i>You press every single button at once. Considering it's so tiny, you're able to do it with one finger. No tiny potions come out, though.</i>
+
+Response:: <i>Is this the machine's grand plan? Because if it is, it's a really dumb one. You raise your foot above it, threatening to smoosh it to smithereens. It gets the hint, and grows back to normal, and out pops your potion!</i>
+
+
+End

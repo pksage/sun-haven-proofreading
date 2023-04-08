@@ -1,0 +1,5 @@
+Jun Intro One Liner 2
+
+Dialogue:: We're lucky to have you here, XX.			
+
+End

@@ -1,0 +1,9 @@
+Nim Cycle 0
+
+Dialogue:: Hello, new friend. Heh, you can call me Nim. What's your name?
+
+Option1:: I'm XX. Good meeting you, Nim!
+
+Response1:: Good indeed! If I can help you with anything, I'll be right here for you.
+
+End

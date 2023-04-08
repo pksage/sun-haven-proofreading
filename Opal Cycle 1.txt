@@ -1,0 +1,23 @@
+Opal Cycle 1
+
+Dialogue:: Hello again, XX. How does Nel'Vari compare to the stories you've heard?
+
+Option1:: You seem a little different from the other Elves.
+Option2:: Have you ever left Nel'Vari?
+
+Response1:: I'm an attendant to the moon. I do my work at night, such as caring for the trees and tending to animals, when many of the others in Nel'Vari sleep.
+Response2:: I've never been to another village, but I've been deep inside our forests. I consider everywhere that nature lives undisturbed to be part of Nel'Vari.
+
+Option1a:: Do you worship the moon?
+Option1b:: How does one become a moon attendant?
+
+Response1a:: It's nothing like that. I simply live and work by the moon, much in the way you live and work by the sun.[]Living so closely with the night manifests itself physically as we attendants live our lives. We're not hard to pick out from the others, is what I'm saying.
+Response1b:: We're free to volunteer as we wish. Elves are very closely in tune with nature, and this manifests physically as we live our lives.[]We're not hard to pick out from the others, is what I'm saying.
+
+Option2a:: What a beautiful way of seeing the world. //Relationship Opal1 2
+Option2b:: Towns don't work like that, they have to have solid borders. //Relationship Opal1 -1
+ 
+Response2a:: Yes, indeed. If you spend more time among the people of Nel'Vari then you might learn to see the world the same way.
+Response2b:: Hm, you can live by your rules and I will live by mine.
+
+End

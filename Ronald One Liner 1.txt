@@ -1,0 +1,5 @@
+Ronald One Liner 1
+
+Dialogue:: The music has been great lately. Come get on the dance floor sometime!											
+
+End

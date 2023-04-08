@@ -1,0 +1,5 @@
+Nim Intro One Liner 1
+
+Dialogue:: There's nothing in the whole world that's more important than a caring friend.																																																																			
+
+End

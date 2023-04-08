@@ -1,0 +1,33 @@
+Darius Cycle 6
+
+Dialogue:: Hello, XX. I'm pleased to see you integrating well in my city. Citizens like you will ensure Withergate's prolific future.
+
+Option1:: I'm curious to know your plans for Withergate's future.
+
+Option2:: You know, your people seem to regard you very highly. //Emote none Happy
+
+
+Response1:: My father has laid the groundwork for a successful city, but this is just the start. Withergate will expand into its own worldly region under the rule of King Darius.
+
+Response2:: Of course they do, my father and I have given them a quality of life unknown to monsters before Withergate. We forged the first monster community in the world, and it prospers.
+
+
+Option1a:: Your father is an imposing ruler, but I look forward to seeing you take the throne. //Relationship Darius6 2 Happy
+
+Option1b:: That's good, Withergate could use some quality leadership. //Relationship Darius6 -1 Mad
+
+Response1a:: As do I, outsider. With my family's legacy behind me, there is only fortune in my future. Maybe you will be there to see it, too.
+
+Response1b:: You dare speak of my father like that? Do you crave punishment? Your opinion is lowly and worthless, just like you. If your words mattered one bit, I would have you locked away for such disrespect.
+
+
+Option2a:: Withergate is the first monster community ever?
+
+Option2b:: Where did monsters live before Withergate?
+
+Response2a:: I hope you're just ignorant and not truly questioning me, for your sake. There's never been a city like this before now. Monsterfolk used to live only as exiles.[]Now, with a place for them to live freely, they are thriving more than ever.
+
+Response2b:: I hope you're just ignorant and not truly questioning me, for your sake. There's never been a city like this before now. Monsterfolk used to live only as exiles.[]Now, with a place for them to live freely, they are thriving more than ever.
+
+
+End

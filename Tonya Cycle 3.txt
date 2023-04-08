@@ -1,0 +1,23 @@
+Tonya Cycle 3
+
+Dialogue:: There's Sun Haven's favorite farmer!
+
+Option1:: Actually, I'm Sun Haven's only farmer.
+Option2:: If I'm Sun Haven's favorite farmer, then you're it's favorite courier!
+
+Response1:: Exactly! So you must also be the favorite, right?[]Running mail all the way out to your farm is great for my morning routine, at any rate.
+Response2:: You're darn right I am! You show me someone who delivers mail faster than I can, and I'll eat one of Giuseppe's sculptures.
+
+Option1a:: I'm glad to be of help! //Relationship Tonya3 2
+Option1b:: So I'm only the favorite farmer by default, huh? //Relationship Tonya3 -1
+
+Response1a:: I'm glad, too! My routine was getting a little too easy.
+Response1b:: Oh, don't sound so insulted. At least people like you!
+
+Option2a:: You'd actually eat a sculpture??
+Option2b:: You're so fit, it's hard to picture someone faster than you.
+
+Response2a:: Well not really, XX. I wouldn't even know how to start... Maybe with a fork and hammer?
+Response2b:: Honestly, it would be nice to have someone to race. I love some healthy competition!
+
+End

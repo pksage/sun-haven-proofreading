@@ -1,0 +1,33 @@
+Xyla Cycle 1
+
+Dialogue:: You again? What, are you bored of Sun Haven?[]Oh, you actually want to talk. This should be good!
+
+Option1:: Wait, how do you know I'm from Sun Haven?
+
+Option2:: Who even are you?
+
+
+Response1:: Unlike your Human town, we keep our eyes and ears open around here. You should take a page out of our book and get some real security.
+
+Response2:: I'm Xyla, and that's the only time I'll tell you my name so don't bother asking again. I'm surprised a sewer rat like you made it to Withergate on your own.
+
+
+Option1a:: Have you been spying on Sun Haven?
+
+Option1b:: Sun Haven has security... //Emote none Happy
+
+Response1a:: Well <i>I</i> haven't been spying...[]Don't get so worked up, it's barely spying. Besides, it's just a precaution. You do know what precaution is, don't you?
+
+Response1b:: Those guards may as well be sleep walking. Matter of fact, I've actually seen one sleeping on duty before! If you ask me, your Human armies are just adorable.
+
+
+Option2a:: That's not very nice. //Relationship Xyla1 -1 Sad
+
+Option2b:: I'm surprised a rude monster like you has any place in this town. //Relationship Xyla1 2 Romantic
+
+Response2a:: Oops, didn't mean to hurt your feelings, sewer rat. Don't go springing a leak now.
+
+Response2b:: Oh, you've got teeth? That's good, I like that! Sometimes you have to bite to get by in these parts.
+
+
+End

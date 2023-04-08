@@ -1,0 +1,5 @@
+Renee Intro One Liner 1
+
+Dialogue:: Do you ever miss the Great City? It <i>must</i>  be really great if they call it the GREAT City, after all!												
+
+End

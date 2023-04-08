@@ -1,0 +1,23 @@
+Claude Cycle P14
+
+Dialogue:: Hey there. How've you been? I've been a little bored lately, myself.
+
+Option1:: Why have you been feeling bored?
+Option2:: You should pick up another hobby.
+
+Response1:: I suppose when I'm feeling uninspired, I get bored. I'm stuck with my music, and nothing is worse than a project half-realized. I either get it done, or I forget about it.
+Response2:: What do you mean "another" hobby, XX? Are you saying my music is a hobby? My music is my entire life, it's never been a hobby.
+
+Option1a:: What do you do to find inspiration?
+Option1b:: Your music must take a long time to compose.
+
+Response1a:: Sometimes I listen to my records. If I knew how to make it come whenever I wanted, things would be a lot easier. But that's just not how it works.
+Response1b:: It depends on how long I manage to stay inspired. If I knew how to make it come whenever I wanted, things would be a lot easier. But that's just not how it works.
+
+Option2a:: Good point. Find a hobby! //Relationship ClaudeP14 2
+Option2b:: I mean, it's really just a hobby. //Relationship ClaudeP14 -1 Mad
+
+Response2a:: A hobby, huh? I don't think I've ever tried to do anything other than music. But maybe it'll alleviate some of this infernal boredom. Something to think about, at least. Thanks.
+Response2b:: It really isn't, XX. But why am I bothering to explain myself? I'll just go and suffer my boredom somewhere else.
+
+End

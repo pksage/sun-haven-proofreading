@@ -1,0 +1,35 @@
+Catherine Cycle 9
+
+Dialogue:: It feels like seeing you has become part of my routine, like pruning my plants.
+
+Option1:: It must be a lot of work caring for all those plants.
+
+Option2:: I can't stop thinking about you. Let's go out on a date! //Emote none Embarrassed
+
+
+Response1:: Of course, but I love them! Plants are sensitive and reactive - just like people.[]I don't know, I guess sometimes I feel more connected to plants than people. That must sound weird...
+
+Response2:: Oh! XX, you're such a sweetheart. I'm flattered that you're thinking about me!
+
+
+Option1a:: You're right, that's weird. //Relationship Catherine9 -1 Sad
+
+Option1b:: Not at all, there's a lot we can learn from plants. //Relationship Catherine9 2 Happy
+
+
+Response1a:: See, this is why I prefer plants.
+
+Response1b:: Exactly! I'm glad you agree. It makes me feel like less of an oddball.
+
+
+Option2a:: Actually, I'm starting to think we should just be friends.
+
+Option2b:: So, what do you say? //Quest none CatherineHangout2Quest
+
+
+Response2a:: Is that so? Well jeez XX, that's pretty disappointing. But, I'm glad that we still get to be friends.
+
+Response2b:: Absolutely, yes XX. Come by my house tomorrow at 5:00 pm. I can't wait!
+
+
+End

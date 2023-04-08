@@ -1,0 +1,23 @@
+Kara Cycle 4
+
+Dialogue:: How have you been, XX? I hope you're not working too hard.
+
+Option1:: What's wrong with working hard?
+Option2:: How's your work been lately?
+
+Response1:: Oh, nothing at all! But if you're working <i>too</i> hard, then you should take a break. No matter what you're doing, you should never overwork yourself.
+Response2:: Slower than usual, actually. But that's quite alright. We're living comfortably and I enjoy the free time I have.[]Pod likes it when I'm available for playtime, too!
+
+Option1a:: I'll try to remember that. //Relationship Kara4 2
+Option1b:: Don't worry about my job. //Relationship Kara4 -1
+
+Response1a:: Just keep it in mind when you're out on the farm, alright, XX?
+Response1b:: I'll always worry when my neighbors aren't taking care of themselves.
+
+Option2a:: At least you're not starving.
+Option2b:: You should write a book.
+
+Response2a:: Oh, that's the least of my worries. If things ever got that dire, of course we'd be taken care of by our wonderful community.[]I know you wouldn't let us starve, XX!
+Response2b:: As a matter of fact, I have tried before. I found it difficult, though, and haven't finished it. Maybe one day I will, but in the meantime writing inspiring speeches is much easier!
+
+End

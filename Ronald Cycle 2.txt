@@ -1,0 +1,33 @@
+Ronald Cycle 2
+
+Dialogue:: Pull up a seat, neighbor! Let's have a chat.
+
+
+Option1:: So what did you do before the tavern?
+
+Option2:: When did you learn to cook?
+
+
+Response1:: Before this place, I worked construction. Built a lot of houses farther west. It wasn't as fun, but it was good money.
+
+Response2:: Actually, I taught myself to cook when I was working construction. I used to make lunch for the whole crew![]Eventually I realized I was having way more fun cooking lunch than building houses. The rest is history, as they say.
+
+
+Option1a:: Wait, does that mean you built this place?
+
+Option1b:: Doesn't this place make good money?
+
+Response1a:: Haha, I wish! I would've done a better job with the seams in the ceiling, I can tell you that much.[]No, I didn't get to build this place. Mari and I renovated it together, though.
+
+Response1b:: The tavern pulls in some gold, but we break even more often than not. That's just how it is until business picks up a bit.
+
+
+Option2a:: It's lucky you were able to pursue your passion. //Relationship Ronald2 2
+
+Option2b:: Do you think you were helping more people in construction? //Relationship Ronald2 -1
+
+Response2a:: You're telling me! Who knows where I would be if I'd stuck with construction?
+
+Response2b:: I help plenty of people right here. I don't need to break my back every day to help out.
+
+End

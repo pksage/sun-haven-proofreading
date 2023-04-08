@@ -1,0 +1,33 @@
+Nathaniel Cycle 4
+
+Dialogue:: Looking at you, I wonder if I should add farming to the soldiers' exercise regimen!
+
+Option1:: How are the other soldiers doing, anyway? //Emote none Happy
+
+Option2:: So who's the best fighter in the corps?
+
+
+Response1:: Oh, they're excelling in their exercises! Sophie is a real monster, and I mean that in a good way.[]Pinto, on the other hand... well, he's got a lot of heart!
+
+Response2:: I'll exclude Roza since she's an officer, so that really just leaves Sophie. In fact, I'd say she's right on Roza's tail.[]Watching the two of them spar is like watching an epic battle. Give it another year and Sophie could take Roza's title!
+
+
+Option1a:: It sounds like Sophie will do well for herself in the military.
+
+Option1b:: It sounds like Pinto has a lot of work to do...
+
+Response1a:: Maybe, but there's more to being a leader than being good with a sword. She's still learning that part. Judging by her tenacity, she could make a great officer one day.
+
+Response1b:: Maybe, but there's more to being a leader than being good with a sword. Judging by his morale, he could make a great officer one day.
+
+
+Option2a:: I bet neither of them is on your level, though. //Relationship Nathaniel4 2 Happy
+
+Option2b:: What if I told Roza you said that? //Relationship Nathaniel4 -1
+
+Response2a:: That's nice, but I'm actually not sure. Just because I'm the captain doesn't mean I'm the better fighter. In fact I might even bet against myself in that fight!
+
+Response2b:: I wouldn't recommend that. She doesn't handle criticism well - it's part of what drives her to be the best.
+
+
+End

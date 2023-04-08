@@ -1,0 +1,15 @@
+Blossom Spring Cycle 1
+
+Dialogue:: Welcome to Blossom's Seasonal Shop! Are you having a great springtime? I have lots of amazing things for spring, come take a look!
+
+Option1:: Who are you?
+Option2:: What are seasonal tokens?
+
+Response1:: I'm a merchant! I set up my special booth in Sun Haven because of the abundance of magical energy - and people - you find here! I figured if there was anywhere I could find what I was looking for, it was here.[]I've got my own plans, but don't worry about those, hehe. If you bring me what I'm looking for, I have fabulous seasonal prizes to trade for them!
+Response2:: When energy from the planet seeps out from the ground, it crystalizes. Sometimes it turns into ore... but other times it turns into <color=#39CCFF>special season tokens</color>![]The tokens will <color=#39CCFF>correspond with the season they're found in</color>,  and so will my booth![]Monsters are attracted to the tokens, so you'll <color=#39CCFF>find lots of them dropped by monsters</color>! If you ever come across some, bring them here!
+
+Option1a:: Alright.
+
+Option2a:: Alright. 
+
+End

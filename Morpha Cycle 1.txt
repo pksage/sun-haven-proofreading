@@ -1,0 +1,23 @@
+Morpha Cycle 1
+
+Dialogue:: Welcome back, dearest.
+
+Option1:: How long have you lived here?
+Option2:: Is it rude to ask about your appearance?
+
+Response1:: Me? Why, I've wandered these old forests for years and years... then one day, a city appeared out of nowhere!
+Response2:: It's not in the question, but in how you ask! Don't worry, dearest, one can't help one's curiosity. Hee hee hee![]My appearance was altered this way when the ground gave way underfoot one day and I fell into a river! My potions must have spilled, because I left that river with this new face!
+
+Option1a:: Were you upset about that?
+Option1b:: What did you do?
+
+Response1a:: Not in the least. Progress moves us forward, after all. Resisting progress is a foolish errand indeed, hee hee hee!
+Response1b:: I moved in! Progress moves us forward, after all. Resisting progress is a foolish errand indeed, hee hee hee!
+
+Option2a:: I don't think looks matter that much, anyway. //Relationship Morpha1 -1
+Option2b:: I think you look fine! //Relationship Morpha1 2
+
+Response2a:: I sure hope they do! Otherwise I'd be out of business - hee hee hee!
+Response2b:: Ah... no need to warm an old maiden's heart over a false flame, dearest. I know how I look - and I don't care a wink! Hee hee hee!
+
+End

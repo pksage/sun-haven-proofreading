@@ -1,0 +1,23 @@
+Cassia Cycle 1
+
+Dialogue:: I've heard you're from the Human town. What is it like over there?
+
+Option1:: I'm from Sun Haven. It's a good place.
+Option2:: So you're half-Naga, half-Demon?
+
+Response1:: Are even Naga and Demons welcome there? Here in Withergate people tend to reject anyone from Human towns, but I wonder if that rejection is so mutual.
+Response2:: I know, it's an uncommon mix. I've never seen anyone else like me, anyway.[]My parents are both very thoughtful and wanted to prepare me for a world where I may not be accepted. But for all their worry, I've fit into Withergate just fine!
+
+Option1a:: It's a very accepting place.
+Option1b:: There are not so many monsterfolk, to be honest
+
+Response1a:: So you think even someone like me could visit sometime? Not that the king's council would approve of something like that, of course. Xyla would probably think I was some kind of spy...
+Response1b:: Still, it would be nice to visit a place like that. Withergate is such a busy city. I just want a little peace and quiet every once in a while.
+
+Option2a:: Your parents sound like caring people. //Relationship Cassia1 2
+Option2b:: Your parents worried for no reason. //Relationship Cassia1 -1
+
+Response2a:: They are some of the most caring people I've ever known. I like to think I inherited a little bit of that, too.
+Response2b:: That's very presumptive, you know. You have no idea what my family has been through, trying to find a home in times like these.
+
+End

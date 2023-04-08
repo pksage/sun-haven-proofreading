@@ -1,0 +1,33 @@
+Jun Cycle 3
+
+Dialogue:: Even when it's struggling, Sun Haven is a gorgeous town. And having you here makes it that much better!
+
+Option1:: Are you worried about Sun Haven, with the monster town nearby?
+
+Option2:: Do you have a favorite spot in town? //Emote none Embarrassed
+
+
+Response1:: Are you talking about Withergate? I'm not worried about monsters attacking the city, if that's what you're asking. I am concerned for Sun Haven's people, though.[]It's never good when tensions are high throughout a whole community.
+
+Response2:: It isn't very exciting, but I love my home. I have a bench to sit on outside, and when the sun sets over the wheat field... is it silly to call that my happy place?
+
+
+Option1a:: People will just panic and make things worse. //Relationship Jun3 -1 Mad
+
+Option1b:: I have faith in the people here. //Relationship Jun3 2 Happy
+
+Response1a:: I can't say I agree. You'd be surprised how good people can be when given the chance. I hope you get to see that goodness in action soon, because it sounds like you need it.
+
+Response1b:: I agree wholeheartedly. Sun Haven is blessed with thoughtful and caring citizens. Like you, XX.
+
+
+Option2a:: I don't think it's silly - it sounds beautiful!
+
+Option2b:: Isn't there anywhere else you like to go?
+
+Response2a:: You're welcome to come by, then. I can't think of a better way to spend time with yourself than in a quiet, beautiful space. I'm lucky to call it my home.
+
+Response2b:: Well, I can just barely peep the top of your farmhouse from my home. Honestly, your farm looks really peaceful too - at least from what I've seen.
+
+
+End

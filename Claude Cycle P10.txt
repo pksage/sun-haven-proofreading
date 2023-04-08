@@ -1,0 +1,23 @@
+Claude Cycle P10
+
+Dialogue:: I've been thinking of romance a lot these past days. It's strange to me, how do you think people do it?
+
+Option1:: What's got you thinking about romance?
+Option2:: Haven't you ever wanted to fall in love?
+
+Response1:: I dunno. Just strange, I wonder how people seem so easily cut out for it.[]Meeting, getting married, the home life. All that stuff.
+Response2:: I've never pictured myself doing it, at least. There's been times where I thought maybe I was feeling that way, but they never worked out.[]If I think about the future, it's mostly just about my music.
+
+Option1a:: I guess it just comes more naturally to some people.
+Option1b:: Lots of people grow up with the expectation of falling in love and getting married.
+
+Response1a:: Yeah. Still so strange, though. I wonder if it'll happen to me, or how I'd even make it happen. It's all so ethereal, I guess.
+Response1b:: Suppose that's true. I never thought much about it, even as a kid, so I guess as I grew up it was still never something I thought about.[]Most people seem like it's such a no-brainer to them.
+
+Option2a:: Don't push yourself to conform to any standards that aren't your own. //Relationship ClaudeP10 2 Happy
+Option2b:: You probably just never looked hard enough to find love. //Relationship ClaudeP10 -1 Mad
+
+Response2a:: Heh, thanks. I told myself something like that a long time ago, but it's good to hear it from someone else. 
+Response2b:: Well... you aren't wrong. I probably didn't, but you make it sound like that's inherently wrong, XX. 
+
+End

@@ -1,0 +1,33 @@
+Donovan Cycle 10
+
+Dialogue:: It's my favorite outsider! Heh, just kidding. You're a real local by now.[]Something on your mind?
+
+Option1:: You never talk about family. Have you got any family in town?
+
+Option2:: Donovan, have you ever been in a serious relationship?
+
+
+Response1:: My family has been out of the picture for a while... But not like that! No, they're alive. I mean, I assume they're alive. They just live far away from here.
+
+Response2:: The longest relationship I've ever had was with an old friend named Addy.[]It wasn't romantic or anything, I just owed them a lot of money.
+
+
+Option1a:: If they saw you now, I bet they'd be proud. //Relationship Donovan10 2 Happy
+
+Option1b:: Don't you want to see them? //Relationship Donovan10 -1
+
+Response1a:: That's a nice thing to say, XX. I'm starting to think you really are a great friend - and not just as a joke!
+
+Response1b:: Funny, you kind of sound like them. It's making my feet itch!
+
+
+Option2a:: Did you pay them back?
+
+Option2b:: That's not exactly what I meant...
+
+Response2a:: Sort of. I saved their life when a crate almost fell on top of them, knocked 'em out of the way. Crate was full of gemstones though, so we split the gems and called it even. 
+
+Response2b:: Hey, that really is the most serious relationship I've been in. You asked, I answered. That's all I can do!
+
+
+End

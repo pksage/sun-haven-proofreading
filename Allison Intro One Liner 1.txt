@@ -1,0 +1,5 @@
+Allison Intro One Liner 1
+
+Dialogue:: Nobody knows the soldier's code of conduct better than I do.				
+
+End

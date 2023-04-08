@@ -1,0 +1,23 @@
+Lucia Cycle P13
+
+Dialogue:: How have you been holding on, XX? I've been busier than ever!
+
+Option1:: What's got you so busy?
+Option2:: If you could take a vacation, where would you go?
+
+Response1:: Sun Haven has really picked up a lot of steam lately. There's more to take care of as Archmage! I don't mind the extra work, but it's more than I'm accustomed to.
+Response2:: I don't have any time to even think about taking a vacation, but... if I could choose anywhere...[]Well, it's said that there are many ancient ruins in the Northern Region. Those would be pretty interesting to see.[]And I could test my fire power out against the cold harshness of the north!
+
+Option1a:: If anyone can do it, it's you! //Relationship LuciaP13 2 Happy
+Option1b:: You signed up for this when you became Archmage. //Relationship LuciaP13 -1 Mad
+
+Response1a:: Well, that's certainly a good point. It doesn't matter how much I have to do, I'll go above and beyond for everyone in Sun Haven.
+Response1b:: I am very aware of that, XX. I'm not sure why you felt a need to remind me.
+
+Option2a:: I didn't expect such an adventurous answer.
+Option2b:: That doesn't sound like a very relaxing vacation!
+
+Response2a:: Serving Sun Haven is my life's work, but if I ever have the chance, it would be fun to adventure in a new land and experience new things. Maybe one day.
+Response2b:: Serving Sun Haven is my life's work, but if I ever have the chance, it would be fun to adventure in a new land and experience new things. Maybe one day.
+
+End

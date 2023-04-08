@@ -1,0 +1,33 @@
+Camila Cycle 1
+
+Dialogue:: You're the new neighbor? Welcome to town.
+
+
+Option1:: How do you like it here?
+
+Option2:: What do you like to do for fun here?
+
+
+Response1:: Sun Haven's a fine town. I moved here a few years ago since houses were affordable. Saved me a lot of money!
+
+Response2:: I just enjoy the town. I don't like big city life, but walking around Sun Haven is perfect. Even the guards are nice to talk to. Except for Calvin...
+
+
+Option1a:: It sounds like you don't actually care that much for Sun Haven. //Relationship Camila1 -1
+
+Option1b:: It's lucky you moved here at the right time, then. //Relationship Camila1 1
+
+Response1a:: Don't jump to conclusions.
+
+Response1b:: It was luckier than you think - I would have been homeless if not for this place.
+
+
+Option2a:: What's wrong with Calvin?
+
+Option2b:: I agree, Sun Haven feels like the perfect size.
+
+Response2a:: Have you spoken to him? He's a major downer.
+
+Response2b:: Whoever planned the city must have put a lot of thought into it!
+
+End

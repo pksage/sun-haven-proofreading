@@ -1,0 +1,5 @@
+Sable One Liner 4
+
+Dialogue:: Whose colors do you like the most? It's okay, I won't tell my sisters.			
+
+End

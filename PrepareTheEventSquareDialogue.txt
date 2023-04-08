@@ -1,0 +1,29 @@
+Prepare the Event Square Quest
+
+Dialogue:: Hey XX, want to lend a hand to our construction effort? We're short on some stone... and funds.
+
+
+Option1:: What kind of construction are you doing?
+
+Option2:: Where can I get stone?
+
+Option3(Permanent):: How can I help?
+
+
+Response1:: We're finishing up the floor of this event space so we can get more merchants into town.[]We just need a little more stone and gold to pay our workers, then we're as good as done!
+
+Response2:: You can always find stone in the mine. Just head through the quarry and you can't miss it.
+
+Response3:: We're only 30 stones away from finishing up, but we also need a donation of gold to help pay our masons. Think you can you manage that?
+
+
+Option3a:: I'm on it! //Quest none PrepareTheEventSquareQuest
+
+Option3b:: I'm too busy right now.
+
+
+Response3a:: Hey now, that's a great attitude! (End)
+
+Response3b:: Too bad, we could really use a hand getting more merchants into town. Let me know if you change your mind. (End)
+
+End

@@ -1,0 +1,34 @@
+Darius Cycle 14
+
+Dialogue:: I'm a new man, XX. It's been a long time since I've felt so fearless!
+
+Option1:: You do seem to have a new energy about you. //Emote none Happy
+
+Option2:: When was the last time you felt this good?
+
+
+Response1:: I'm certain this strength is coming from you, XX. Thank you for being my support. You make me feel... frankly, invincible!
+
+Response2:: Why, it must have been when I was only a boy. My swearing-in as royal prince... I remember so clearly.[]The castle was filled with Demons from all across the land who came to pay respects to me. The crown settled on my head, and at the same time every person in the hall bent their knees to me.
+
+
+Option1a:: Don't forget, you're flesh and blood like the rest of us. //Relationship Darius14 -1 Sad
+
+Option1b:: Together, we <i>are</i> invincible, Darius. //Relationship Darius14 2 Happy
+
+Response1a:: Why must you dampen my celebration? I'm rejoicing - and you should be, too.
+
+Response1b:: Haha! You've captured my heart, XX. Nobody in this city - or this world, for that matter - has such influence over me as you have. For that, I feel blessed.
+
+
+Option2a:: That kind of power sounds intoxicating. //Emote none Happy
+
+Option2b:: I can't wait until you're king, Darius. //Emote none Happy
+
+Response2a:: Patience, my sweet XX. One day, a crown will be settled onto your fine head and you will receive the same honor.
+
+Response2b:: Patience, my sweet XX. One day, a crown will be settled onto your fine head and you will receive the same honor.
+
+
+End
+

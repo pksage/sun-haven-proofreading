@@ -1,0 +1,33 @@
+Iris Cycle 12
+
+Dialogue:: You've been on my mind ever since our date. XX, I'm really glad we got together.
+
+Option1:: Does it feel weird dating someone outside of Nel'Vari?
+
+Option2:: Have you been in a relationship like this before?
+
+
+Response1:: Well... yes, it does. I always thought my life would take place entirely inside of Nel'Vari. But I know that exploring new parts of the world can't be a bad thing.
+
+Response2:: I've been on some dates with a couple Elves in town but it isn't the same. I mean, you're from a whole different part of the world. There's so much we can learn from each other![]XX, I haven't been this excited about anything in a long time.
+
+
+Option1a:: Are you uncomfortable with it? //Emote none Embarrassed
+
+Option1b:: Is it at least a little bit exciting? //Emote none Happy
+
+Response1a:: Sure I am, but it's a good kind of uncomfortable. Like when I'm performing an experiment with unknown results.[]The thought of visiting you in Sun Haven is scary. I've never been that far outside of home. But... it's time for some new experiences! As long as you're with me, I mean.
+
+Response1b:: Oh, yes XX! I don't want to make you think I'm not interested. I'm truly ecstatic that we're together.[]It's just that the thought of visiting you in Sun Haven is scary. I've never been that far outside of home. But... it's time for some new experiences! As long as you're with me, I mean.
+
+
+Option2a:: We're going to learn so much together, Iris! //Relationship Iris12 2 Romantic
+
+Option2b:: Are you sure you're interested in me and not just my background? //Relationship Iris12 -1 Sad
+
+Response2a:: This might be weird, but I've never been more attracted to you than right now. Haha!
+
+Response2b:: Hm, that could very well be the dumbest thing I've heard you say. That's good! I was worried that you were a little too perfect.
+
+
+End

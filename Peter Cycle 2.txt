@@ -1,0 +1,33 @@
+Peter Cycle 2
+
+Dialogue:: Hey there farmer! Spending some time with the sea today?
+
+
+Option1:: I have to ask... about the crab.
+
+Option2:: What's your opinion on Withergate?
+
+
+Response1:: The what? Oh! You mean Shelby?
+
+Response2:: That's the city that's supposed to be dark all the time, right? I hear a lot of tall tales from port to port, but Withergate might be the tallest tale yet.
+
+
+Option1a:: That's an adorable name!  //Relationship Peter2 2
+
+Option1b:: You named it? //Relationship Peter2 -1
+
+Response1a:: She's the finest lady I ever sailed with. I was shipwrecked once and washed ashore. Shelby pinched me right on the cheeks and woke me up before the tide swept me out again.[]She's my savior, and my first mate!
+
+Response1b:: I named <i>her</i>, and she's the finest lady I ever sailed with.[]I was shipwrecked once and washed ashore. Shelby pinched me right on the cheeks and woke me up before the tide swept me out again.[]She's my savior, and my first mate!
+
+
+Option2a:: So you don't think it's true?
+
+Option2b:: You aren't worried about the monsters, then?
+
+Response2a:: I didn't say that. In my experience, it's best to be wary of these things, true or not.
+
+Response2b:: I didn't say that. In my experience, it's best to be wary of these things, true or not.
+
+End

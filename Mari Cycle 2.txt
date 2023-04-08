@@ -1,0 +1,33 @@
+Mari Cycle 2
+
+Dialogue:: Hey there sweetie-pie, what can we get ya today? 
+
+
+Option1:: What's good to eat here, anyway?
+
+Option2:: Actually, I was wondering how long you've run this tavern.
+
+
+Response1:: Oh you can't make a wrong choice. Ronald and I make mean meals and refreshin' drinks, either way. Menu's up at the counter if your stomach's grumblin'.
+
+Response2:: Oh you sweet thing, did you really come by just to chat? Bless your heart.[]Ronald and I renovated it... oh, must've been nearly twenty years ago now. Time sure flies!
+
+
+Option1a:: It smells great in here, I'm sure the food is delicious. 
+
+Option1b:: Those drinks really do look good. 
+
+Response1a:: Order up at the counter whenever you're ready, hun. And don't feel shy around the tip jar now!
+
+Response1b:: Well, order up at the counter whenever you're ready hun. We'll take care of ya, and don't feel shy around the tip jar now!
+
+
+Option2a:: No wonder it looks so old. //Relationship Mari2 -1
+
+Option2b:: You two have been incredibly successful! //Relationship Mari2 2
+
+Response2a:: Now XX, you might be mistakin' that for a compliment but that's now how I'm takin' it...
+
+Response2b:: Don't sound so surprised, hun! You seen us here firsthand, workin' our magic.
+
+End

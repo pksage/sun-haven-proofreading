@@ -1,0 +1,23 @@
+Caspian Cycle 1
+
+Dialogue:: You don't have to pretend you're not interested. Most everyone is.[]Come closer, have a chat.
+
+Option1:: Do you get a lot of attention, then?
+Option2:: I'll admit I've never met somebody like you.
+
+Response1:: Who, me? Well, <i>of course.</i>[]Are you really surprised? Just look at me, darling. I'm one in a million.
+Response2:: I'm a rare breed. There aren't many tiger centaurs in the forest. Heck, I just might be the only one!
+
+Option1a:: With fur like that, I can see why. //Relationship Caspian1 2
+Option1b:: Sounds like you're your own biggest fan. //Relationship Caspian1 2
+
+Response1a:: Of course, my fur is a curse as much as a blessing. Sometimes the attention can be too much. I've even been hunted for it.[]Oh but don't worry, Nel'Vari keeps me safe! Nivara guided me here herself with some <i>truly wild</i> telepathic power. She said she sensed the danger I was in, and that I could live here safely. And so I have!
+Response1b:: Of course, my fur is a curse as much as a blessing. Sometimes the attention can be too much. I've even been hunted for it.[]Oh but don't worry, Nel'Vari keeps me safe! Nivara guided me here herself with some <i>truly wild</i> telepathic power. She said she sensed the danger I was in, and that I could live here safely. And so I have!
+
+Option2a:: That sounds lonely.
+Option2b:: That doesn't make you sad?
+
+Response2a:: Actually, I prefer it this way. Now I get all the attention![]If another tiger centaur waltzed in here like some hot new thing, I simply do not know what I would do about it.
+Response2b:: It used to, until the Elves here started treating me like royalty. Now every day is a blessing under the World Dragon's protection!
+
+End

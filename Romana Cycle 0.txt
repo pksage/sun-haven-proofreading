@@ -1,0 +1,9 @@
+Romana Cycle 0
+
+Dialogue:: Why hello! Can I interest you in something sweet? Come on, don't be shy!
+
+Option1:: What kind of merchant are you?
+
+Response1:: I sell jams, honeys and all things sweet. Don't tell me you don't have a sweet tooth!
+
+End

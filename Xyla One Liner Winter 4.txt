@@ -1,0 +1,5 @@
+Xyla One Liner Winter 4
+
+Dialogue:: You mean that the Humans spend time <i>decorating</i>  for winter? That sounds like a horrible waste of time to me. I'd rather decorate for myself than some stuffy old tradition.
+
+End

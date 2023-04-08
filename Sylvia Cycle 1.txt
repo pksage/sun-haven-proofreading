@@ -1,0 +1,33 @@
+Sylvia Cycle 1
+
+Dialogue:: Welcome! Come to see the world's finest craftsmanship?
+
+
+Option1:: What makes this the world's finest?
+
+Option2:: What a cute deer!
+
+
+Response1:: Nobody compares to Elves when it comes to woodcraft, don't you know?
+
+Response2:: That's Telumbe, he's really smart. He knows the way back home to Nel'Vari by heart.
+
+
+Option1a:: I'm surprised to see such skill from Elves as young as you. //Relationship Sylvia1 -1
+
+Option1b:: It's because you live in the forest, right? //Relationship Sylvia1 2
+
+Response1a:: Just because we're young doesn't mean we aren't skilled! Why does everyone make that assumption?
+
+Response1b:: Sort of. We have a connection with trees, so we understand the wood better than anyone else.
+
+
+Option2a:: Can I pet him?  
+
+Option2b:: He sounds like a one-of-a-kind animal. 
+
+Response2a:: Sorry, I should get back to work and help Sylvius. He will get mad if I leave him alone too long - he's definitely the baby brother.
+
+Response2b:: He really is! Anyway, I should get back to work. Sylvius will get mad if I leave him alone too long - he's definitely the baby brother.
+
+End

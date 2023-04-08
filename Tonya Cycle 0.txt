@@ -1,0 +1,9 @@
+Tonya Cycle 0
+
+Dialogue:: You're the new neighbor Lucia told me about? I'm Tonya, glad to meet you.
+
+Option1:: Good to meet you too! I'm XX.
+
+Response1:: You're living on the farm, right? I'm the town's courier, so I'll be delivering your mail there.
+
+End

@@ -1,0 +1,9 @@
+Rel'Tar Cycle 0
+
+Dialogue:: Well-met, traveler. My name is Rel'Tar. I sell handcrafted crossbows, so if you're looking for arms then you've come to the right place.
+
+Option1:: Good to meet you, my name is XX.
+
+Response1:: Welcome to our village. It is rather impressive that you found your way here, I have to say.
+
+End

@@ -1,0 +1,33 @@
+Topi Cycle 1
+
+Dialogue:: It's nice having a new neighbor. I hope you like playing games!
+
+
+Option1:: What is your favorite thing about living here?
+
+Option2:: I bet you know a lot about Sun Haven. What should I know?
+
+
+Response1:: I like that I live right next to Pod. It makes playtime easier. Lucia is real pretty, too.[]Oh, don't tell anyone I said that!
+
+Response2:: The beach is the best place to find seashells. I have the biggest collection in town!
+
+
+Option1a:: I'm going to tell! //Relationship Topi1 -1
+
+Option1b:: I won't tell. //Relationship Topi1 2
+
+Response1a:: Noooo! We won't be friends if you do!
+
+Response1b:: Oh good... My friends would never stop making fun if they found out.
+
+
+Option2a:: What do you do with them? 
+
+Option2b:: I'm going to make an even bigger collection!
+
+Response2a:: Oh, nothing I guess. They're just pretty, is all.
+
+Response2b:: Yeah right - you're on!
+
+End

@@ -1,0 +1,23 @@
+Jun Cycle P11
+
+Dialogue:: Hello again. How's your day? I just got out of a session with a client, myself.
+
+Option1:: What did you and your client talk about?
+Option2:: How many people do you work with in Sun Haven?
+
+Response1:: Now that I can never tell you! Sorry, XX. It's really nothing personal, but I can not discuss clients with other people. It's all very private, you know.[]I apologize if it comes off as strict, but I take that part of my job incredibly seriously.
+Response2:: Hm, well that's something I think would be okay to answer.[]I work with lots of people, to put it broadly. Some of my clients I see weekly, but some I've only see once or twice as they work through an issue.[]It doesn't matter how often they need me, though. I'm always here for whenever they do.
+
+Option1a:: I understand, don't worry about it. //Relationship JunP11 2 Happy
+Option1b:: Boring. I wanna hear the juicy details. //Relationship JunP11 -1 Mad
+
+Response1a:: Thank you. You won't believe how pushy some people can be about wanting to know who I talk to and about what![]Heh, people are just naturally curious, though.
+Response1b:: I understand you might be curious, XX, but I can not violate a client's privacy. I admit I'm a bit disappointed you'd even ask...
+
+Option2a:: Where do you find the time to make it all work? //Emote none Happy
+Option2b:: Your schedule must be all over the place. //Emote none Embarrassed
+
+Response2a:: Sometimes I'm not even so sure! But it's all part of what I do. I have to find time for a client if I want to help them, after all.
+Response2b:: It's true, I have a bit of a messy plate most of the time. But it's worth it, in order to accommodate everyone.
+
+End

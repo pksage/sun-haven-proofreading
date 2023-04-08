@@ -1,0 +1,33 @@
+Donovan Cycle 12
+
+Dialogue:: These days all I want to do is hang with you instead of just doing my own thing. I think you broke me, XX!
+
+Option1:: You know, I'm surprised you're doing so well in a real relationship.
+
+Option2:: Is Donovan... losing his edge?? //Emote none Embarrassed
+
+
+Response1:: That sounds almost like a compliment, but also kind of like an insult. I know you're not trying to hurt my feelings, right?
+
+Response2:: What? No way!![]There's nothing wrong with wanting a little time to relax - juuuust a little! But maybe you don't get a lot of time for that, being a farmer. That's rough!
+
+
+Option1a:: I just mean, it seems like this is new to you. //Emote none Embarrassed
+
+Option1b:: I'm only saying that I appreciate the effort. //Emote none Embarrassed
+
+Response1a:: Aw man, is it that obvious? I was trying to play it cool.[]Yeah, being in a real relationship is kind of weird for me. But I'm having fun!
+
+Response1b:: Aw man, is it that obvious? I was trying to play it cool.[]Yeah, being in a real relationship is kind of weird for me. But I'm having fun!
+
+
+Option2a:: I like the hard work. //Relationship Donovan12 2 Happy
+
+Option2b:: You're right, it's terrible. //Relationship Donovan12 -1
+
+Response2a:: You would say something like that. We have some real different ideas about how to make a living, that's for sure.[]But if we're both happy then who cares!
+
+Response2b:: If you hate it that much then you should make a change. Who says you have to be a farmer? Go exploring or... I don't know, fishing or something.
+
+
+End

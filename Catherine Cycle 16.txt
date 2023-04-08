@@ -1,0 +1,23 @@
+Catherine Cycle 16
+
+Dialogue:: Look at us, married! It's like a little story book - The Farmer and the Witch.[]Eh, maybe not.
+
+Option1:: I think "The Farmer and the Witch" sounds cute. //Emote none Happy
+Option2:: Is marriage everything you thought it would be? //Emote none Happy
+
+Response1:: Hehe, oh yeah? Then I guess this is the first chapter of our story together.
+Response2:: You know, I never thought about it that much. I only wanted to be in love and connect with someone on a deep level.[]I think I really have that with you, XX. So I suppose marriage really is everything I thought it would be! 
+
+Option1a:: Let's make it's a fun story! //Emote none Romantic
+Option1b:: It will be the first of many. //Emote none Romantic
+
+Response1a:: Oh, XX. I was lucky to marry someone like you. I knew it all along. 
+Response1b:: Oh, XX. I was lucky to marry someone like you. I knew it all along. 
+
+Option2a:: My connection to you is unlike anything else. //Relationship Catherine16 2 Romantic
+Option2b:: I don't really get what you mean. //Relationship Catherine16 -1 Sad
+
+Response2a:: That makes me so happy to know, XX. I knew you were the one I was meant to be with. 
+Response2b:: Well, I can't expect everything about our marriage to be perfect. It's fine if you don't quite get what I mean, though I really wish you did.
+
+End

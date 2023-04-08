@@ -1,0 +1,33 @@
+Liam Cycle 2
+
+Dialogue:: Hello there, farmer. Is everyone calling you farmer now? I could just call you XX if you prefer.[]So... oh, did you want to talk?
+
+Option1:: Are you from Sun Haven, Liam?
+
+Option2:: What do you think about the Withergate rumors?
+
+
+Response1:: No, I moved here from the north. "The old and cold north."[]That's, um, what they call it. In the north. Because it's so cold there.[]Anyway, I'm glad to be out of the north. The girls and I really just needed somewhere warmer, both in temperature and community.
+
+Response2:: I'm not sure what to think, so I just try not to think about it at all. If something happens, I'm sure the army will have it under control. Probably.
+
+
+Option1a:: Moving must have been hard on the girls. //Relationship Liam2 -1 Sad
+
+Option1b:: You made the right call bringing them here. //Relationship Liam2 2 Happy
+
+Response1a:: It was, but we had to do it. I hope you don't think I'm a bad brother because of that.
+
+Response1b:: I'm always doubting my decision, so a little affirmation goes a long way right now... thanks, XX.
+
+
+Option2a:: It's lucky that the army is in Sun Haven.
+
+Option2b:: Are you glad the army is here?
+
+Response2a:: Sure it's impressive and safe and stuff, but it kind of freaks me out more than if they weren't here at all.
+
+Response2b:: Sure it's impressive and safe and stuff, but it kind of freaks me out more than if they weren't here at all.
+
+
+End

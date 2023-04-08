@@ -1,0 +1,9 @@
+Batrick Cycle 0
+
+Dialogue:: Huh? What you want from Batrick?
+
+Option1:: Hi there... who are you?
+
+Response1:: Batrick is <i>batsmith</i>. Learn smithing art of bat monsters, <i>skreeeee</i>. BATSMITH! Sell batsmithed goods... but only for <color=#39CCFF>candy corn</color>!
+
+End

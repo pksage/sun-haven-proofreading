@@ -1,0 +1,33 @@
+Rex Cycle 2
+
+Dialogue:: Hello again! Spare time for a chat?
+
+
+Option1:: Have you been to the caves around here?
+
+Option2:: What do you do when you're not underground?
+
+
+Response1:: Oh, of course. They're fantastic, full of useful ore and beautiful rock formations.[]I haven't had the chance to get all the way through them, but that's my first goal before I move on to the next town.
+
+Response2:: For fun, I like to relax in whatever tavern is nearest. Taverns, pubs, watering holes - these places keep me from getting lonely on the road.
+
+
+Option1a:: All the way to the bottom? Is that possible?
+
+Option1b:: You take this really seriously!
+
+Response1a:: Of course! I like to say, anything is possible with perseverance and rations. It helps me remember to pack enough food.
+
+Response1b:: Of course! I can't claim to be the best miner in the world without conquering every mine. For now I just say I'm "almost" the best miner in the world, but that doesn't sound as impressive.
+
+
+Option2a:: You're a nice guy. I bet you make lots of friends! //Relationship Rex2 2
+
+Option2b:: Nobody makes real friends in a tavern. //Relationship Rex2 -1
+
+Response2a:: That's mighty nice of you to say! Sometimes it's less about making friends and just about being around people.[]Too much time underground and sometimes I forget there's a whole world up here!
+
+Response2b:: Maybe not with that attitude.[]Even if they're just your pal for a night, it's nice to make conversation - even with strangers.
+
+End

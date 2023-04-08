@@ -1,0 +1,32 @@
+Xyla Cycle 12
+
+Dialogue:: Hey XX! We're the talk of the town, have you heard?
+
+Option1:: What do you mean, talk of the town?
+
+Option2:: So do you still think of me as low-class?
+
+
+Response1:: Everyone knows we're together now. I'm a high-profile figure, you know. Don't get too worked up over it, rumors die as quickly as they're born.
+
+Response2:: Oh, definitely. Come on XX, just because you're dating me doesn't mean you're immediately part of the elite. You have to earn your way to the top!
+
+Option1a:: Who cares? Let them talk. //Relationship Xyla12 2 Happy
+
+Option1b:: I don't really like people talking about me. //Relationship Xyla12 -1 Mad
+
+Response1a:: That's exactly the right attitude. I thought you would never rise above your class, but maybe you have what it takes after all!
+
+Response1b:: Aw, I didn't realize you were such a sensitive little baby! Just let it go, XX.
+
+
+Option2a:: Maybe I don't want to be part of the "elite."
+
+Option2b:: I'll get there one day!
+
+Response2a:: That's what everyone says until they get their shot, then they always take it. You'd be foolish not to take your shot, XX.
+
+Response2b:: Maybe, if you play your cards right. Anyway, you've surprised me before. I'd bet you have more surprises up your sleeve.
+
+
+End

@@ -1,0 +1,5 @@
+Iris One Liner Married 6
+
+Dialogue:: Let's go foraging for spring flowers later, XX. You would come with me, right?
+
+End

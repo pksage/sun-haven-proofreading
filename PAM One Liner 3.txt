@@ -1,0 +1,5 @@
+PAM One Liner 3
+
+Dialogue:: Will you be the first player to earn the title of Beefcake?
+
+End

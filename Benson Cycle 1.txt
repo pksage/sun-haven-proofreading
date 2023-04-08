@@ -1,0 +1,32 @@
+Benson Cycle 1
+
+Dialogue:: "If we ain't collecting honey, we ain't makin' money". That's what my grandma always says, at least.
+
+
+Option1:: Who is your grandma?
+
+Option2:: Why did you become a beekeeper?
+
+Response1:: Shucks, her name's Edna. She's one of the two matriarchs of our whole farm.
+
+Response2:: I loved honey when I was a kid. I figured why not join the family business? It's a lot more fun than jam making, that's for sure.
+
+
+Option1a:: Why are there two matriarchs? 
+
+Option1b:: Does your farm really need TWO matriarchs?
+
+Response1a:: Us rabbit Amari always have big families, I guess it would be too much work for only one to handle! So we got two, yup.
+
+Response1b:: Us rabbit Amari always have big families, I guess it would be too much work for only one to handle! So we got two, yup.
+
+
+Option2a:: I love honey, too!
+
+Option2b:: Jam making is more fun.
+
+Response2a:: Hey, who <i>doesn't</i>  love honey? It goes great with everything! //Relationship Benson1 1
+
+Response2b:: Yup, no thanks. Mashing and straining all that fruit is enough to turn you mad. Take Darwin, for example! //Relationship Benson1 -1
+
+End

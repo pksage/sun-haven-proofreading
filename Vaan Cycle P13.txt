@@ -1,0 +1,23 @@
+Vaan Cycle P13
+
+Dialogue:: I've been making strides in my work with Nivara lately. You should spend some time with the World Dragon if you're ever feeling lost, spiritually.
+
+Option1:: I thought you already mastered your magic?
+Option2:: Are you very spiritual, Vaan?
+
+Response1:: Sure I have, but Nivara still has plenty to teach. Her wisdom spans farther than just magic, anyway.[]I'm talking about spirituality, XX! You must be slightly familiar with the concept.
+Response2:: Heh, you still have a thing or two to learn about Elven society, XX.[]Spirituality is part of every Elf's life on some level. It's important for my magic, so I focus on it quite a bit.
+
+Option1a:: Sure I am!  //Emote none Happy
+Option1b:: I am not, actually.
+
+Response1a:: Oh yeah? That's great! I've wondered if the Sun Dragon taught similar lessons. It's good knowing that Nivara isn't the only source of wisdom in the world.
+Response1b:: Oh, no? I've wondered if the Sun Dragon taught you that kind of stuff along with the usual blessing. I guess not all dragons can dispense wisdom like Nivara.
+
+Option2a:: Spirituality doesn't help me with my magic, though. //Relationship VaanP13 -1 Mad
+Option2b:: That explains why your magic is so strong. //Relationship VaanP13 2 Happy
+
+Response2a:: XX, your ignorance is showing. Your spirit comes into play with every use of magic, no matter if you realize it or not.
+Response2b:: It's certainly part of the reason, yes. You could probably have a similar experience if you focused more on your own spirituality!
+
+End

@@ -1,0 +1,23 @@
+Wornhardt Cycle P13
+
+Dialogue:: Hey there, XX. I could go for a good mango right about now.
+
+Option1:: Mango?
+Option2:: How's Charlie doing?
+
+Response1:: Oh, maybe you don't know. It's a type of fruit that grows all over the Southern Islands. I used to be able to eat them every day, if I wanted.
+Response2:: Oh, so you remembered my little pet mouse, huh? Heh, no one usually bothers to ask me about Charlie. He's doing just fine, actually. As far as mice go, at least.[]Most people consider mice to be a pest, but that's such a limited way of thinking! Charlie doesn't think of himself as a pest, you know.
+
+Option1a:: What's the best replacement for a mango that Sun Haven's got?
+Option1b:: Could I grow a mango?
+
+Response1a:: Hrm, the best replacement for a mango? I guess apples come the closest, but they're not quite the same.
+Response1b:: I'm not so sure of that. They only grow on trees in very warm climates. I've never seen a mango tree this far north, at least.
+
+Option2a:: It's just a mouse, you could've gotten rid of it. //Relationship WornhardtP13 -1 Mad
+Option2b:: You're such a softie. //Relationship WornhardtP13 2 Embarrassed
+
+Response2a:: Nope. Not my style, XX. It was Charlie's house first, that's how it is. I don't need to explain myself more than that. Though I wonder, would Charlie like mango?
+Response2b:: What can I say? Just because Charlie is a mouse doesn't mean he's less important than I am! Though I wonder, would Charlie like mango?
+
+End

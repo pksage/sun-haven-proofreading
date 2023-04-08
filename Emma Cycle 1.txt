@@ -1,0 +1,33 @@
+Emma Cycle 1
+
+Dialogue:: Hi! You're our new neighbor!
+
+
+Option1:: What's something funny about your brother Liam?
+
+Option2:: Do you like it in Sun Haven?
+
+
+Response1:: Funny? Like how Liam makes funny faces at us when we go to bed?
+
+Response2:: Sun Haven is fun. I play with Topi and Pod at school. Mister Jun gives us candy when we do good!
+
+
+Option1a:: Is he good at making faces?
+
+Option1b:: Does that make you sleepy?
+
+Response1a:: He makes the best funny faces!
+
+Response1b:: Only when we're done with laughing. Sometimes we laugh a loooong time!
+
+
+Option2a:: I bet you get lots of candy. //Relationship Emma1 2
+
+Option2b:: Candy is bad for you. //Relationship Emma1 -1
+
+Response2a:: I do!! Hehehehe.
+
+Response2b:: Nuh-uh, you just want my candy for yourself. I'm telling Liam that you want to take my candy away!
+
+End

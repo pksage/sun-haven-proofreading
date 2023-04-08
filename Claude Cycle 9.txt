@@ -1,0 +1,33 @@
+Claude Cycle 9
+
+Dialogue:: Oh![]Sorry XX, I didn't see you there. I'm glad it's just you and not anyone else. 
+
+Option1:: Is there anyone in Sun Haven you like to spend time with?
+
+Option2:: Claude... you're not dating anyone, right? //Emote none Embarrassed
+
+
+Response1:: Aside from you, the answer's no. Some people are a bit more tolerable, I guess. But I don't think that's what you mean.
+
+Response2:: Huh? Why, um, do you assume that?[]Eh... forget it. Of course I'm not.
+
+
+Option1a:: I'm glad you have somebody, even if it's just me. //Relationship Claude9 2 Happy
+
+Option1b:: It's unhealthy for you to be so antisocial. //Relationship Claude9 -1
+
+Response1a:: "Just you" is more than enough for me, XX.
+
+Response1b:: Calling me out on how antisocial I am doesn't exactly put me in the mood for making friends, XX.
+
+
+Option2a:: I was just wondering. //Emote none Sad
+
+Option2b:: Will you go out with me? //Quest none ClaudeHangout1Quest
+
+Response2a:: Okay...
+
+Response2b:: Oh... Are you sure? I don't want you to feel obligated. If you don't change your mind, meet me in front of my house at 5:00 pm tomorrow.
+
+
+End

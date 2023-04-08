@@ -1,0 +1,34 @@
+Anne Cycle 6
+
+Dialogue:: What do you think of my necklace? I want people to think I look rich, but not too rich. I think I nailed it!
+
+
+Option1:: Who do you actually like to hang out with in Sun Haven, anyway?
+
+Option2:: You look like a queen in a storybook! Do you ever read stories like that?
+
+
+Response1:: I don't know if I really "hang out" with anyone, but I've had a few good conversations with the doctor. Wornhardt is a good man, even if he doesn't know it.
+
+Response2:: I don't read a lot of book with characters in them. I mostly like to read books about places.[]It started as a way to get to know different cities that I was traveling to but, believe it or not, I actually enjoy it now! I know, sounds boring, huh?[]Well, there's a lot of history out there. And some of it is actually pretty fascinating!
+
+
+Option1a:: What do you mean by that?
+
+Option1b:: You don't like to spend time with anyone here? 
+
+Response1a:: I'm not one to gossip, but he's still working through some stuff from his past. If you really want to know, go talk to him about it. But don't expect him to open up right away.
+
+Response1b:: I see plenty of people at work all day. Then, I hit the tavern. There's always someone there to talk with.[]Ronald and Mari run a good business, so I'll chat with them. Heck, they probably know me better than anyone - but you're a close second at this point!
+
+
+Option2a:: Interesting! You must know things about a lot of different places. //Relationship Anne6 2 Happy
+
+Option2b:: That sounds... yeah, kind of boring. //Relationship Anne6 -1
+
+Response2a:: Sure I do. Did you know this town began as an archeological dig site? Sun Haven has an interesting history. There's a book in the library that tells the whole story. You should read up on it!
+
+Response2b:: Hey, you're the one who started a conversation about reading. That's on you. Anyway, a lot of the stuff I've learned has helped me in my business.[]For instance, don't try to sell earmuffs in the Eastern Region. They have a folk tale where somebody wears earmuffs for too long and their soul suffocates... or something like that.
+
+
+End

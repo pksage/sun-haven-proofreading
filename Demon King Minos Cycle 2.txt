@@ -1,0 +1,33 @@
+Demon King Minos Cycle 2
+
+Dialogue:: Ah, my newest citizen. What brings you before me today?
+
+
+Option1:: I want to know your family's history, my king.
+
+Option2:: My king, who is your most trusted advisor here?
+
+
+Response1:: My bloodline goes back thousands of years. I haven't enough time to give you a complete history, so I will tell you about my father.[]My father, the king before me, was Aster. Demon King Aster created Castle Withergate as a home for all demonkind. All that recognized my family's supremacy, that is.
+
+Response2:: Hm? I'm surprised you feel the need to ask. Surely you know that my son, Darius, acts as one of my advisors. I trust him over all others. Blood is thicker than water, you know.
+
+
+Option1a:: Was he a good king? //Relationship DemonKing2 -1
+
+Option1b:: He must have been a mighty ruler. //Relationship DemonKing2 2
+
+Response1a:: You <i>dare</i>  suggest that my father was an unfit leader? Like all in my bloodline, he was born to lead peons such as yourself.[]Next time, you will be sure to remember whose castle you're polluting with your insults.
+
+Response1b:: Indeed. His wisdom and fearless leadership kept the Demons of Withergate Castle comfortable, safe, and happy.
+
+
+Option2a:: Then who's your most trusted advisor, not counting Darius?
+
+Option2b:: Does Darius do that good of a job?
+
+Response2a:: That's Prince Darius to you, peasant. Show some respect in my throne room.[]Other than Darius, I must choose Cordelia. Xyla has an enthusiasm and power that is valuable and rare, but she is too unpredictably wild. A king needs reliability on his council. 
+
+Response2b:: That's Prince Darius to you, peasant. Show some respect in my throne room.[]My son may not do the work of Cordelia or Xyla, but that is only because he carries the burden of royalty. Royalty has work done for them, not by them.
+
+End

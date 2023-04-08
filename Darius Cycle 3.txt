@@ -1,0 +1,33 @@
+Darius Cycle 3
+
+Dialogue:: So Withergate's wannabe citizen returns to pester the prince. Don't you know how busy I am?
+
+Option1:: Hopefully you have time to relax in your daily work as prince. //Emote none Mad
+
+Option2:: The responsibilities of a prince must be a burden.
+
+
+Response1:: Unsurprisingly, you continue to show your ignorance. I work when I want and take what free time I please, as a prince should.
+
+Response2:: I consider them a privilege. That's the differences between us - we're simply cut from a different cloth.
+
+
+Option1a:: I can only imagine what the prince does with his free time.
+
+Option1b:: I envy you, my prince.
+
+Response1a:: What I enjoy more than anything is observing my citizens. Sometimes I walk through my streets and give my goodwill to the loyalists. It's important to maintain my presence as prince.
+
+Response1b:: What I enjoy more than anything is observing my citizens. Sometimes I walk through my streets and give my goodwill to the loyalists. It's important to maintain my presence as prince.
+
+
+Option2a:: We aren't so different. //Relationship Darius3 -1 Mad
+
+Option2b:: I long to understand the world you live in. //Relationship Darius3 2
+
+Response2a:: Brash fool... The dirt on my heels has seen greater luxury than you will in your entire life.
+
+Response2b:: Perhaps you will get a taste of my world one day. If you work hard and earn your place at my table.
+
+
+End

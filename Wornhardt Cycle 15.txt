@@ -1,0 +1,23 @@
+Wornhardt Cycle 15
+
+Dialogue:: Your smile is bright as the sun, XX. I hope your day has been good so far!
+
+Option1:: I only smile like this when I see you!
+Option2:: Are you happy in our relationship, Wornhardt?  //Emote none Romantic
+
+Response1:: You're such a cheeseball! I've actually heard of studies done on smiles. The idea is, people who smile more are healthier and live longer.
+Response2:: Am I... XX, I'm the happiest I've been! If we were stuck together for the rest of our lives, it wouldn't be long enough![]Oh, heh. I didn't mean to suggest anything by that...
+
+Option1a:: If that's true, then we're going to live a looong time. //Emote none Happy
+Option1b:: That doesn't sound very scientific.
+
+Response1a:: I'll have to make sure you get your daily dose!
+Response1b:: Maybe not. I honestly can't vouch for the credibility of the study, but it's a fun thought anyway.[]Can you imagine if I wrote a prescription for smiles?
+
+Option2a:: I could spend the rest of my life with you, too. //Relationship Wornhardt15 2 Happy
+Option2b:: It's difficult for me to picture anything lasting that long... //Relationship Wornhardt15 -1 Sad
+
+Response2a:: I don't mean to ruin the moment, but we are talking about marriage, right? Sometimes I can be a bit oblivious to social cues, heh.[]In any case, I'm ready whenever you're ready.
+Response2b:: Oh, sure, I see. Maybe you're not ready to take that step, XX - and that's fine. But whenever you are... I'll be here.
+
+End

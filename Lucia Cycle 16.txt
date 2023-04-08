@@ -1,0 +1,23 @@
+Lucia Cycle 16
+
+Dialogue:: First I was blessed, then I became Archmage, and now I'm married... More and more, it seems like my fate is simply tied to Sun Haven.
+
+Option1:: It's a good thing you like it here!
+Option2:: Do you really believe in fate?
+
+Response1:: XX, that is being deceptively modest. I wouldn't say I simply like it here - Sun Haven will forever be my home. I am in love with this place!
+Response2:: I certainly do, XX. It's important for a leader to believe in a grand purpose. Otherwise, why should she bother leading in the first place?
+
+Option1a:: It has been good to you, huh?
+Option1b:: You have a lot of memories here.
+
+Response1a:: To be completely candid, I meant it when I said my fate is tied to this town. I truly believe that, were I to leave Sun Haven, then I would be leaving behind all the goodness in my life.
+Response1b:: To be completely candid, I meant it when I said my fate is tied to this town. I truly believe that, were I to leave Sun Haven, then I would be leaving behind all the goodness in my life.
+
+Option2a:: Leadership gets you power. //Relationship Lucia16 -1 Mad
+Option2b:: That's a thoughtful point, Lucia. //Relationship Lucia16 2 Happy
+
+Response2a:: Any person who craves power merely for the sake of being powerful is weak in the mind.
+Response2b:: Thank you, dear XX. Without purpose, we would all be like sparks in the air - aimless, and quick to burn out.
+
+End

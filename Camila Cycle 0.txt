@@ -1,0 +1,9 @@
+Camila Cycle 0
+
+Dialogue:: You're the new neighbor? Welcome to town.
+
+Option1:: I'm XX, nice to meet you.
+
+Response1:: My name's Camila. Oh, and nice meeting you too.
+
+End

@@ -1,0 +1,5 @@
+Jun One Liner 5
+
+Dialogue:: I wish I could stay to chat with you, really. Unfortunately, I must be going.
+
+End

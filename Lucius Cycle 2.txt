@@ -1,0 +1,23 @@
+Lucius Cycle 2
+
+Dialogue:: Hello again, XX! I didn't see you for a second.
+
+Option1:: You look deep in thought.
+Option2:: So... Opal and you work together?
+
+Response1:: So I am, XX. I was reflecting on some things. I'm used to being able to think for long stretches of time without being bothered. I apologize if it seemed like I was ignoring you.
+Response2:: Ah, yes. Opal is another attendent to the moon. We do work together, though we tend to work in silence. I think I've spoken to Opal... eh, maybe three times? She's a nice girl. I love our chats.
+
+Option1a:: Why are you used to something like that?
+Option1b:: You didn't come off as rude. Just... a deep thinker.
+
+Response1a:: Well, as I told you before, I work as an attendant to the moon. This means I'm active mostly at night, when everyone else is asleep. It's serene, but a touch lonely. Plenty of time to think, though![]Plus, even in the daytime, not many people tend to approach me. We both live in the same Nel'Vari, but sometimes I feel like people treat me as if I'm from another world...
+Response1b:: Well, as I told you before, I work as an attendant to the moon. This means I'm active mostly at night, when everyone else is asleep. It's serene, but a touch lonely. Plenty of time to think, though![]Plus, even in the daytime, not many people tend to approach me. We both live in the same Nel'Vari, but sometimes I feel like people treat me as if I'm from another world...
+
+Option2a:: Working in silence sounds peaceful.
+Option2b:: Working in total silence sounds boring.
+
+Response2a:: It is, yes. Very much so. It gives me lots of time to think to myself. Self-reflection is beautiful and important. Plus, making up arguments with myself, which is also always fun.
+Response2b:: Now, mind you that I didn't say we work in total silence. There is so much to hear and see in the Nel'Varian night. I hoped you would have understood that, XX.
+
+End

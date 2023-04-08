@@ -1,0 +1,9 @@
+Bloberta Cycle 0
+
+Dialogue:: Huh? A customer? Oh. What do you want?
+
+Option1:: Hi! What is this place for?
+
+Response1:: Good question... uhhh... let me check...[]...Oh right, <i>potions</i>. Yeah, I'm selling potions, I guess. Though at this shop we only accept <color=#39CCFF>candy corn</color> as a form of payment...[]Don't ask me why, I just work here. I'm not in charge or whatever.
+
+End

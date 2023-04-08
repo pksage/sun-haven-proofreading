@@ -1,0 +1,33 @@
+Arianella Cycle 1
+
+Dialogue:: Hello again, XX was it? I thought you might be back! It's great to see you again. 
+
+
+Option1:: Have you been a seamstress your whole life?
+
+Option2:: Are you from Withergate?
+
+
+Response1:: I learned the skill as a young girl, but it hasn't been my only occupation for my whole life. Before I found Withergate, I used to perform in a travelling circus. I was a tap dancer!
+
+Response2:: Nobody is really "from" Withergate, silly! Everyone just finds their way here one way or another, like how you found your way into my shop today.
+
+
+Option1a:: Your act must have been outstanding! //Relationship Arianella1 2
+
+Option1b:: The circus? That makes a lot of sense. //Relationship Arianella1 -1
+
+Response1a:: You're such a dear! And you're right, too. Nobody else dancing tap could keep up with me!
+
+Response1b:: I wasn't there as a "freak" or anything so demeaning, you know. I have real talent on stage. Oh well, you wouldn't know talent if it waved six hands in front of your face.
+
+
+Option2a:: Do you like it here?
+
+Option2b:: Do you think you'll stay here forever?
+
+Response2a:: Withergate is a nice enough city. I only wish it were cleaner, but that's a small price to pay for a place where all monsterfolk can live peacefully. There's no place in the world like Withergate!
+
+Response2b:: Withergate is a nice enough city. I only wish it were cleaner, but that's a small price to pay for a place where all monsterfolk can live peacefully. There's no place in the world like Withergate!
+
+End

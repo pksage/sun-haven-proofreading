@@ -1,0 +1,33 @@
+Solon Cycle 2
+
+Dialogue:: Hey, farmer. Your face is looking a little sun-kissed.
+
+
+Option1:: What do you do when you're not working the forge?
+
+Option2:: Have you heard of Withergate?
+
+
+Response1:: What's it matter to you?
+
+Response2:: The monster city, yeah I've heard of it. Haven't seen it though. Can't be sure anyone has.
+
+
+Option1a:: I was just asking. 
+
+Option1b:: I guess it doesn't.
+
+Response1a:: Hm. I walk around Sun Haven, get some clean air in my lungs. Then I go home. Is that what you wanted to know?
+
+Response1b:: Hm. I walk around Sun Haven, get some clean air in my lungs. Then I go home. Is that what you wanted to know?
+
+
+Option2a:: Aren't you worried about it? //Relationship Solon2 -1
+
+Option2b:: No sense in worrying, then. //Relationship Solon2 2
+
+Response2a:: What are you, some kind of sissy? Get your act together. 
+
+Response2b:: Yep, that's how I see it. Even if there <i>is</i> a city of monsters out there, they don't seem to care much about us.
+
+End

@@ -1,0 +1,23 @@
+Claude Cycle 17
+
+Dialogue:: I wrote a bit of music the other day, my muse. I'm not sure if it's very good, but strangely I'm not concerned with its quality. It was simply fun to compose.
+
+Option1:: Composing music for <i>fun</i>?! //Emote none Happy
+Option2:: I'm happy you're starting to enjoy life more.
+
+Response1:: Heheh, is it really that crazy a thought for me? I just feel so elated these days, it's as if I'm finding new joy in everything, including my music.[]You wouldn't happen to know why that is, would you, my muse? 
+Response2:: I owe that to you, my muse. Without you in my life, all I'd see is the same mundane future ahead of me. I owe everything to you.
+
+Option1a:: Nope. I couldn't tell you! //Emote none Romantic
+Option1b:: Hm. Did you start sleeping on a new pillow? //Emote none Romantic
+
+Response1a:: XX, I don't think I can ever put into words how happy I am with you. Perhaps I will have to express it through a new concerto. 
+Response1b:: XX, I don't think I can ever put into words how happy I am with you. Perhaps I will have to express it through a new concerto. 
+
+Option2a:: I'm always going to be here for you, Claude. //Relationship Claude17 2 Romantic
+Option2b:: You shouldn't exaggerate like that. //Relationship Claude17 -1 Sad
+
+Response2a:: I'm... so happy to hear that, XX. I love you. 
+Response2b:: I didn't exaggerate anything, XX. You truly mean that much to me. Why don't you believe me?
+
+End

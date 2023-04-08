@@ -1,0 +1,5 @@
+Carson One Liner 5
+
+Dialogue:: Careful while you're here. It's easy to get a sting... believe me.			
+
+End

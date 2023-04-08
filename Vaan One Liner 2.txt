@@ -1,0 +1,5 @@
+Vaan One Liner 2
+
+Dialogue:: I'd usually love to chat, but I have to fly. We'll talk soon, I promise.				
+
+End

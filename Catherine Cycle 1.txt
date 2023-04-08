@@ -1,0 +1,33 @@
+Catherine Cycle 1
+
+Dialogue:: Why hello again, farmer. Good to see you're getting to know our town.[]Do you care to chat for a bit?
+
+Option1:: I wanted to say, Catherine is a lovely name.
+
+Option2:: Last time we talked you said you were a witch.
+
+
+Response1:: And here I thought I was the charmer! I'm glad to see our newest new neighbor isn't just a stick in the mud.
+
+Response2:: That's right. Don't tell me that concerns you? Certainly you've already met Lucia.[]She doesn't practice witchcraft like I do, but she is Blessed. If her internal connection with magic didn't put you off, I'm sure you won't mind my witchcraft.
+
+
+Option1a:: What do you mean, newest new neighbor?
+
+Option1b:: Did you expect me to be a stick in the mud? //Emote none Happy
+
+Response1a:: I only just met the other new arrival, Lynn. Sweet little thing, but not very outspoken.[]Nothing against her, but I need someone to keep up with the conversation you know? I feel like such a blabbermouth when someone doesn't talk as much as me.
+
+Response1b:: Not really. It's just that most farmers I've met are not quite as... spirited as you. I promise I mean that in a good way!
+
+
+Option2a:: So you practice dark magic? //Relationship Catherine1 -1 Mad
+
+Option2b:: I don't mind it one bit! //Relationship Catherine1 2 Happy
+
+Response2a:: I'll only say this once so don't forget - dark magic is for dark wizards. Witches - like me! - practice magic without hurting other people or animals. Got it?
+
+Response2b:: I don't even need to read your aura to see that we will get along famously.
+
+
+End

@@ -1,0 +1,9 @@
+Dwayne Cycle 0
+
+Dialogue:: Hm? Help you with somethin'?
+
+Option1:: My name's XX, nice to meet you!
+
+Response1:: Huh? What do I care?
+
+End

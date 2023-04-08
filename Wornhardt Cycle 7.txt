@@ -1,0 +1,33 @@
+Wornhardt Cycle 7
+
+Dialogue:: Hello there, farmer. Do you hear the birds today? There are so many songs to listen to![]Anyway, what's on your mind?
+
+Option1:: Are you seeing anybody in town, Wornhardt?
+
+Option2:: Wornhardt, I want to ask you... on a date!
+
+
+Response1:: Me? Oh, no. I mean, some people have certainly caught my eye, but I don't really put myself "out there" if you know what I mean.
+
+Response2:: Oh! Haha, that's the last thing I was expecting! It sounds fun to me, I guess I'm just a little surprised that you're interested.
+
+
+Option1a:: You know, you could change that whenever you want! //Relationship Wornhardt7 2 Happy
+
+Option1b:: You don't seem like the type of person to do that. //Relationship Wornhardt7 -1 Sad
+
+Response1a:: Oh! Really, you think? I guess I am a doctor, after all. Who knows, maybe now is the right time for me to get "out there."
+
+Response1b:: I'm... not sure how to take that?
+
+
+Option2a:: So, what do you say? //Quest none WornhardtHangout1Quest
+
+Option2b:: Maybe it's not the best idea after all.
+
+Response2a:: XX, of course I'd like to go out with you! Why don't we meet out front of the hospital at 10:00 am tomorrow?
+
+Response2b:: Oh no? Hm, that's disappointing. But, I'm glad you thought it through.
+
+
+End

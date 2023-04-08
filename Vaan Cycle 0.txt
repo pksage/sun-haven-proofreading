@@ -1,0 +1,10 @@
+Vaan Cycle 0
+
+Dialogue:: Oh! An unexpected face to find in Nel'Vari. So you managed to find your way to our city?
+
+
+Option1:: That's right. My name is XX, from Sun Haven.
+
+Response1:: Ah, Sun Haven. Of course. I'm Vaan, and it's a true pleasure to meet you. //Emote none Happy
+
+End

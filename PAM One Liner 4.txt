@@ -1,0 +1,5 @@
+PAM One Liner 4
+
+Dialogue:: You do not look very strong, but looks can be misleading! Unless you operate through a sophisticated AI, of course.
+
+End

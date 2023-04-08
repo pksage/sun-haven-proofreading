@@ -1,0 +1,5 @@
+Flemmett One Liner4
+
+Dialogue:: Emmett? No, I'm <i>Flemmett</i>.			
+
+End

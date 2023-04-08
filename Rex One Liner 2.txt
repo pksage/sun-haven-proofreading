@@ -1,0 +1,5 @@
+Rex One Liner 2
+
+Dialogue:: Ah, another cave-diving enthusiast? Join the club! That's just a saying, there isn't really a club.																																										
+
+End

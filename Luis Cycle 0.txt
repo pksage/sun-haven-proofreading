@@ -1,0 +1,9 @@
+Luis Cycle 0
+
+Dialogue:: Hi - Hello - Howdy, welcome to Prize Plaza. How can I help you?
+
+Option1:: Hello, my name is XX!
+
+Response1:: Great... As you can see on my nametag, my name is Luis.
+
+End

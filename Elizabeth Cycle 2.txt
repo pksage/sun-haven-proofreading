@@ -1,0 +1,33 @@
+Elizabeth Cycle 2
+
+Dialogue:: So you're staying in Sun Haven with us? I like that.
+
+
+Option1:: So you want me to stay?
+
+Option2:: What do you like most about Sun Haven?
+
+
+Response1:: Of course, we're friends! I want all my friends to stay.
+
+Response2:: I like Liam's friend Lester. He's silly, hehe.
+
+
+Option1a:: I haven't decided if we're friends yet. //Relationship Elizabeth2 -1
+
+Option1b:: Okay, then I'll stay! //Relationship Elizabeth2 2
+
+Response1a:: What? No way! You're teasing, right? I don't like teasing.
+
+Response1b:: Yay, yay! I'm telling Liam and Emma that I got you to stay. Now we can all play games forever!
+
+
+Option2a:: Why is he so silly?
+
+Option2b:: I don't know Lester.
+
+Response2a:: I don't know, he's just silly! He's good at games and playing, too.
+
+Response2b:: You don't? You should be friends! He's a real guard, with a sword and everything.
+
+End

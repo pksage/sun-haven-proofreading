@@ -1,0 +1,23 @@
+Jarrod Cycle 1
+
+Dialogue:: Hello again, farmer. Making yourself at home?[]I bet it's probably easier to relax here than in Sun Haven.
+
+Option1:: What's the toughest thing about living in Nel'Vari?
+Option2:: Have you ever tried farming?
+
+Response1:: The only thing I find difficult about living here is being so cut off from the rest of the world. I love my fellow Elves, but I'd like to meet some new faces every now and then.
+Response2:: The Elder's disciple, Wesley, asked me to try my hand with the farm west of here. I just made a big mess of it. Haven't tried since.
+
+Option1a:: Lucky I'm here, then! //Relationship Jarrod1 2
+Option1b:: Nothing is stopping you from going out on your own. //Relationship Jarrod1 -1
+
+Response1a:: Heh, indeed it is lucky! If only visitors like you came around more often.
+Response1b:: I guess that's true, but it's dangerous to go alone.
+
+Option2a:: It's not for everyone.
+Option2b:: It's not that hard.
+
+Response2a:: That's definitely true in my case. I guess not all Elves have a green thumb after all.
+Response2b:: Maybe not for a farmer, but not everyone is a farmer... Right? I can't be the only one who has trouble with it!
+
+End

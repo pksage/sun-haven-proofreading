@@ -1,0 +1,5 @@
+Triberius Intro One Liner 1
+
+Dialogue:: A fine traveler like yourself should have a distinguished look.[]<b>And there's nothing more distinguished than a quality hat, wouldn't you say?</b>										
+
+End

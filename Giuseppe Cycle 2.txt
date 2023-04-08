@@ -1,0 +1,33 @@
+Giuseppe Cycle 2
+
+Dialogue:: Fine art is a satisfying form of expression, but farming seems pretty creative too.
+
+
+Option1:: How is farming creative?
+
+Option2:: What other kinds of art do you do?
+
+
+Response1:: You're over there growing living things all day. If you ask me, making a living thing is as creative as it gets!
+
+Response2:: I've dabbled here and there over the years. I've done my share of painting, and still do. I also used to whittle, but I stopped because I kept cutting my fingers.
+
+
+Option1a:: That's true, it's very rewarding. //Relationship Giuseppe2 2
+
+Option1b:: I don't think of it like that. //Relationship Giuseppe2 -1
+
+Response1a:: I know how you feel. My art is fulfilling too, but it's nothing compared to having Topi. He's my best work yet!
+
+Response1b:: Ah, maybe you're not much of an artist then.
+
+
+Option2a:: What's your favorite art form?
+
+Option2b:: How do you choose which art form to practice?
+
+Response2a:: I haven't been sculpting that long, but I'm completely obsessed with it. I'm probably just in the honeymoon phase, though. I'm sure I'll discover something new in a couple months.
+
+Response2b:: When something new finds me, I become completely obsessed with it. I know I'm just in the honeymoon phase with sculpting right now.  I'll probably discover something new in a couple months.
+
+End

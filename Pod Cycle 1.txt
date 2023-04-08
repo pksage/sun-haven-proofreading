@@ -1,0 +1,33 @@
+Pod Cycle 1
+
+Dialogue:: Hi, farmer!
+
+
+Option1:: Who's your best friend in town?
+
+Option2:: Do you like school?
+
+
+Response1:: Topi is my best friend, but mama is my BEST best friend.
+
+Response2:: Yuck, no.
+
+
+Option1a:: That might change when you grow up. //Relationship Pod1 -1
+
+Option1b:: Your mama is lucky to have you! //Relationship Pod1 2
+
+Response1a:: Huh? I AM grown up! 
+
+Response1b:: We have fun playing games every day, hehe!
+
+
+Option2a:: Why not?
+
+Option2b:: Isn't there something you like about it?
+
+Response2a:: We never learn anything important like hiding or sandcastles.
+
+Response2b:: I like Mister Jun. He makes us laugh and sometimes he even has candy if we do good! 
+
+End

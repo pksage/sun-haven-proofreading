@@ -1,0 +1,33 @@
+Lucia Cycle 3
+
+Dialogue:: Good day, XX. I have a spot of free time if you would like to chat.[]Is there anything you'd like to know?
+
+Option1:: I'm curious... what's your favorite dessert?
+
+Option2:: So is your hair naturally red, or is that magic too?
+
+
+Response1:: There's a delectable dish I've only ever found in other regions. It's called moon cream pie. If you have the opportunity to try it, I recommend that you do!
+
+Response2:: I will never understand the people's fascination with my hair. Catherine's hair is much more colorful!
+
+
+Option1a:: I don't get it. What's it like?
+
+Option1b:: Is it really that hard to find? 
+
+Response1a:: It's like... Oh, this almost certainly sound like nonsense... But it tastes like sweet moonlight. Imagine a cream that is so fluffy that it makes you feel lighter when you eat it.
+
+Response1b:: I once asked Liam to try making it, but it didn't come out quite right. Oh, but let's keep that between us![]I didn't want to hurt his feelings, so I told him it was perfect. I know I shouldn't have lied, but I couldn't crush Liam like that.
+
+
+Option2a:: You're right, her hair is prettier than yours. //Relationship Lucia3 -1 Embarrassed
+
+Option2b:: Sure, but yours looks like actual fire. //Relationship Lucia3 2
+
+Response2a:: I didn't quite mean that...
+
+Response2b:: Well... thank you. I admit that it is a coincidence, but it's nothing more than that.
+
+
+End

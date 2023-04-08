@@ -1,0 +1,9 @@
+Fidget Cycle 0
+
+Dialogue:: Hey, you don't sound familiar. Who are you?!
+
+Option1:: I'm XX, and I didn't say anything.
+
+Response1:: No, not the sound of your voice! Can't you tell I'm a bat monster? I use my echo to see things. When I heard my echo off of you, I knew I hadn't heard you before.[]My name is Fidget. Maybe I'll hear you around sometime.
+
+End

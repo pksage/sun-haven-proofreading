@@ -1,0 +1,5 @@
+Nim One Liner 3
+
+Dialogue:: Have you ever slept in a pile of bunny rabbits? You've got to try it at least once!																																																																			
+
+End

@@ -1,0 +1,33 @@
+Christine Cycle 1
+
+Dialogue:: Look who's here! Good to see you again, dear. 
+
+
+Option1:: Where do you come from?
+
+Option2:: Have you lived here long?
+
+
+Response1:: I propagated in a forest inhabited by Elves. Can you believe it? I had to travel quite a ways to get here, and that's not easy on roots!
+
+Response2:: Actually, I only arrived a few weeks ago. But already this city has charmed me! I plan to stick around, don't you worry.
+
+
+Option1a:: You didn't like the forest? 
+
+Option1b:: It seems like a forest would be the perfect place for you. 
+
+Response1a:: Oh no, I loved that forest. I only outgrew it is all. There's not much to do in the forest, so I suppose I was looking for a little excitement!
+
+Response1b:: Sure, it was nice growing up there. Warm, safe, sweet-scented. Like myself![]I only outgrew it is all. There's not much to do in the forest, so I suppose I was looking for a little excitement!
+
+
+Option2a:: I wasn't worried. //Relationship Christine1 -1
+
+Option2b:: I'm glad you decided to stay. //Relationship Christine1 2
+
+Response2a:: Oh, well yes that's obvious. You don't need to be so direct about it, though.
+
+Response2b:: I simply had to. Withergate is perfect for my business. Not many other places you find never ending darkness!
+
+End

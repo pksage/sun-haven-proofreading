@@ -1,0 +1,5 @@
+PAM One Liner 2
+
+Dialogue:: I can tell how strong you are just by looking at you! And through a series of mathematical calculations based on biological observations!
+
+End

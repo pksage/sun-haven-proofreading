@@ -1,0 +1,33 @@
+Xyla Cycle 11
+
+Dialogue:: You just can't stay away, can you XX?
+
+Option1:: I could stay away, but I'd rather go on a date with you.
+
+Option2:: You don't like the attention? //Emote none Embarrassed
+
+
+Response1:: Stepping up to bat, huh? I'm impressed with you, XX. I figured the first time you asked, you had just bumped your head or something! //Emote none Romantic
+
+Response2:: I love attention, that will never change. But to say that I love YOUR attention is a bit of a stretch, don't you think?
+
+
+Option1a:: Now that I think about it, this is a mistake. //Relationship Xyla11 -1 Mad
+
+Option1b:: Fine. I'll give you a go, but you better not bore me! Meet me in front of my apartment at 5:00 pm tomorrow. //Quest none XylaHangout2Quest
+
+Response1a:: Whatever floats your boat, sewer rat. You would have just bored me, anyway.
+
+Response1b:: We <i>did</i> have fun last time, so let's give it another go! Meet me in front of my apartment at 5:00 pm tomorrow.
+
+
+Option2a:: I don't know - I think I've got a shot!
+
+Option2b:: I don't care what you think of me.
+
+Response2a:: Oh no, you've gone completely delusional. I would call you a doctor if I only cared at all.
+
+Response2b:: Hah! It's painfully obvious that you care what I think of you. Has anyone ever told you that you're a terrible liar?
+
+
+End

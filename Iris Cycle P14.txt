@@ -1,0 +1,23 @@
+Iris Cycle P14
+
+Dialogue:: Seeds that grow without dirt! Plants that pick themselves! ...Trees that grow gems instead of fruit?[]Oh! You scared me, XX!
+
+Option1:: Are you alright? //Emote none Embarrassed
+Option2:: You sound like you have some pretty wild ideas.
+
+Response1:: Sorry about that. I was just lost in thought, I guess. I'm feeling extra-inspired today and my imagination is running wild![]When I really get to thinking big, it's like the rest of the world kind of blurs out. Like I'm really in my own little zone. 
+Response2:: Well, I'm just in a brainstorming phase right now. No idea is a bad one! Well, at least right now. I'll let my imagination run rampant and then weed out the bad ones later.
+
+Option1a:: You don't have to apologize, just be yourself. //Relationship IrisP14 2 Happy
+Option1b:: You should still pay attention to other people. //Relationship IrisP14 -1 Sad
+
+Response1a:: Most people seem to find it annoying. The Elder always scolds me about being more aware of myself and others, but I just want to focus on my ideas.
+Response1b:: I thought you were different from everyone else in Nel'Vari, but right now you're sadly sounding very much like them. 
+
+Option2a:: "Weed out," hah. I get it. Plants.
+Option2b:: So this is where all your grand ideas start.
+
+Response2a:: I wasn't trying to make a pun, I guess my self-weeding weeds are still on my mind right now... that reminds me... sunflowers that actually grow little suns![]Like a lamp... Hmmm...
+Response2b:: Most of them, anyway. Brainstorming is a very turbulent and fun process. Don't worry about plausibility, just come up with anything you can imagine.[]That reminds me... sunflowers that actually grow little suns! Like a lamp... Hmmm...
+
+End

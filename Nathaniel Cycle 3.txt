@@ -1,0 +1,33 @@
+Nathaniel Cycle 3
+
+Dialogue:: Are you getting to know the town very well? You'll learn your way around just like I did when I was new here.
+
+Option1:: Where are you from, anyway?
+
+Option2:: Do you ever miss your hometown?
+
+
+Response1:: I grew up in the Great City as an army baby - my mom was a captain when she adopted me. Obviously, I followed in her footsteps.
+
+Response2:: Sometimes, but that's the life of a soldier. I'll be comfortable when I'm old and wrinkled, but for now I'll do my part. Duty through service!
+
+
+Option1a:: Is she the whole reason you chose a military career?
+
+Option1b:: It makes sense that you would become a soldier, too. //Emote none Happy
+
+Response1a:: I don't know if that's entirely why, but it's definitely part of it. Growing up in a military house was tough, but it gave me the backbone to carry myself forward.[]Also, it keeps me in really great shape!
+
+Response1b:: I'm glad you think so. Sometimes I wonder if I did it only to make my mom proud, but then I remember how much I really like the job and I quit thinking about it.
+
+
+Option2a:: You're a great soldier. I'm sure you'll be promoted in no time! //Relationship Nathaniel3 2 Happy
+
+Option2b:: I could never live a life of subservience like that. //Relationship Nathaniel3 -1
+
+Response2a:: Thanks! I know it would make my mom proud to see me rank up a bit... Then again, she knows firsthand that it's a long climb to the top.
+
+Response2b:: I'm not asking you to agree with it, but I will ask you to respect it. The soldiers of the Great Army put themselves at risk for your safety every day.
+
+
+End

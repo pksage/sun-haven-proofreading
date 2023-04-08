@@ -1,0 +1,33 @@
+Catherine Cycle 8
+
+Dialogue:: Do I smell funny? A potion blew up on me this morning. Witchcraft can be a messy business...
+
+Option1:: So what got you into witchcraft, anyway?
+
+Option2:: Is there anything you hope to accomplish as a witch?
+
+
+Response1:: This might sound bad, but I started looking at spells when I was a kid so I could play tricks on my littermates. I managed to keep it secret for months!
+
+Response2:: All I want from my craft is to make life comfortable for myself and my loved ones. Witchcraft makes that a whole lot easier. 
+
+
+Option1a:: You figured out witchcraft as a child?
+
+Option1b:: You were so mischievous! //Emote none Embarrassed
+
+Response1a:: Yep, I got a bit of a head start. It was definitely more power than a kid should have, that's for sure.[]It's certainly paid off now - my whole living is based off my magic!
+
+Response1b:: I was! Thankfully I grew out of misusing my magic.[]To be honest, I started a lot of fights. It's a good thing my mother caught on.
+
+
+Option2a:: Why practice magic if you don't have any big goals? //Relationship Catherine8 -1 Mad
+
+Option2b:: All that matters is that you're happy doing it. //Relationship Catherine8 2 Happy
+
+Response2a:: You should keep in mind that I've been practicing since I was just a kid. I know what I'm doing, and I really don't need any criticism from you, XX.
+
+Response2b:: I think so, too. Sometimes just keeping yourself happy is enough.[]Hey, maybe I could show you some spellcraft sometime!
+
+
+End

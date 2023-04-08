@@ -1,0 +1,5 @@
+Elizabeth One Liner 3
+
+Dialogue:: I hope Mister Jun has cookies tomorrow...							
+
+End

@@ -1,0 +1,9 @@
+Felix Cycle 0
+
+Dialogue:: Hm? Oh, what do you want?
+
+Option1:: I just wanted to introduce myself. I'm XX.
+
+Response1:: Interesting name. My name is Felix.
+
+End

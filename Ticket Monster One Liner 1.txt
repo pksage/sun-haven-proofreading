@@ -1,0 +1,5 @@
+Ticket Monster One Liner 1
+
+Dialogue:: Grrr... want on subway? Better have <color=#39CCFF>subway ticket</color>.																																																																						
+
+End

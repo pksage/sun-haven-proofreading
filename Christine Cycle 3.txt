@@ -1,0 +1,33 @@
+Christine Cycle 3
+
+Dialogue:: Isn't the moon lovely tonight? 
+
+
+Option1:: Don't you miss the sun?
+
+Option2:: Tell me more about the forest you came from.
+
+
+Response1:: Sometimes. But I won't be in Withergate forever. So I consider the lack of sun to be a little change of pace from what I'm used to. Besides, my precious little seedies grow the best in darkness.
+
+Response2:: Well, it was a lovely little Elven forest. The Elves there lived the old way, in nature and among the plants. It was so beautiful, I just HAD to help it grow! More and more and more![]Eventually, there was no more growing left to do! So I came to Withergate, to start <i>the process</i>  all over again!
+
+
+Option1a:: I'm grateful you're here to sell me seeds.
+
+Option1b::Nature really is incredible. 
+
+Response1a:: Aw, thanks so much for saying so! And I'm glad you're here to grow them! We make a great team!
+
+Response1b:: Isn't it? Plants need sun to survive, so in the absence of a sun, it was either wither away or adapt! The crops you grow in Withergate now are the ones that toughed it out. Fascinating!
+
+
+Option2a:: That's a lovely story! //Relationship Christine1 2
+
+Option2b:: Huh... //Relationship Christine1 -1
+
+Response2a:: Isn't it, though? Teehee! A whole world... <b>covered</b>... in <i>green</i>!
+
+Response2b:: What's wrong, XX? Did I say something funny? What's so funny about a world... <b>covered</b>... in <i>green</i>?
+
+End

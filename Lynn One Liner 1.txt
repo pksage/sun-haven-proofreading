@@ -1,0 +1,5 @@
+Lynn One Liner 1
+
+Dialogue:: Do I look worried? It's just because I found an ingot in my pocket and I don't remember what it's for... Solon is going to chew me out over this.
+
+End

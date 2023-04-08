@@ -1,0 +1,33 @@
+Wornhardt Cycle 11
+
+Dialogue:: Hey, XX! You look absolutely radiant today.
+
+Option1:: You're laying it on pretty thick, eh doctor?  //Emote none Embarrassed
+
+Option2:: Hey, why do you have two stethoscopes?
+
+
+Response1:: That settles it - it's definitely weird of you to call me doctor now. Let's just stick to Wornhardt, yeah?
+
+Response2:: Well one is for work, but the other one is for you. I mean, if you want it. It's my old stethoscope that I wanted to give to you as a gift!
+
+
+Option1a:: I prefer your real name, anyway. //Relationship Wornhardt11 2 Happy
+
+Option1b:: Maybe I'll stick with "Doctor" just to bug you! //Relationship Wornhardt11 -1 Mad
+
+Response1a:: We're already on the same page. We'll really make it as a couple after all!
+
+Response1b:: Try to push my buttons all you want, I'm not falling for it. I'm trained to be cool under pressure, remember?
+
+
+Option2a:: What a thoughtful gift, thanks! //AddItem none Wornhardt'sStethoscope 1
+
+Option2b:: Oh! Why? //AddItem none Wornhardt'sStethoscope 1
+
+Response2a:: This is the first stethoscope I ever had. Without this, I wouldn't be where I am today.[]I used to listen to my own heart with it. It was my way of reminding myself of what I live for. And now you're a part of that reminder, XX. So please keep it close!
+
+Response2b:: This is the first stethoscope I ever had. Without this, I wouldn't be where I am today.[]I used to listen to my own heart with it. It was my way of reminding myself of what I live for. And now you're a part of that reminder, XX. So please keep it close!
+
+
+End

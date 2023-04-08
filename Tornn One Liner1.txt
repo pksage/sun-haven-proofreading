@@ -1,0 +1,5 @@
+Tornn One Liner 1
+
+Dialogue:: You look pretty stylish, but one of my capes would really pull your look together.								
+
+End

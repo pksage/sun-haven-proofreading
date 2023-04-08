@@ -1,0 +1,23 @@
+Tony Cycle 1
+
+Dialogue:: You're lucky. Withergate's been a pretty safe place lately. Safe enough for an outsider like you to walk around, anyway. Keep your nose clean and it'll stay that way.
+
+Option1:: What do you do around here?
+Option2:: Your jacket looks comfy.
+
+Response1:: You know how Withergate is, the king doesn't like anything to do with Humans.[]But if an interested buyer happens to want something from a Human town, how is the king going to know where it came from?
+Response2:: Yeah? You ever been to the clothes shop? Arianella spins a mean thread. Stop by sometime and see what she's got.
+
+Option1a:: Your secret is safe with me. //Relationship Tony1 2
+Option1b:: That sounds fishy. //Relationship Tony1 -1
+
+Response1a:: Thanks for the tight lips, but I didn't tell you any secrets. In fact, just pretend we never talked.
+Response1b:: Is that supposed to be a cat joke? Because I'm not meowing, pal.
+
+Option2a:: Are you friends with Arianella?
+Option2b:: You sure seem to like Arianella's work.
+
+Response2a:: I got friends here and there. I don't hang with anyone who asks too many questions, though.
+Response2b:: What can I say? She's good at what she does. You heard it from me first. Unless one of the guards asks. In that case, forget we ever talked.
+
+End

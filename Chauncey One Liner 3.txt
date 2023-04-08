@@ -1,0 +1,5 @@
+Chauncey One Liner 3
+
+Dialogue:: It's a wonderful time for Slimes in Withergate.
+
+End

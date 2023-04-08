@@ -1,0 +1,5 @@
+Triberius One Liner 2
+
+Dialogue:: We can give you the finest tips on hats.[]<i>And the finesssst hats to tip.</i>										
+
+End

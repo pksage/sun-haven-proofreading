@@ -1,0 +1,23 @@
+Catherine Cycle P13
+
+Dialogue:: I've been learning how to read palms. It's a little tricky, but also very fun!
+
+Option1:: I didn't know a palm could be read.
+Option2:: Why learn to read palms?
+
+Response1:: Well, you don't read them like you read a book. It's more about tracing both the physical shape of your palm and the aura that flows through it.[]It's said that a hand can tell you a lot about a person, after all. Their past and their future.
+Response2:: It interests me, is all. Besides, it may be useful someday to someone. Helping someone out in the future is a good a reason as any, I think.
+
+Option1a:: Do you worry about the future often?
+Option1b:: Do you think about the past often?
+
+Response1a:: I don't think there's any good in worrying about the future too much, but that doesn't mean you shouldn't think about it.[]I want to use the time I have in the present to make sure everyone I care about is comfortable in the years to come. Maybe palms can help me!
+Response1b:: I don't think it's helpful to dwell on the past very much, but who we were in the past is still really important. I wouldn't be the same person if it wasn't for the past I had.[]I'm sure most people feel the same. So it's good to rediscover your past once in a while.
+
+Option2a:: That sounds pointless. //Relationship CatherineP13 -1 Mad
+Option2b:: The world needs more people who think like you! //Relationship CatherineP13 2 Happy
+
+Response2a:: Maybe it sounds "pointless" to you, but it's invigorating for me. Everyone is different. You know that, right? 
+Response2b:: Hehe. It does, but then I wouldn't be so unique! I'm just kidding, it would be great if more people felt the same. 
+
+End

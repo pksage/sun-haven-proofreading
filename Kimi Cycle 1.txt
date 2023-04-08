@@ -1,0 +1,23 @@
+Kimi Cycle 1
+
+Dialogue:: You said your name is XX, didn't you? I see you're not from around here. How exciting!
+
+Option1:: So you're interested in the world outside of Nel'Vari?
+Option2:: What's that mask for?
+
+Response1:: I definitely am. I know not all Elves agree with it, but exploring outside of Nel'Vari is my favorite thing to do. I've never gone very far though.[]Wesley likes to remind everyone of how dangerous it can be out there. I like to remind everyone that Wesley is a complete wimp!
+Response2:: Oh, this helps me stay safe while collecting material for my clothes. There are some creatures in the forest that aren't very kind, you know. []I wear a mask so they think I'm just another animal. They usually leave me alone.
+
+Option1a:: You should challenge yourself to explore further. //Relationship Kimi1 2
+Option1b:: That's pretty mean. //Relationship Kimi1 -1
+
+Response1a:: I guess you would know what it's like out there, huh? Well, that settles it! If you think it's safe enough, then I don't see any reason not to see for myself.[]Thanks for that! Sometimes I just need a little push. I think most people here could, too.
+Response1b:: Mm, it's only kind of mean. Besides, Wesley wouldn't do anything about it. If he did, then I might change my mind about him!
+
+Option2a:: That's really clever.
+Option2b:: Usually?
+
+Response2a:: Being clever is how we Elves have survived in this forest more than a hundred years. That, and Nivara of course.
+Response2b:: It only happened once, but I got too close to a leafie and it must have smelled me. Soon, I was facing a whole rustle of leafies![]They're small, so it was fine until one of those big ones showed up. I had never seen one up close before - it was pretty amazing!
+
+End

@@ -1,0 +1,25 @@
+EmmasSpillQuest
+
+Dialogue:: XX! I need your help, please!
+
+
+Option1:: What's wrong?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: I spilled Liam's big bag of <color=#39CCFF>Flour</color> on the way home and now he needs to buy more. I feel so bad!
+
+Response2:: Can you bring me <color=#39CCFF>5 Flour</color> to surprise Liam? If you do, you'll be my favorite!
+
+
+Option2a:: I'll take care of that for you! //Quest none EmmasSpillQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Yay, thank you XX! (End)
+
+Response2b:: Now who will help me? (End)
+
+End

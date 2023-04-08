@@ -1,0 +1,33 @@
+Jun Cycle 14
+
+Dialogue:: Feeling well today? It looks like you got good sleep last night.
+
+Option1:: I dreamed I was flying with dragon's wings. Did you dream?
+
+Option2:: You always notice me, Jun. I'm lucky to have someone as mindful as you.
+
+
+Response1:: Dragon wings? Mine definitely wasn't as adventurous as yours.[]In my dream I was a cloud in the sky watching all the people in town below. I could even see into their homes, like dollhouses. It was strange, but also quite unique.
+
+Response2:: XX, I noticed you right away. How could I not? I feel like the lucky one here!
+
+
+Option1a:: Yeah, that's not quite so adventurous.
+
+Option1b:: That sounds kind of fun!
+
+Response1a:: Maybe next time I'll join you in the sky with dragon's wings. One can only hope!
+
+Response1b:: You think so? Part of me thinks so too. It's too bad we aren't clouds in the sky, XX.
+
+
+Option2a:: Strange, I didn't really notice you until we started talking. //Relationship Jun14 -1 Sad
+
+Option2b:: I noticed you on my first day here, too. //Relationship Jun14 2 Happy
+
+Response2a:: Oh, huh. Not even once? That's a little disappointing...
+
+Response2b:: Is that true? So we were sneaking glances at each other from the very beginning? That's too cute!
+
+
+End

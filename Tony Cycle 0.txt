@@ -1,0 +1,9 @@
+Tony Cycle 0
+
+Dialogue:: You got anything I could help you with?
+
+Option1:: I'm XX, from Sun Haven. Are you an Amari?
+
+Response1:: Whoa, right off the bat with the questions. Nah, I'm a cat monster. If you don't know the difference, don't expect me to explain it to you.[]The name is Tony. Actually, you should forget I even have a name.
+
+End

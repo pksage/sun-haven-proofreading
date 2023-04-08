@@ -1,0 +1,33 @@
+Amanda Cycle 2
+
+Dialogue:: I was just reading about a farmer, then you walked in.[]Shoot, where's that book about the handsome wizard?
+
+
+Option1:: I'd ask what you do for fun, but I'll guess... reading?
+
+Option2:: Who do you like to hang out with in Sun Haven?
+
+
+Response1:: You're so perceptive, it's amazing the way your brain works.[]You're familiar with sarcasm, right? Otherwise, I can direct you to the book that will teach you all about it.
+
+Response2:: I made friends with Camila shortly after she moved here. You could say we see the world through a similar lens. She has no patience for annoyances, either.
+
+
+Option1a:: Come on, you don't have any other hobbies?
+
+Option1b:: I shouldn't have asked.
+
+Response1a:: If you must know, I'm learning self-defense from one of the guards at the barracks.[]Have you met Allison? She's a good teacher. And she can throw me clear across a room.
+
+Response1b:: If you must know, I'm learning self-defense from one of the guards at the barracks.[]Have you met Allison? She's a good teacher. And she can throw me clear across a room.
+
+
+Option2a:: You two sound scary... //Relationship Amanda2 -1
+
+Option2b:: It must have been nicer for you after she moved here. //Relationship Amanda2 2
+
+Response2a:: You better stop bugging me then, or else the scary ladies will get you.
+
+Response2b:: Sure, it's nice having a like minded friend in town. You must have made some friends by now, right?[]It's not that hard in this town. Just start talking to people. Everyone's so keen on making friends here.
+
+End

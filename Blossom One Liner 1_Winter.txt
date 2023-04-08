@@ -1,0 +1,5 @@
+Blossom Winter Cycle 1
+
+Dialogue:: Welcome to Blossom's Seasonal Shop! It's cold all winter long, so remember to bundle up! And if you're still looking for that perfect winter gift, why not see what I have in stock? 
+
+End

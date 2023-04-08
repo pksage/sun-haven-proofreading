@@ -1,0 +1,5 @@
+Lynn One Liner 2
+
+Dialogue:: XX, I... forgot what I was going to ask. Never mind, ignore me!
+
+End

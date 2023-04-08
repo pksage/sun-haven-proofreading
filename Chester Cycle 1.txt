@@ -1,0 +1,23 @@
+Chester Cycle 1
+
+Dialogue:: Every night is a good night, don't you think?
+
+Option1:: But it's always night here.
+Option2:: A cat living in eternal darkness? No wonder you're so happy.
+
+Response1:: That's exactly right - that's why it's always such a great night!
+Response2:: Yes, this darkness spell is a real treat for me. Thanks to the Moon Dragon, I can hunt whenever I need a meal. No need to wait for sunset when there's no sun!
+
+Option1a:: You don't make sense.
+Option1b:: I like your attitude.
+
+Response1a:: So what? Sense... who needs it!
+Response1b:: The creatures of the night will always have fun in Withergate. Of course, we're all creatures of the night here.
+
+Option2a:: You don't miss sunshine at all?
+Option2b:: If you hunt, what do you need tickets for?
+
+Response2a:: Basking in the sunlight is very relaxing... but I still prefer my perch right up here.[]This is the comfiest seat I could find in all of Withergate. I only run the game here because if I don't then people start yelling at me and never leave...
+Response2b:: Tickets? I don't use tickets. I'm only here because this is the comfiest seat I could find. I only run the game here because if I don't then people start yelling at me and never leave...
+
+End

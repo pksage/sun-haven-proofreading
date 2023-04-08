@@ -1,0 +1,30 @@
+Giuseppe Cycle 3
+
+Dialogue:: How've you been, XX? Good company is always welcome by me.
+
+Option1:: Is there anyone here you'd consider bad company?
+Option2:: Do you ever worry about Sun Haven's future?
+
+Response1:: Not in the slightest! Part of why I love Sun Haven is because I consider everyone here to be a friend of mine.
+Response2:: You mean with all the rumors that have been going around about that monster city? It's a little unnerving, so I try not to think about it too much. Sun Haven seems to be doing pretty well, anyway!
+
+Option1a:: What about Calvin?
+
+Option1b:: What about Solon?
+
+
+Response1a:: Calvin is a riot! Have you spoken to him? He acts so grumpy all the time - it's hilarious!
+
+Response1b:: Of course I get along with Solon - he's an artist like me! It's impossible not to respect the level of mastery he's reached in blacksmithing.
+
+
+Option2a:: It sounds like you're avoiding the problem. //Relationship Giuseppe3 -1
+
+Option2b:: I agree, Sun Haven is going to be just fine. //Relationship Giuseppe3 2
+
+
+Response2a:: Heh, yeah maybe I am. I have to keep a brave face sometimes for Topi. I figure there's no point in worrying unless Nathaniel or Lucia tells us to.
+
+Response2b:: Even if you're wrong, it's just nice to hear someone else say that!
+
+End

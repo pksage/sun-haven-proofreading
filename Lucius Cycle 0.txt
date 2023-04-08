@@ -1,0 +1,9 @@
+Lucius Cycle 0
+
+Dialogue:: Well well, you're definitely a new face. It's about time someone new came through.
+
+Option1:: Hey there, I'm XX. I'm from Sun Haven.
+
+Response1:: XX, huh? Call me Lucius. Have a nice night, or a nice day. Whichever you prefer.
+
+End

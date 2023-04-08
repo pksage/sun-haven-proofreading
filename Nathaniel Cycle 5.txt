@@ -1,0 +1,33 @@
+Nathaniel Cycle 5
+
+Dialogue:: There's a lot that I like about this town, especially the people. Everyone's a good neighbor here - including you, XX!
+
+Option1:: Who do you spend the most time with in Sun Haven?
+
+Option2:: What's your favorite thing about Sun Haven? //Emote none Happy
+
+
+Response1:: You're asking who I'm friends with? Well, the soldiers are my family. But other than them...[]Dr. Wornhardt has a good head. Kitty is always a riot. Lucia, of course. Solon is a real man's man. Then you've got Peter, Judith and Albert... You know, I think I get along with just about everyone in this town!
+
+Response2:: I would say it's the weather, hands down. I've been stationed in some terrible weather before, so I'm really enjoying the sunshine here.
+
+
+Option1a:: If anyone could make friends with everyone, it would be you. //Relationship Nathaniel5 2 Happy
+
+Option1b:: Nobody gets along with everyone. I bet you're pretending! //Relationship Nathaniel5 -1 Sad
+
+Response1a:: What can I say, I've always had an easy time making friends. All you have to do is treat people nicely. What's hard about that?
+
+Response1b:: It's sad you can't believe that I'm nice enough to have a lot of friends... It tells me a lot about you, XX.
+
+
+Option2a:: Where's the worst place you've been stationed?
+
+Option2b:: If you could live anywhere, where would it be?
+
+Response2a:: My first assignment was protecting an outpost from ice ghasts in the freezing north. Given the orders, I would take that fight again without blinking... but I'm sure thankful to be here instead!
+
+Response2b:: You know, I don't think I have an answer. The military takes me all over the world so I've lived just about everywhere.[]I guess I care less about where I am than who I'm with. I'd be happy to settle just about anywhere if I had family with me - and maybe a dog!
+
+
+End

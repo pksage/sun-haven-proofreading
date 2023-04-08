@@ -1,0 +1,33 @@
+Vaan Cycle 7
+
+Dialogue:: Hey XX, I got these for you. Think of them as a thank-you for our date.
+
+Option1:: What should I do with this?
+
+Option2:: You're giving me greenroot? //Emote none Happy
+
+
+Response1:: Well, some people like to bake it into a dessert - some kind of peach cobbler, I'm unsure - but I prefer to just eat it raw.
+
+Response2:: That's right, they're my favorite. But what's the point in loving something if I can't share it?
+
+
+Option1a:: That sounds rough. //Emote none Sad
+
+Option1b:: That sounds good! //Emote none Happy
+
+Response1a:: Oh, do you really think so? Most people are repulsed by the taste of raw greenroot. I'm not surprised that you're the same.
+
+Response1b:: Oh, do you really think so? Most people are repulsed by the taste of raw greenroot. I'm surprised that you're the opposite.
+
+
+Option2a:: It's okay to enjoy things on your own, Vaan. //Relationship Vaan7 -1 Mad
+
+Option2b:: I'm happy to share the things you love. //Relationship Vaan7 2 Happy
+
+Response2a:: I'm well aware, but I want to share with you right now. But I guess I can't make you do anything you don't want to.
+
+Response2b:: Frankly, I'm glad you enjoy raw greenroot. It's definitely not for everybody!
+
+
+End

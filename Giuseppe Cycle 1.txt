@@ -1,0 +1,33 @@
+Giuseppe Cycle 1
+
+Dialogue:: Hi neighbor. Got something on your mind?
+
+
+Option1:: Would you say Sun Haven is a good place to raise a family?
+
+Option2:: So you're an artist?
+
+
+Response1:: Tonya and I have lived here our whole lives. Plus, we had Topi here. That's three generations of families, and we're all happy as clams!
+
+Response2:: Oh sure, I've been an artist since I was, well, close to your age. I only started sculpting about a year ago, so I'm still perfecting my craft.
+
+
+Option1a:: If you could change something about Sun Haven, what would it be?
+
+Option1b:: You don't have any complaints about this town?
+
+Response1a:: I guess we could use an art supplies store. I have to forage berries to make my own paint. It gets real messy...
+
+Response1b:: I guess we could use an art supplies store. I have to forage berries to make my own paint. It gets real messy...
+
+
+Option2a:: A year isn't enough time? //Relationship Giuseppe1 -1
+
+Option2b:: No matter how long it takes, progress is progress. //Relationship Giuseppe1 2
+
+Response2a:: I didn't realize I was speaking with such a critic. Artistic expression has no timeline.
+
+Response2b:: That's what I say! Well, not exactly in those words. Actually, what I say is quite different. But I like what you said, too!
+
+End

@@ -1,0 +1,33 @@
+Elizabeth Cycle 1
+
+Dialogue:: Hi, farmer! Remember me? I'm Elizabeth!
+
+
+Option1:: You remember me?
+
+Option2:: What's something funny about your brother Liam?
+
+
+Response1:: Are you Liam's new best friend now?
+
+Response2:: Funny, funny, like how Liam does sock puppets!
+
+
+Option1a:: That's right, and he's told me a lot about you. //Relationship Elizabeth1 2
+
+Option1b:: We're not best friends yet. //Relationship Elizabeth1 -1
+
+Response1a:: Liam talked to you about me?? Hehehe!
+
+Response1b:: Oh. Hm... you should be best friends, instead.
+
+
+Option2a:: Is he good at making sock puppets?
+
+Option2b:: Does he do funny voices too?
+
+Response2a:: The puppets are funny. They bonk each other on the head - bonk!
+
+Response2b:: Yeah, funny voices too! I laugh a lot when he does it, hehe.
+
+End

@@ -1,0 +1,33 @@
+Mari Cycle 1
+
+Dialogue:: Good to see ya again, XX. What brings ya in today? 
+
+
+Option1:: What are the people like at the inn?
+
+Option2:: Your tavern is very cozy. There's an inn upstairs too?
+
+
+Response1:: These visitors, I tell ya. Baker's dozen, you know? For every twelve good donuts, you get that one weird donut. I keep 'em in line though.
+
+Response2:: Yup, travelers need a place to refuel and rest their sore behinds.
+
+
+Option1a:: I'm sure it helps that Ronald is here, too. //Relationship Mari1 -1
+
+Option1b:: You show 'em who's boss, Mari. //Relationship Mari1 2
+
+Response1a:: Like I said, I got 'em under control.
+
+Response1b:: Thanks doll, I can tell you'll be on my good side. Come by anytime, I'll be sure to take care of ya!
+
+
+Option2a:: Sore behinds?
+
+Option2b:: Do you get any travelers that have seen Withergate? Or is it just a rumor?
+
+Response2a:: What do ya think they're sitting on for those long hours on horseback?
+
+Response2b:: In this business, you never know what's true and what's not. Could be real stories, could just be a loon looking for some attention.[]Truth be told, I hope they're just rumors...
+
+End

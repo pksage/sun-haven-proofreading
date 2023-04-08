@@ -1,0 +1,11 @@
+Default
+
+Dialogue:: The way forward is still blocked. If you can clear our path, then we may continue forward.[]Or was there somewhere else you would like me to ferry you?
+
+Option1:: Could you... take me back to my farm? //Charon none Farm
+
+Response1:: It is no trouble. Climb aboard.
+
+Option1a:: Thanks!
+
+End

@@ -1,0 +1,5 @@
+Rex One Liner 4
+
+Dialogue:: My name means "king." I don't think a lot of kings spend their time in the mines, though.						
+
+End

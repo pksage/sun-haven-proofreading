@@ -1,0 +1,5 @@
+Holly One Liner 2
+
+Dialogue:: You look strong and brave! Get into those mines and find me some material!
+
+End

@@ -1,0 +1,19 @@
+Patrice Cycle 0
+
+Dialogue:: Hoy there! What can I help ya' with?
+
+Option1:: What is this place?
+
+Option2:: What's your story?
+
+
+Response1:: Well, this is an aquarium. It's like a real fancy home for fish, where they can be taken care of and kept safe. More important than that, though, I can observe them for my research![]We're still in need of specimens. I got a whole lotta' tank and no fish to fill 'em with! You're smart with a rod, right? Help me out with completing my collection, won't you?
+
+Response2:: My whole family are fishermen. My father, all of my brothers - even grandma. I guess I was the weird one who wanted to <i>study</i>  fish, instead of catch them.[]Covington learned of my fascination with researching fish and offered me a job at this museum. It's a great set up, but, well, you can probably see we're lacking specimen.[]My brother Peter promised he'd catch fish for my tanks, but he's too busy goofing off. If you want to help, you can examine the tanks to see which fish I still need. Just bring me a healthy specimen and put it in the tank. Easy.
+
+Option1a:: I see.
+
+Option2a:: I see.
+
+
+End

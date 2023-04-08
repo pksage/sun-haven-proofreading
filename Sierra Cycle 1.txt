@@ -1,0 +1,23 @@
+Sierra Cycle 1
+
+Dialogue:: Hello again, XX. You're the farmer here, right? Be careful out on the field, accidents can happen to anyone!
+
+Option1:: What made you want to be a nurse?
+Option2:: What do you think of Sun Haven?
+
+Response1:: My mother is a nurse in my hometown, so maybe that's where the idea started originally. I'm not sure though, helping people just fills me with gratitude. I even journal about it sometimes!
+Response2:: It's a gorgeous little town! I just wish it wasn't so sunny all the time - I get sunburns faster than I can apply sunblock. I'm just grateful to work indoors!
+
+Option1a:: Journaling is too boring for me. //Relationship Sierra1 -1
+Option1b:: Journaling is a great hobby! //Relationship Sierra1 2
+
+Response1a:: Really? You should give it another shot. It could be a good outlet for all that... attitude.
+Response1b:: I think so, too. But it's less of a hobby for me. It's more like a reminder of all the important stuff that I take for granted.[]If you don't have a gratitude journal, you should start one!
+
+Option2a:: You really don't like the sunshine?
+Option2b:: What kind of weather do you like, then?
+
+Response2a:: I like a sunny day every now and then, just not day after day after day... Give me clouds, and give me rain!
+Response2b:: I absolutely <i>live</i> for the rain! Cloudy, overcast days with a nice light rain. That's a perfect day, if you ask me.
+
+End

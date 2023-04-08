@@ -1,0 +1,5 @@
+Allison Intro One Liner 2
+
+Dialogue:: Are you lost, or just exploring?							
+
+End

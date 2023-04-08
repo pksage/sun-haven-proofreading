@@ -1,0 +1,33 @@
+Vaan Cycle 1
+
+Dialogue:: It's been a long time since someone new has found their way to us. You must be something special, XX.
+
+Option1:: Those are interesting tattoos.
+
+Option2:: And what do you do here, Vaan?
+
+
+Response1:: Ah, do you like them? The Elder gives us these tattoos himself. They're meant to represent our individual spirits.[]Sometimes they can even start glowing, but only when in a state of deep spiritual activity. I've only seen mine glow once before - the first time I flew on my cloud.
+
+Response2:: I mostly practice my magic. I've been trying to push my knowledge of wind magic to its limits lately. It's exhausting, to be honest.
+
+
+Option1a:: Are you less spiritual than other Elves, then? //Relationship Vaan1 -1 Sad
+
+Option1b:: You must be very spiritual, then. //Relationship Vaan1 2 Happy
+
+Response1a:: Hm? Not at all. You must be misunderstanding me, XX. It's a rare thing to see your tattoos glow.[]Aside from the Elder, I might even be one of the most spiritual people in Nel'Vari. 
+
+Response1b:: Aside from the Elder, I might even be one of the most spiritual people in Nel'Vari.[]Ah! I don't mean to sound like I'm bragging. Sometimes my mouth gets ahead of my brain.
+
+
+Option2a:: How did you learn magic?
+
+Option2b:: You sound pretty advanced.
+
+Response2a:: I was taught by the World Dragon. No one else has the knowledge to train a master of wind magic.
+
+Response2b:: Of course, I trained under the World Dragon herself. No one else has the knowledge to train a master of wind magic.
+
+
+End

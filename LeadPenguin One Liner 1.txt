@@ -1,0 +1,5 @@
+Lead Penguin One Liner 1
+
+Dialogue:: Eh? Nothing to see here, citizen. This town is under the watchful eye of the penguin patrol. Now if you'll excuse me, I have a rendezvous with the boys to get to. Penguin out![]<i>Cute as the talking penguin may be, you get the feeling it would be best not to interfere with... whatever their plans are.</i>			
+
+End

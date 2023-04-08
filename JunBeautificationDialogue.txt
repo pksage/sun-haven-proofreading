@@ -1,0 +1,25 @@
+ever Rex
+
+Dialogue:: XX, I have a favor to ask you. I'd like to test a theory I read about. If all goes well, it could end up helping everyone in Sun Haven! Can you lend me a hand?
+
+
+Option1:: What's the theory?
+
+Option2(Permanent):: What do you need me to do?
+
+
+Response1:: I read an article about how bright colors can help raise people's moods subconsciously. Just by being around brighter colors, several test subjects were seen to have improved moods over time.
+
+Response2:: I'd like you to take these flowers and plant them in specific places all around town. That way, everyone will see them and hopefully get a little happier over time.
+
+
+Option2a:: I'd love to help test the theory! //Quest none JunBeautificationQuest
+
+Option2b:: I'm too busy to help you.
+
+
+Response2a:: That's great! Take these four flower plants. Please plant them around town and find me when you're done! (End)
+
+Response2b:: I see. That's okay, I understand. If you happen to find yourself with some free time, come find me. (End)
+
+End

@@ -1,0 +1,5 @@
+Sable One Liner 1
+
+Dialogue:: You're super sweaty - I can smell you with my antennae.
+
+End

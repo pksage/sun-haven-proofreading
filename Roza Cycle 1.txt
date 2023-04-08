@@ -1,0 +1,33 @@
+Roza Cycle 1
+
+Dialogue:: Enjoying the day, farmer? It's beautiful weather to stand watch.
+
+
+Option1:: Do you get any time to relax?
+
+Option2:: You seem to take your position very seriously.
+
+
+Response1:: Sure, twenty minutes of relaxation time between dinner and sleep each night.[]Why are you looking at me like that? That's plenty of time.
+
+Response2:: That's what I have to do if I want to climb the ranks. Not everyone has promotions dropped into their lap. Some of us need to work harder to go the same distance.
+
+
+Option1a:: If you ask me, you could use more time off.
+
+Option1b:: Would you ever want a whole day off for yourself?
+
+Response1a:: Sure, when I retire. In the meantime, my routine keeps me on the level.
+
+Response1b:: Sure, when I retire. In the meantime, my routine keeps me on the level.
+
+
+Option2a:: I'm just saying you could loosen up a bit. //Relationship Roza1 -1
+
+Option2b:: You handle yourself well, even under all that pressure. //Relationship Roza1 2
+
+Response2a:: I'm not surprised that you don't get it.
+
+Response2b:: I know that, but it's nice of you to say.
+
+End

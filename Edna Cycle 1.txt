@@ -1,0 +1,32 @@
+Edna Cycle 1
+
+Dialogue:: You're a farmer, aren't you, dearie?
+
+
+Option1:: How could you tell I'm a farmer?
+
+Option2:: Is it hard to manage such a big orchard?
+
+Response1:: When you've been around as long as I have, you start to learn a thing or two. Like how to recognize a farmer when you see one.
+
+Response2:: Of course it's hard! That's why I retired. We have a big family full of strong, hard workers.[]Our orchard runs like the gears of a clock, always moving and always on time. Assuming the clock isn't broken, hehe...
+
+
+Option1a:: Well, you're right. I'm a farmer.
+
+Option1b:: Nope, I'm not a farmer.
+
+Response1a:: Hehe, see, dearie? These old eyes still got it. 
+
+Response1b:: Hehe, good try, but believe me when I say I was born a <i>long ways</i>  from yesterday.  
+
+
+Option2a:: You've built a very efficient orchard.
+
+Option2b:: I could make a better orchard.
+
+Response2a:: That's the idea, dearie. Maybe you could even use some of our methods on your own farm. Have you seen my grandson's beehives? //Relationship Edna1 1
+
+Response2b:: Oh, fiesty, eh, dearie? Then by all means, why don't you go back to your little farm and give it a try, hehe... //Relationship Edna1 -1
+
+End

@@ -1,0 +1,23 @@
+Vaan Cycle P12
+
+Dialogue:: I was soaring over the forest when I heard some delightful music. It was coming from that big house by the wheat field in Sun Haven. Do you know the one?
+
+Option1:: Do you like that kind of music?
+Option2:: That's Claude's house.
+
+Response1:: It was very unlike Elven music, for sure. But it was calming. A very pleasant surprise to find in the clouds above the forest!
+Response2:: Claude? Is he the broody one with the blonde hair? I think I've seen him before. I wouldn't have taken him for a musician.
+
+Option1a:: I don't like that kind of music. //Relationship VaanP12 -1
+Option1b:: I can't imagine a better place to listen to music. //Relationship VaanP12 2 Happy
+
+Response1a:: Oh? You must prefer loud music. Too much noise makes it difficult to meditate, but to each their own.
+Response1b:: It really was a perfect moment, even if it was just a moment. 
+
+Option2a:: Why not?
+Option2b:: "Broody" is one way to describe him.  //Emote none Embarrassed
+
+Response2a:: Most of the musicians I know are mushrooms... But besides that, he doesn't look very happy.[]In Nel'Vari, the best crafters are the happiest ones. You can feel their happiness in their work. To create from a place of sadness sounds wrong to me, but maybe it's just a Human thing.
+Response2b:: I don't mean to judge him harshly. I've just never seen a smile on his face, I don't think.[]Can you imagine, never smiling? That would be so sad, and boring!
+
+End

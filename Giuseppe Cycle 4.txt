@@ -1,0 +1,26 @@
+Giuseppe Cycle 4
+
+Dialogue:: Feeling well today, XX? I'm trying out a new sculpting medium, myself.
+
+Option1:: What is a sculpting medium?
+Option2:: What is your latest sculpture?
+
+Response1:: It's a fancy way of saying "the stuff I'm sculpting with." Usually I use dirt clay, but you can make sculptures out of just about anything that can be molded.[]Today I'm using bread dough. No, really! Sculpt the dough, then bake it, and just like that you've got a bread sculpture!
+Response2:: I want to get better at capturing living things in sculpture, so I've tried with some small animals. Birds and squirrels, mostly. But I want my next piece to be more ambitious... Maybe Elios?
+
+Option1a:: Does it taste good?
+Option1b:: I had no idea you could sculpt something out of dough.
+
+Response1a:: I'm not sure. When I bought the dough from Liam, he said I probably shouldn't eat it. But that just makes me want to eat it more... Who says I don't starve for my art!
+Response1b:: You can sculpt with all sorts of different things. Wet sand works real well. I love making castles with Topi when we go to the beach.
+
+Option2a:: I bet Elios would be honored if you sculpted him. //Relationship Giuseppe4 2
+
+Option2b:: I don't think you could pull that off. //Relationship Giuseppe4 -1
+
+
+Response2a:: He's a mighty guardian, but he also strikes me as very humble.[]Maybe when I finished the sculpture, I could travel to Dragon's Meet and show it to him? Nah, I'd be too nervous...
+
+Response2b:: I can't tell if you're being serious, or just trying to motivate me... Anyway, failure isn't a bad thing. It's how people learn. Trust me - I've learned a lot over the years!
+
+End

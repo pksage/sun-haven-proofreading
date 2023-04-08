@@ -1,0 +1,5 @@
+Rex One Liner 3
+
+Dialogue:: There's nothing like the thrill of entering a cavern for the first time.																																															
+
+End

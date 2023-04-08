@@ -1,0 +1,9 @@
+Clemmett Cycle 0
+
+Dialogue:: Who's that? A new face in Nel'Vari, eh? I remember when the new face was mine!
+
+Option1:: I'm XX. What's your name?
+
+Response1:: Oh I'm Clemmett. I'm sure you'll like it here. The Elves are very welcoming!
+
+End

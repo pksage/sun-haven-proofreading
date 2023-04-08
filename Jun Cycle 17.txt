@@ -1,0 +1,23 @@
+Jun Cycle 17
+
+Dialogue:: My dear XX, I hope you're enjoying your day. I see you're already building a sweat!
+
+Option1:: ... Am I really sweaty? //Emote none Embarrassed
+Option2:: I hope your day is going well, too!
+
+Response1:: Oh! Sorry XX, I didn't mean to make you self-conscious.[]Anyway, I like it! It lets me know that you've been busy.
+Response2:: Well, so far I stopped Emma and Elizabeth from fighting over a book they both wanted, then I picked up some trash around town, and now I'm talking to you![]You could say it's a pretty standard day for me.
+
+Option1a:: I guess I don't mind it then! //Relationship Jun17 2 Happy
+Option1b:: I don't want to look like a mess in front of you, Jun. //Relationship Jun17 -1 Sad
+
+Response1a:: Ah, good! It's important to get comfortable with this kind of thing. We're spending our lives together, and that means sharing <i>everything</i>.
+Response1b:: XX, you need to get comfortable with this kind of thing. We're spending our lives together, you know. That means sharing <i>everything</i>.
+
+Option2a:: Sometimes I forget how much you do in a day.
+Option2b:: We need a "Jun Day" to celebrate how much you do for Sun Haven.
+
+Response2a:: Look who's talking! I couldn't keep up with you in a day if I tried!
+Response2b:: Hah! Can you imagine, little flags with my face on them?[]I don't think my ego is big enough for something like that, though. I would be so uncomfortable!
+
+End

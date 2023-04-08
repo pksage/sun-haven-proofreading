@@ -1,0 +1,33 @@
+Pod Cycle 2
+
+Dialogue:: Farmer! Are you here for playtime?
+
+
+Option1:: Maybe next time, Pod.
+
+Option2:: What is your favorite game?
+
+
+Response1:: Aw, boring. You should play more, then you wouldn't be so boring.
+
+Response2:: I love tag the most. I'm really good at it, especially when we play hide-and-tag.
+
+
+Option1a:: I can't play because I'm too busy with work. //Relationship Pod2 -1
+
+Option1b:: I can't play because I'm... going to fight monsters! //Relationship Pod2 2
+
+Response1a:: I wanted you to be a fun grown up. You're just a regular grown up though.
+
+Response1b:: No way! Real live monsters, not just pretend??[]Topi is scared of monsters, but not me.
+
+
+Option2a:: What do you like most about tag?
+
+Option2b:: What's your best hiding spot?
+
+Response2a:: I get to run around a lot. Topi is faster than me but I fit under the bushes where he can't get me!
+
+Response2b:: No way, I won't tell you or you'll tell Topi. 
+
+End

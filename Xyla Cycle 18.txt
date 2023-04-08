@@ -1,0 +1,33 @@
+Xyla Cycle 18
+
+Dialogue:: For once, you don't smell like dirt or sewer water! Don't tell me you actually took a bath for me?
+
+Option1:: I would never bathe for you, Xyla. //Emote none Embarrassed
+
+Option2:: Do I really smell different?
+
+
+Response1:: Aw, you mean it? That's the sweetest thing I've ever heard![]Never change, XX. I want you just the way you are, body odor and all.
+
+Response2:: Kind of... wait, that might actually be some food cooking somewhere.[]It's too bad you can't smell like pizza all the time. I guess you're not the perfect partner after all...
+
+
+Option1a:: I could say the same to you, Xyla. //Relationship Xyla18 2 Romantic
+
+Option1b:: You stink pretty bad too! //Relationship Xyla18 -1 Sad
+
+Response1a:: Hehe, oh XX... yep, we're a perfect match. It's an undeniable fact at this point. Nobody keeps up with me like you do!
+
+Response1b:: I think you've lost the nuance in your jokes, XX. You're starting to just sound... annoying.
+
+
+Option2a:: If that's my only problem, I'd say I'm doing pretty well!
+
+Option2b:: I'll try to smell like pizza for you. //Emote none Romantic
+
+Response2a:: Yeah, yeah, don't get a big head. As far as I'm concerned, I can live without the smell of pizza. It would just be nice, is all...
+
+Response2b:: And just like that, I swoon![]... I don't actually know what it means to "swoon" but you get the point.
+
+
+End

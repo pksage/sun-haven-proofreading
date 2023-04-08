@@ -1,0 +1,33 @@
+Darius Cycle 9
+
+Dialogue:: I've come to truly enjoy your presence, XX. Strange, since you're merely a farmer.
+
+Option1:: The more I get to know you, the more you already sound like a king.
+
+Option2:: You're truly an icon. I long to be more like you.
+
+
+Response1:: I hope that isn't surprise I hear in your voice. Don't forget who you're talking to. Royalty is in my blood.
+
+Response2:: The only way you could learn to be like me is by spending more time with me. Alone. Together.[]Perhaps we should... engage in a private meeting?
+
+
+Option1a:: Yeah, but your dad seems way more kingly than you. //Relationship Darius9a -1 Mad
+
+Option1b:: My prince, I only meant that Withergate will be lucky to have you as king. //Relationship Darius9a 2 Happy
+
+Response1a:: Keep talking like that and you will beg my forgiveness when I hold the throne. Forgiveness I will not give.
+
+Response1b:: Indeed. If everyone here treats me with the same respect you show me, then my rule will be easy.
+
+
+Option2a:: I don't think that's a good idea. //Relationship Darius9b -1 Mad
+
+Option2b:: If it pleases you, my prince! //Quest none DariusHangout1Quest
+
+Response2a:: I see. Forget it, it was a foolish idea anyway.
+
+Response2b:: Of course it would. Be at the ferris wheel tomorrow at 5:00 pm. Don't make me wait around, XX...
+
+
+End

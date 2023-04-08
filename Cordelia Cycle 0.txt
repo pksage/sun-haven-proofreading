@@ -1,0 +1,9 @@
+Cordelia Cycle 0
+
+Dialogue:: You? I suppose we were never properly introduced...  
+
+Option1:: Right. So, I'm XX.
+
+Response1:: My name is Cordelia. I sit on the royal council with Xyla and Darius. I would say it's a pleasure...
+
+End

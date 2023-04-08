@@ -1,0 +1,5 @@
+Iris Intro One Liner 1
+
+Dialogue:: It's impressive that you found your way into Nel'Vari. It says a lot about you as a person, I think.												
+
+End

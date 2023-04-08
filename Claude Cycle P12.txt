@@ -1,0 +1,23 @@
+Claude Cycle P12
+
+Dialogue:: I try my best to get away from the thought, but I can't shake that I'm past my peak.
+
+Option1:: What was your "peak"?
+Option2:: Why are you so worried?
+
+Response1:: My concerto, obviously. I wrote it when I was so much younger, the debut to my career as a composer.[]It was a swan song that came before birth, instead of before death. I feel like I'll never live up to it again.
+Response2:: If I've already hit the high point of my life as a composer, my peak, then I can't help but wonder if there's any point in composing anything else.[]I'm possibly only being dramatic, but I worry all the same.
+
+Option1a:: If you keep composing, you'll get there again. //Relationship ClaudeP12 2 Happy
+Option1b:: You'll never peak again if you keep being so sour. //Relationship ClaudeP12 -1 Mad
+
+Response1a:: You really think so, XX? It's hard to imagine, but your encouragement is very inspiring... Thanks. 
+Response1b:: Every emotion I feel goes into my music, good or bad. It isn't for you to dictate like that. 
+
+Option2a:: Your music is all great, don't overthink it so much. 
+Option2b:: Would you just relax already? //Relationship ClaudeP12 -1 Sad
+
+Response2a:: I'm glad you think so, but this is a personal problem for me. Don't let it worry you, okay?
+Response2b:: Oh, I guess I'm really bothering you with my problems. I truly didn't mean to. 
+
+End

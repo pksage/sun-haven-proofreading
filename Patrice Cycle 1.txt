@@ -1,0 +1,18 @@
+Patrice Cycle 1
+
+Dialogue:: Hoy there! What can I help ya' with?
+
+Option1:: What is this place?
+
+Option2:: What's your story?
+
+
+Response1:: Well, this is an aquarium. It's like a real fancy home for fish, where they can be taken care of and kept safe. More important than that, though, I can observe them for my research![]I've got a full set of every documented fish species - and then some! Take a look around.
+
+Response2:: My whole family are fishermen. My father, all of my brothers - even grandma. I guess I was the weird one who wanted to <i>study</i>  fish, instead of catch them.[]I'm happy to be doing just that now. Seriously, take a look around. We've got all the known species!
+
+Option1a:: I see.
+
+Option2a:: I see.
+
+End

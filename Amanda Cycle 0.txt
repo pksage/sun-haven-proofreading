@@ -1,0 +1,9 @@
+Amanda Cycle 0
+
+Dialogue:: Welcome. I'm Amanda, the librarian. Please treat my books with respect.
+
+Option1:: My name is XX. Happy to meet you.
+
+Response1:: Mhm, sure you are. Anyway, please be quiet while you're here.
+
+End

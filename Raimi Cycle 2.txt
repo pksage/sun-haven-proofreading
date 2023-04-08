@@ -1,0 +1,33 @@
+Raimi Cycle 2
+
+Dialogue:: Ever since this Withergate thing cropped up, I've had eyes on the back of my head.[]Er, but that's just a saying. I only have the two eyes up front, obviously.
+
+
+Option1:: What do you think of the Withergate rumors?
+
+Option2:: So what made you become a hunter?
+
+
+Response1:: They're not just rumors, I've seen the monster city myself. Yeah, huge fiery towers and flying monsters everywhere. We need to be prepared, because a fight is coming.
+
+Response2:: I guess I started as a teenager. Both my folks had bad joints from working the mines their whole lives, so they couldn't spend long days walking in the forest.[]It was up to me to provide when money was tight, so I taught myself how to track and hunt. I got so good at it, I started teaching lessons to bring in some money on the side.
+
+
+Option1a:: Has anyone else seen it?
+
+Option1b:: Where did you see it?
+
+Response1a:: No, I was alone. Well, I had my friend with me but he was knocked unconscious by a golem. I barely got us out of there alive!
+
+Response1b:: I can't be sure because it was so dark. I wandered alone for two days before I found the road back to Sun Haven.
+
+
+Option2a:: Your parents were lucky to have you. //Relationship Raimi2 2
+
+Option2b:: You've never had any professional lessons? //Relationship Raimi2 -1 
+
+Response2a:: Thanks farmer. Not to get a big head about it, but I'm real proud of being a provider! It feels good to give back.
+
+Response2b:: You're not hearing me, farmer - I <i>am</i> the professional in this situation.
+
+End

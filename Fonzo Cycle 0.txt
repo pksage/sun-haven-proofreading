@@ -1,0 +1,9 @@
+Fonzo Cycle 0
+
+Dialogue:: Come in, come in![]Pleased to have you in my shop. Take a look around, get to know the animals!
+
+Option1:: Thank you! My name is XX, what's yours?
+
+Response1:: My name is Alfonse, but my friends call me Fonzo. So call me Fonzo!
+
+End

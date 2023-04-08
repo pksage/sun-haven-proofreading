@@ -1,0 +1,33 @@
+Kitty Cycle 12
+
+Dialogue:: I'm bored lately, XX. Maybe I need a new project to focus on?
+
+Option1:: What project are you most proud of?
+
+Option2:: Do you have any goals you're working toward?
+
+
+Response1:: I'm so so proud of my dress. I made it to match my ears and tail - can you tell, nya??
+
+Response2:: Well, since we last talked about it, I'm secretly training to get back in shape like I was when I performed in the carnival. But don't tell, nya! It's between you and me, okay??
+
+
+Option1a:: Your dress is... unique. //Relationship Kitty12 -1 Sad
+
+Option1b:: You have a great eye for design! //Relationship Kitty12 2 Embarrassed
+
+Response1a:: Huh? Is that it, XX? You don't really like it, nyan...
+
+Response1b:: Ah no, don't say that - I'm just average! You're too too nice to me, XX. Thank you for always making Kitty happy, nya!
+
+
+Option2a:: Why are you doing that? //Emote none Happy
+
+Option2b:: Why is it secret? //Emote none Happy
+
+Response2a:: It makes me better at climbing and jumping, which are two of Topi and Pod's favorite ways to play. I want to show them how good I am!
+
+Response2b:: It's a surprise for Topi and Pod! Sometimes Kitty plays with them, running and jumping. Very very soon I'll be able to show them the best jumps ever!
+
+
+End

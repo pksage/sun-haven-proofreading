@@ -1,0 +1,5 @@
+Vaan One Liner 4
+
+Dialogue:: Guess what, XX? I figured out a new wind magic technique! Watch... actually, I'm nervous now that you're watching.				
+
+End

@@ -1,0 +1,34 @@
+Iris Cycle 1
+
+Dialogue:: Remind me, your name is XX? I don't mean to be rude, I just have a lot on my mind.[]Do you have a question for me?
+
+Option1:: What do you do here? //Emote none Embarrassed
+
+Option2:: Have you received a blessing from Nivara?
+
+
+Response1:: I'm an enchantress, so I use magic to make life easier. At least, that's the idea... Heh, sometimes my experiments have unexpected results.
+
+Response2:: Oh, yes, so very fascinating. Talk about power, I can't even begin to understand the magic she wields. But that's expected of a dragon's power, I guess.
+
+
+Option1a:: What made you want to be an enchantress?
+
+Option1b:: How does your magic make life easier?
+
+Response1a:: Oh my, that's a big question. I guess nature and magic are just such huge bodies of knowledge, so the chance to combine the two... who could pass that up??
+
+Response1b:: Mainly by helping the ecosystem - keeping plants alive year-round, making trees grow from rocks, that sort of thing.[]Not to mention, my favorite berries are always in season now!
+
+
+Option2a:: Maybe you should study her. //Relationship Iris1 -1
+
+Option2b:: I'm sure your magic is powerful, too. //Relationship Iris1 2 Happy
+
+Response2a:: There are certain lines that even researchers shouldn't cross. As an ethical enchantress, I refuse to do research on Nivara. Her magic isn't for us.
+
+Response2b:: Oh, thanks! My enchantments aren't exactly on par with Nivara's, but they get the job done.
+
+
+End
+

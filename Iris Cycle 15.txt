@@ -1,0 +1,23 @@
+Iris Cycle 15
+
+Dialogue:: There you are, XX. I thought living with somebody would become a chore, but it's just the opposite with you.
+
+Option1:: I'm just thinking of our future together.
+Option2:: Are you happy in our relationship, Iris?
+
+Response1:: Good thoughts, I hope?
+Response2:: I never thought I'd be so happy, if you want me to be honest. I don't want to imagine a future without you in it, XX.
+
+Option1a:: <i>Very</i> good thoughts, Iris. 
+Option1b:: The future I see for us is nothing but goodness.
+
+Response1a:: Thank goodness... I got a little worried there, XX! Be careful when you do that to me.
+Response1b:: Thank goodness... I got a little worried there, XX! Be careful when you do that to me.
+
+Option2a:: That's exactly how I feel. //Relationship Iris15 2 Happy
+Option2b:: I don't think our relationship is that serious. //Relationship Iris15 -1 Sad
+
+Response2a:: If you feel the same way, then I see no reason to not take our relationship even further. If you're truly ready for that, of course. Oh, now my heart is racing... 
+Response2b:: I thought we were on the same page about this... I don't know how I was so wrong.
+
+End

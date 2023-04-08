@@ -1,0 +1,23 @@
+Lucia Cycle P11
+
+Dialogue:: You've been with us in Sun Haven for a good time now, XX. You've truly become an integral part of our community!
+
+Option1:: Am I really that important to Sun Haven?
+Option2:: Is it hard to keep track of everyone living in town?
+
+Response1:: I couldn't imagine Sun Haven without a Kitty or an Emmett, or a <i>you</i>! Everyone is important, but more than that, everyone is a <i>part</i> of our town.[]Sun Haven wouldn't be the same without you rushing up and down the streets, busy with your endeavours. I hope you plan to stay with us for a long time, XX.
+Response2:: It's not difficult at all. It's not only part of my job, but it's also something I'm genuinely interested in doing.[]I may be Sun Haven's leader, but being leader is meaningless if I don't know the people I'm responsible for. It's a lot of work to keep track of everyone, but it's work I love.
+
+Option1a:: I hope to stay here a long time, too. //Relationship LuciaP11 2 Happy
+Option1b:: Sun Haven is honestly pretty dull. //Relationship LuciaP11 -1 Sad
+
+Response1a:: That's what I was hoping! You're part of the Sun Haven family now, you can't just up and leave us!
+Response1b:: That really is too bad that feel that way, XX. If you ever left us, your presence would be sorely missed.
+
+Option2a:: You're really a true leader. //Relationship LuciaP11 2 Happy
+Option2b:: That sounds about right, coming from you. //Emote none Happy
+
+Response2a:: Oh, please. It's everyone in Sun Haven who inspires me. If not for all of you, I wouldn't be doing this!
+Response2b:: Well, you have gotten to know me quite well, XX. I must finally be running low on surprises!
+
+End

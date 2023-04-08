@@ -1,0 +1,9 @@
+Sable Cycle 0
+
+Dialogue:: I'm the youngest of my sisters! My name is Sable. Who are you??
+
+Option1:: I'm XX, a farmer from Sun Haven.
+
+Response1:: Ooh, you travel? That's fun! I traveled here with my sisters. But I think we're done travelling for now.
+
+End

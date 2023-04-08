@@ -1,0 +1,23 @@
+Fidget Cycle 1
+
+Dialogue:: Is that you I hear, XX? I wasn't sure if you were going to stick around, kekeke.
+
+Option1:: What is seeing the world with your echo like?
+Option2:: Why wouldn't I stick around?
+
+Response1:: You're a curious person. I like that![]Okay, imagine that when you shouted you'd see a picture of everything around you. Does that make sense to you? Well, it would if you were a bat, kekeke.
+Response2:: Well, you sounded like you were from that Human town. What's it called? <i>Sud</i> Haven?[]Anyway, I should have given you more credit. For someone from Sud Haven, you're more than meets the ear.
+
+Option1a:: That sounds perfect for living in the dark.
+Option1b:: I'd rather use my eyes to see.
+
+Response1a:: Exactly. Why else do you think I came to a place like Withergate? Lots of darkness, plenty of stuff to do, and sights to hear.
+Response1b:: Sure you do, until you're stuck in the dark. Then you'll wish you had my echo, kekeke.
+
+Option2a:: It's <i>Sun</i> Haven, actually.
+Option2b:: That's a compliment, right?
+
+Response2a:: Are you sure? That doesn't sound right to me.
+Response2b:: Kekeke, of course! I don't know what they say over in Sud Haven, but that's a genuine compliment among my people.
+
+End

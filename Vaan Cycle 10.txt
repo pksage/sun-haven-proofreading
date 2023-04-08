@@ -1,0 +1,33 @@
+Vaan Cycle 10
+
+Dialogue:: I accidentally flew through a flock of birds yesterday. I think I was even more startled than them!
+
+Option1:: What is it like to fly? //Emote none Happy
+
+Option2:: Not so good with animals, huh?
+
+
+Response1:: So you actually are curious? I'm surprised you haven't asked already.[]Flying is the most freeing experience in the world. It changes how you think about everything - distance, nature, and even other people.
+
+Response2:: I wouldn't say I'm bad with animals, but I don't have a lot of experience. Maybe I should talk to Clemmett for advice.
+
+
+Option1a:: Is it really that important?
+
+Option1b:: How did it change the way you think?
+
+Response1a:: Absolutely. One day, I'll show you so you can see. Standing in one spot, it's easy to miss the squirrels in the trees or the deer on the other side of the lake.[]You can see it all at once from above. That's when I realized that I'm just one small piece in a constantly changing picture.
+
+Response1b:: I realized how active the world is. Standing in one spot, it's easy to miss the squirrels in the trees or the deer on the other side of the lake.[]You can see it all at once from above. That's when I realized that I'm just one small piece in a constantly changing picture.
+
+
+Option2a:: You have an intense energy, working with animals might be hard for you. //Relationship Vaan10 -1 Sad
+
+Option2b:: You have a gentle spirit, you could figure it out if you tried. //Relationship Vaan10 2 Romantic
+
+Response2a:: I haven't even tried yet, but you think I'd fail? I was hoping for a little more support from my own partner.
+
+Response2b:: Even when I doubt myself, you lift me up. You're truly the wind in my wings, XX.
+
+
+End

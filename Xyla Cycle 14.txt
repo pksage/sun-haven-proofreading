@@ -1,0 +1,33 @@
+Xyla Cycle 14
+
+Dialogue:: Well if it isn't my beloved sewer rat.[]Oh, I'm sorry. Did you want me to stop calling you that? Never going to happen!
+
+Option1:: Maybe it's time I came up with a nickname for you.
+
+Option2:: You know, I don't even mind it anymore.
+
+
+Response1:: But you've been on my good side for so long. Do you really want to throw that all away, XX?
+
+Response2:: Hah, sure you don't! I can see your face twitch whenever I say it, XX. I keep my eyes open, remember?
+
+
+Option1a:: Hm... //Emote none Embarrassed
+
+Option1b:: I can always get back on your good side.
+
+Response1a:: Don't tell me you're actually considering![]Oh, of course you're joking. I can't believe I thought you were serious for a moment!
+
+Response1b:: Big talk! But you better have a real good plan to win me back XX - I won't make it so easy the second time!
+
+
+Option2a:: I don't know how you stay so attentive all the time. //Relationship Xyla14 2 Romantic
+
+Option2b:: If you're still on guard around me, then you need to relax. //Relationship Xyla14 -1 Sad
+
+Response2a:: Maybe I'm just attentive when it comes to you! Heh, I guess you'll never know.
+
+Response2b:: It's not like that, it's more of an affectionate attention. But if you want me to stop, then maybe I'll just pay less attention to you.
+
+
+End

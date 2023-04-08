@@ -1,0 +1,33 @@
+Catherine Cycle 6
+
+Dialogue:: Walking around this town makes me think of all the great times I had growing up here.
+
+Option1:: What are your favorite memories from growing up?
+
+Option2:: Catherine, what's that in your basket there? //AddItem none Catherine'sCharm 1
+
+
+Response1:: When we were quite young, all my siblings and I used to dig holes in the dirt to lay in on hot days. The digging was hard, but the cool dirt was worth it!
+
+Response2:: Oh right, I brought you something! Here, look - this is the strongest magic charm I've ever made. I know this can help you, XX. Try keeping it with you and you'll see! 
+
+
+Option1a:: I would hate to clean up after all those kids. //Relationship Catherine6 -1
+
+Option1b:: To deal with eight dirty kids at once, your parents must have been magic too. //Relationship Catherine6 2
+
+Response1a:: Surprisingly, they didn't seem to mind. Getting dirty is just part of life, I guess.
+
+Response1b:: Surprisingly, they didn't seem to mind. Getting dirty is just part of life, I guess.
+
+
+Option2a:: Are you sure? This seems important. //Emote none Happy
+
+Option2b:: This is so thoughtful, thanks Catherine. //Emote none Happy
+
+Response2a:: It is important, so keep it safe! I think I can trust you, XX. Now it's up to you to prove it. 
+
+Response2b:: Treat it well, okay? I worked really hard to make it. I think I can trust you, XX. Now it's up to you to prove it.
+
+
+End

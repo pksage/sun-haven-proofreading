@@ -1,0 +1,33 @@
+Darius Cycle  10
+
+Dialogue:: XX, have you considered a change of profession? You are too fine a person to be digging in dirt.
+
+Option1:: You never told me, what kind of work do you do with your father?
+
+Option2:: If you weren't royalty, what job do you think you would have?
+
+
+Response1:: Look, I'm going to tell you something that you have to keep quiet. If I learn that you've spoken of this to anyone, you can consider yourself exiled from Withergate.[]... My father does very little work. He once worked tirelessly, but now that Withergate is finished, he sits back and lets me handle everything. He calls it training. I find it infuriating.
+
+Response2:: Hm... That's something I've never pondered. Who knows? You're a farmer, and one with class. Perhaps I could have been like you.
+
+
+Option1a:: You can trust me to keep this quiet.
+
+Option1b:: That doesn't seem fair at all. //Emote none Embarrassed
+
+Response1a:: I know, XX, or else I wouldn't have spoken about it in the first place.
+
+Response1b:: Fairness doesn't matter. He is both my father and my king. While he holds the throne, I have to respect him as both.
+
+
+Option2a:: A farmer? I don't see it. //Relationship Darius10 -1 Mad
+
+Option2b:: You would have done well for yourself! //Relationship Darius10 2
+
+Response2a:: Oh, you think yourself so competent? I'm certain I can till land and raise crops just as well as any farmer - better, even!
+
+Response2b:: Then again, a farmer's life rather lacks dignity. Perhaps a merchant, instead. Surely, I would have become a wealthy owner of several successful shops.
+
+
+End

@@ -1,0 +1,33 @@
+Darius Cycle 1
+
+Dialogue:: Ah, the outsider. If you're staying, then you may call me "My Prince." The pleasure is yours.[]... Well?
+
+Option1:: So you're the prince of Withergate? //Emote none Mad
+
+Option2:: What exactly do you do here? //Emote none Mad
+
+
+Response1:: That should be obvious. Learn who you're speaking to before opening your mouth, peasant.
+
+Response2:: Do I look like an advisor to you? It's not my job to answer your questions.
+
+
+Option1a:: Someone woke up on the wrong side of the bed this morning. //Relationship Darius1 -1 Mad
+
+Option1b:: I beg forgiveness, my prince. //Relationship Darius1 2
+
+Response1a:: You don't seem to understand who you're addressing. Actually, I'll rephrase - you don't seem to understand how close I am to locking you in my dungeon.
+
+Response1b:: That will do for now. Keep that up, and you might yet earn your place here.
+
+
+Option2a:: I'm sorry, I didn't know.
+
+Option2b:: Well if you're not an advisor then what is your job? //Emote none Mad
+
+Response2a:: Consider yourself forgiven, but I can only accept so many of your mistakes.
+
+Response2b:: Do you prefer a crowded jail cell or a solitary cage hanging from the ceiling? Oh nevermind - I'll surprise you.
+
+
+End

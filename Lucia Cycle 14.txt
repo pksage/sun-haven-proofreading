@@ -1,0 +1,33 @@
+Lucia Cycle 14
+
+Dialogue:: For the first time in a long while, the future looks brighter than the present.
+
+Option1:: Do you remember when we first met? //Emote none Happy
+
+Option2:: Sun Haven seems to be doing better these days.
+
+
+Response1:: Of course I do! In hindsight, I'm glad Nathaniel walked off with Lynn after you two arrived. I was glad to make an impression of you right away!
+
+Response2:: I've noticed the same thing! Some extra traffic in town is long overdue, so I'm certainly glad to see it now.[]The flames are finally catching, XX. I'm sure Sun Haven will be a roaring fire again soon.
+
+
+Option1a:: What did you think of me at first?
+
+Option1b:: Were you expecting someone like me?
+
+Response1a:: Well... I was just excited that you were taking over the farm. We needed a farmer quite badly, as you know.[]Actually, it was more than that. I was impressed by the risk you took, moving here. You were surprising me right from the beginning, XX!
+
+Response1b:: Well... I was just excited that you were taking over the farm. We needed a farmer quite badly, as you know.[]Actually, it was more than that. I was impressed by the risk you took, moving here. You were surprising me right from the beginning, XX!
+
+
+Option2a:: It's better not to get our hopes up. //Relationship Lucia14 -1 Sad
+
+Option2b:: I feel like I could live here forever. //Relationship Lucia14 2 Happy
+
+Response2a:: For once XX, I disagree. Now is exactly when to get our hopes up.
+
+Response2b:: I've felt that way for a long time now, XX. But having you here makes it that much easier. I know we have a bright future together!
+
+
+End

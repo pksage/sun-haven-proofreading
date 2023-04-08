@@ -1,0 +1,23 @@
+Kitty Cycle P15
+
+Dialogue:: XX, listen listen! Last night I had a dream that was the most strangest dream ever. I wasn't Kitty at all, but a Human!
+
+Option1:: A Human? That is weird. //Emote none Sad
+Option2:: Do you have many dreams like that?
+
+Response1:: It felt so strange! No claws, no reflexes, no smells. I don't know how Humans live every day like that, nyaan!
+Response2:: Not so many like that, nya. I do have dreams though! My favorite is when I'm flying in the air, and then I catch the birdies right out of the sky!
+
+Option1a:: Was there anything about it that you liked?
+Option1b:: At least it was only for a night!
+
+Response1a:: Well, my ears didn't itch so much. Did you know my ears get so so itchy all the time, nya? When the wind messes up my fur, it itches - itchy itchy!
+Response1b:: True true! If Kitty had to be that way all the time... I don't even like to think about it, nyan!
+
+Option2a:: That sounds like fun! //Relationship KittyP15 2 Happy
+Option2b:: Poor birds! //Relationship KittyP15 -1 Sad
+
+Response2a:: The next time you dream about flying, you should try to catch a birdie too! Then tell Kitty aaaallll about it, nya!
+Response2b:: Nyan? They're not real, silly XX.[]Kitty doesn't hurt animals in real life. Except maybe fish for dinner...
+
+End

@@ -1,0 +1,9 @@
+Malachai Cycle 0
+
+Dialogue:: Hm? What are you looking at?
+
+Option1:: My name is XX!
+
+Response1:: I have a name too, it's Malachai. See? You're not special.
+
+End

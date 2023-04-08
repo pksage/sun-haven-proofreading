@@ -1,0 +1,5 @@
+Kara One Liner 5
+
+Dialogue:: I wonder what Sun Haven will look like in one hundred years.			 					
+
+End

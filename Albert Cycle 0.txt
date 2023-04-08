@@ -1,0 +1,9 @@
+Albert Cycle 0
+
+Dialogue:: Oh? Are you a new neighbor, or have I just forgotten your name?
+
+Option1:: My name is XX, I'm the new farmer here.
+
+Response1:: Of course you are! Well I'm delighted to meet you, XX. Call me Albert, 'cause that's my name!
+
+End

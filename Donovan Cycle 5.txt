@@ -1,0 +1,33 @@
+Donovan Cycle 5
+
+Dialogue:: Hey everyone, my new best friend XX is here![]Eh, nevermind. Nobody's even paying attention.
+
+Option1:: Who do you hang out with, anyway?
+
+Option2:: I'm glad you said that. I feel like we're getting to be close friends, too.
+
+
+Response1:: There's nobody I like to hang with as much as you, XX. Which reminds me, I've been meaning to ask you out.[]Just a hangout with the two of us. What do you say?
+
+Response2:: That reminds me - hang on - ah, why'd I take it off the chain? Come on...[]Aha, got it! Here you go XX, from me to you. It's one of my dogtags!
+
+
+Option1a:: That would be awesome! //Quest none DonovanHangout1Quest
+
+Option1b:: I think I'd rather not. //Relationship Donovan5 -1 Sad
+
+Response1a:: Great, it's a plan! Meet me tomorrow by the apartment building and we'll go from there. Let's say 12:00 pm!
+
+Response1b:: Huh? All right then, my bad.
+
+
+Option2a:: A gift? For me? From you? //AddItem none Donovan'sDogTag 1
+
+Option2b:: You better not be joking! //AddItem none Donovan'sDogTag 1
+
+Response2a:: Hey, I can do nice things too. Sometimes. Listen, I'm trying to be a good partner here. Just, take this.[]That's one of my dog tags. I can't say why, but it's important to me. Don't lose it, okay?
+
+Response2b:: Hey, I can do nice things too. Sometimes. Listen, I'm trying to be a good partner here. Just, take this.[]That's one of my dog tags. I can't say why, but it's important to me. Don't lose it, okay?
+
+
+End

@@ -1,0 +1,33 @@
+Liam Cycle 6
+
+Dialogue:: Life is weird. It feels like no time at all has gone by since we moved here, but it's already been years.
+
+Option1:: What are your future plans?
+
+Option2:: Do you think fate brought you here?
+
+
+Response1:: Future plans? Sheesh, I have trouble planning dinner. I'm just taking everything one step at a time right now. If I had to make a whole life plan, I might black out.
+
+Response2:: Fate? Wow, big question. I don't know if I even believe in fate.[]Then again, it's hard for me to think that things just happen for no reason. So maybe I do believe in fate... What do you think?
+
+
+Option1a:: Don't you think it's important for your sisters that you make a plan? //Relationship Liam6 -1 Sad
+
+Option1b:: Sometimes we have to take life as it comes, and that's okay! //Relationship Liam6 2 Happy
+
+Response1a:: Oh. Maybe? I hadn't thought about that.[]Maybe I bit off more than I could chew by trying to raise them. Am I a bad brother?[]Oh, I wonder if Jun has availability today...
+
+Response1b:: Wow, for a moment it felt like I was in a session with Jun. For some reason you're really easy to talk to.
+
+
+Option2a:: Everything is a coincidence and nothing happens on purpose.  //Emote none Embarrassed
+
+Option2b:: I think everything happens for a reason.
+
+Response2a:: Wow, XX. You really, uh, lay it all out there. I can admire your certainty, that's for sure.
+
+Response2b:: Yeah, yeah exactly. Even if it's not true, it's a comforting thought.
+
+
+End

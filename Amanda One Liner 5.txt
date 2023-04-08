@@ -1,0 +1,5 @@
+Amanda One Liner 5
+
+Dialogue:: I'll be glad to help you as soon as you actually find a book to read.
+
+End

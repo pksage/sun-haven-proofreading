@@ -1,0 +1,25 @@
+PetersLure
+
+Dialogue:: Luckless day! Some flighty fish broke my line and took off with my lucky bobber. I made it by hand and everything.
+
+
+Option1:: Where did you lose it?
+
+Option2(Permanent):: Do you need help finding it?
+
+
+Response1:: A fish took it! Must have been a real trophy to break my line, too. Probably, the bobber washed up on the beach somewhere. Haven't seen it yet, though.
+
+Response2:: I couldn't ask your help with that. I'm sure you're plenty busy with your farm.
+
+
+Option2a:: Nonsense, I'll get looking right away! //Quest none PetersLureQuest
+
+Option2b:: You're right, I'm way too busy.
+
+
+Response2a:: Well, if you insist! I'll surely make it worth your time if you return it to me. (End)
+
+Response2b:: I understand. We all have our own sails to trim, after all. (End)
+
+End

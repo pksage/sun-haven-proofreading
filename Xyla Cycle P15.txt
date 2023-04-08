@@ -1,0 +1,23 @@
+Xyla Cycle P15
+
+Dialogue:: You know, I think it's ridiculous that you got the apartment right next to mine.
+
+Option1:: Why is that ridiculous? //Emote none Mad
+Option2:: I didn't ask for that exact apartment.
+
+Response1:: Because the top floor is <i>supposed</i> to be for high-profile tenants only. I'm part of the royal council, so it makes sense that I'm there.[]But you? You were just the only person looking for a room!
+Response2:: Sure, sure, pass the blame. Classy move. You better stay nice and quiet, got it? I don't need any trouble from next door.
+
+Option1a:: So go complain about it. //Relationship XylaP15 -1 Mad
+Option1b:: Feel free to sleep on the roof, then! //Relationship XylaP15 2
+
+Response1a:: You need to check your attitude, sewer rat. Besides, Flemmett doesn't take complaints.
+Response1b:: Oh, I see how it is! You think you've earned that apartment, huh? Well then I vow to be the <i>worst</i> next door neighbor possible. Just for you!
+
+Option2a:: I won't give you any trouble. //Emote none Happy
+Option2b:: Well now I kind of want to give you some trouble... //Emote none Mad
+
+Response2a:: Good! Because I don't respond well to annoying neighbors. Why do you think your apartment was empty in the first place?
+Response2b:: Trust me XX, that's not what you want. I don't respond well to annoying neighbors. Why do you think your apartment was empty in the first place?
+
+End

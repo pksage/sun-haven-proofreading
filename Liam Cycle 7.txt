@@ -1,0 +1,33 @@
+Liam Cycle 7
+
+Dialogue:: XX! You're looking healthy. Er, I mean you look good. Healthy-good.
+
+Option1:: Liam, what do you have in your hands there?
+
+Option2:: So, what would you say if I asked you on a date? //Emote none Embarrassed
+
+
+Response1:: Oh, these! Yeah let me explain, see... well, they're a gift. Um, for you.[]I know used oven mitts aren't the best gift ever, but I've used these mitts for years.[]They've been with me through all the chaos of moving here, taking care of my sisters, and running the bakery.
+
+Response2:: Oh wow, I don't know, I mean... I guess it depends.[]Er, sorry. You caught me off guard. Go ahead and ask again.
+
+
+Option1a:: Sounds like they mean a lot to you. //AddItem none Liam'sOvenMitts 1
+
+Option1b:: So, why are they for me again? //AddItem none Liam'sOvenMitts 1
+
+Response1a:: They've been with me a long time. I want you to have them because I'm grateful for our friendship and... I want you to be with me a long time too, I guess... does that make any sense?[]Anyway... I'll stop talking now.
+
+Response1b:: They've been with me a long time. I want you to have them because I'm grateful for our friendship and... I want you to be with me a long time too, I guess... does that make any sense?[]Anyway... I'll stop talking now.
+
+
+Option2a:: Gladly! Do you want to go out with me? //Quest none LiamHangout1Quest
+
+Option2b:: Actually, this might not be a good idea. //Relationship Liam7 -1 Embarrassed
+
+Response2a:: Oh! Well... Yes. I mean, definitely! Sorry, I'm not used to this kind of thing. So um, maybe... meet me in front of the bakery tomorrow at 5:00 pm? Yeah, that should work.
+
+Response2b:: That's how you feel? Don't take this the wrong way, but that's a bit of a relief.[]Not that dating you would be a bad thing! I just have a lot going on right now.
+
+
+End

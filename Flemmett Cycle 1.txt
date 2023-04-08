@@ -1,0 +1,33 @@
+Flemmett Cycle 1
+
+Dialogue:: Eh, you again? What's the problem?
+
+
+Option1:: You're sure in a bad mood all the time.
+
+Option2:: So, those snakes on your head...
+
+
+Response1:: Gee, thanks. It's talk like that what really lifts my spirits. I've turned over a new leaf thanks to you, kid. Now if you don't mind, I've got some charity work to do with my newfound perspective.
+
+Response2:: What about 'em? You do know these are attached to my head, right? I'm not just wearin' a wig made of snakes here.
+
+
+Option1a:: You don't have to be so sarcastic. //Relationship Flemmett1 -1
+
+Option1b:: You're pretty funny! //Relationship Flemmett1 2
+
+Response1a:: Actually, I do. It's my defense mechanism. In other words, it's how I get rid of annoyin' kids like yourself.
+
+Response1b:: You think that's funny? Ah, sheesh... Can't you tell I'm tryin' to get rid of you? Well at least one of us is havin' a good time.
+
+
+Option2a:: Oh - of course, I totally knew that.
+
+Option2b:: I'm sorry, I had no idea they were part of your head.
+
+Response2a:: Look, if you're goin' to tell a lie then you gotta at least put some effort into it. Sheesh, what a joke.
+
+Response2b:: Live and learn, I guess. Don't make 'em upset by staring at 'em too long. It's annoying when they slither around too much. Makes my head itch.
+
+End

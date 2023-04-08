@@ -1,0 +1,9 @@
+Caspera Cycle 0
+
+Dialogue:: Hello... Are you here to visit me?
+
+Option1:: Sure! My name is XX.
+
+Response1:: XX... Good to meet you. My name is Caspera. My mom says I'm the youngest kid to ever be invited to the Demon King's castle!
+
+End

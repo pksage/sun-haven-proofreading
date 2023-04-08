@@ -1,0 +1,23 @@
+Liam Cycle P13
+
+Dialogue:: Hey there, XX. You must do a bit of cooking, right? I always wondered, what do you think of my bread oven? Caroline is the real star of the bakery!
+
+Option1:: Your bread oven has a name?
+Option2:: How many loaves of bread do you bake in a single day?
+
+Response1:: I don't know why the oven has a name, but when I bought the bakery way back when, I found the name "Caroline" etched into the brickwork on the inside of the oven.[]I've just referred to the oven that way ever since. You don't think that's silly, do you?
+Response2:: For a long while it seemed like I didn't need to do much more than a dozen loaves a day. But now I'm selling thrice that, at least![]Honestly it's real tough to keep up with the demand sometimes.
+
+Option1a:: That's a very charming story. //Relationship LiamP13 2 Happy
+Option1b:: It's a little strange to give your bread oven a name. //Relationship LiamP13 -1 Emmbarrassed
+
+Response1a:: That's a relief! I was worried you were going to think I was weird or something... I'm glad you liked the story.
+Response1b:: Oh... you were actually the first person I had told this to, besides Emma and Elizabeth. Maybe I should stop calling my oven by name...
+
+Option2a:: At least you make plenty enough for your sisters.
+Option2b:: It must be a sign of Sun Haven turning around.
+
+Response2a:: Those two are why I get out of bed every morning, I don't know if I could handle all this work if not for them.[]Oh, I'm sorry, XX. I'm not trying to dump all of my complaints on you. We should talk about something else...
+Response2b:: I think so, too. I'm glad the town is turning around, but the extra orders have gotten really exhausting.[]Oh, I'm sorry, XX. I'm not trying to dump all of my complaints on you. We should talk about something else...
+
+End

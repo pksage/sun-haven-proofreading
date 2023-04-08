@@ -1,0 +1,23 @@
+Nathaniel Cycle P13
+
+Dialogue:: Look sharp, XX! Hah, I'm only kidding. There's no reason to look sharp much these days. Life in Sun Haven has been very ho-hum lately.
+
+Option1:: What do you do all day if things are so slow?
+Option2:: There's plenty of monsters to fight outside of town.
+
+Response1:: Well, there's still plenty to do, even if times are peaceful. At any moment there could be danger. Well, theoretically, at least.[]But still, I have rounds to make, training to oversee, schedules to draft... let's see, I do armory count each week, I sign off on supply orders... all sorts of boring stuff, really.
+Response2:: This is true, but admittedly I'm not one to really go out of my way to seek a fight. Still, though, maybe it'd be fun to cut loose and rid the forests of a few dozen monsters.
+
+Option1a:: If it's boring, then why do it? //Relationship NathanielP13 -1 Mad
+Option1b:: I never knew you took care of so much stuff. //Relationship NathanielP13 2 Happy
+
+Response1a:: Just because a task is boring doesn't mean it's not important. I thought a farmer would be the type of person to really understand that.
+Response1b:: My plate is often pretty full, I'll say that much. But that's okay! It's my duty, and so it's what I do. Labor now, question later.
+
+Option2a:: Make it a training exercise for your soldiers!
+Option2b:: So take a day off and have some fun.
+
+Response2a:: That might not be such a great idea, though. Some of them, like Roza or Sophie, I could trust without ever thinking twice.[]Some of the others, though, may not quite be ready for extreme training like that. Until then, I'll just keep up my busy work, I suppose.
+Response2b:: I haven't had a real "day off" since I started academy, and I don't plan to take one anytime soon! My soldiers never get a day off, I could never take one myself.
+
+End

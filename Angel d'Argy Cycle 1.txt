@@ -1,0 +1,23 @@
+Angel d'Argy Cycle 1
+
+Dialogue:: Hello again! So the Elder must like you, huh? Otherwise you wouldn't still be here. Anyway, I knew he would.
+
+Option1:: What made you so sure the Elder would like me?
+Option2:: What does the Elder do with people he doesn't like?
+
+Response1:: I have a sense for these things. Some people call it intuition, some tell me it's a magic sense.[]I don't know which is true. I don't really care anyway. All I know is that I can always tell when a person has a kind soul.
+Response2:: I don't think that's ever happened before, not while I've been here anyway. Not a lot of folks find their way in here.[]I assume Salix would escort the person out of Nel'Vari. He's the big tree guy you saw guarding the entrance.[]We don't need much security, but it's nice having him around just in case!
+
+Option1a:: That's a useful skill.
+Option1b:: What if I'm secretly evil?
+
+Response1a:: It has certainly helped me out before. In fact, I might've never made it to Nel'Vari without it!
+Response1b:: Hah, yeah right - and I secretly have toes!
+
+Option2a:: You could be a guard, too! //Relationship Angel d'Argy1 2
+Option2b:: It sounds like this place would be completely helpless without him. //Relationship Angel d'Argy1 -1
+
+Response2a:: What! Me?? Come on, you're pulling my hoof. I know I have a horn, but it's not meant to be a <i>weapon</i>.[]You know, you're the only person who ever thought I could be a fighter! That includes myself, heheh.
+Response2b:: Don't be so quick to assume, XX. The Elves have their own safeguards in place, and I'm not talking about Salix.
+
+End

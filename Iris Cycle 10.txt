@@ -1,0 +1,33 @@
+Iris Cycle 10
+
+Dialogue:: You've been here a while now. Do you like Nel'Vari, XX?[]Sometimes I wish it was different, but I'm not sure how.
+
+Option1:: If you could live somewhere else, where would you want to live?
+
+Option2:: Life in Nel'Vari seems so peaceful, but do you ever get bored?
+
+
+Response1:: I've heard that the Southern Islands are lush with exotic plants, which sounds amazing. I don't think I'd leave Nel'Vari for it, but it's a fun thought.
+
+Response2:: Personally, I don't get bored. I keep busy with enchanting and the occasional woodworking.[]I know Vaan gets bored though. That guy spends more time outside of Nel'Vari than inside, it seems like.
+
+
+Option1a:: What WOULD you leave Nel'Vari for?
+
+Option1b:: What would you do if you lived there?
+
+Response1a:: I'm not quite sure. There's never been a reason to leave, so I haven't.[]I guess I just need a good reason. But it would have to be a really good one!
+
+Response1b:: More of the same, probably. Enchanting, experimenting, some woodwork. Ooh, I bet my experiments would look completely different!
+
+
+Option2a:: You're incredibly devoted to your profession, Iris. //Relationship Iris10 2
+
+Option2b:: You should be more like Vaan. //Relationship Iris10 -1
+
+Response2a:: What's that Human saying? "Practice makes it perfect?" Something like that.[]Anyway, I'm proud of my skills so practicing a lot keeps me happy.
+
+Response2b:: Hm, I don't think so. He spends a lot of time around other people. I need more time to myself.
+
+
+End

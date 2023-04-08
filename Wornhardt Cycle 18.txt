@@ -1,0 +1,23 @@
+Wornhardt Cycle 18
+
+Dialogue:: When I first came here, I didn't think I would stay. It seemed like just another stop on the road.[]Now I've got my own home and practice here, a wonderful partner, and I've even met the Sun Dragon. It feels almost like it did back on the island.
+
+Option1:: You said it feels like it did on the island?  //Emote none Happy
+Option2:: Do you still miss the island?
+
+Response1:: Yeah! Like my life is actually here, you know? I guess some people call that "putting down roots." In any case, the point is that I'm not leaving Sun Haven for a long time.
+Response2:: Sometimes, yes. I had friends there, you know. But it's behind me, and I really only remember it fondly. You don't have to worry about me running back south - this is my home now.
+
+Option1a:: I don't know if I want to stay here. //Relationship Wornhardt18 -1 Sad
+Option1b:: I feel the same way. //Relationship Wornhardt18 2 Happy
+
+Response1a:: Shoot, really? Here I thought you would want to stay for sure, especially since you have the farm. We'll have to talk about that soon.
+Response1b:: I figured you would, especially since you have the farm. Obviously, you're a huge part of my decision to stay... That is obvious, right?
+
+Option2a:: I'm sure your friends think of you, too.
+Option2b:: I'm proud of you! //Emote none Happy
+
+Response2a:: I hope so. I bet they're all happy. I hope so, anyway.[]It's too bad Jun didn't hear me say all that. He would be ecstatic to see my progress, maybe even enough to give me a candy![]I know the candies are for kids, but Jun lets me take one every now and then, heheh.
+Response2b:: Heh, thanks! I guess I've made some progress lately.[]It's too bad Jun didn't hear me say all that. He would be ecstatic to see my progress, maybe even enough to give me a candy![]I know the candies are for kids, but Jun lets me take one every now and then, heheh.
+
+End

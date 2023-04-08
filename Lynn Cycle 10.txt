@@ -1,0 +1,33 @@
+Lynn Cycle 10
+
+Dialogue:: Hi... sweetie! I had some free time today and spent it in the library. It was so nice and quiet.
+
+Option1:: Oh, are we using pet names, "sweetie?"
+
+Option2:: What books do you like to read?
+
+
+Response1:: We don't have to! I think it's cute, is all. I'll stop if you think it's dumb.
+
+Response2:: These days all I have time for is texts on metallurgical techniques. Sorry, I mean books on smithing. But before I was an apprentice, I could lose myself in a good mystery novel.
+
+
+Option1a:: Yeah, I'd rather not do that. //Relationship Lynn10 -1 Embarrassed
+
+Option1b:: It is cute... pumpkin! //Relationship Lynn10 2 Happy
+
+Response1a:: Oh, okay. I guess I'll just stick with XX.
+
+Response1b:: Oh, good! I wasn't sure what you'd think. Like usual, we're on the same page. Everything is easy with you, XX.
+
+
+Option2a:: Why do you like mystery novels?
+
+Option2b:: Mysteries are fun - I love the big reveals at the end.
+
+Response2a:: I love the sidekicks. A sidekick always saves the main character's life at some point. Without the strong little sidekicks, the mysteries would never get solved.
+
+Response2b:: I love the sidekicks. A sidekick always saves the main character's life at some point. Without the strong little sidekicks, the mysteries would never get solved.
+
+
+End

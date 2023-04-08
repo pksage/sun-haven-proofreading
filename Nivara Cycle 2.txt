@@ -1,0 +1,23 @@
+Nivara Cycle 2
+
+Dialogue:: Do you seek guidance, or just a friendly talk?
+
+Option1:: Who was your best pupil?
+Option2:: Was Gorwin your pupil?
+
+Response1:: I'm not sure how to answer that, little sprout. I've mentored many through the ages. Never has the thought of one being better than the other entered my mind.
+Response2:: He was. Much like you, in fact. Though it was a very long time ago. I still remember the young Elf who sat in my sanctuary, asking me endless questions. He's old now, but I still see that same twinkle of youth in his eyes.
+
+Option1a:: Was it me? //Relationship Nivara2 -1
+Option1b:: So... they're all the best? //Relationship Nivara2 2
+
+Response1a:: I would caution feeding your ego too much, XX. One may end up like Dynus if such self-importance is left unchecked.
+Response1b:: That is one way of looking at it. A very good way, in fact. Let us consider it the answer to your question, little sprout.
+
+Option2a:: Was he a good pupil?
+Option2b:: He must have learned much from you.
+
+Response2a:: He was always eager to learn. He still is. You could learn much from how Gorwin perceives the world.
+Response2b:: He was always eager to learn. He still is. You could learn much from how Gorwin perceives the world.
+
+End

@@ -1,0 +1,33 @@
+Jun Cycle 5
+
+Dialogue:: Hi, XX. You look distracted. Is there something on your mind?
+
+Option1:: Oh, I was just imagining being rich. What would you do if you were rich?
+
+Option2:: Actually, I was thinking... of asking you on a date. //Emote none Romantic
+
+
+Response1:: I think I would buy a big house and start my own school. That would be a dream come true, actually.
+
+Response2:: XX... I've been hoping you would ask me that, but now I'm afraid I'm dreaming!
+
+
+Option1a:: That's not a very fun answer. //Relationship Jun5 -1 Mad
+
+Option1b:: That's very you, Jun! //Relationship Jun5 2 Happy
+
+Response1a:: No? Well I'm concerned with being more helpful than fun.
+
+Response1b:: Ah, do you already know me so well? I'm flattered!
+
+
+Option2a:: Actually Jun, I don't think this is the best time. //Emote none Sad
+
+Option2b:: Don't be silly - this is real! What do you say? //Quest none JunHangout1Quest
+
+Response2a:: And just like that, the dream becomes a nightmare...
+
+Response2b:: Absolutely, this is exactly what I've wanted![]XX, let's meet outside my house tomorrow at 10:00 am.
+
+
+End

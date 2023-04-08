@@ -1,0 +1,5 @@
+Catherine Intro One Liner 1
+
+Dialogue:: I'd love to keep talking, but I'm a bit too busy right now. I'm sure I'll see you later!						
+
+End

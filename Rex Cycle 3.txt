@@ -1,0 +1,33 @@
+Rex Cycle 3
+
+Dialogue:: Whew. Hot out here, or is it just me?
+
+
+Option1:: Is it hard being a traveling merchant?
+
+Option2:: Do you have any family?
+
+
+Response1:: Is it HARD? Well, it ain't easy. I'm not the young man I used to be, either. Not to mention the roads aren't as safe as they used to be. Monsterfolk rumors, thugs running around the forests...[]All things considered, life is pretty tough for us traveling merchants. No wonder that Anne girl has settled down here. She's smart.
+
+Response2:: Eh... I had some. A brother, a sister. They started their own families and moved off to I-forget-just-where. Me? I'm too busy on the road. No family for this man, nope.
+
+
+Option1a:: I could be your body guard.
+
+Option1b:: Why don't you settle down like Anne?
+
+Response1a:: Now that's an idea, XX. But let's get real, you have your own duties to worry about. Let me worry about my business, alright?
+
+Response1b:: Hmm. I could... but where's the fun in that? Better to be free and on the road than tied down and safe. I'm sure even Anne would agree with that, despite her choice to settle.
+
+
+Option2a:: Aw come on, Sun Haven is your family! //Relationship Rex3 2
+
+Option2b:: That's very sad. //Relationship Rex3 -1
+
+Response2a:: Bah, go on! You're going to make me shed a tear if you keep it up, bahaha!
+
+Response2b:: Who are you to judge, eh? I like my life just how it is.
+
+End

@@ -1,0 +1,35 @@
+Claude Cycle 11
+
+Dialogue:: I'm bad with compliments, but you look really good today.
+
+Option1:: Are there any spots outside of your house that you like?
+
+Option2:: Hey, why don't we go out on a date?
+
+
+Response1:: There's a waterfall below the cliff outside my house. Sometimes I sit there when I need to clear my head.
+
+Response2:: Oh, you're being serious? Sorry, I just thought you must be joking.[]Okay then, if you want that XX then I'd be happy to.
+
+
+Option1a:: I knew it would be something like that! //Relationship Claude11 2
+
+Option1b:: That doesn't count. //Relationship Claude11 -1
+
+
+Response1a:: Hey, it's a pretty spot. I can admire a lot of your farm from there, too.
+
+Response1b:: Have you met me? I don't go places.
+
+
+Option2a:: Actually, maybe we shouldn't. //Emote none Sad
+
+Option2b:: I'm completely serious, Claude! //Quest none ClaudeHangout2Quest
+
+
+Response2a:: Ah, I see. I knew something like this would happen.
+
+Response2b:: In that case, meet me at my house again. Let's say 12:00 pm tomorrow. We can have a sort of picnic... outside.
+
+
+End

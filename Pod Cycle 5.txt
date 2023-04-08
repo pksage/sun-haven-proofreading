@@ -1,0 +1,23 @@
+Pod Cycle 5
+
+Dialogue:: Hey farmer, can you teach me magics?
+
+Option1:: You want to learn how to do magic?
+Option2:: What would you do if you knew magic?
+
+Response1:: I tried to ask the red lady, but she just laughed and said I wasn't old enough! I'm old enough, aren't I?
+Response2:: I'd use a spell that makes Topi stop liking Elizabeth! And then I'd turn into a dragon!
+
+Option1a:: If your mom says it's okay, then I'll teach you. //Relationship Pod5 2
+Option1b:: She was right, Pod. //Relationship Pod5 -1
+
+Response1a:: Really?? Oh, I better go ask Mama!
+Response1b:: Nooo, that's not true! I <i>am</i> old enough to learn magics!
+
+Option2a:: Why don't you want Topi to like Elizabeth?
+Option2b:: What would you do if you were a dragon?
+
+Response2a:: It's because when she's around he only pays attention to her. I don't like it!
+Response2b:: I would fly around and burn everything up! Hehehehe!
+
+End

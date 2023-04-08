@@ -1,0 +1,23 @@
+Luke Cycle 1
+
+Dialogue:: Hi XX. Be sure to draw plenty of mana orbs today, alright?
+
+Option1:: Are you friends with Vaan?
+Option2:: Why do you want me to draw mana orbs?
+
+Response1:: Me and Vaan get along pretty well. He's one of the few other people in Nel'Vari who seems to appreciate taking it slow. I mean to say we don't work too hard.
+Response2:: I'm a mana comber. I search the forest and collect the mana people leave behind. It's important not to leave mana lying around, you know.[]No matter how careful someone is, they're bound to accidentally leave some leftover mana.
+
+Option1a:: Only you can choose the best way to live your life. //Relationship Luke1 2
+Option1b:: You should work hard if that's what is expected of you. //Relationship Luke1 -1
+
+Response1a:: That's the kind of attitude I'm talking about. I wasn't too sure how I felt about you before, but you're an alright person, XX.
+Response1b:: No way. They say rivers take the path of least resistance. If it's good enough for rivers, it's good enough for me.
+
+Option2a:: You've been stealing my mana orbs?
+Option2b:: How do you leave mana behind?
+
+Response2a:: No no, nothing like that! It's only the mana you left behind. It can be found everywhere if you know how to look for it.[]In fact, gathering leftover mana is important to protecting fragile plants and insects. Just think of me as another part of the ecosystem!
+Response2b:: When you draw mana orbs from nature, you don't get every last bit. Some gets left behind, but I know how to find it.[]In fact, gathering leftover mana is important to protecting fragile plants and insects. Just think of me as another part of the ecosystem!
+
+End

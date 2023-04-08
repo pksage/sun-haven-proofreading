@@ -1,0 +1,33 @@
+Darius Cycle 7
+
+Dialogue:: It's good you're here. It has been a day of boredom in the castle.
+
+Option1:: What's it like living in the castle?
+
+Option2:: Have you ever tried living in sunlight?
+
+
+Response1:: Withergate Castle is the safest place in the world. It is comfortable and luxurious, certainly, but there was a time when it was the difference between life or death for demons.
+
+Response2:: XX... I've gathered a small fondness for you, but a question like that is an insult.[]Demons were forced to live in sunlight for ages. Ages of blindness and anguish. Only in this eternal night have we found peace.
+
+
+Option1a:: How long ago was it built?
+
+Option1b:: I'm glad you had the castle. Otherwise, Withergate may not have been made.
+
+Response1a:: My grandfather pulled the castle from the ground with his magic one hundred years ago, with the help of my father and me. I pride myself on having been there that day. When I look at the castle, I still feel that pride.
+
+Response1b:: My grandfather pulled the castle from the ground with his magic one hundred years ago, with the help of my father and me. I pride myself on having been there that day. When I look at the castle, I still feel that pride.
+
+
+Option2a:: I didn't realize you were so sensitive, Darius. //Relationship Darius7 -1 Mad
+
+Option2b:: I should have known better. //Relationship Darius7 2 Happy
+
+Response2a:: You're getting too comfortable with me., XX. If you don't correct yourself, I will be forced to make the correction.
+
+Response2b:: Little XX... You're quick to regain my good graces. I seem to be developing a soft spot for you.
+
+
+End

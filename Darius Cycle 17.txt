@@ -1,0 +1,23 @@
+Darius Cycle 17
+
+Dialogue:: The Moon Dragon once told me that I would forge a strong alliance to lead Withergate into the future. I had no way of knowing it would be with a resident of Sun Haven.
+
+Option1:: Do you think that means something?
+Option2:: Have you learned much from the Moon Dragon?
+
+Response1:: Who knows? It could mean a future alliance between our towns. Or, it could mean Withergate's conquest over Sun Haven, as well as the outlying towns.[]There's really no telling. Perhaps I should confer with the Moon Dragon again.
+Response2:: Dynus is extremely knowledgeable, but he is no teacher. He granted me his blessing, which increased my strength well past its natural limits. Other than that, he simply keeps the skies dark.
+
+Option1a:: I can't believe you would threaten to overthrow Sun Haven! //Relationship Darius17 -1 Mad
+Option1b:: We will figure it out together, when the time comes. //Relationship Darius17 2
+
+Response1a:: If you let sentiment hold you back, XX, you will have a difficult time adjusting to leadership.
+Response1b:: Precisely. You already have the makings of a true ruler, XX. You're ruthless and decisive, but you also know when patience is needed.
+
+Option2a:: Dynus really doesn't help you lead Withergate at all?
+Option2b:: It doesn't sound like he's much of a guardian.
+
+Response2a:: Why should he? My father has done an acceptable job so far, and I will do an even better job of it. There's no use in a dragon getting involved in the city life of Withergate.
+Response2b:: I would hold my tongue before speaking like that, for your own sake. If a guard heard you speaking like that, they would have to report it to Dynus.[]There's no telling how he would react then - the Moon Dragon is both powerful and temperamental.
+
+End

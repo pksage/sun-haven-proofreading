@@ -1,0 +1,33 @@
+Peter Cycle 1
+
+Dialogue:: Hoy, XX! Can you feel that wind? It's going to be a beautiful day.[]You have a question for me?
+
+
+Option1:: So are you from Sun Haven originally?
+
+Option2:: Have you always been a fisherman?
+
+
+Response1:: I've lived here all my life, so you tell me! Yep, I know this town backward and forward. Not a thing I would change about it. Other towns just can't compare. 
+
+Response2:: Not always. I used to run trade with my ship, but I got tired of that. I don't like traveling on routes as much as sailing the sea freely.
+
+
+Option1a:: There are a few things I would change... //Relationship Peter1 -1
+
+Option1b:: I'll take your word for it! //Relationship Peter1 2
+
+Response1a:: Well, change them or don't. Complaints don't solve a thing.
+
+Response1b:: Well I've visited every port town on the western coast, so I'm not just blowing hot air here!
+
+
+Option2a:: Does fishing allow you more freedom, then?
+
+Option2b:: Did you like having a trade ship?
+
+Response2a:: Sure does! Now I just follow the weather and my own natural instinct. The sea guides me.
+
+Response2b:: It was a decent living with regular work. Boring, though. Not nearly as exciting as feeling the first nibble on the end of your fishing line.
+
+End

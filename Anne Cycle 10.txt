@@ -1,0 +1,35 @@
+Anne Cycle 10
+
+Dialogue:: Hey XX. Have you put on some muscle? You look really good!
+
+Option1:: I haven't asked, what kind of music do you listen to?
+
+Option2:: So... how about a date? //Emote none Romantic
+
+
+Response1:: I don't have many records, but I like anything with a good rhythm. Something you can move your body to, you know what I mean?
+
+Response2:: Someone's feeling down to business today. Think you can get a date with me, huh? Just like that? //Emote none Romantic
+
+
+Option1a:: Sounds like you need to expand your tastes. //Relationship Anne10 -1 Mad
+
+Option1b:: We should hit the dance floor sometime! //Relationship Anne10 2 Romantic
+
+
+Response1a:: I have the best taste in town, thanks very much.
+
+Response1b:: Wow, a farmer AND a dancer? You must fancy yourself quite the catch! //Emote none Romantic
+
+
+Option2a:: I think I can! //Quest none AnneHangout2Quest
+
+Option2b:: Actually, maybe that's not the best idea.
+
+
+Response2a:: Then let's do it! Come by my cart at 4:00 pm tomorrow.
+
+Response2b:: Oh... really? Well, all right then XX. If that's what you think.
+
+
+End

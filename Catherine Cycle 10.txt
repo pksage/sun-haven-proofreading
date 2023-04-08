@@ -1,0 +1,35 @@
+Catherine Cycle 10
+
+Dialogue:: XX! I've been looking for you. Here, I brought you something to keep you strong.
+
+Option1:: I've been meaning to tell you... You have the most beautiful hair! //Emote none Happy
+
+Option2:: I was wondering... Did you put a romance spell on me??
+
+
+Response1:: Why thank you, XX! I know the best herbal remedies for healthy, vibrant hair. There's no magic involved at all!
+
+Response2:: Oh? You're just now thinking of this? Hm... Did I... Did I... I guess you'll never know!
+
+
+Option1a:: That's unbelievable! //Relationship Catherine10 2
+
+Option1b:: I don't believe that for a second. //Relationship Catherine10 -1 Mad
+
+
+Response1a:: Start believing XX, because it's true. If you stop by my house sometime, I could even show you my formula!
+
+Response1b:: I can't tell if you're joking or... okay, you're serious. Wow, XX. Come on, I'm no liar.
+
+
+Option2a:: Wait, I was only joking...
+
+Option2b:: Now it sounds like you actually did!
+
+
+Response2a:: Oh come on, XX. Of course I didn't! If you're feeling any kind of romance, then that's coming from you - and you can't blame me for that.
+
+Response2b:: Oh come on, XX. Of course I didn't! If you're feeling any kind of romance, then that's coming from you - and you can't blame me for that.
+
+
+End

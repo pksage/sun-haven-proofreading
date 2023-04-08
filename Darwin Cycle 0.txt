@@ -1,0 +1,9 @@
+Darwin Cycle 0
+
+Dialogue:: Oh? A newcomer? Just keep your filthy fingers off of my fruit!
+
+Option1:: Hey, my fingers are clean. I think.
+
+Response1:: Hmph. That is precisely why you won't be coming near my fruit.
+
+End

@@ -1,0 +1,23 @@
+Topi Cycle 5
+
+Dialogue:: I want a little sister, but mom says dad is too lazy to go and get one!
+
+Option1:: You should tell your dad to try harder!
+Option2:: What would you do if you had a little sister?
+
+Response1:: I try to, but he never listens. He just says "we'll see about it soon," but I want a sister now!
+Response2:: That's easy. I'd teach her where my best hiding spots are, and how to play Dragons!
+
+Option1a:: I'd bet you'll have a little sister before you know it. //Relationship Topi5 2
+Option1b:: You shouldn't whine like that. //Relationship Topi5 -1
+
+Response1a:: You really think so, XX? I hope it's a sister and not a brother, or Pod will get jealous!
+Response1b:: You sound like my mom.
+
+Option2a:: What if she's better at Dragons than you?
+Option2b:: Where are your best hiding spots?
+
+Response2a:: Then we'd be the best brother and sister Dragon team ever!
+Response2b:: Well there's one right behind the record shop where... just kidding! I'm never telling you, XX!
+
+End

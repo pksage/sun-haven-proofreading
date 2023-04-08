@@ -1,0 +1,5 @@
+Covington Cycle 0
+
+Dialogue:: Oh! Excuse me -  *ahem*! Hello there, young sir or madam! I apologize, the museum isn't open to the public yet... <i>(Heavens me, I thought I had that front door locked, wot-wot...)</i>																																																																						
+
+End

@@ -1,0 +1,33 @@
+Cynthia Cycle 1
+
+Dialogue:: Hi there. Here to practice your small talk?
+
+
+Option1:: So what made you choose to sell this stuff?
+
+Option2:: You help people find their partners?
+
+
+Response1:: I was always the matchmaker in my hometown, so I thought I'd take my talents on the road. Who knows how many families I've started along the way?
+
+Response2:: I can't find the partner for you, but I can make sure you're prepared when you do find them.
+
+
+Option1a:: I doubt you have that much of an effect. //Relationship Cynthia1 -1
+
+Option1b:: You're doing important work! //Relationship Cynthia1 2
+
+Response1a:: You don't even know what you're talking about - not until you try it yourself!
+
+Response1b:: It feels good knowing that I make a difference wherever I go.
+
+
+Option2a:: Oh, I see.
+
+Option2b:: I'll take any help I can get!
+
+Response2a:: Don't sound so down - finding love is what life is all about!
+
+Response2b:: Exactly, I can't do it for you but I can help! That's my whole business model.
+
+End

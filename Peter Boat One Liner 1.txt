@@ -1,0 +1,5 @@
+Peter Boat One Liner 1
+
+Dialogue:: Hoy, XX! Ready to set sail after that beast? Make sure you have your best fishing rod - you're going to need it!							
+
+End

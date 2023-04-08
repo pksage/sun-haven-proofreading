@@ -1,0 +1,23 @@
+Lucia Cycle 15
+
+Dialogue:: Sweet XX, what is on your mind? You look somewhat troubled.
+
+Option1:: I've been thinking about our future quite a bit.
+Option2:: Are you happy in our relationship? //Emote none Embarrassed
+
+Response1:: In truth, so have I. It may be silly, but I haven't been able to think about my own future in a long while. At least, not without also thinking of Sun Haven.
+Response2:: XX, I'm surprised at you! Are you having doubts? Or is this my fault?[]If I've made you think that I'm unhappy with you, then you must know that I didn't intend it!
+
+Option1a:: But now you can? //Emote none Happy
+Option1b:: Do you see a future without Sun Haven?
+
+Response1a:: Yes, I'm delighted when I think of the future here. Or as you put it, <i>our</i> future.[]I know that I will never leave Sun Haven, but it's nice to have something other than being Archmage to look forward to.
+Response1b:: Oh, no no. I know that I will never leave Sun Haven. But it's still nice to have something other than being Archmage to look forward to in the future. Or as you put it, <i>our</i> future.
+
+Option2a:: I can't tell if you're really happy. //Relationship Lucia15 -1 Sad
+Option2b:: But are you happy enough... to stay with me forever? //Relationship Lucia15 2 Romantic
+
+Response2a:: All I can do is tell you the truth, XX. It's your decision to believe it or not.
+Response2b:: Oh my goodness... XX, are you asking if I'm ready for marriage??[]I can't think of anything that would make me happier, XX! When you think the time is right, I'll be waiting for you.
+
+End

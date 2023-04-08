@@ -1,0 +1,33 @@
+Liam Cycle 10
+
+Dialogue:: XX, I just realized I never ask you about your farm. I feel like such a jerk! I hope it's going well for you.
+
+Option1:: Liam, I think we should go on a date! //Emote none Happy
+
+Option2:: Liam, did you ever go to visit Elios?
+
+
+Response1:: Oh, r-really?! Well... me too! It's been so nice getting to know you... you really take my mind off all the everyday things. //Emote none Happy
+
+Response2:: I did, not long after moving here. Roza escorted me up the mountain with Emma and Elizabeth.[]At first I was scared of the monsters, but then I saw Roza in action. She's scarier than any monster up there, that's for sure.[]Elios didn't bless me, but he did say he saw promise in the girls. We're supposed to visit him again in five years and I really don't know what to make of that.
+
+
+Option1a:: Well then let's go! //Quest none LiamHangout2Quest
+
+Option1b:: Actually, we should just be friends. //Emote none Sad
+ 
+Response1a:: Really? I mean, sure! I'd really like that. I'm pretty busy with the girls though. Would you mind a night in at my house? If that's fine, then come by tomorrow night at 5:00 pm.
+
+Response1b:: Oh. I mean, yeah. I was just going to say, uh, the same thing. Yep.
+
+
+Option2a:: It was dangerous for you to bring your sisters. //Relationship Liam10 -1 Mad
+
+Option2b:: I'm glad Elios welcomed you. It's nice having you here. //Relationship Liam10 2 Happy
+
+Response2a:: Roza really had everything under control. I wouldn't purposely put my sisters in danger, you know.
+
+Response2b:: Oh, yeah? Heh, I'm glad too. New places aren't always so welcoming. Moving to new towns in the north, it can be weeks before you even learn someone's name.
+
+
+End

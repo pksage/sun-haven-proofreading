@@ -1,0 +1,26 @@
+Dynus Cycle 2
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: What do you get from the offerings?
+Option2:: How old are you?
+
+Response1:: Offerings placed into the altar give me power... similar to the gems below me.[]More importantly... it reminds my inferiors where they belong. I try to avoid needless cruelty... to those who revere me.
+Response2:: Age is irrelevant to my life... I've ceased counting the decades that drift by.
+
+Option1a:: So you rely on the power that is given to you?
+Option1b:: I'll prove myself to you.
+
+Response1a:: I rely only on myself... Do not test me, puny hero. The offerings add little to my power... but I get satisfaction from the devotion of my subjects.
+Response1b:: We shall see... and hurry.
+
+
+Option2a:: So you don't even know how much longer you'll live? //Relationship Dynus2 -1
+
+Option2b:: You must be powerful if you've surpassed time. //Relationship Dynus2 2
+
+
+Response2a:: Simple-minded weakling... Something as simple as time has no influence on a being as powerful as I am.
+Response2b:: Centuries ago, I defeated a race who refused to serve me... they knew me by a fitting title... <i>Dominus Mortis</i>... Master of Death.
+
+End

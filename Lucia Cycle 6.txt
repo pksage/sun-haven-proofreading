@@ -1,0 +1,33 @@
+Lucia Cycle 6
+
+Dialogue:: I imagine you must have met almost everyone in town by now. I hope you're getting along well!
+
+Option1:: Do you hang out with people when you're not working?
+
+Option2:: Citizens aside, who do you think is the best guard in town?
+
+
+Response1:: Of course! In truth, those are the only times when I feel like a citizen of Sun Haven and not just its leader.[]I love to hear Nathaniel and Roza's bantering. I grew up with Catherine, so we know each other quite well. Kitty is rather energetic, but she means well. Actually, the same can be said of Anne.[]I try my best to get to know my citizens. I don't always have time for everyone, but I cherish the time I do get.
+
+Response2:: Such a divisive question could start a squabble, you know. However... between just you and me, Sophie excels as a soldier.[]Please don't tell anyone I said so, as I would hate to discourage the soldiers protecting our town.
+
+
+Option1a:: This might be the most excited I've seen you. It's very sweet! //Relationship Lucia6 2 Happy
+
+Option1b:: A leader should keep some distance from her citizens. //Relationship Lucia6 -1
+
+Response1a:: You're very sweet, XX. I'm happy you've decided to join our family. As far as I'm concerned, that's exactly what Sun Haven is - one big family![]I know that's a cliche, but some cliches are true!
+
+Response1b:: I won't apologize for being passionate about my friends here. That's what I love most about being Archmage - I get to know everybody!
+
+
+Option2a:: I won't tell anyone that you're playing favorites! //Emote none Embarrassed
+
+Option2b:: I was going to say the same thing!
+
+Response2a:: Oh, shush! I know you're joking, but I really don't want to hurt anyone's feelings.
+
+Response2b:: That's quite enough gossip for now. As I said, I do not want to hurt anyone's feelings.
+
+
+End

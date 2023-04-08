@@ -1,0 +1,9 @@
+Edwin Cycle 0
+
+Dialogue:: I'm Edwin. Nice to *hic* meet ya.
+
+Option1:: You can call me XX. Good meeting you, too.
+
+Response1:: I hope ya aren't *hic* waitin' for this seat here.
+
+End

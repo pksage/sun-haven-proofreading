@@ -1,0 +1,5 @@
+Albert One Liner 1
+
+Dialogue:: I used to be a hero, too. Back in my golden days.						
+
+End

@@ -1,0 +1,9 @@
+Jade Cycle 0
+
+Dialogue:: Hi, I'm Jade. You're the new farmer here?
+
+Option1:: That's right, I'm XX.
+
+Response1:: XX... Yeah, I like that name! Good to meet you.
+
+End

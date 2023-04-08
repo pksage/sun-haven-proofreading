@@ -1,0 +1,33 @@
+Donovan Cycle 8
+
+Dialogue:: Hey XX! I'm short on time today so if you wanna talk, better make it snappy.
+
+Option1:: You know, we should we hang out. Just the two of us.
+
+Option2:: I never asked - what's the story with your tags?
+
+
+Response1:: Hey, you're right. I'm totally down for that. Should we?
+
+Response2:: You mean my necklace? No real story. I thought it would be funny to wear them. You know, since I'm half-dog. And... they're dog tags. See? Funny!
+
+
+Option1a:: I'm going to go ahead and call this a date right away. //Quest none DonovanHangout2Quest
+
+Option1b:: It's better if we don't.
+
+Response1a:: Haha! XX, you're so weird. Sure, it's a date then. Meet me in the sewers right outside my house by 12:00 tomorrow. I've already got ideas!
+
+Response1b:: Suit yourself. I'll have more fun on my own, anyway.
+
+
+Option2a:: I don't get it. //Relationship Donovan8 -1 Sad
+
+Option2b:: Hah! That is funny! //Relationship Donovan8 2 Happy
+
+Response2a:: My jokes are wasted on the likes of you...
+
+Response2b:: Finally, someone gets me!
+
+
+End

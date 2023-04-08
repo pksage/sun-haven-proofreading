@@ -1,0 +1,33 @@
+Liam Cycle 14
+
+Dialogue:: You should know, the girls are ecstatic about us. In fact, they're a little <i>too</i> excited.[]It was almost impossible getting them to bed last night!
+
+Option1:: Sometimes even I can't sleep when you're on my mind.
+
+Option2:: Your sisters are a delight, Liam. //Emote none Happy
+
+
+Response1:: Oh yeah? Heh, I don't really have that problem.[]Not that I'm not excited - I am, very much so! I just mean that sleep usually hits me like a centibeetle. I knock out quick.[]I want you to know that I'm excited about us, but I think I'm making it worse by explaining more. Ah...
+
+Response2:: You really think so? That's good to hear. I sometimes worry that I'm not bringing them up right.
+
+
+Option1a:: You're adorable, Liam. //Relationship Liam14a 2 Embarrassed
+
+Option1b:: You're making it worse by explaining more. //Relationship Liam14a -1 Sad
+
+Response1a:: Huh? Uh, okay! I don't know what I did, but I'm glad that it... worked?
+
+Response1b:: Ugh, I know... Sorry.
+
+
+Option2a:: I guess time will tell, huh?
+
+Option2b:: With you as their guardian, I'm sure they will be great. //Relationship Liam14b 1 Happy
+
+Response2a:: Yeah, I know... sometimes I wish time would hurry up, though!
+
+Response2b:: You always say the right thing, XX. How do you even do that? Seriously, can you teach me? I am... not joking.
+
+
+End

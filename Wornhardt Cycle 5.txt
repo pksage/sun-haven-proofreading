@@ -1,0 +1,33 @@
+Wornhardt Cycle 5
+
+Dialogue:: Looks like you're making yourself right at home in Sun Haven! It took me a while to really get comfortable here as a native.
+
+Option1:: So what brought you to Sun Haven to begin with?
+
+Option2:: Did you ever go to see Elios on Dragon's Meet?
+
+
+Response1:: You could say my work brought me here. But really, I just needed a change. There came a time when I realized that the island just wasn't home to me anymore.
+
+Response2:: No, I haven't visited the Sun Dragon. When I first arrived here, Lucia told me that I should wait a while before seeing him.[]I don't see what Elios would do for me, anyway. I don't mean any disrespect, but I don't use magic - I'm a doctor. I stick to what I know.
+
+
+Option1a:: You must miss your family and friends, though.
+
+Option1b:: Do you ever wonder how the island managed without you?
+
+Response1a:: These days, I keep myself looking forward. No point in looking back when there's a beautiful future ahead. I'm sure you can relate, having just moved here yourself.
+
+Response1b:: These days, I keep myself looking forward. No point in looking back when there's a beautiful future ahead. I'm sure you can relate, having just moved here yourself.
+
+
+Option2a:: I'm sure Elios could help your practice, somehow. //Relationship Wornhardt5 -1 Mad
+
+Option2b:: You seem to know what's best for yourself, I'd trust your instincts. //Relationship Wornhardt5 2
+
+Response2a:: I don't mean to offend you, but you just don't know what you're talking about.
+
+Response2b:: Thank you, XX. Sure, the idea that Elios can magically make your life better is appealing, but it's not helpful to me.
+
+
+End

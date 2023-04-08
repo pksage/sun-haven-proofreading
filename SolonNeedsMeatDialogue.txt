@@ -1,0 +1,25 @@
+SolonNeedsMeat
+
+Dialogue:: Hey XX, I've got a job for you. I need some meat.
+
+
+Option1:: Meat?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: Yeah. Doesn't matter what kind of meat. Doesn't even need to be cooked. I'd do it myself, but I just don't have the time.
+
+Response2:: Bring some meat my way and I'll give you some coin.
+
+
+Option2a:: I can do that for you. //Quest none SolonNeedsMeatQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Great, thanks a lot. (End)
+
+Response2b:: Well then, that's that. (End)
+
+End

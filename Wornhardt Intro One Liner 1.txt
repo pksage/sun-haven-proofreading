@@ -1,0 +1,5 @@
+Wornhardt Intro One Liner 1
+
+Dialogue:: Farming can be dangerous if you're using rusty old tools. I hope you're being safe!		
+
+End

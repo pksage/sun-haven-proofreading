@@ -1,0 +1,9 @@
+Beeanca Cycle 0
+
+Dialogue:: Oh, hey there! You can call me Beeanca.[]You look like a hard worker. I'm always looking for more workers!
+
+Option1:: My name is XX. What kind of work do you do?
+
+Response1:: Are you kidding? I pollinate! One look at me should have told you that, silly child.
+
+End

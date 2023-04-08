@@ -1,0 +1,33 @@
+Slobert Cycle 4
+
+Dialogue:: Huh? What do you want? Aren't I rude, huh? 
+
+
+Option1:: I wanted to ask what's up.
+
+Option2:: What's your favorite place in Withergate?
+
+
+Response1:: Buh. You're like Donovan. You keep talking to me. You're WEIRD!
+
+Response2:: The carnival is alright. But it's got NOTHIN' on the sewers. Except there's a bunch of monsters down there.
+
+
+Option1a:: I think we could be friends. //Relationship Slobert3 2 
+
+Option1b:: Slimes aren't so bad. //Relationship Slobert3 2
+
+Response1a:: Do you? Huh. Maybe. I guess you're cool, too.
+
+Response1b:: You got that right. Slimes are the BEST! The best! But I guess the other races are cool, too.
+
+
+Option2a:: I can take care of the monsters. 
+
+Option2b:: What's so great about the sewers? 
+
+Response2a:: Yeah, think you're strong enough? There's a lot down there, the city guards can't do anything about it!
+
+Response2b:: Dank, full of sludge... it's a paradise! If you're a Slime - which is to say, if you have a cultured taste.
+
+End

@@ -1,0 +1,33 @@
+Scott Cycle 2
+
+Dialogue:: Nice day today. Are you going into the forest? You should be prepared.
+
+
+Option1:: Where do you get your weapons?
+
+Option2:: Have you ever been caught unprepared before?
+
+
+Response1:: I'm a traveling merchant, so I know how to spot quality. Whenever I see some good iron on the road, I barter for it. That's real trade, kid.
+
+Response2:: I've been in an ambush once before, but I've always got something sharp on me. Really, those bandits caught themselves unprepared!
+
+
+Option1a:: What if you get scammed?
+
+Option1b:: How long have you been doing this?
+
+Response1a:: Sure, that's happened once or twice. What happens is I learn from it and try not to let it happen again.[]And if I happen to find the person who scammed me, then I'll give them a conversation they won't likely forget.
+
+Response1b:: I can't say exactly, but I can tell you that my hair was black when I started!
+
+
+Option2a:: Your job sounds dangerous. //Relationship Scott2 -1
+
+Option2b:: It sounds like you can really handle yourself.  //Relationship Scott2 2
+
+Response2a:: Might be, yeah. That's why it's not for whiners to do. You might stick with farming, kid.
+
+Response2b:: I spend all day around these weapons, don't you think I play with them a bit? 
+
+End

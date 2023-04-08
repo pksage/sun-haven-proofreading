@@ -1,0 +1,33 @@
+Claude Cycle 13
+
+Dialogue:: I swear that I see you and hear music. Maybe you're my muse, XX.
+
+Option1:: Muse? What do you mean?
+
+Option2:: Nonsense, your inspiration is your own.
+
+
+Response1:: You haven't heard that term before? It means I draw inspiration from you, XX.
+
+Response2:: Ultimately, that's true. But it doesn't hurt to have a little outside help, too.
+
+
+Option1a:: Does that mean vegetables are my muse?
+
+Option1b:: I don't know what's so inspiring about me.
+
+Response1a:: That's not... well, I guess anything could be a muse. But it's usually something a bit more, say, refined.
+
+Response1b:: I don't know either, but that's not important.[]A muse isn't meant to be figured out, it's meant to be a source of creative energy. And you, XX, are overflowing.
+
+
+Option2a:: I will always help, however I can. //Relationship Claude13 2 Happy
+
+Option2b:: I'm afraid you're using me like a crutch. //Relationship Claude13 -1 Sad
+
+Response2a:: All you need to do it be yourself. And you're good at that. Who knows what I'll produce with you around?
+
+Response2b:: Even if I was, would that be bad? I don't see why. I just want to have you around me, all the time.
+
+
+End

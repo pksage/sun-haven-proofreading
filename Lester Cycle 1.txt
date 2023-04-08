@@ -1,0 +1,33 @@
+Lester Cycle 1
+
+Dialogue:: Good day, neighbor! Stay and chat a bit? 
+
+
+Option1:: So who's the best soldier in the corps? 
+
+Option2:: How did you end up here?
+
+
+Response1:: Ah sheesh, you can't ask me something like that. I don't want to hurt anyone's feelings.
+
+Response2:: I joined the army after they saved my village from a rampaging golem. Nathaniel and Roza led the defense themselves, riding in on horseback and forcing the golem back into the mountains.[]After seeing that I thought, "Wow, those are real heroes." I guess I wanted to be a hero too!
+
+
+Option1a:: I get it. You just don't want to say it's you! //Relationship Lester1 2 
+
+Option1b:: Come on, I won't tell. //Relationship Lester1 -1
+
+Response1a:: What! I mean, thank you, but it's definitely not me.[]Look, I'll say this - it's one of the women and she's a strong leader. That should make it pretty obvious... 
+
+Response1b:: Really, I don't like judging people like this. It feels too gossipy.
+
+
+Option2a:: What's the most heroic thing you've done so far? 
+
+Option2b:: Do you feel like a hero now? 
+
+Response2a:: Sun Haven was my first assignment, so... Last week I saved Lucia's lunch from a bird. Does that count as heroism?
+
+Response2b:: Sun Haven was my first assignment, so... Last week I saved Lucia's lunch from a bird. Does that count as heroism?
+
+End

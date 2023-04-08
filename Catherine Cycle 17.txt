@@ -1,0 +1,24 @@
+Catherine Cycle 17
+
+Dialogue:: Hey hun, how's your work been?
+
+Option1:: I've been keeping myself busy. How about you?  //Emote none Happy
+Option2:: What kind of energies do you read in our marriage?
+
+Response1:: I was a little worried that married life would cut into my work.[]But honestly, nothing's really changed. I never thought marriage would be so... comfortable. I love it! 
+
+Response2:: Oh, it's difficult to explain. But when it comes to how I interpret auras and energy, it takes time to get a clear reading.[]But that's okay. You and I can take all the time in the world.
+
+Option1a:: You're married, but you still have a life of your own. //Relationship Catherine17 2 Romantic
+Option1b:: You should focus on our relationship more. //Relationship Catherine17 -1 Sad
+
+Response1a:: Oh believe me, I know that! But you're so compatible with me XX, I can't believe how lucky I am. We truly were made for each other, weren't we? 
+Response1b:: I... truly hope that isn't how you feel, XX. I need our relationship to be liberating, not confining. 
+
+Option2a:: I'd be happy to wait with you forever, if that's what it takes. //Emote none Romantic
+Option2b:: Well I'm reading energies right now that say you're super cute! //Emote none Romantic
+
+Response2a:: Hehe, of course you'd say something sappy like that! 
+Response2b:: Hehe, of course you'd say something sappy like that! 
+
+End

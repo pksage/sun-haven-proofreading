@@ -1,0 +1,9 @@
+Slate Cycle 0
+
+Dialogue:: Welcome, friend. Whether you're here for a drink or just some friendly company, I'm happy to have you. 
+
+Option1:: Thanks! My name is XX.
+
+Response1:: Perfect, I'm Slate. Happy to have you in my tavern.
+
+End

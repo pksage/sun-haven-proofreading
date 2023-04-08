@@ -1,0 +1,33 @@
+Liam Cycle 3
+
+Dialogue:: Hey, XX. Don't mind me, I'm having one of those days.
+
+Option1:: So what's going on with you? //Emote none Embarrassed
+
+Option2:: How about you take a nice walk today?
+
+
+Response1:: I completely forgot a customer's order today. They came by last night to place the order for this morning, and I guess I didn't write it down or something.[]I was making breakfast for the girls when they came in. Then I remembered it all at once and my heart just sank.
+
+Response2:: That might be the right idea. Walking makes me breathe. I mean, I'm always breathing. Everyone breathes. But walking breathing is different than regular breathing. You know?
+
+
+Option1a:: You were taking care of your sisters first. That sounds right to me. //Relationship Liam3 2
+
+Option1b:: You dropped the ball. //Relationship Liam3 -1 Sad
+
+Response1a:: I guess you're right. At least Emma and Elizabeth are taken care of. Sometimes I need a reminder about what's important. Thanks, XX.
+
+Response1b:: I know. Sometimes the ball feels too heavy not to drop it.
+
+
+Option2a:: I totally agree.
+
+Option2b:: If it works for you, then do it.
+
+Response2a:: Really? I thought I was babbling nonsense... Maybe I really will go take that walk.
+
+Response2b:: You're right, XX. I think I'll go take my walk now.
+
+
+End

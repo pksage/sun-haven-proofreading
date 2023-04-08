@@ -1,0 +1,25 @@
+HelpfulHalitosisQuest
+
+Dialogue:: Hey farmer, how's my breath? Hm, you didn't even flinch. No, this won't work.
+
+
+Option1:: What are you talking about?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: I'm trying to make my breath smell bad. It's to keep people from talking to me at the tavern. I've been getting a lot of unwelcome attention lately, so I thought up this clever little plan!
+
+Response2:: Well obviously my breath isn't stinky enough. Can you cook me a meal with fish? <color=#39CCFF>Fish Tempura</color> should do the trick.
+
+
+Option2a:: Okay, I'm on it. //Quest none HelpfulHalitosisQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Great, get that back to me in a hurry! I'll pay you, of course. (End)
+
+Response2b:: Fine then. Maybe I'll muster up the courage to ask Peter... (End)
+
+End

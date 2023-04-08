@@ -1,0 +1,33 @@
+Pod Cycle 3
+
+Dialogue:: I'm bored in school. I never know what Mister Jun is saying.
+
+
+Option1:: I was in school once, too.
+
+Option2:: You should tell that to Mr. Jun.
+
+
+Response1:: You were? Did you like it?
+
+Response2:: No way, that's a trick!
+
+
+Option1a:: I loved it! 
+
+Option1b:: I didn't like it either. 
+
+Response1a:: Nuh-uh, I don't believe you. School is boring. You're not boring, though.
+
+Response1b:: School is boring. You're not boring, though. I wish I could go to the farm instead of school.
+
+
+Option2a:: Mr. Jun wouldn't trick you. //Relationship Pod3 2
+
+Option2b:: You won't get help unless you ask, Pod. //Relationship Pod3 -1
+
+Response2a:: That's true. Mister Jun is a good friend!
+
+Response2b:: No! You can't tell me what to do!
+
+End

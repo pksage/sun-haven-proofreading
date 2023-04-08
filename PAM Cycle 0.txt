@@ -1,0 +1,9 @@
+PAM Cycle 0
+
+Dialogue:: Hello! My artificial ocular systems indicate that you can take a punch! What is your name, stranger?
+
+Option1:: My name's XX. Who are you? Or, what are you?
+
+Response1:: Hilarious joke! I am a Physical Assessment Machine - but you can call me PAM!
+
+End

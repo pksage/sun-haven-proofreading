@@ -1,0 +1,23 @@
+Vaan Cycle 17
+
+Dialogue:: I was in the middle of a cloud meditation when a bird flapped past my head. When I opened my eyes, the first thing I saw was you on your farm.[]I don't know, it felt like a meaningful moment to me.
+
+Option1:: Meaningful in what way?
+Option2:: What's a "cloud meditation?"
+
+Response1:: How to explain... From that high up, I can see farther than anybody. I could even see the Sun Dragon Elios on his mountaintop. But out of all that, I saw you on your farm.[]You and your farm were so small compared to everything, but you're still all I wanted to look at.
+Response2:: That's a style of meditation I invented! It's just what it sounds like - you settle on a cloud in the sky and meditate. It takes a lot of experience using wind magic, of course.
+
+Option1a:: I'm lucky to have stolen your attention like that! //Relationship Vaan17 2 Happy
+Option1b:: You need to practice staying focused. //Relationship Vaan17 -1 Sad
+
+Response1a:: Be sure, XX, it's nothing to do with luck. You've completely captivated me - even in meditation!
+Response1b:: My point was that I'm focused on <i>you</i>, but I guess you didn't get that.
+
+Option2a:: I'll keep my meditation on the ground for now.
+Option2b:: That sounds peaceful.
+
+Response2a:: I suppose it would be difficult for you to share that space with me. You're probably a few decades away from that level of mastery.
+Response2b:: It might be the most peaceful space I've found for myself. I wish I could share it with you, but you're probably a few decades away from that level of mastery.
+
+End

@@ -1,0 +1,33 @@
+Caspera Cycle 1
+
+Dialogue:: You're back... How do you do?
+
+
+Option1:: Your glow is really pretty.
+
+Option2:: Caspera, how long have you been in Withergate?
+
+
+Response1:: Oh, do you think? That's a nice thing to say... You're a nice person, aren't you?
+
+Response2:: I don't know... The last thing I remember, I was visiting the castle... and now there's a whole city here.
+
+
+Option1a:: It depends who's asking. //Relationship Caspera1 -1
+
+Option1b:: I hope so! //Relationship Caspera1 2
+
+Response1a:: Who? Why, I can't remember...
+
+Response1b:: Oh yes, nice indeed. If you need some company, you're welcome to speak with me... anytime.
+
+
+Option2a:: You don't remember anything else? 
+
+Option2b:: I don't think I understand. 
+
+Response2a:: Well, I was playing on the bridge to the castle... I remember that I fell, and it was so warm. Then I woke up like this... and that's it.
+
+Response2b:: Well, I was playing on the bridge to the castle... I remember that I fell, and it was so warm. Then I woke up like this... and that's it.
+
+End

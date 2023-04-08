@@ -1,0 +1,23 @@
+Wornhardt Cycle 17
+
+Dialogue:: So, what do you think? Am I a good husband so far?
+
+Option1:: It's barely been any time at all!
+Option2:: Where is this coming from?
+
+Response1:: I know, but I'm just trying to make sure I start on the right foot.
+Response2:: Well, I don't know. I've never been so involved with another person before. I guess I'm just feeling a little pressure now that we're married.
+
+Option1a:: Do husbands worry too much? Because you're great at that. //Relationship Wornhardt17 -1 Sad
+Option1b:: You've got two right feet, Wornhardt. //Relationship Wornhardt17 2 Embarrassed
+
+Response1a:: Ouch, message received. I guess I won't bug you with my silly worries anymore.
+Response1b:: What? That's not true... oh, I get it! Hah, that took me a sec. That's sweet of you, XX. Thanks for trying to cheer me up.
+
+Option2a:: You're a doctor - all your work is done under pressure! //Emote none Happy
+Option2b:: Don't try so hard. Just relax! //Emote none Happy
+
+Response2a:: Heh, good point. I'm probably just dwelling on it too much.
+Response2b:: Heh, good point. I'm probably just dwelling on it too much.
+
+End

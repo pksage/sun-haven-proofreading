@@ -1,0 +1,9 @@
+Vitas Varnas Cycle 0
+
+Dialogue:: Hm?! Oh, excuse me. How do you do?
+
+Option1:: Did I startle you?
+
+Response1:: Oh, no worries. Ever since I've come to this town, I've been lost in a lot of deep thoughts. It's honestly been incredible for the research I'm conducting...[]But I won't bore you with all the details right now, heh.
+
+End

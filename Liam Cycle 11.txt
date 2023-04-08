@@ -1,0 +1,33 @@
+Liam Cycle 11
+
+Dialogue:: Oh, XX! I was thinking of pet names since we're dating now. I'm thinking something like, my little... sponge cake?[]Eh, maybe it's better if I just stick with your real name.
+
+Option1:: I'll just call you Liam, anyway. //Emote none Happy
+
+Option2:: You look nervous. Are you nervous?
+
+
+Response1:: Heh, okay. At least that's settled.[]I've never met anyone who was as patient with me as you are, XX. I mean, maybe Jun, but that's his job.
+
+Response2:: I'm sorry, it's just been a long time since I was in a relationship.[]The last time was when I was a kid in school. This other kid called me their boyfriend, but I'm pretty sure it was just because I had cookies in my lunch bag.
+
+
+Option1a:: Patient in what way? //Emote none Embarrassed
+
+Option1b:: What are you talking about? //Emote none Embarrassed
+
+Response1a:: You know I stumble over words here and there. I don't exactly have the social skills of Lucia or Nathaniel.[]I'm just really, really lucky to have found someone like you, XX.
+
+Response1b:: You know I stumble over words here and there. I don't exactly have the social skills of Lucia or Nathaniel.[]I'm just really, really lucky to have found someone like you, XX.
+
+
+Option2a:: That's what attracted me to you, too. //Relationship Liam11 2 Happy
+
+Option2b:: I can't believe it's been that long for you. //Relationship Liam11 -1 Sad
+
+Response2a:: Oh - you're kidding! Haha, see? I'm not always nervous. I totally got that you were joking. Totally joking.
+
+Response2b:: I haven't exactly had a ton of time for dating since I started taking care of the girls.
+
+
+End

@@ -1,0 +1,33 @@
+Christine Cycle 2
+
+Dialogue:: Hello, XX! So, is it true you're a farmer? 
+
+
+Option1:: That's right, I'm a farmer.
+
+Option2:: Where do you get all your seeds?
+
+
+Response1:: Oh my goody-goodness! That's fantastic news! No wonder you've been buying my seeds, hehe. It warms my roots to know that all the seeds I sell you are going to the soil, to grow into healthy plants!
+
+Response2:: I'm a plant Amari, and I specialize in seed extraction. I simply visited some of the native crops in the region and gathered seeds from them. It's very lucrative as a business strategy!
+
+
+Option1a:: I've been growing lots of your seeds! 
+
+Option1b:: I haven't grown a lot of your seeds yet, actually. 
+
+Response1a:: Yes, that is WONDERFUL NEWS! Grow them as quickly as possible, please! And as MANY as possible!!
+
+Response1b:: Oh, is that so? Well you really must! As quickly as possible, please! And as MANY as possible!!
+
+
+Option2a:: So you stole the seeds? //Relationship Christine2 -1
+
+Option2b:: It certainly sounds like it! //Relationship Christine2 2
+
+Response2a:: Excuse me? I didn't steal the seeds, I foraged them. You're a farmer, yes? Don't you know all about seed foraging?
+
+Response2b:: See! You get it. Now I know you MUST be a farmer, because you totally get it!
+
+End

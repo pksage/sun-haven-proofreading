@@ -1,0 +1,33 @@
+Kitty Cycle 11
+
+Dialogue:: I have lots of free time today, nya! Stop and talk with Kitty, yeah?
+
+Option1:: What would you do on your perfect day off?
+
+Option2:: Who do you like to hang out with in your free time? //Emote none Happy
+
+
+Response1:: <i>Purrfect,</i> you say? I would spend the day like I used to when I was a kitten, nya nya - running around with my friends, climbing trees and chasing squirrels!
+
+Response2:: Lynn is really the best, nya! She lets me keep talking forever and ever. I don't know anyone else that does that for Kitty.
+
+
+Option1a:: That sounds kind of tiring. //Emote none Happy
+
+Option1b:: ... What do you do with squirrels when you catch them? //Emote none Happy
+
+Response1a:: It's hard for me to get tired - I have lots and lots of energy! Can't you tell?  
+
+Response1b:: Teehee, oh, XX. I let them go, silly! Sometimes I'll sneak a little kiss on their cute little heads, but that's all!
+
+
+Option2a:: Lynn is nice like that - I'm glad you're friends! //Relationship Kitty11 2 Happy
+
+Option2b:: I think Lynn is just too nice to interrupt... //Relationship Kitty11 -1 Sad
+
+Response2a:: Yeah! She doesn't even interrupt me when I go on forever about things. She's a good good listener, nya!
+
+Response2b:: Well... Still, she never does interrupt, at least. Either way, I like her.
+
+
+End

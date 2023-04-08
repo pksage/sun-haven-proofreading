@@ -1,0 +1,23 @@
+Felix Cycle 1
+
+Dialogue:: Hello again. I'm sorry if I was a little distant when we first spoke. I'm getting better at being... more friendly.
+
+Option1:: It's okay to be shy, you don't have to apologize.
+Option2:: Did you know there's a rainbow in your hair?
+
+Response1:: Who said I was shy? I just don't usually like talking to other people very much.[]I used to focus mainly on myself, although these days I'm learning to open up a little more.
+Response2:: Er, yeah. I did. My girlfriend Felicity wanted me to try it. She's always talking about bright colors and that sort of stuff. I don't know if I like it very much, but it makes her really happy.
+
+Option1a:: Just admit that you're shy. //Relationship Felix1 -1
+Option1b:: It's brave to go outside of your comfort zone. //Relationship Felix1 2
+
+Response1a:: People not listening to me is a big reason why I don't like to chat.
+Response1b:: Yeah, that's what Felicity tells me. Maybe I should try a bit harder...
+
+Option2a:: It's sweet to put your girlfriend's happiness first like that.
+Option2b:: At least she likes it.
+
+Response2a:: Some of the other Demons around here would disagree with that, but I stopped caring about what they thought years ago.
+Response2b:: It's sappy for a Demon to say this, but Felicity means a lot to me. I used to be a lot colder, but she's really rubbed off on me. I never thought there were any Demons like her.
+
+End

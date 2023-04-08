@@ -1,0 +1,5 @@
+Calvin Intro One Liner 1
+
+Dialogue:: If you're looking for help, go find Lester. He loves helping.			
+						
+End

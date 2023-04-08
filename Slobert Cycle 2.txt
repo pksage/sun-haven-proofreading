@@ -1,0 +1,33 @@
+Slobert Cycle 2
+
+Dialogue:: Better stay outta my slime! 
+
+
+Option1:: Why should I?
+
+Option2:: Why are you so rude?
+
+
+Response1:: Buhaha. What a dumb question. Because then you'll have slime on your shoe. Maybe you want slime on your shoe?
+
+Response2:: Huh? I'm not rude. How come everyone says that?
+
+
+Option1a:: Ew, no way. //Relationship Slobert2 -1 
+
+Option1b:: Yeah! I like slime on my shoe! Give me some, right now! //Relationship Slobert1 2
+
+Response1a:: See? Told ya. Stay outta my slime!
+
+Response1b:: Whoa, you like slime? Wow, you got good taste!
+
+
+Option2a:: Well... you're rude. 
+
+Option2b:: Probably because you're a big, rude bully. 
+
+Response2a:: HUH? This is just how slimes are. Maybe you're the one who's rude. So stay outta my slime!
+
+Response2b:: HUH? This is just how slimes are. Maybe you're the one who's rude. So stay outta my slime!
+
+End

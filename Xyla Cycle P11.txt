@@ -1,0 +1,23 @@
+Xyla Cycle P11
+
+Dialogue:: Have you been spending more time up at that ridiculous rooftop garden? I'll never understand why!
+
+Option1:: What's wrong with the rooftop garden?
+Option2:: Doesn't anyone else in the city farm?
+
+Response1:: Look around you! Withergate has everything it needs. I designed the city, don't you remember?[]I included that rooftop garden as a technicality, in case someone around here ever decided to actually start some farming. I never expected anyone to actually <i>use</i> it!
+Response2:: Not anyone in the city, no. Why would they need to? Withergate has everything anyone could want, ever. I designed it that way.
+
+Option1a:: A bit shortsighted of you. //Relationship XylaP11 -1 Mad
+Option1b:: Lucky you thought to include one, though. //Relationship XylaP11 2 Happy
+
+Response1a:: That's real big talk for someone who spends all day digging through dirt on a rooftop! 
+Response1b:: Well, of course I thought to include one. It's just like I said, though, I never expected anyone would ever use it. But I guess even I can't always predict my own genius!
+
+Option2a:: It has everything except a real farm.
+Option2b:: Fair enough.
+
+Response2a:: Are we going to pretend the rooftop farm isn't a real farm? Just because it takes up an otherwise perfectly good rooftop doesn't make it a fake farm or something!
+Response2b:: Right? Thanks for seeing it my way. Now run back to your little rooftop farm, farmer.
+
+End

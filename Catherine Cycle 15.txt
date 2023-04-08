@@ -1,0 +1,23 @@
+Catherine Cycle 15
+
+Dialogue:: The most exciting thing about being a witch is seeing what others don't. The energies have been so active lately! It feels like something big is right on the horizon.
+
+Option1:: Was it hard to learn how to read those energies?
+Option2:: Are you happy with our relationship?
+
+Response1:: It took a lot of work to get where I am as a witch, but I've never been left feeling like it didn't pay off.[]I wouldn't be the same person without my abilities. You can relate to that, can't you?
+Response2:: I can answer this without reading any energies. I'm very happy with our relationship together, XX.[]When you first moved to town, I felt a special aura about you. I just never expected to be part of it! I'm glad though, because when I think of the future, it's you I see.
+
+Option1a:: Honestly? I can. //Emote none Happy
+Option1b:: Honestly? I'm not sure. //Emote none Sad
+
+Response1a:: Heh, I knew I didn't even have to ask. You understand completely. 
+Response1b:: You really don't know for sure? That's not what I expected to hear. I guess you don't feel the way I do. 
+
+Option2a:: Hopefully you aren't wrong. //Relationship Catherine15 -1 Sad
+Option2b:: I see you in the future, too, Catherine. //Relationship Catherine15 2 Happy
+
+Response2a:: Is there a reason you think I'd be wrong, XX...? 
+Response2b:: Do you mean that? It's looking like the universe brought us together for a reason!
+
+End

@@ -1,0 +1,23 @@
+Tonya Cycle 5
+
+Dialogue:: If there's ever a night you aren't busy, you'll really have to join us for dinner sometime.
+
+Option1:: What do you like to do when you aren't busy?
+Option2:: What would you do if you couldn't deliver mail anymore?
+
+Response1:: Sometimes I pose for Giuseppe when he needs a model for a new sculpture, or painting, or whatever art phase he's in.[]When I'm all alone, though? I actually enjoy a little birdwatching! The trees near my house always have a bird or two chirping away, so I can make a cup of tea and watch right out the window.
+Response2:: That's a funny question. My courier job fits my lifestyle so well that I don't know what I could replace it with. Hm, maybe I'd work with Solon at the smithery?[]Now <i>that</i> would be a physical challenge.
+
+Option1a:: That sounds so peaceful for you. //Relationship Tonya5 2
+Option1b:: That sounds so boring. //Relationship Tonya5 -1
+
+Response1a:: Heh, people are always surprised to learn that about me. Even I know that you have to slow down once in a while.
+Response1b:: Oh? Well, it's not for everyone. Kitty, on the other hand, <i>loves</i> it. I've even seen her waiting in the trees for birds to come by![]You know, I wonder if she was doing more than just watching the birds...
+
+Option2a:: I could see you working at an anvil.
+Option2b:: You could be a physical trainer.
+
+Response2a:: Is that so? Giuseppe has his sculptures so maybe I could try metalworking. I know he'd love that since he's always encouraging me to find new ways to express myself.
+Response2b:: You mean like a teacher, but for exercise? That's... a really good idea! Maybe someday I'll hang up my courier pouch and open my own training grounds!
+
+End

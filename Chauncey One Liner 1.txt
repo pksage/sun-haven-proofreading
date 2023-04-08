@@ -1,0 +1,5 @@
+Chauncey One Liner 1
+
+Dialogue:: Greetings! Care for a spot of fun?
+
+End

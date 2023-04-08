@@ -1,0 +1,5 @@
+Jun One Liner 3
+
+Dialogue:: You smell wonderful today, XX. Oh - you're not wearing any perfume?
+
+End

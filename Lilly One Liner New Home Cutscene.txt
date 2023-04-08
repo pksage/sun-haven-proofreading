@@ -1,0 +1,5 @@
+Lily One Liner New Home Cutscene
+
+Dialogue:: Show us how you farm in Sun Haven, XX!
+
+End

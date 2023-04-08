@@ -1,0 +1,33 @@
+Lucia Cycle 
+
+Dialogue:: It may be a cold night, XX. If you need help starting a fire, I need only cast a simple spell. Don't be afraid to ask!
+
+Option1:: Actually, I wanted to ask you about your magic. When did you discover it?
+
+Option2:: What do you like most about your magic?
+
+
+Response1:: Don't worry, most people have questions when they meet me.[]I became Blessed when I was eight years old. My magical abilities strengthened dramatically, though I'll admit there was a bit of a learning curve.[]This was long before I had any skill with magic. That is to say, it was completely out of my control.[]Thankfully, my late grandfather taught me some control. Those times spent training with him as a child are some of my most cherished memories.
+
+Response2:: Oh, it's certainly useful for everyday things. But more than that, it has earned me respect as a young leader.[]Having been blessed by Elios, Sun Haven's citizens rallied behind me as a strong user of magic. Being Blessed shows not only power, but discipline and competence.[]Pod even called me his "guiding light!" It was just darling!
+
+
+Option1a:: It seems irresponsible to give that power to a child. //Relationship Lucia2 -1 Sad
+
+Option1b:: No wonder you're so skilled with it! //Relationship Lucia2 2 Happy
+
+Response1a:: I wouldn't go that far, XX. Elios never acts in ignorance and only does what is best for Sun Haven. He knew I was to become a powerful leader for the people of this town.
+
+Response1b:: Controlling my magic has been a lifelong journey, one that I'm still on. Over time, I developed a profound relationship with magic.[]That journey helped me become the leader I needed to be for Sun Haven - an Archmage.
+
+
+Option2a:: What everyday things can be done with fire magic?
+
+Option2b:: Do you think your job is easier because of your magic?
+
+Response2a:: Well firstly, I never need a lantern. I also power the lighthouse with a charm that lasts through each night.[]Oh yes, and I keep all of the torches in town alight when it rains. It's actually quite fun for me to walk through the rain and hear it sizzle away on my skin.
+
+Response2b:: Certainly, it gives me an advantage. However, Sun Haven needs any and all advantages it can get right now.
+
+
+End

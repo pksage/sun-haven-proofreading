@@ -1,0 +1,33 @@
+Slobert Cycle 1
+
+Dialogue:: Phew, you stink! 
+
+
+Option1:: Wait, you said I stink? Are you serious?
+
+Option2:: So, what... are you?
+
+
+Response1:: Yeah! You smell, like grass and salt. It's disgusting!
+
+Response2:: What kind of question is that? I'm a Slime! You expect me to believe you've never seen a Slime before??
+
+
+Option1a:: I can't believe <i>you</i> think <i>I'm</i> disgusting. //Relationship Slobert1 -1 
+
+Option1b:: It's too bad I don't smell like you... //Relationship Slobert1 2
+
+Response1a:: What's that supposed to mean? You trying to be funny??
+
+Response1b:: You can! You want some slime? Cover up that stink? Let me know!
+
+
+Option2a:: I've never seen a Slime. 
+
+Option2b:: Where would I have seen a Slime? 
+
+Response2a:: You mean I have to be your first Slime? So uncultured, so uneducated... It's too bad you couldn't meet a nice Slime first. Like my wife!
+
+Response2b:: We mostly live in garbage dumps. But I moved to the big city for work! I have to support my Slime family!
+
+End

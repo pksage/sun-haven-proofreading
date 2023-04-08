@@ -1,0 +1,33 @@
+Cordelia Cycle 1
+
+Dialogue:: The intruder. Whatever can I do for you?
+
+
+Option1:: Do you like serving the Demon King?
+
+Option2:: ... Is your hair magic?
+
+
+Response1:: I'm well-equipped for the position and always ready to take on a challenge. There's no task the Demon King has given me that I couldn't handle yet.
+
+Response2:: All of me is magic, being that I'm a practitioner of water magic. I understand that my hair is distracting, but you could show a little self-control.
+
+
+Option1a:: Being good at your job isn't the same as enjoying it. //Relationship Cordelia1 -1
+
+Option1b:: You must have a brilliant mind for the King to trust you. //Relationship Cordelia1 2
+
+Response1a:: I don't take childish sentiment to work. If that's how you make all your decisions, I'm amazed you got this far.
+
+Response1b:: I know you're trying to flatter me. Just because you got in one good line doesn't mean we'll be friends.
+
+
+Option2a:: What do you do with your magic?
+
+Option2b:: When did you discover that you had magic abilities?
+
+Response2a:: I incorporate water magic into my life every day. I use an enchantment to keep the rain away, then when Withergate gets too grimy I bring on a downpour to wash it clean.
+
+Response2b:: It's not something I discovered so much as honed. I could always feel the magic inside me, it was just a matter of carefully drawing it out over time. Now, I have expert control of my abilities.
+
+End

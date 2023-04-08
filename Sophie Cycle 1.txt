@@ -1,0 +1,33 @@
+Sophie Cycle 1
+
+Dialogue:: Don't forget to stay hydrated. It's a warm one today.
+
+
+Option1:: So what made you join the army in the first place?
+
+Option2:: You look really strong!
+
+
+Response1:: I love physical fitness and pushing myself with new challenges. Oh, and I really love competition.[]The army combines all my favorite things into one job!
+
+Response2:: I do my own extra training every day. I want to hit peak performance so I can impress Roza.
+
+
+Option1a:: You must be a fierce soldier.
+
+Option1b:: Does all your training come in handy?
+
+Response1a:: Well, I've never actually seen any combat... but I almost always come out on top in sparring practice.
+
+Response1b:: Well, I've never actually seen any combat... but I almost always come out on top in sparring practice.
+
+
+Option2a:: Too much exercise can be a bad thing, you know. //Relationship Sophie1 -1
+
+Option2b:: That's some real commitment. //Relationship Sophie1 2
+
+Response2a:: I'm not saying you're wrong, I'm just saying I don't care.
+
+Response2b:: Thanks! It figures that only a farmer would understand my dedication.
+
+End

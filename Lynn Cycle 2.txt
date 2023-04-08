@@ -1,0 +1,33 @@
+Lynn Cycle 2
+
+Dialogue:: Oh hi there, XX. I hope your day is going well.[]Me? My arms are sore today.
+
+Option1:: Don't you get tired of working so hard? 
+
+Option2:: What made you want to be a blacksmith?
+
+
+Response1:: Sure I do. I try not to complain though. It's like Solon says, "Every breath goes into the forge."[]At least I'm learning a lot. In the end, I just want my family to be proud of me.
+
+Response2:: In the Eastern Region, women are the blacksmiths. My mother and grandmother supported our whole family with smithing, so I guess you could say it's in my blood.
+
+
+Option1a:: Your work should be for yourself, not for other people. //Relationship Lynn2a -1
+
+Option1b:: You'll make your family proud, I know it. //Relationship Lynn2a 2 Happy
+
+Response1a:: In my village, the only people that think that way don't have any friends or family.
+
+Response1b:: Aw, thank you XX. I'll have to make you some fantastic armor one day! 
+
+
+Option2a:: Tradition is nice, but how do you know if this is what you really want? //Relationship Lynn2b -1
+
+Option2b:: Tradition is important. It's good that you're representing your culture. //Relationship Lynn2b 2 Happy
+
+Response2a:: When I'm forging steel, I feel connected to something bigger than myself. It's too bad you don't share that feeling or else I'm sure you'd understand.
+
+Response2b:: When I'm forging steel, I feel connected to something bigger than myself. I'm glad you understand that kind of connection, too.
+
+
+End

@@ -1,0 +1,23 @@
+Kitty Cycle P13
+
+Dialogue:: Sun Haven is so warm in the spring! Warm days make me want to curl up and nap alllll day long!
+
+Option1:: If you nap all day, who will manage the pet shop?
+Option2:: It does get pretty warm here in the spring. //Emote none Happy
+
+Response1:: Nya! Sometimes I wish I had no responsibilities, but then I remember someone has to take care of all the cute little pets!
+Response2:: Lots of sunny, sunny days in sunny, sunny Sun Haven! "Sun" is in the name after all, nya! Rain is nice, too, but it makes Kitty's ears and tail all wet!
+
+Option1a:: The pets are lucky to have someone so dedicated. //Relationship KittyP13 2 Embarrassed
+Option1b:: Well, I hope you never forget. //Relationship KittyP13 -1 Mad
+
+Response1a:: Aw, you really mean that, XX? Kitty loves all the cute little animals. I would never abandon them! Just because it's warm doesn't mean Kitty HAS to nap!
+Response1b:: Nya?! Kitty would <i>never</i> do something like that! XX must have lost their marbles! Just because it's warm doesn't mean Kitty HAS to nap!
+
+Option2a:: Do you ever nap when it rains?
+Option2b:: Where's your favorite place to nap?  //Emote none Happy
+
+Response2a:: Why would Kitty waste a rainy day like that?! When it rains, all the lil' worms come up out of the ground and then all the little birdies try to get 'em! It's so fun to watch![]That's why warm days are best for napping!
+Response2b:: Oooh, good question! Sometimes Kitty likes to nap in a tree, or by Catherine's birdie bath! I tried to nap with the little chickie-chickens once, but it... didn't go so well, nyan...
+
+End

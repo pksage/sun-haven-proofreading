@@ -1,0 +1,5 @@
+Benny One Liner 5
+
+Dialogue:: Is it your lucky day? Or mine? Let's find out!
+
+End

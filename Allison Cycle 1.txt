@@ -1,0 +1,33 @@
+Allison Cycle 1
+
+Dialogue:: It's so nice having a farmer in town again! Are you loving it??
+
+
+Option1:: Where are you from?
+
+Option2:: You seem spirited!
+
+
+Response1:: I'm from a city farther to the west called Petri. It's in the middle of a steep valley, so you can really only take one road in or out.
+
+Response2:: I love being a soldier in Sun Haven. I could have ended up anywhere, so I feel lucky to have this assignment.
+
+
+Option1a:: What was it like living in Petri?
+
+Option1b:: Do you miss it?
+
+Response1a:: It's a much bigger town than Sun Haven and there's a much stronger military presence. Soldiers are highly respected out there.[]It's a little more relaxed here in Sun Haven, but I find it absolutely charming!
+
+Response1b:: Not too much, no. There's a much stronger military presence in Petri. Soldiers are highly respected out there.[]It's a little more relaxed here in Sun Haven, but I find it absolutely charming!
+
+
+Option2a:: That's a great attitude for a soldier to have. //Relationship Allison1 2
+
+Option2b:: A soldier's life sounds miserable. //Relationship Allison1 -1
+
+Response2a:: Thanks! I try to follow Nathaniel's lead. He's always in a good mood.
+
+Response2b:: No way! Clearly you're not the soldier type, so you wouldn't understand.
+
+End

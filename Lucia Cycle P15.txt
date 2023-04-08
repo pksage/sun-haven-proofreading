@@ -1,0 +1,28 @@
+Lucia Cycle P15
+
+Dialogue:: Can I be honest with you, XX? The beach is looking really good right about now!
+
+Option1:: I thought you didn't take vacations.
+Option2:: What's your favorite thing to do when you're at the beach?
+
+Response1:: A quick trip down to the sand isn't the same thing as a vacation. I love to wiggle my toes into the warm sand every now and again.
+Response2:: Actually, I'd love to learn to make a good sand castle. I see the children doing it all the time, but I don't think I'd be any good at it. Maybe they would have to teach me!
+
+
+Option1a:: I could get some sand between my toes!
+Option1b:: Aren't you worried about crabs pinching you?
+
+
+Response1a:: Maybe you can join me sometime! If we ever find ourselves with free time, of course. Don't forget to take care of your work first.
+
+Response1b:: Oh, come now. I'm the Archmage of Sun Haven. I'm not going to worry about a few small crabs trying to nip me on the toes. At least, I won't worry much, anyways!
+
+Option2a:: You do make a pretty good student. //Relationship LuciaP15 2 Happy
+
+Option2b:: As if a bunch of kids would have anything to teach you. //Relationship LuciaP15 -1 Sad
+
+
+Response2a:: I feel confident with learning new things, really. I have the challenges I overcame during my upbringing to thank for that.
+Response2b:: It's a shame to learn that you feel that way. There's so much in our lives we can learn from, especially children.
+
+End

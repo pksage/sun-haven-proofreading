@@ -1,0 +1,5 @@
+Darwin One Liner 1
+
+Dialogue:: Each jam is a journey, from the moment the fruit is picked to the moment it is sealed in a jar. What? Don't give me that look! It's true!						
+
+End

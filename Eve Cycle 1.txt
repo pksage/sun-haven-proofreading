@@ -1,0 +1,33 @@
+Eve Cycle 1
+
+Dialogue:: You again! I hope I can interview you soon for your experience as a farmer. You could provide some useful information for my book.
+
+
+Option1:: You're writing a book?
+
+Option2:: So you're here doing research?
+
+
+Response1:: That's right, I'm calling it the Worldly Compendium. It will be a collection of, well, everything anybody knows about anything!
+
+Response2:: Yes, but I'm already halfway through this whole library. I hoped there would be a grander selection, but I know Sun Haven has been in a rough patch.
+
+
+Option1a:: That sounds like a lot.
+
+Option1b:: Is that possible?
+
+Response1a:: Oh, sure. It will be the biggest reference book to ever exist by far, but it's worth the work.[]Can you imagine, all the information you ever needed in one place? It's never been done before!
+
+Response1b:: Oh, sure. It will be the biggest reference book to ever exist by far, but it's worth the work.[]Can you imagine, all the information you ever needed in one place? It's never been done before!
+
+
+Option2a:: You're a fast worker! //Relationship Eve1 2
+
+Option2b:: Books aren't really a priority. //Relationship Eve1 -1
+
+Response2a:: It's the nature of the work. It's also why I work alone, because nobody can keep up. Unfortunately, this also means I have to do all the work by myself.
+
+Response2b:: I have to disagree! Books are vessels of knowledge. I don't believe there's ever a time when knowledge is not a priority.
+
+End

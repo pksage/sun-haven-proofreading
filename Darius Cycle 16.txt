@@ -1,0 +1,23 @@
+Darius Cycle 16
+
+Dialogue:: I'm eager to rule with you by my side, one day. The future has never looked so dark!
+
+Option1:: Don't you mean bright?
+Option2:: Do you think I'll be welcomed by the citizens?
+
+Response1:: Hm? I said what I meant, XX! I wince at the thought of a bright future. Of course, I understand you live your life in the sunlight. But one day, you will join us in beautiful darkness.
+Response2:: You will be welcomed, I'll make sure of it. Anyone who dares criticise you will answer to me. And trust me, it only takes one strong example for a whole city to learn a lesson.
+ 
+Option1a:: I can't wait for that day. //Emote none Romantic
+Option1b:: When do you think that day will come? //Emote none Romantic
+
+Response1a:: Neither can I, XX. My father has many years yet to rule, however. In the meantime, let us simply enjoy each other's company. And the power of a prince, of course. 
+Response1b:: My father has many years yet to rule, however. In the meantime, let us simply enjoy each other's company. And the power of a prince, of course. 
+
+Option2a:: That sounds almost wicked. //Relationship Darius16 -1
+Option2b:: I can't wait until I can wield power like yours. //Relationship Darius16 2 Happy
+
+Response2a:: Yes, exactly... though I don't know why you say that like it's a bad thing.
+Response2b:: Patience, my love. You have to learn how to use it first. Of course, your teacher is well-versed in the different uses of power. 
+
+End

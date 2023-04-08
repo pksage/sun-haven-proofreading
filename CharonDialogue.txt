@@ -1,0 +1,9 @@
+Default
+
+Dialogue:: Come aboard, traveler. Let us embark. Where would you like to go?
+
+Option1:: Take me to the Withergate outskirts. //Charon none Sewer
+
+Option2:: Take me to the Withergate apartments. //Charon none Apartments
+
+End

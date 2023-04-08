@@ -1,0 +1,5 @@
+Gren One Liner 5
+
+Dialogue:: It looks like you're enjoying the hospitality of the Elves!																																																																			
+
+End

@@ -1,0 +1,23 @@
+Sombasu Cycle 1
+
+Dialogue:: Yesss?
+
+Option1:: I was wondering where you got that name.
+Option2:: How did you learn to see the future?
+
+Response1:: People began referrrring to me as the Spectaaaacular Sombaaaasu after I began traveling the world. I made a name for mysssself over years of traveling divinaaaation.
+Response2:: The thirrrrd eye, the eye of the fuuuuuture... it showed itsssself to me in my far-gone youth. With its power in my graaaasp, there was nothing I could not seeeee!
+
+Option1a:: It's kind of a silly name.
+Option1b:: The name suits you!
+
+Response1a:: Your fffffortune will bear oooonly rotten fruit if you continue to treeeaaat people this way...
+Response1b:: Why thaaaank you, dear chiiiild! Your fortune will be ssssstrong if you always treat people thisssss nicely.
+
+Option2a:: Did that cause problems?
+Option2b:: It must have been nice, growing up with that power!
+
+Response2a:: Yessss... it was a blesssssing and a curssssse.
+Response2b:: Yessss... it was a blesssssing and a curssssse.
+
+End

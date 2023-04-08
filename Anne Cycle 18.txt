@@ -1,0 +1,29 @@
+Anne Cycle 18
+
+Dialogue:: Don't forget, you're going to owe me anniversary presents for the rest of our lives!
+
+Option1:: Don't you mean "Anne"-iversaries?
+Option2:: I'm lucky you have such a wide range of tastes, then!
+
+Response1:: Very cute, XX. No, really, that's actually a very cute joke![]But for the record, I don't accept jokes for gifts.
+
+Response2:: Don't be so quick, XX. I appreciate a variety of items, but they're all linked by one virtue - worth.
+
+Option1a:: Yes, dear... //Emote none Mad
+
+Option1b:: You'll change your mind when you hear my <i>good</i> jokes.
+
+Response1a:: Oh, don't pout like a child - that makes me feel bad! It's not like I'm sending you to your room, for goodness sake.
+
+Response1b:: I somehow doubt that, XX... But feel free to try!
+
+
+Option2a:: So, expensive tastes then. Got it! //Relationship Anne18 2 Happy
+Option2b:: What about homemade gifts? //Relationship Anne18 -1
+
+
+Response2a:: To put it bluntly... but that's part of why I love you, isn't it? 
+
+Response2b:: Only if you're an expert jeweler, XX. Are you an expert jeweler? I didn't think so. 
+
+End

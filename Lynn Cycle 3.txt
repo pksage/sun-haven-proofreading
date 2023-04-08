@@ -1,0 +1,33 @@
+Lynn Cycle 3
+
+Dialogue:: Good day, XX. Have you gotten to know the town already? I'm still working on it.
+
+Option1:: Are you liking this town, Lynn?
+
+Option2:: Have you found any nice places in Sun Haven so far? //Emote none Happy
+
+
+Response1:: Well... I do miss my home, but everyone here is really really nice. Then again, Kitty can be a handful, and Anne scares me a little bit.[]Overall, I guess I was expecting it to be more active. What do you think?
+
+Response2:: I love being in the quarry, especially at sunset. Don't make fun of me, but I imagine all the ore hiding inside the rocks just waiting to be turned into beautiful armor.[]Plus, there's an echo!
+
+
+Option1a:: I think Sun Haven is already on its way back up. //Relationship Lynn3 2
+
+Option1b:: I think this town is on its way out. //Relationship Lynn3 -1 Sad
+
+Response1a:: Wow, do you think so? Who knows, maybe you're right. At least, I hope you're right, XX.
+
+Response1b:: Oh, no, please don't say that - we must stay positive.
+
+
+Option2a:: Why do you go at sunset?
+
+Option2b:: I've never heard of someone so passionate about rocks!
+
+Response2a:: The light at sunset makes all the rocks stand out. You can see the layers of rock in different colors - that's called stratification! I think it's gorgeous.
+
+Response2b:: No fair, I said no teasing! But, well, you're not wrong either.
+
+
+End

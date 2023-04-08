@@ -1,0 +1,32 @@
+Ettie Cycle 1
+
+Dialogue:: Back to visit again, darlin'?
+
+
+Option1:: How long have you lived here?
+
+Option2:: Tell me about your orchard.
+
+Response1:: Why, I've lived here my whole life! So has my sister, Edna. We were born and raised here, and after that we did some raising of our own.
+
+Response2:: Interested in our history, darlin'? I'm afraid there's not a whole lot to tell. This orchard was started by our great grandmother Aloysia Hare. Just like our family, it's grown mighty big through the generations.
+
+
+Option1a:: That's really impressive.
+
+Option1b:: That's really sweet.
+
+Response1a:: Thank you for saying so, darlin'. But to us it's just normal. Nothing impressive to see here! Just hard workin' Amari.
+
+Response1b:: Thank you for saying so, darlin'. Family means a lot to us Amari, I'll always count my lucky stars for each one of them.  
+
+
+Option2a:: What incredible family history.
+
+Option2b:: This orchard must make a lot of money.
+
+Response2a:: Aw, thank you, darlin'. That means a lot to this old orchard girl. //Relationship Ettie1 1
+
+Response2b:: It's not about the money, darlin'. This orchard's real value is in the family who works it. //Relationship Ettie1 -1
+
+End

@@ -1,0 +1,23 @@
+Nathaniel Cycle 16
+
+Dialogue:: Who knows how much longer the army will keep us in Sun Haven? Frankly, I don't care if they keep us here forever.
+
+Option1:: What would you do if you were shipped out somewhere else?
+Option2:: I'm guessing your soldiers might not agree, though.
+
+Response1:: If the army took me someplace else, I'd have to go. Whether I like it or not, that's what it means to give your service to the military.[]What would you do if I had to leave?
+Response2:: If they want to leave Sun Haven, then they don't have their heads on straight.[]Anyway, any one of them can file for a transfer at any time. If I don't get any transfer requests, then I assume they're all happy.
+
+Option1a:: I would wait here for you. //Relationship Nathaniel16 2 Romantic
+Option1b:: I would move on. //Relationship Nathaniel16 -1 Sad
+
+Response1a:: You would, really? That's extremely romantic, XX! I can't believe I got so lucky with you.
+Response1b:: Ouch. Just like that, huh? Maybe we aren't equally invested in this marriage, XX.
+
+Option2a:: Have you ever transferred that way?
+Option2b:: Why do they let soldiers transfer, anyway?
+
+Response2a:: Only once. I transferred from the Northern Region to the Great City when my mother was sick so I could care for her.[]I was worried about her, but I was more than happy to leave the old, cold north behind.
+Response2b:: Well, I had to do it once. I transferred from the Northern Region to the Great City when my mother was sick so I could care for her.[]I was worried about her, but I was more than happy to leave the old, cold north behind.
+
+End

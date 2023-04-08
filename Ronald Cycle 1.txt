@@ -1,0 +1,33 @@
+Ronald Cycle 1
+
+Dialogue:: Welcome in, farmer. Make yourself comfortable.
+
+
+Option1:: Your tavern is so cozy. There's an inn upstairs too?
+
+Option2:: What's it like running a tavern?
+
+
+Response1:: Yep, upstairs too! Where else are weary travelers supposed to put their feet up?
+
+Response2:: People come in and we take care of them, simple as that. It can be a lot to manage, though. No matter what, our customers always leave full, rested, and happy.
+
+
+Option1a:: Have you heard any rumors about the monster town?
+
+Option1b:: What kind of travelers do you get?
+
+Response1a:: I've heard rumblings from different folk, especially travelers coming from the north. Hard to make sense of rumors, though.
+
+Response1b:: Folks from all kinds of places. We even get sailors from the Southern Islands sometimes. Sun Haven may have seen better days, but our reputation for trade still draws folks in. 
+
+
+Option2a:: That's a lot of ruckus. Sounds like annoying work.  //Relationship Ronald1 -1
+
+Option2b:: It must be interesting seeing so many different people. //Relationship Ronald1 2
+
+Response2a:: Maybe, but I've learned to enjoy the job and all that comes with it. Sounds like you might not understand, though.
+
+Response2b:: Oh sure, the people make the job. Hearing travelers' stories is a perk of the work.
+
+End

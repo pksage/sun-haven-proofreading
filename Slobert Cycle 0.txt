@@ -1,0 +1,9 @@
+Slobert Cycle 0
+
+Dialogue:: Huh? Who are you? 
+
+Option1:: My name's XX.
+
+Response1:: XX? Dumb name. Mine's Slobert.
+
+End

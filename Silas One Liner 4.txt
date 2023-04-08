@@ -1,0 +1,5 @@
+Silas One Liner 4
+
+Dialogue:: Is it a beautiful day we're having, or is it just me?
+
+End

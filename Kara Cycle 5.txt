@@ -1,0 +1,23 @@
+Kara Cycle 5
+
+Dialogue:: Have you been doing much cooking? You sure do grow enough ingredients, I'm sure.
+
+Option1:: Do you like to cook?
+Option2:: If you weren't a writer, what would you do for work?
+
+Response1:: I enjoy cooking, and I'm at least good enough at it to feed Pod. If I'm feeling tired though, I'll order him food from the tavern. He goes wild for tavern food!
+Response2:: Hm, it's difficult to say. Because of my heart condition, I can't do any kind of hard physical work.[]Though I suppose if I weren't a writer, I could become a cartographer and illustrate maps. I used to like looking at maps as a girl and imagining all of the cities and the people living in them.
+
+Option1a:: I'd take a mom's home cooking over tavern food any day.
+Option1b:: Most taverns do make pretty good food.
+
+Response1a:: Aw, that's sweet! Pod is just a kid, so I don't blame him for wanting tavern food. Maybe when he's older he'll appreciate my food a bit more.
+Response1b:: It's true, Ronald really knows how to work an oven. Maybe I should ask him for some advice.
+
+Option2a:: Drawing maps? That would be an amazing job! //Relationship Kara5 2
+Option2b:: That's too much like writing. //Relationship Kara5 -1
+
+Response2a:: Do you think so? Maybe I should really look into it then. I'm not the greatest artist, but I'm sure I could learn!
+Response2b:: Is it? I don't really see how.
+
+End

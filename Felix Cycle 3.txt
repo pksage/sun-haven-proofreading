@@ -1,0 +1,23 @@
+Felix Cycle 3
+
+Dialogue:: You seem to be getting along well these days, XX.
+
+Option1:: I think I'm starting to fit into Withergate.
+Option2:: Where do you live in Withergate?
+
+Response1:: Despite its rough exterior, Withergate really is a very inclusive place. It was a city made by outcasts, to be lived in by outcasts.
+Response2:: Felicity and I live in an apartment. It's not much, but it's comfortable... and large enough for the both of us.
+
+Option1a:: Outcasts?
+Option1b:: Demons are outcasts?
+
+Response1a:: Monsterfolk were outcasts from everywhere. As for Demons, well, our race has a very deep history. You should read a book about it sometime.
+Response1b:: Monsterfolk were outcasts from everywhere. As for Demons, well, our race has a very deep history. You should read a book about it sometime.
+
+Option2a:: Oh, I live in the apartments, too!
+Option2b:: Oh yeah, the apartment building! Which apartment is yours?
+
+Response2a:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a night club. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
+Response2b:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a night club. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
+
+End

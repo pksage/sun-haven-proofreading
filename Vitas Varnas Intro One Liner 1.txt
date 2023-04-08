@@ -1,0 +1,5 @@
+Vitas Varnas Intro One Liner 1
+
+Dialogue:: ...Hm... Maybe if...[]But how can I <i>prove</i>  it?[]I'm thinking, thinking...									
+
+End

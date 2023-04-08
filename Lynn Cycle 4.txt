@@ -1,0 +1,33 @@
+Lynn Cycle 4
+
+Dialogue:: Are you having trouble making friends in town, too?
+
+Option1:: What, haven't you made any friends since you moved here? //Emote none Embarrassed
+
+Option2:: Have you met Elios yet?
+
+
+Response1:: Well, I really like Lucia. She speaks with such confidence. I can see why she's the leader here.[]Oh, and Nathaniel! He's so tall and strong...  Oh my, I can't believe I just said that! Forget you heard anything!
+
+Response2:: Lucia thinks I should wait and get more adjusted to the town first. I'm fine with waiting, because the journey sounds a bit scary.
+
+
+Option1a:: Don't worry, I won't say a thing.
+
+Option1b:: I didn't hear anything!
+
+Response1a:: Oh, phew. I'm having a hard enough time here without people gossiping about me.
+
+Response1b:: Oh, phew. I'm having a hard enough time here without people gossiping about me.
+
+
+Option2a:: You can't let everyone tell you what to do all the time. //Relationship Lynn4 -1 Embarrassed
+
+Option2b:: It's smart of you to wait until you know you're ready. //Relationship Lynn4 2
+
+Response2a:: Do you think so? I didn't think it was that big of a deal...
+
+Response2b:: You think so? I was worried that I was just being a chicken, but hearing you say that tells me I made the right choice.
+
+
+End

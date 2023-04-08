@@ -1,0 +1,23 @@
+Jun Cycle 16
+
+Dialogue:: Not long ago, I thought Sun Haven had run out of surprises for me. Now I know just how wrong I was!
+
+Option1:: Are you saying I was the surprise?
+Option2:: Were you really getting bored here?
+
+Response1:: You were the biggest surprise of my life, XX. When I first saw you, it was like the world turned upside down.
+Response2:: Don't mince words, XX. I didn't say I was bored, only that there were no surprises left for me here.[]I can see how you'd think those are the same things. But for me, I feel contentment instead of boredom.
+
+Option1a:: It took me a while, but I got there too. //Relationship Jun16 -1 Sad
+Option1b:: I felt the same exact way. //Relationship Jun16 2 Happy
+
+Response1a:: I see. I guess "love at first sight" isn't for everyone.
+Response1b:: I know you did, XX. And now that we're married, well, we have the rest of our lives to surprise each other.
+
+Option2a:: Maybe I should practice that, too. //Emote none Happy
+Option2b:: You must get bored sometimes.
+
+Response2a:: It does take a little practice, but I'm sure you could get it. The hardest part is to remember that being bored is okay and not inherently bad.[]Some people avoid boredom like their lives depend on it. But I'll take a little boredom over meaningless distractions any day.
+Response2b:: Well... one time I had to wait in line at the town hall for an hour while Albert asked questions about his property line. <i>That</i> was boring!
+
+End

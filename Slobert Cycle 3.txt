@@ -1,0 +1,33 @@
+Slobert Cycle 3
+
+Dialogue:: Better stay away from me! I'm rude, remember? 
+
+
+Option1:: You could be NOT rude...
+
+Option2:: Tell me more about Slimes.
+
+
+Response1:: Huh? I don't know how to do that. Are you sure you aren't just dumb? Everything is dumb if it isn't Slime!
+
+Response2:: Slimes are an ancient race! We're even older than the Monsterfolk! We live in Slime towns all over the world. No one bothers us, because they're too afraid to introduce themselves.[]Buhahaha, other races is so stupid. We'd be their friends if they weren't so shy!
+
+
+Option1a:: Just be nicer... like Donovan. //Relationship Slobert3 2 
+
+Option1b:: I think Slime is dumb. //Relationship Slobert3 -1
+
+Response1a:: Huh? Like Donovan? Okay, maybe...
+
+Response1b:: GUH?!?! Take that back! Right NOW!
+
+
+Option2a:: I don't think other races are too SHY to talk to Slimes. They think Slimes are gross... 
+
+Option2b:: Do you think other people think Slimes are too gross? 
+
+Response2a:: Wuhh? No way!! Slimes are the best! We fit into small spaces, and we aren't afraid of the sun! We were here before the Demons, the Monsterfolk and even Elves! Slimes are the best! Who cares if we're rude?
+
+Response2b:: Wuhh? No way!! Slimes are the best! We fit into small spaces, and we aren't afraid of the sun! We were here before the Demons, the Monsterfolk and even Elves! Slimes are the best! Who cares if we're rude?
+
+End

@@ -1,0 +1,32 @@
+Jun Cycle 10
+
+Dialogue:: XX! For a moment I forgot I was awake. Sometimes I see you in my dreams.
+
+Option1:: You've dreamed about me? //Emote none Embarrassed
+
+Option2:: Don't read into this, but what would be a good gift if I wanted to surprise you? //Emote none Embarrassed
+
+
+Response1:: Sometimes... actually, quite often. I hope that doesn't make you uncomfortable. They're just silly dreams, anyway.
+
+Response2:: Oh, XX, don't tease me. I'd love to just spend time with you. I don't need any fancy gifts.
+
+
+Option1a:: I think it's flattering. //Relationship Jun10 2 Happy
+
+Option1b:: It is a bit weird... //Relationship Jun10 -1 Sad
+
+Response1a:: Oh thank goodness - I was worried you'd think I was being a creep!
+
+Response1b:: I was worried you would feel that way. I'm sorry XX, but I can't control what happens in my dreams.
+
+
+Option2a:: Aw, come on! 
+
+Option2b:: Oh well, at least I tried. //Emote none Romantic
+
+Response2a:: All right, let me think... I suppose I have been looking for a new decoration to go in my home. I would love a new houseplant!
+
+Response2b:: You're so full of surprises, XX. I think I know every little detail about you and then you come back with another surprise.
+
+End

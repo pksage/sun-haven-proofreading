@@ -1,0 +1,9 @@
+Tali Cycle 0
+
+Dialogue:: Hop, hop! What brings you to Withergate, weirdo? Hehe, don't get upset. I'm a weirdo, too!
+
+Option1:: I'm XX. I'm a farmer, from the town of Sun Haven.
+
+Response1:: You must be crazy to come to a place like Withergate! It's a fun place, though, don't you think? Hehe.
+
+End

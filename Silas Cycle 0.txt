@@ -1,0 +1,9 @@
+Silas Cycle 0
+
+Dialogue:: Why hello there! Silas Leafward, pleasure to meet you! So tell me - what can <i>I</i> do for you <i>you</i>?
+
+Option1:: Are you selling stuff...?
+
+Response1:: You guessed it! Someone get the newcomer a prize! Hah, I'm only kidding. No prizes. Just great prices! That's the Leafward guarantee!
+
+End

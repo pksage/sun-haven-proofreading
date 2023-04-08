@@ -1,0 +1,5 @@
+Reed One Liner 5
+
+Dialogue:: I've heard the stories of a certain plant Amari. She travels from place to place, overrunning everything with plants. If you ever meet someone that fits that description, I would tell you to turn the other way and <i>run</i>.																																																																				
+
+End

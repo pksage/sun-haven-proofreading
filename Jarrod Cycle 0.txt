@@ -1,0 +1,9 @@
+Jarrod Cycle 0
+
+Dialogue:: You're that farmer from Sun Haven, right? Farming, now there's a hard job.
+
+Option1:: My name is XX, good to meet you. 
+
+Response1:: And you, XX. 
+
+End

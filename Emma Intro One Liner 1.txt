@@ -1,0 +1,5 @@
+Emma Intro One Liner 1
+
+Dialogue:: Neighbors are friends! Liam said so.							
+
+End

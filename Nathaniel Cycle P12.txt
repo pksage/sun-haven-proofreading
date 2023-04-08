@@ -1,0 +1,23 @@
+Nathaniel Cycle P12
+
+Dialogue:: Hup-two-three-four, hup-two-three-four... Oh! Hey, didn't see you for a second. Sorry, my mind is kind of wandering right now.
+
+Option1:: What was that hup-two thing you were saying?
+Option2:: What has your mind wandering?
+
+Response1:: Ohh, was I saying it out loud again? Ah, Kitty heard me doing it once and she started repeating it for a whole week. I dunno if she was just being silly or making fun of me![]It's the beat we learned to march to when I attended military training in the Great City. It's drilled into my brain. I'll... never get rid of it.
+Response2:: I love my life and duty, but the daily grind can get a little dull. It gives me lots of time to think, but sometimes I end up daydreaming a bit.[]Heh, does that sound bad? Daydreaming on the job?
+
+Option1a:: You did military training in the Great City?
+Option1b:: You must mean you trained at the Military Academy.
+
+Response1a:: Yeah! You're originally from the Great City, too, right? Maybe we passed by each other one day and never realized. Pretty crazy, huh?[]The Military Academy there is second to none. I was very fortunate to get in, all thanks to my mom. It was strict, but I survived. Came out better for it, too.
+Response1b:: Oh right, you're originally from the Great City yourself, aren't you? So of course you know about the grand Military Academy.[]The Academy there is second to none. I was very fortunate to get in, all thanks to my mom. It was strict, but I survived. Came out better for it, too.
+
+Option2a:: You're only human, it's fine to slip up a little. //Relationship NathanielP12 2 Happy
+Option2b:: You're way too lax to be captain of the guard. //Relationship NathanielP12 -1 Embarrassed
+
+Response2a:: Thanks for not being hard on me about it, XX. Good people like you are why I do what I do! The grind is always worth it, no matter how dull.[]Speaking of which, I need to get back to work... Hup-two-three-four...
+Response2b:: Do you really mean that? I guess that puts things into perspective. Maybe I need to buckle down and stay more focused.
+
+End

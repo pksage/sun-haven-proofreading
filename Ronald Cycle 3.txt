@@ -1,0 +1,33 @@
+Ronald Cycle 3
+
+Dialogue:: I'm already used to seeing you around here, XX. Anyway, what can I do for you? 
+
+
+Option1:: What's the best piece of advice you've heard?
+
+Option2:: Is there anyone in town you don't like?
+
+
+Response1:: Best advice ever? Are you in some kind of trouble, XX?[]Heh, I'm just joking. The best advice I ever got was to talk to as many people as I can. Making friends can open a lot of doors for you.
+
+Response2:: I don't want to talk down on anyone, but since you asked... Peter can be a real handful some nights. He'll cause a ruckus if he gets too happy.
+
+
+Option1a:: I try to talk to everyone I can. //Relationship Ronald3 2
+
+Option1b:: I don't like talking to people much. //Relationship Ronald3 -1
+
+Response1a:: A socialite like me, huh? You'll do just fine for yourself here, XX.
+
+Response1b:: No? Then that's how we're different. Talking to people is all I do, all day long!
+
+
+Option2a:: Have you had any problems with him? 
+
+Option2b:: That makes sense to me. 
+
+Response2a:: There was one night he broke a stool after he said he could balance it on his head. Yeah, he couldn't.[]He came back and paid for the damage the next day, so it was fine in the end.
+
+Response2b:: Ah, so you've spent some time with him already? A man that wears a live crab on his head is bound to be a little rough around the edges, I guess.
+
+End

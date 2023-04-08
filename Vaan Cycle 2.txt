@@ -1,0 +1,33 @@
+Vaan Cycle 2
+
+Dialogue:: You know, I used to visit Sun Haven a lot. Your farm is quite beautiful.
+
+Option1:: When did you do that?
+
+Option2:: Why did you visit Sun Haven?
+
+
+Response1:: I've always like keeping an eye on things around the forest, but I didn't start visiting the farm until it was abandoned. It was so beautiful when it was overgrown.
+
+Response2:: In part, it just came from me practicing my magic. I simply needed space to fly, and the sky over Sun Haven is nice and clear.[]But then I began paying attention to the people down there. I guess I became sort of infatuated with the town. Human lives are interesting to me.
+
+
+Option1a:: So you think it's ugly now that I've farmed it? //Relationship Vaan2 -1 Embarrassed
+
+Option1b:: It did look nice that way. //Relationship Vaan2 2 Happy
+
+Response1a:: No no! That's not what I meant at all.[]Once again, it seems like we're speaking on different levels.
+
+Response1b:: Ah, but don't misunderstand me. It looks great with you on it - I mean, with the work you've done. You've made it more charming than ever.
+
+
+Option2a:: What's interesting about it?
+
+Option2b:: Do you get infatuated often? //Emote none Embarrassed
+
+Response2a:: I can't say exactly. It's so different from Nel'Vari, but the people still seem happy. Anyway, I can't help what interests me. That's just nature, and it's the Elven way not to interfere with nature.
+
+Response2b:: Ah! Heh, XX, you caught me by surprise with that one. I can't help what interests me. That's just nature, and it's the Elven way not to interfere with nature.
+
+
+End

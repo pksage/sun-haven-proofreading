@@ -1,0 +1,9 @@
+Elizabeth Cycle 0
+
+Dialogue:: Hello! I'm Elizabeth. Who are you?
+
+Option1:: I'm XX, the new farmer.
+
+Response1:: Farmer?? That's so cool! My brother is Liam, and he does the bakery.
+
+End

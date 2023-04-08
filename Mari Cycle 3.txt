@@ -1,0 +1,33 @@
+Mari Cycle 3
+
+Dialogue:: Look here, my newest favorite customer. Take a seat, XX.[]I want you to think of this place as your home away from home. 
+
+
+Option1:: You're so hospitable Mari, I can't imagine anyone giving you trouble.
+
+Option2:: Is it difficult running the inn upstairs?
+
+
+Response1:: You'd be surprised then. There's always some troublemakers comin' through with the season.
+
+Response2:: The only difficulty is when squatters don't want to leave. I guess I can't blame 'em though. Our beds are mighty comfy!
+
+
+Option1a:: Thank goodness they're only seasonal! //Relationship Mari3 2
+
+Option1b:: You just point them out to me, and I'll take care of them. //Relationship Mari3 -1
+
+Response1a:: Hah, seasonal! Yep, I guess that's right. All the good eggs stay right here in Sun Haven.
+
+Response1b:: I've been doin' that job for twenty years now. Believe you me, I can handle it.
+
+
+Option2a:: How do you get them out?
+
+Option2b:: Does that happen a lot?
+
+Response2a:: One time we had to smoke 'em out of the room they were in. Usually we just use the keys, though.
+
+Response2b:: Not a lot, but maybe once or twice a year. Only during the busy season, though. Which lately, there hasn't been much of any busy season.
+
+End

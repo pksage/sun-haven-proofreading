@@ -1,0 +1,33 @@
+Donovan Cycle 7
+
+Dialogue:: You're really starting to like Withergate, huh XX? I can see it on your face!
+
+Option1:: You know, Withergate is actually a nice community.
+
+Option2:: I wonder what it's like to live in the castle...
+
+
+Response1:: I can see that. But I try not to get too involved with community wherever I am. Who knows when I'll need to split, right?
+
+Response2:: Castle, shmastle. Nobody needs all that space. I get that they're royalty, but... I mean, who cares! Give me a leafy tree to sleep under and I'm happy.
+
+
+Option1a:: Would you really leave Withergate?
+
+Option1b:: It's good to keep your options open.
+
+Response1a:: Sure, if I had to. But hey, it's not like I'm planning on it or anything. This city has been the best home I've had, maybe ever!
+
+Response1b:: No way - I just said the exact same thing last night! Man XX, you and I really seem to be on the same page these days.
+
+
+Option2a:: Kings should live in regular houses, like the rest of us. //Relationship Donovan7 2 Happy
+
+Option2b:: You wouldn't say that if the prince were here right now. //Relationship Donovan7 -1 Mad
+
+Response2a:: Oh, that's a great idea. Then we could make the castle into a huge carnival ride. I bet it already looks like a carnival on the inside, too.
+
+Response2b:: Oh man, don't get me started on the prince. That guy really needs to relax!
+
+
+End

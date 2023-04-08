@@ -1,0 +1,23 @@
+Liam Cycle P10
+
+Dialogue:: Emma got into a sack of flour this morning. The handprints she left all over the floor were real cute, but it was a mess!
+
+Option1:: Must have been a pain to clean the mess all on your own.
+Option2:: So does this mean everything you bake is going to have Emma germs in it?!
+
+Response1:: It might have been, but it wasn't really a big one. Besides, Emma helped clean it up! I can't get upset at her or anything, she's just a kid after all.[]I don't know if I would have it in me to ever be angry with either of my sisters, honestly.
+Response2:: Don't worry, XX, it was just one sack. I threw it all out after we cleaned up.[]I love Emma to death, but that doesn't mean everyone wants her dirty little fingers all over the flour that made their bread. Even if her little fingers are so cute! 
+
+Option1a:: It's hard to be angry at cute little Emma. //Relationship LiamP10 2 Happy
+Option1b:: She shouldn't be causing that kind of trouble. //Relationship LiamP10 -1 Sad
+
+Response1a:: Heh, yeah. We had a talk about staying out of the flour, and I think she'll behave now. She's a good kid, and I love her.
+Response1b:: That's... true. Maybe I should be a little more strict with the girls, but it's so hard to get angry at them.
+
+Option2a:: I'm just kidding, I know you wouldn't use that flour.  //Emote none Embarrassed
+Option2b:: Whew, that's a relief.
+
+Response2a:: Ah, oh, right! Heh, sometimes I don't catch on to jokes like that. I gotta lighten up, right?
+Response2b:: Don't worry, we practice good hygiene at this bakery. Our flour will always be Emma free!
+
+End

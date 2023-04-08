@@ -1,0 +1,33 @@
+Catherine Cycle 13
+
+Dialogue:: I've been in such a good mood lately. I think I have you to blame!
+
+Option1:: Have I told you that you're glowing? Because you're glowing. //Emote none Embarrassed
+
+Option2:: You're always cheerful, even before we were a couple.
+
+
+Response1:: Oh, shut up! You're just saying that because you think you have to.
+
+Response2:: I guess that's true. Well, mostly. I don't get angry often, but when I do it is <i>not</i> pretty. I hope you never have to see it.
+
+
+Option1a:: I'm saying it because it's true. //Emote none Happy
+
+Option1b:: I don't have to, but I like to! //Emote none Happy
+
+Response1a:: OH! I just realized - I dropped a bag of luminous powder in the back of my shop. That must be why I'm glowing.[]... I still liked the compliment, though.
+
+Response1b:: OH! I just realized - I dropped a bag of luminous powder in the back of my shop. That must be why I'm glowing.[]... I still liked the compliment, though.
+
+
+Option2a:: I bet you're pretty when you're angry, too. //Relationship Catherine13 2 Embarrassed
+
+Option2b:: I'm curious now, I want to see it. //Relationship Catherine13 -1
+
+Response2a:: That is so not what I meant! You get away with it this time, XX.
+
+Response2b:: Don't even joke, XX. I'm telling you, I don't hold back when I'm mad. Even for you!
+
+
+End

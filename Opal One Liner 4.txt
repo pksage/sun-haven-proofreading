@@ -1,0 +1,5 @@
+Opal One Liner 4
+
+Dialogue:: Mana orbs are what we've always used as a currency in Nel'Vari. They must seem strange to one like yourself.																																																																		
+
+End

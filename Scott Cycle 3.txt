@@ -1,0 +1,33 @@
+Scott Cycle 3
+
+Dialogue:: You're looking a little stronger, it seems. Need a good weapon?
+
+
+Option1:: What's your favorite weapon?
+
+Option2:: What's the most exotic weapon you've ever seen?
+
+
+Response1:: Oh-ho, finally, you ask a question worth answering! I'm partial to a good mace. In my younger days I was a spearman. Don't see many of those these days. Spears have fallen out of style a bit.
+
+Response2:: I once had in my possession a very strange piece. It was a hoop of metal, sharp on all sides. The man I purchased it from said it was a 'chalk-ram' or something like that.[]Well, apparently it's a weapon used by Naga from across the Eastern Sea. I didn't see the use in it, so I ended up letting it go for less than I traded it for.
+
+
+Option1a:: Why is that?
+
+Option1b:: I like swords!
+
+Response1a:: Well, about fifty years ago the Great Army took the sword for their emblem. Brought swords into style. Now every starry-eyed little wannabe warrior begs their mum and pop for a copper sword.
+
+Response1b:: As expected. About fifty years ago the Great Army took the sword for their emblem. Brought swords into style. Now every starry-eyed little wannabe warrior begs their mum and pop for a copper sword.
+
+
+Option2a:: Just because you didn't know how to use the weapon doesn't mean it was useless. //Relationship Scott3 -1
+
+Option2b:: I'd love to see a weapon like that someday. //Relationship Scott3 2
+
+Response2a:: Well, no. That's exactly what it means. If I can't use it, and have no idea what it is, then how do I know it's value? I was a fool to make the trade, and I paid the price for it.
+
+Response2b:: Why wait? Charter a boat to the east right now! Maybe you can find a hoop-wielding Naga, har! Careful, though. I hear they live in some sort'a wasteland desert.
+
+End

@@ -1,0 +1,33 @@
+Claude Cycle 12
+
+Dialogue:: It's strange, I've never been in a relationship before. But now I have you. It's nice.
+
+Option1:: You've never been in a relationship? //Emote none Embarrassed
+
+Option2:: Does being part of a couple make you nervous? //Emote none Embarrassed
+
+
+Response1:: No... Should I be embarrassed by that? Maybe I shouldn't have said anything.
+
+Response2:: I'm not nervous, but maybe a little uncertain. I don't really know what I'm supposed to do.
+
+
+Option1a:: No, I'm glad you shared with me. //Emote none Happy
+
+Option1b:: Don't be embarrassed.
+
+Response1a:: Oh, good. I should have known that you wouldn't make me feel bad about it. I can really count on you, XX.
+
+Response1b:: Honestly, I'm not. I never feel bad in any way around you.
+
+
+Option2a:: Can't you just relax? //Relationship Claude12 -1 Sad
+
+Option2b:: Don't worry about that. Just be yourself. //Relationship Claude12 2 Happy
+
+Response2a:: That's what I'm saying. I try, but it doesn't come so naturally to me. Just don't blame me when I let you down, XX.
+
+Response2b:: Heh, myself. I've been trying to avoid myself for so long. But maybe you're right. I'll be myself... with you.
+
+
+End

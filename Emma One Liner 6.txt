@@ -1,0 +1,5 @@
+Emma One Liner 6
+
+Dialogue:: Spring is fun yay.
+
+End

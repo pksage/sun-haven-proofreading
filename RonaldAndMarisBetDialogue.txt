@@ -1,0 +1,29 @@
+RonaldAndMarisBet
+
+Dialogue:: Hey Mari, XX is here. I bet they can settle this. What do you say, XX, want to settle a bet for us?
+
+
+Option1:: Do you two bet against each other often?
+
+Option2:: What are the stakes?
+
+Option3(Permanent):: What's the bet?
+
+
+Response1:: Sure, we keep things interesting. Sometimes we disagree, but it's more fun to make a bet out of it!
+
+Response2:: If you prove me wrong and I'll reward you handsomly!
+
+Response3:: I say nobody in town is brave enough to go to the forest and slay <color=#39CCFF>5 Leafies</color>. Even the guards seem too soft! As usual, Mari thinks I'm wrong.
+
+
+Option3a:: Sure, I'll prove you wrong! //Quest none RonaldAndMarisBetQuest
+
+Option3b:: Maybe next time.
+
+
+Response3a:: Big talk! But let's see how you feel when you're staring those monsters in the face. (End)
+
+Response3b:: You see? I knew you wouldn't be up for it. (End)
+
+End

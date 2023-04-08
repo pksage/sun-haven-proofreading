@@ -1,0 +1,33 @@
+Peter Cycle 4
+
+Dialogue:: XX! Hey, you look strong. I guess sailing isn't the only way to build real muscle, huh?
+
+
+Option1:: When did you learn to sail?
+
+Option2:: Okay, what's the story behind the spear?
+
+
+Response1:: I was born on the sea, so I like to say I started learning from day one.
+
+Response2:: Oh, this? It was a gift from an Elven village I found by accident.[]A storm forced me ashore on an uncharted island once. Uncharted islands are risky, so I didn't know what to expect. I sure didn't expect Elves![]I promised not to reveal their location - you know how secretive Elves can be - and they gave me this as a parting gift. It's super sharp because it's made from coral!
+
+
+Option1a:: You were born on a boat? 
+
+Option1b:: But when did you really learn? 
+
+Response1a:: Sure was. I don't think my mother ever forgave me for that... I'm not even joking!
+
+Response1b:: I started early, can't be sure. Definitely when I was a kid, though. I might've been five? My little hands could barely hold a rope!
+
+
+Option2a:: It's good of you not to reveal their location. //Relationship Peter4 2
+
+Option2b:: So... where was this island? //Relationship Peter4 -1
+
+Response2a:: I guess so, but I don't know why I would even bother doing that. What's there for me to gain? An island of enemies? No thanks!
+
+Response2b:: Nice try, XX. I'm a sailor, and sailors keep their word.
+
+End

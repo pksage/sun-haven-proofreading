@@ -1,0 +1,33 @@
+Topi Cycle 3
+
+Dialogue:: I'm soooo bored in school. The work is easy because I'm the oldest kid in class.
+
+
+Option1:: Are you the oldest kid in town ,too?
+
+Option2:: You could ask for more challenging work.
+
+
+Response1:: I'm the oldest, unless you count Kitty.
+
+Response2:: I guess... but what if it's too hard then?
+
+
+Option1a:: Why would I count Kitty? 
+
+Option1b:: Actually, I do count kitty. 
+
+Response1a:: She acts funny. She even plays with us, sometimes!
+
+Response1b:: She acts funny. She even plays with us, sometimes!
+
+
+Option2a:: You're smart, you'll figure it out. //Relationship Topi3 2
+
+Option2b:: Then you work harder! //Relationship Topi3 -1
+
+Response2a:: If it means I'm less bored then maybe I will. Thanks, XX!
+
+Response2b:: Nooooo XX, I don't want that at all.
+
+End

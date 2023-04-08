@@ -1,0 +1,5 @@
+Nim One Liner 1
+
+Dialogue:: Are you an animal lover, too?																																																																			
+
+End

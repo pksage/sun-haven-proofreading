@@ -1,0 +1,23 @@
+Nathaniel Cycle P10
+
+Dialogue:: Oh, hey there. I'm in the middle of planning next week's practice drills, but I can spare a moment to chat.
+
+Option1:: Is planning the drills usually your job?
+Option2:: What kind of stuff are you planning for practice?
+
+Response1:: Actually, it isn't. Our itinerary is normally received from Army Headquarters in the Great City.[]Lately the headquarters has been failing to deliver, though. So I've been preparing the drills myself. It's no biggie, really.
+Response2:: Nothing out of the ordinary. Some running and conditioning exercises to keep everyone in top condition, especially when they have all their gear on.[]Staying in good physical shape isn't just part of the job for me, I think it's a good lifestyle in general.
+
+Option1a:: Why hasn't headquarters been doing their job?
+Option1b:: Are you worried about headquarters not delivering?
+
+Response1a:: I guess they're just a lot busier than usual these days. With all the rumors going around, I don't mind picking up the extra slack. It's my job, after all.
+Response1b:: Hm, not really, no. I guess they're just a lot busier than usual these days. With all the rumors going around, I don't mind picking up the extra slack. It's my job, after all.
+
+Option2a:: You have a tough job, you need to stay fit. //Relationship NathanielP10 2 Happy
+Option2b:: Sounds really mundane. //Relationship NathanielP10 -1 Sad
+
+Response2a:: Hey, look who I'm talking to. If anyone knows about staying active and fit for their job, it's you.
+Response2b:: I'm sorry you see it like that. I thought you'd relate, being a farmer and all, but maybe not.
+
+End

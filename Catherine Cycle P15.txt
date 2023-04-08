@@ -1,0 +1,23 @@
+Catherine Cycle P15
+
+Dialogue:: The days have all been so beautiful lately. Rain or shine, I could get lost just gazing up at the clouds as they roll by.
+
+Option1:: Do you ever predict bad things in the future?
+Option2:: Don't you read clouds?
+
+Response1:: I predict all sorts of things. Sometimes good, sometimes bad. It's important to always take an unbiased stance towards any prediction, though.[]It's not up to me to decide what fate entails, I just translate the meaning from what I see. It's hard to be totally unbiased, though.
+Response2:: Well, the study of aeromancy involves studying the shape and consistency of clouds to predict fates. Most of the time I'm not that serious about cloud watching,though.[]Sometimes it's nice to disconnect from all of that and just relax, not thinking about anything.
+
+Option1a:: Sounds complex.
+Option1b:: You sound like you have a good grasp on it.
+
+Response1a:: It is a bit tricky, but once you've been at it for awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
+Response1b:: It is a bit tricky, but once you've been at it for awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
+
+Option2a:: Cloud watching sounds like a boring pastime. //Relationship CatherineP15 -1 Mad
+Option2b:: That sounds very peaceful. //Relationship CatherineP15 2 Happy
+
+Response2a:: Hm, I didn't know I had asked for your opinion.
+Response2b:: It really is. You should try it sometime. Even if it's just for relaxation, our minds and bodies - and our energy! - need that from time to time. 
+
+End

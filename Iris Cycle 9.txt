@@ -1,0 +1,33 @@
+Iris Cycle 9
+
+Dialogue:: There's nothing like the smell of ever-blooming flowers in the air. I even got some woodworking in this morning! It's a nearly-perfect day, XX.
+
+Option1:: Is that why you look so giddy?  //Emote none Embarrassed
+
+Option2:: Hey, what would be a completely perfect day for you?
+
+
+Response1:: Actually... I wanted to get you something. It's a surprise! Think of it as a thank-you for being such a good friend to me. But before I give it to you, you have to promise to keep it safe. //Emote none Embarrassed
+
+Response2:: A perfect day... I don't know about the whole day, but it would for sure start with sleeping in.
+
+
+Option1a:: I promise! //AddItem none Iris'sEnchantedTotem  1
+
+Option1b:: I'm dying to know what the surprise is! //AddItem none Iris'sEnchantedTotem  1
+
+Response1a:: This totem is for you, XX. I carved it by hand. It carries a strong enchantment that should help you manage your magic. Please carry it with you - I worked hard to make it. 
+
+Response1b:: This totem is for you, XX. I carved it by hand. It carries a strong enchantment that should help you manage your magic. Please carry it with you - I worked hard to make it.
+
+
+Option2a:: I can't believe you would waste your day by sleeping in! //Relationship Iris9 -1 Mad
+
+Option2b:: Sleeping in, that sounds perfect! //Relationship Iris9 2 Happy
+
+Response2a:: Sorry to break it to you, XX, but I am NOT an early bird unless I have to be. I sleep in when I get the chance, but I always wake up on the right side of the bed.
+
+Response2b:: I sleep in when I get the chance, but I always wake up on the right side of the bed.
+
+
+End

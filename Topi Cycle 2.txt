@@ -1,0 +1,33 @@
+Topi Cycle 2
+
+Dialogue:: Hi XX. I'm going to play Dragons with Pod!
+
+
+Option1:: Your parents trust you to play without them watching?
+
+Option2:: How do you play?
+
+
+Response1:: I guess so. Anyway, Dad usually works on his sculptures outside so he can see me and Pod playing.
+
+Response2:: First you have to make a dragon - mine is an ice dragon so you can't choose that one. Then, you have a dragon battle!
+
+
+Option1a:: You must be very responsible for your age. //Relationship Topi1 -1
+
+Option1b:: Is your dad good at watching you? //Relationship Topi1 2
+
+Response1a:: I guess so. I don't know.
+
+Response1b:: I guess so. I don't know.
+
+
+Option2a:: I'll choose... lightning dragon! //Relationship Topi2 2
+
+Option2b:: I'll choose... fire dragon! //Relationship Topi2 -1
+
+Response2a:: Whoa, cool! Nobody's ever played lightning dragon before!
+
+Response2b:: No fair, you just chose that because I chose ice. You play just like Pod!
+
+End

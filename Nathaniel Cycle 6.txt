@@ -1,0 +1,33 @@
+Nathaniel Cycle 6
+
+Dialogue:: Hey XX, taking a break from farming? It's healthy to have interests outside of work.
+
+Option1:: I was wondering, if you weren't a soldier then what job would you want?
+
+Option2:: Do you have a hobby outside of work?
+
+
+Response1:: That's a good question. I would still want to help people somehow, that's for sure. I think I'd like building houses.
+
+Response2:: I don't know if it counts as a hobby, but I'm pretty good at skipping stones across the lake.[]There's something about it that's mesmerizing. It should sink, but it skips instead. It's like a little miracle![]Does that make any sense, or am I just talking nonsense?
+
+
+Option1a:: That's a surprising choice.
+
+Option1b:: That makes perfect sense for you! //Emote none Happy
+
+Response1a:: You think so? I did love making forts in the woods when I was a kid. At least, back when there was still some forested land left in the Great City. Now the Great City is all roads.
+
+Response1b:: You think so? I did love making forts in the woods when I was a kid.[]Now the Great City is all roads, so there's nowhere left to make forts.
+
+
+Option2a:: It makes sense to me. //Relationship Nathaniel6 2 Happy
+
+Option2b:: That does sound a little silly. //Relationship Nathaniel6 -1 Sad
+
+Response2a:: Oh yeah? Well don't get me wrong - I know it comes down to good hand-eye coordination. But I like to think that the rock actually skips because it refuses to sink.[]Hey, I haven't told that to anyone!
+
+Response2b:: Yeah, I know. I guess being a little silly just helps lift my spirits, sometimes.
+
+
+End

@@ -1,0 +1,5 @@
+Lily One Liner 1
+
+Dialogue:: The dewdrops this morning were <i>delectable!</i>																																																																			
+
+End

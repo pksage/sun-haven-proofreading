@@ -1,0 +1,33 @@
+Xyla Cycle 2
+
+Dialogue:: Hey again, outsider! You look boring as ever.
+
+Option1:: Well, what do you do that's so great?
+
+Option2:: You look... spiky. Why do you wear so many spikes?
+
+
+Response1:: You're kidding, right? I'm the architect - I built this place! Not only that, but I'm on the Demon King's royal council. Learn who you're talking to before throwing out a challenge, outsider.
+
+Response2:: That's what you've been wondering about me? Sheesh. You really know how to ask the hard-hitting questions. You should be a lawyer or something, really.
+
+
+Option1a:: Okay, that's... pretty impressive. //Relationship Xyla2 2 Happy
+
+Option1b:: So what? //Relationship Xyla2 -1 Mad
+
+Response1a:: Aw, you're so cute when you defer to your superiors!
+
+Response1b:: You can act unimpressed all you want, but I know it's just an act.
+
+
+Option2a:: I'm just curious! //Emote none Romantic
+
+Option2b:: Fine, don't tell me. //Emote none Romantic
+
+Response2a:: Listen, spikes look good and hurt people... Remind you of anyone... ?
+
+Response2b:: Listen, spikes look good and hurt people... Remind you of anyone... ?
+
+
+End

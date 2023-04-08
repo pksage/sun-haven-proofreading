@@ -1,0 +1,5 @@
+Lester Intro One Liner 1
+
+Dialogue:: Have you heard about the monster city? Don't worry, the army will always protect Sun Haven.			 					
+
+End

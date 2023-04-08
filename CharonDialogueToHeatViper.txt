@@ -1,0 +1,7 @@
+Default
+
+Dialogue:: Come aboard, traveler. Let us embark. Where would you like to go?
+
+Option1:: Take me to the Heat Viper. //Charon none ViperBoss
+
+End

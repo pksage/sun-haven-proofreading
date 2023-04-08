@@ -1,0 +1,54 @@
+Vending Machine Game 10
+
+Dialogue:: <i>The machine refuses to take your ticket!</i>
+
+
+Option:: //HEALTH2 Cry.
+
+Option:: Try another ticket. //RIGHTANSWER
+
+Option:: Pull the "REFUND" lever.
+
+
+Response:: <i>You break down and begin all out ugly crying. Why, why oh why! Why must the world be so cruel?!</i>
+
+Response:: <i>Upon closer inspection, you realize you were trying to feed the machine a candy wrapper, not a ticket. Silly you. You produce a proper ticket and feed it into the machine, no problem.</i>
+
+Response:: <i>You pull a lever labeled "refund". A mechanical buzz emits from within the machine and a length of paper pops out. Grabbing the piece of paper, you read two words: "NO REFUNDS".</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine becomes ghostly and immaterial! Your hand passes straight through it!</i>
+
+
+Option:: Write a formal complaint.
+
+Option:: Call the Specter Squishers. //RIGHTANSWER
+
+Option:: Tickle the machine.
+
+
+Response:: <i>Grabbing a quill and parchment, you draft out a strongly worded letter that details, in great length, the hardship and difficulty that the machine has dealt to you.</i>[]<i>The machine, incapable of reading anything, is unmoved by your letter.</i>
+
+Response:: <i>Who are you going to call? The Specter Squishers, that's who. You give them a call and they show right up, restoring the ghostly machine back to physical form. What a great bunch of guys.</i>
+
+Response:: <i>You attempt to tickle the machine, but it's no good! Your tickles pass straight through its intangible form. Curses! Bested once again!</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine relequinishes the potion, and instead of falling down where you can grab it, the potion floats inside the machine!</i>
+
+
+Option:: //HEALTH2 Shake the machine. //RIGHTANSWER
+
+Option:: Plant some seeds in the machine.
+
+Option:: Impress the machine with a yo-yo trick.
+
+
+Response:: <i>Oh no, you're not getting away that easy! You shake the machine, knocking the potion about. Whatever is causing the potion to levitate fails to withstand your onslaught, and down the potion goes!</i>
+
+Response:: <i>You pull out a spare pack of seeds and dump them down the ticket slot. You stare at the machine and your floating potion, waiting for something to happen. Nothing ever does.</i>
+
+Response:: <i>You decide to woo the machine with one of your famous yo-yo tricks. However, you suddenly remember that you don't have a yo-yo. Also, you don't know any yo-yo tricks.</i>
+
+
+End

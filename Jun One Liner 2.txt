@@ -1,0 +1,5 @@
+Jun One Liner 2
+
+Dialogue:: I knew that was you. I could spot you a mile away, XX.
+
+End

@@ -1,0 +1,9 @@
+Arnold Cycle 0
+
+Dialogue:: Hey, I don't think I've ever seen you before. Great! Someone new to do poses with!
+
+Option1:: Uh, hey there. I'm XX.
+
+Response1:: Hey, great name, XX! I'm Arnold. So are you going to do some poses with me, or what?
+
+End

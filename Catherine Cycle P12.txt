@@ -1,0 +1,23 @@
+Catherine Cycle P12
+
+Dialogue:: Not that it's a real surprise, but people are always buying all the prettiest plants I sell. But really, some of the most useful plants are often the least pretty.
+
+Option1:: Plants can be complicated, right?
+Option2:: You must be good at seeing value in everything.
+
+Response1:: True. It might be a very complicated subject, but I think it's still a very fascinating one. Some plants and herbs are useful for witchcraft, some are useful for everyday things.[]Most are useful for both, in different ways. 
+Response2:: It's not that I expect everyone to know as much about plants as I do, it's just sort of sad.[]Stinkwort is perfect for getting stains out of anything, but it smells funky and looks dull, so no one ever buys any.[]I think there's value to everything, you just have to know where to look.
+
+Option1a:: I will never doubt your knowledge of all things green. //Emote none Happy
+Option1b:: How did you learn so much about plants?
+
+Response1a:: I don't know if you're poking fun of me, but I agree! Never doubt me, hehe. 
+Response1b:: Well, what began as a childish hobby ended up blossoming into a much more serious interest. I've learned from experience and reading botany texts. Lots of both.[]Oh, and the "blossoming" pun was intended!
+
+Option2a:: If it isn't selling, then maybe you should get rid of it. //Relationship CatherineP12 -1
+Option2b:: Maybe you could teach people about the uses of different plants? //Relationship CatherineP12 2 Happy
+
+Response2a:: If I didn't even offer it, then that would just make the problem worse. Then no one would <i>ever</i> know what value Stinkwort has.[]I get where you're coming from on a business side of things, but that just isn't me.
+Response2b:: "That's actually a really great idea, XX. I'm a little too busy for that, but I know Emmett always has time.[]He's not as well versed as me, but he could swing it! I'll have to talk about adding it into his schedule.
+
+End

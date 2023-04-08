@@ -1,0 +1,5 @@
+Clerk One Liner 1
+
+Dialogue:: Out of the way! There's a mountain of the Archmage's decrees that need to be delivered and they're not going to haul <i>themselves</i>  around town!			
+
+End

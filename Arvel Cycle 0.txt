@@ -1,0 +1,9 @@
+Arvel Cycle 0
+
+Dialogue:: Hello. I don't think we've met - I'm Arvel. Welcome to my music shop.
+
+Option1:: Hi Arvel, I'm XX.
+
+Response1:: It's great to meet you. Please, take your time and find something you like.
+
+End

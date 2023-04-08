@@ -1,0 +1,23 @@
+Iris Cycle 17
+
+Dialogue:: Enchanting with this wedding ring on my finger has been a new experience. Nivara tells me wearing it will make enchanting more difficult, but I don't want to take it off!
+
+Option1:: Why would a ring make enchanting harder?
+Option2:: Is the ring really that important to you?
+
+Response1:: When I enchant living things, the non-living material of the ring somewhat disrupts the flow of magic through my fingers as I work.[]It really isn't much, and besides, I love keeping it on even while I'm working.
+Response2:: Of course it is, XX. It's a symbol of our love, and of the beginning of our life together. Enchanting, at a basic level, is about combining the elements of different things.[]This ring is like an enchantment, the combination of you and I.
+
+Option1a:: Won't your work suffer?
+Option1b:: I don't mind if you have to take it off for your work.
+
+Response1a:: Have some faith in your wife, XX. It'll take more than one little ring to get in the way of my enchanting. Even if that "one little ring" is the most important ring in my life.
+Response1b:: Have some faith in your wife, XX. It'll take more than one little ring to get in the way of my enchanting. Even if that "one little ring" is the most important ring in my life.
+
+Option2a:: That's so sweet, Iris. //Relationship Iris17 2 Happy
+Option2b:: It's just a ring. //Relationship Iris17 -1 Sad
+
+Response2a:: Maybe it's sweet, but it's also true. We're an enchantment together, and this ring is what proves it!
+Response2b:: Maybe to you it's just a ring. It means a lot more to me, though. 
+
+End

@@ -1,0 +1,29 @@
+Dynus Cycle 7
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: Do you know Elios?
+Option2:: Why do you spread darkness and not light?
+
+Response1:: Yes... the Sun Dragon... Elios and I have a history that spans your lifetime... countless times over.
+Response2:: Darkness is part of my soul... something I did not choose, but that always was. Even the guardian dragons... are subject to their fate.
+
+
+Option1a:: His power is nothing compared to yours. //Relationship Dynus7 2
+Option1b:: He's the most powerful dragon I've met. //Relationship Dynus7 -1
+
+
+Response1a:: Truer words have never been spoken... The Sun Dragon is mighty in name only. His light will soon be overcome... by my darkness.
+
+Response1b:: Insolent whelp... You will soon realize how wrong you are.
+
+
+Option2a:: So you can't spread light?
+Option2b:: So your power isn't unlimited after all.
+
+
+Response2a:: I can dissipate the darkness to make light... but that would be pointless. Light is a crutch... for those without real power.
+
+Response2b:: As far as it concerns the likes of you... there is no difference.
+
+End

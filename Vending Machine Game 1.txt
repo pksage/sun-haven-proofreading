@@ -1,0 +1,54 @@
+Vending Machine Game 1
+
+Dialogue:: <i>The buttons of the machine lock up, becoming practically impossible to press down!</i>
+
+
+Option:: Tickle the machine.
+
+Option:: Push really, REALLY, hard. //RIGHTANSWER
+
+Option:: Pull the "REFUND" lever.
+
+
+Response:: <i>Tickle tickle tickle! You tickle the machine with your best tickling techniques. The machine, a cold and unfeeling inanimate object, does not respond.</i>
+
+Response:: <i>You're not letting some weird machine get the better of you. You push the button as hard as possible until it gives way with a satisfying click.</i>
+
+Response:: <i>You pull a lever labeled "refund". A mechanical buzz emits from within the machine and a length of paper pops out. Grabbing the piece of paper, you read two words: "NO REFUNDS".</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine dispenses a glob of slimy ectoplasm!</i>
+
+
+Option:: Ignore it. //RIGHTANSWER
+
+Option:: Shake the machine.
+
+Option:: Beg the machine to cooperate.
+
+
+Response:: <i>Was that supposed to scare you? Deter you from your path?? You're getting that potion, and no amount of paranormal goo is going to stop you!!</i>
+
+Response:: <i>You shake the machine back and forth, rattling its contents around. It beeps and boops a bit in reaction to the shaking, but refuses to give up its potiony bounty.</i>
+
+Response:: <i>You drop to your knees and beg the machine to cooperate. Please, oh please, mighty machine! Give up your potions!</i>[]<i>Unsurprisingly, this did not work.</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine goes dark, shutting down completely!</i>
+
+
+Option:: Impress the machine with a yo-yo trick.
+
+Option:: //TICKETS1 Insert another ticket.
+
+Option:: Push the machine's "ON" button. //RIGHTANSWER
+
+
+Response:: <i>If there's one thing you know would solve this issue, it would be an awesome yo-yo trick.</i>[]<i>...Unfortunately, you have neither a yo-yo nor the ability to do a cool yo-yo trick.</i>
+
+Response:: <i>You pull out another ticket and attempt to feed it into the machine... but the machine is off. It doesn't work, and you don't walk away with a potion.</i>
+
+Response:: <i>You take a look behind the machine, spotting a big red button labeled "ON". You press it and, by some crazy miracle, the machine boots back to life and pops out your potion!</i> [] <i>Whatever you did, it worked! Sweet victory! Enjoy your potion!</i>
+
+
+End

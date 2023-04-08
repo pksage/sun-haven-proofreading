@@ -1,0 +1,27 @@
+Dynus Cycle 3
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: Is it hard maintaining this darkness spell at all times?
+Option2:: I've never seen a dragon with powers like yours.
+
+Response1:: It requires a certain concentration... but the energy I use is an insignificant fragment of my whole power. And of course... my hoard of magic crystals becomes quite useful.
+Response2:: There are no dragons like me. My power is mine alone... just as it is with all dragons.
+
+
+Option1a:: Your power is infinite as long as you have those gems. //Relationship Dynus3 2
+
+Option1b:: You'll run out of energy one day. //Relationship Dynus3 -1
+
+Response1a:: Indeed, which is why my dominion must be realized... Once my darkness encompasses the world, my power will be ultimate.
+Response1b:: So short-sighted... Once my dominion is realized, I will never run out of energy... My hoard will grow. The whole world will work for me... to maintain my darkness.
+
+
+Option2a:: Every dragon has different powers?
+
+Option2b:: So where does your power come from?
+
+Response2a:: A dragon's power comes from its soul... Where that power comes from, even I can't say.
+Response2b:: A dragon's power comes from its soul... Where that power comes from, even I can't say.
+
+End

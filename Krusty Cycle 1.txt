@@ -1,0 +1,20 @@
+Krusty Cycle 1
+
+Dialogue:: <i>Rargh</i>!
+
+
+Option1:: Would you please leave my farm?
+
+Option2:: Get out of here.
+
+
+Response1:: <i>Rrrraaawwrghhhh</i>!!![]<i>The monster doesn't seem like he'll be going anywhere soon. I better act fast before he keeps messing up my farm.</i>
+
+Response2:: <i>Rrrraaawwrghhhh</i>!!![]<i>The monster doesn't seem like he'll be going anywhere soon. I better act fast before he keeps messing up my farm.</i>
+
+
+Option1a:: A monster made of rock? I think I know some people who could help me out.
+
+Option2a:: A monster made of rock? I think I know some people who could help me out.
+
+End

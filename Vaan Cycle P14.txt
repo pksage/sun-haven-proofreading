@@ -1,0 +1,23 @@
+Vaan Cycle P14
+
+Dialogue:: Seeing all the different people in Sun Haven makes me wonder what Nel'Vari would be like if it were more open.
+
+Option1:: How open do you mean?
+Option2:: What made you think of that?
+
+Response1:: Nel'Vari could benefit from the diversity Sun Haven experiences every day. If our village weren't hidden so deep in the forest, we could host travelers like the Humans do.[]The Elven people could use an outside perspective. I don't see how we can progress as a society while never learning anything from the outside.
+Response2:: Speaking plainly, I think Sun Haven is everything a city should be. It has different people from every part of the world. I just wish I could live in a town like that.
+
+Option1a:: A lot can be learned from traveling strangers. //Relationship VaanP14 2 Happy
+Option1b:: Wouldn't that make you vulnerable to an attack? //Relationship VaanP14 -1 Mad
+
+Response1a:: That's exactly my point. Yes, Elves are masters of woodcraft and we have the World Dragon's wisdom behind us. I still think we Elves could be more.[]I really admire the Humans' natural desire to expand their perspective. If only Elves were the same way...
+Response1b:: Ah, so you've heard about the ancient attacks that nearly destroyed all of Nel'Vari? The Elder uses that excuse to justify our secrecy.[]It's been hundreds of years since that attack. It's silly to keep hiding. XX, I hoped you would see through the Elder's lame excuses like I do.
+
+Option2a:: You've learned things in Nel'Vari that most people never learn.
+Option2b:: Every city has its interesting people.  //Emote none Happy
+
+Response2a:: That's true, having Nivara around is a major advantage. Especially for the Blessed who have magic within them.[]Trying to get a handle on my magic without a dragon's guidance would have been nearly impossible. 
+Response2b:: Hm, well you're not wrong. I suppose we have Rel'Tar, not to mention the World Dragon herself. Maybe I'm taking my home for granted.[]This was a good chat, XX.
+
+End

@@ -1,0 +1,5 @@
+Default
+
+Dialogue:: I got nothing to say!
+
+End

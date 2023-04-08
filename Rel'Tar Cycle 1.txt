@@ -1,0 +1,33 @@
+Rel'Tar Cycle 1
+
+Dialogue:: Welcome back, traveler. Enjoying the fruits of Nel'Vari? Or, is this about business?
+
+
+Option1:: Where did you learn to make crossbows?
+
+Option2:: What's the best crossbow you've got?
+
+
+Response1:: I've been making crossbows since I was a young boy. Back then, they were hardly more than sticks and twine, but I assure you I've improved my craft.
+
+Response2:: That's my Mark, easily. I call it that because it hasn't missed a target yet. It's more of a relic now, though. Haven't needed to use that one in some time.
+
+
+Option1a:: I can see that - I can't wait to try one out! //Relationship Rel'Tar1 2
+
+Option1b:: I'll believe it when I see it. //Relationship Rel'Tar1 -1
+
+Response1a:: Heh, I see you appreciate quality gear. That makes sense for a traveler. And yet, you strike me as more than the average adventuring-type.[]Anyway, I'm happy to help you however I can. Maybe one day you can help me out, too.
+
+Response1b:: All right, don't take me at my word then. The evidence is right in front of you.
+
+
+Option2a:: What do you mean by that?
+
+Option2b:: You don't use it anymore?
+
+Response2a:: I used to fall into some dangerous work, in a previous lifetime. My Mark made a bit of a reputation for itself in my travels.[]Heck, most people knew of "Rel'Tar's Mark" before they even knew me!
+
+Response2b:: I only use the Mark when necessary. I used to fall into some dangerous work, in a previous lifetime. My Mark made a bit of a reputation for itself in my travels.[]Heck, most people knew of "Rel'Tar's Mark" before they even knew me!
+
+End

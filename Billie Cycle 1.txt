@@ -1,0 +1,33 @@
+Billie Cycle 1
+
+Dialogue:: I like to think I'm changing people's lives by changing their look. You should really give me a shot!
+
+
+Option1:: What got you into the salon business?
+
+Option2:: When you say I should "really" give you a shot...
+
+
+Response1:: I used to cut my whole family's hair. It's the only skill I have other than archery, but that doesn't make much money.
+
+Response2:: Oops, there goes my mouth again. I don't mean it like an insult. But it's never a bad time to update your look, you know.
+
+
+Option1a:: Archery? That's impressive!
+
+Option1b:: Why do you like archery?
+
+Response1a:: Thanks! I practice all the time so I can join the army. I figure joining the army as an archer is my best bet to travel the world for free!
+
+Response1b:: I practice all the time so I can join the army. I figure joining the army as an archer is my best bet to travel the world for free!
+
+
+Option2a:: I don't care what you think about my look. //Relationship Billie1 -1
+
+Option2b:: I like that you're up front about it. //Relationship Billie1 1
+
+Response2a:: Okay, sheesh. I was just offering to help. Thin skin, huh?
+
+Response2b:: Some people call me blunt, but I think I'm just honest. I'm glad you can take it.
+
+End

@@ -1,0 +1,23 @@
+Donovan Cycle 15
+
+Dialogue:: Hey XX. It's another beautiful, slow day. I could get used to days like these.[]Hey, do you think Xyla would arm wrestle with me?
+
+Option1:: I don't think that arm wrestling match would end well... //Emote none Embarrassed
+Option2:: Can we be serious for a sec? Are you happy in our relationship? //Emote none Embarrassed
+
+Response1:: Yeah, you're totally right![]Wait do you mean for me, or for her? Whose side are you on, anyway? 
+Response2:: Huh? Happy? Yeah, sure. I mean, I'm plenty happy with you.[]XX, what's this all about? 
+
+Option1a:: Xyla is really scary. //Emote none Happy
+Option1b:: I believe in you, even if you'll obviously lose. //Emote none Happy
+
+Response1a:: That's... a good point. And exactly why I need to beat her at arm wrestling! 
+Response1b:: Now THAT'S the kind of support I love to hear from you, XX. 
+
+Option2a:: I'm having doubts. //Relationship Donovan15 -1 Sad
+Option2b:: I'm just trying to plan for our future. //Relationship Donovan15 2 Romantic
+
+Response2a:: Doubts? Well don't string me along, XX. If you're going to leave, just do it. I don't like games like this.
+Response2b:: Our future? Oh... Oh! I see what's going on here. You've got a special question to ask me, huh?[]I won't pressure you - take your time! Just know that whenever you're ready to ask, I'm ready to answer. 
+
+End

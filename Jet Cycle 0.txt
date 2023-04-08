@@ -1,0 +1,9 @@
+Jet Cycle 0
+
+Dialogue:: Hey kid! Think you're quick? I've got the game for you![]What's your name, kid?
+
+Option1:: My name is XX. What's this game?
+
+Response1:: Allow me to give you my salutations, XX! I'm Jet, happy to mark ya - I mean <i>meet</i> ya! Heheh...[]My game is all about keeping your eye on the ball. If ya wanna play, don't hesitate to step right up!
+
+End

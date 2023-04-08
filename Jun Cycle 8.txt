@@ -1,0 +1,33 @@
+Jun Cycle 8
+
+Dialogue:: XX, my better half! Life in Sun Haven is perfect now that we're together.
+
+Option1:: Do you think people will talk about us?
+
+Option2:: How long do you expect to stay in Sun Haven?
+
+
+Response1:: Knowing the people in this town... most likely, yes. But what does it matter? I don't care a bit, personally.
+
+Response2:: Oh, I don't plan to leave ever. This town has my heart... like you. That isn't a problem, is it?
+
+
+Option1a:: You're right, it shouldn't matter. //Emote none Happy
+
+Option1b:: I can't help but think about it.
+
+Response1a:: You've got a good head on your shoulders, XX.
+
+Response1b:: If it really bothers you, just remember that it will pass. Gossip doesn't last forever, right?
+
+
+Option2a:: Not at all - I feel the same way. //Relationship Jun8 2 Happy
+
+Option2b:: I can't imagine staying here forever. //Relationship Jun8 -1 Sad
+
+Response2a:: You don't know how much of a relief it is to hear you say that.
+
+Response2b:: Oh... Is that so? I'm surprised that you feel that way, XX.
+
+
+End

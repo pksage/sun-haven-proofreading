@@ -1,0 +1,9 @@
+Emma Cycle 0
+
+Dialogue:: I'm not supposed to talk to strangers.
+
+Option1:: I'm your new neighbor! My name is XX.
+
+Response1:: Ooh, the farmer? Liam said we were getting a farmer![]I'm Emma. Liam's my big brother!
+
+End

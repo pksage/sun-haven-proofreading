@@ -1,0 +1,33 @@
+Triberius Cycle 1
+
+Dialogue:: So you've returned! Care to try on some of our wares?[]<i>Yessss, try something onnnn.</i>[]<b>Or are you looking for a spot of conversation?</b>
+
+
+Option1:: Triberius, did you get into the hat business because...
+
+Option2:: I have to ask, were you born this way?
+
+
+Response1:: <b>Because we have three heads? Haha!</b>[]Don't mind him, he lives to make people uncomfortable. Actually, we started making hats to raise enough money to buy a new home.[]<i>But then we heard about Withergate and it sounded like jusssst the place for ussss.</i>[]Since we already knew how to make hats, we opened a haberdashery![]<b>Really, nobody knows what a haberdashery is. Please, just say "hat shop!"</b>
+
+Response2:: As a matter of fact, we were changed this way by a dark wizard. There was a time when we were three separate creatures.[]<i>The dark wizzzzard, he made us like thissss to guard his storeroom of pricelessss scrollssss. He chained ussss up at the entrancccce, but nobody ever came to ssssteal them.</i>[]<b>Indeed, we became quite bored by the task.</b>[]So we broke our bonds and escaped to make our own life.
+
+
+Option1a:: You three seem to bicker quite a bit.
+
+Option1b:: Are you all angry at each other?
+
+Response1a:: What do you expect? We're stuck with each other constantly, all the time, forever![]<b>There's bound to be a little conflict.</b>
+
+Response1b:: <i>Nonsensssse. A little argument is part of the ffffun.</i>[]<b>It's true, we fight with each other merely for fun. It may be juvenile, but it keeps us entertained.</b>
+
+
+Option2a:: That's terrible, I'm sorry. //Relationship Triberius1 -1
+
+Option2b:: At least you have each other. //Relationship Triberius1 2
+
+Response2a:: <i>It'ssss not so bad.</i>[]<b>Yes, we've become quite used to each other by now.</b>
+
+Response2b:: <i>That'ssss exactly how we see it.</i>[]We've decided to stay positive about the situation.[]<b>I'm proud to be stuck together with such fine creatures.</b>
+
+End

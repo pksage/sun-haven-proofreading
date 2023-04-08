@@ -1,0 +1,33 @@
+Kitty Cycle 1
+
+Dialogue:: Hello again, nya![]What's up??
+
+Option1:: Did you say "nya?"
+
+Option2:: What was it you do here, Kitty?
+
+
+Response1:: Nya, that's right! Haven't you met a cat like me before? Don't tell me I'm your first, nya? Oh my goodness, then what do you think of my ears??
+
+Response2:: I run the pet store, of course!
+
+
+Option1a:: They look very colorful. //Relationship Kitty1 2 Embarrassed
+
+Option1b:: They look fluffy and cute. //Relationship Kitty1 2 Embarrassed
+
+Response1a:: Nya?! You really mean it?! Just don't stare too long, okie?
+
+Response1b:: Nya?! You really mean it?! Just don't stare too long, okie?
+
+
+Option2a:: You run the store all by yourself?
+
+Option2b:: That makes a lot of sense!
+
+Response2a:: Not alone, nya! I have help from Nim. And not only that, but I take care of all the animals in Sun Haven town! I even sell animals you could use on your farm.
+
+Response2b:: Not only that, I take care of all the animals in Sun Haven town! I even sell animals you could use on your farm.
+
+
+End

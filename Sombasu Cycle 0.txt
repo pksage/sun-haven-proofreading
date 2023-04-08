@@ -1,0 +1,9 @@
+Sombasu Cycle 0
+
+Dialogue:: Helllllooo, traveler. I am called the Spectacular Sombasu!
+
+Option1:: Hi, I'm XX.
+
+Response1:: Yesss, I know. I also know your future is in quessstion. Of course, I can cleeeaaar that up for you, for but a fee.
+
+End

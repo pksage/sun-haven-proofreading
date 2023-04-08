@@ -1,0 +1,9 @@
+Jordan Cycle 0
+
+Dialogue:: Oh, hey there. I'm Jordan. I help Liam out when he's got his hands full around here.
+
+Option1:: Hi Jordan, my name's XX.
+
+Response1:: Ah - you're the new farmer! Isn't your farm just south of here? That's a good plot of land. 
+
+End

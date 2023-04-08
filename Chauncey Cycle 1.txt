@@ -1,0 +1,23 @@
+Chauncey Cycle 1
+
+Dialogue:: Are you my next perceptive challenger? Or perhaps you're merely looking for a spot of conversation?
+
+Option1:: So you're a Slime?
+Option2:: That's a fine hat.
+
+Response1:: Why, am I dripping? Oh, you had me worried![]Haven't you met any slimes before?
+Response2:: Why thank you! I pulled it from the trash out back of Triberius's haberdashery. It is quite fetching, eh?
+
+Option1a:: I've met one or two.
+Option1b:: I haven't met a single one.
+
+Response1a:: Then you already know - Slimes are the most cultured folk on the planet!
+Response1b:: Well, I'm honored to represent us gelatinous gentlefolk. Slimes are the most cultured folk on the planet!
+
+Option2a:: It suits you perfectly! //Relationship Chauncey1 2
+Option2b:: Ew! Trash hat! //Relationship Chauncey1 -1
+
+Response2a:: You're a charming sort, aren't you! If only you were here ten minutes ago when those rude kids came by...
+Response2b:: If you're bothered by trash, you wouldn't last a minute in a Slime commune.
+
+End

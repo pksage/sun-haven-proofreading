@@ -1,0 +1,5 @@
+Ronald Intro One Liner 1
+
+Dialogue:: This work isn't glamorous, but it sure is fun.														
+
+End

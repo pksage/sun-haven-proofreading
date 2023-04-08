@@ -1,0 +1,23 @@
+Batrick Cycle 1
+
+Dialogue:: Skree skree! Batsmith! BATSMITH! Skreeee!!
+
+Option1:: So, what's a 'batsmith'?
+Option2:: Can I learn to be a batsmith?
+
+Response1:: Curious, skree? Bat monsters teach themselves lots of tricks, skree. Tricks like blacksmithing... but call it <i>batsmithing</i>, because bat monsters are bats. Skree!
+Response2:: Skree, skree! Only bat monsters can be batsmith! You can be... hmmm... what are you?
+
+Option1a:: That's... interesting. //Relationship Beeanca1 2
+Option1b:: What a lame pun. //Relationship Beeanca1 -1
+
+Response1a:: Skreeheheh... yes, interesting. Come to the land of the bat monsters sometime, skree. You can learn much. If you don't mind hanging on cave ceilings, skreeee.
+Response1b:: <i>Pun</i>? Batrick doesn't know what '<i>pun</i>' is, skree. No pun, just BATSMITH! Skreeee!!
+
+Option2a:: I'm XX, I already know lots about smithing.
+Option2b:: I'm XX, I'm a farmer.
+
+Response2a:: Batsmithing <i>much</i>  different from smithing, skree! Must be <i>bat monster</i>  to do batsmithing, skreee! 
+Response2b:: Huh? Already a farmer but you want to be a batsmith? Skree! You have too much time on your hands!
+
+End

@@ -1,0 +1,5 @@
+Nim One Liner 5
+
+Dialogue:: Are you off on an adventure? I can only imagine!			 																																																																
+
+End

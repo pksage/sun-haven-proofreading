@@ -1,0 +1,33 @@
+Iris Cycle 3
+
+Dialogue:: Hey there, XX. Care to talk for a moment? I'm taking a break from the enchanting table.
+
+Option1:: With all of your enchanting, when do you find time for woodworking?
+
+Option2:: Is your brooch enchanted, too? //Emote none Embarrassed
+
+
+Response1:: It's tough, I'll admit. I don't practice my crafting as much as I should.[]Maybe it's because my work as an enchantress is for the good of everyone, but my crafting is just for me. 
+
+Response2:: This old thing? Heh, not at all. It was given to me by the Elven Elder.[]Most Elves get something like this from the Elder when they pick a profession. I just wear it because it's nice.
+
+
+Option1a:: Your happiness is important, Iris. If crafting makes you happy, then do it! //Relationship Iris3 2 Happy
+
+Option1b:: It's important to consider your people's needs above your own. //Relationship Iris3 -1 Sad
+
+Response1a:: It really does make me happy. Maybe I really should spend more time on my woodworking. Thanks, XX, I'll think about it!
+
+Response1b:: You really think so? Hm. You might be right. Maybe I should talk to the Elder about this...
+
+
+Option2a:: That's a lovely tradition - the Elder chose well!
+
+Option2b:: That sounds so formal. Is it a big deal?
+
+Response2a:: You think so? I didn't love it at first, but it grew on me. Literally - I made it grow into my clothing so I don't have to worry about it coming loose.
+
+Response2b:: I don't think so, but then again I'm not very strict about tradition. I mean, our culture is important and all, but I would never reject someone for not wearing a pin.
+
+
+End

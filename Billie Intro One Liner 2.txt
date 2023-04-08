@@ -1,0 +1,5 @@
+Billie Intro One Liner 2
+
+Dialogue:: I've heard people talking about this monster town, Withergate? It sounds like bad news.						
+
+End

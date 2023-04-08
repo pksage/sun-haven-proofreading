@@ -1,0 +1,5 @@
+Rex Intro One Liner 1
+
+Dialogue:: The sun sure is bright here.																																		
+
+End

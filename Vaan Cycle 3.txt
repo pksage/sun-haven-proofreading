@@ -1,0 +1,33 @@
+Vaan Cycle 3
+
+Dialogue:: XX! I'm glad to see you. I had a... rough morning.
+
+Option1:: What's wrong?
+
+Option2:: How do you usually wind down from a rough day?
+
+
+Response1:: I got caught in Sun Haven earlier this morning - apparently the guards are on high alert.[]That guard with the really big sword was NOT happy to see me sitting on top of the town hall.
+
+Response2:: I love to snack on some greenroot, for starters. Then I usually just escape on my own into the trees. There's nowhere as peaceful as a quiet branch in the middle of the forest.
+
+
+Option1a:: Did you get hurt? //Relationship Vaan3 2 Happy
+
+Option1b:: You let yourself get caught? //Relationship Vaan3 -1
+
+Response1a:: No, I'm fine. Arrows are easy to dodge when you're above them. Thank you for worrying, though.[]I guess I need to be a little more discreet when I visit your town, huh?
+
+Response1b:: It's not that simple. That guard has eyes like a hawk. I swear, nobody else has ever seen me until her. I don't think I'm to blame here.
+
+
+Option2a:: Do you always deal with your feelings alone?
+
+Option2b:: You can spend time with me, if you need a friend. //Relationship Vaan3 2 Embarrassed
+
+Response2a:: I've never thought much about it. But yes, I often seek solitude when I need to process my thoughts. It's how I've always been.
+
+Response2b:: That's... very sweet, XX. I usually seek solitude when I need to process my thoughts. It's nothing against you, it's just how I've always been. But I'm glad to know you're here.
+
+
+End

@@ -1,0 +1,33 @@
+Iris Cycle 4
+
+Dialogue:: XX, welcome back. It's a beautiful day in Nel'Vari, huh?
+
+Option1:: It seems like everyday is a beautiful day around here.
+
+Option2:: Do you like living in Nel'Vari, Iris?
+
+
+Response1:: You're right, we're really lucky. I've heard things about other parts of the world where there are no plants at all - just big flat spaces with rocks and sand. I've never seen it, but it sounds terrible!
+
+Response2:: Sure I do. I mean, this is the perfect place for my work.  
+
+
+Option1a:: I don't know. It's not like plants are much better. //Relationship Iris4 -1 Mad
+
+Option1b:: I wouldn't be able to live without plants and animals around me. //Relationship Iris4 2 Happy
+
+Response1a:: What... but... plants are SO much better than rocks! They give us food and air, and rocks just give us... more rocks.[]Oof, I need to cool off after that one.
+
+Response1b:: I feel exactly the same way. Surrounding yourself with life makes life itself sweeter. Nivara told me that.
+
+
+Option2a:: What makes it perfect for your work here?
+
+Option2b:: Sounds like work is your main priority, huh?
+
+Response2a:: My enchanting blends the lines between nature and magic. Nel'Vari does something similar, but with Elves. In a way, Nel'Vari is like one big natural experiment itself.
+
+Response2b:: Enchanting is my life. The work is complicated and beautiful... but sometimes I get so focused on it that I forget other things. Like today, I can't remember if I've eaten anything![]I could really go for some noodles right now. There's a shop in the plaza that makes my favorite spicy ramen.[]If you're going to the plaza then maybe you could grab me a bowl?? Thanks in advance!
+
+
+End

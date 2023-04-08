@@ -1,0 +1,23 @@
+Darius Cycle P14
+
+Dialogue:: Greetings, XX. Now get out of my way.
+
+Option1:: I didn't mean to get in your way.
+Option2:: You seem cranky! Well, more than usual.
+
+Response1:: Regardless of your intent, you did it all the same. I'm busy right now with a task from my father... and I loathe being tasked with my father's demands.
+Response2:: Judge me all you want, but I have matters to tend to that go far above you. At any rate, I need not explain myself to the likes of you.[]My father has his wishes, and it's up to me to respect them no matter what. Now like I said, get out of my way.
+
+Option1a:: What's Minos got you doing? //Emote none Mad
+Option1b:: You do look a bit stressed.
+
+Response1a:: Firstly, it's King Minos to you. Secondly, it's not of your concern. 
+Response1b:: Then you should know that if there was ever a time to trifle with me, it is not now. Not that there's <i>ever</i> a time you should trifle with me.
+
+Option2a:: Right this way, my prince. //Relationship DariusP14 2
+Option2b:: That's no reason to be rude. //Relationship DariusP14 -1 Mad
+
+Response2a:: Heh, that's more like it. I'm just in a hurry, but I knew you had the wits to understand that. 
+Response2b:: I might count you as something akin to a confidant, XX, but if you become a problem... well, you know the drill. Dungeon. Chains. Eternity.[]Now move aside.
+
+End

@@ -1,0 +1,27 @@
+Dynus Cycle 4
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: What do you think of the Demon King Minos?
+Option2:: Do the people worship you?
+
+Response1:: Ah, Minos... He is a capable and faithful follower, though he thinks himself my partner... Heh, let him think so.
+Response2:: I wouldn't know... I let the Demon King handle the people. It makes no difference... for they are below me.
+
+Option1a:: That's not a good way to speak of your allies. //Relationship Dynus4 -1
+
+Option1b:: The king is a fool to think he's equal to you. //Relationship Dynus4 2
+
+
+Response1a:: Minos is not my ally... he is my servant.
+
+Response1b:: This is true, but that is bold talk... from a lowly wretch like you.
+
+Option2a:: Don't you want to reward them for loving you?
+Option2b:: What if they stop loving you?
+
+Response2a:: That is not the job of a ruler. Foolish sentiment has no place... in my world.
+
+Response2b:: I get nothing from their love... only their obedience.
+
+End

@@ -1,0 +1,9 @@
+Iris Cycle 0
+
+Dialogue:: Oh? Sorry, you surprised me. We don't get many new faces around here. My name is Iris.
+
+Option1:: I didn't mean to surprise you. I'm XX.
+
+Response1:: XX, interesting name. If nobody has said it yet, welcome to Nel'Vari.
+
+End

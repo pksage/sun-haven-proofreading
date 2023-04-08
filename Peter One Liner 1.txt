@@ -1,0 +1,5 @@
+Peter One Liner 1
+
+Dialogue:: Come take a look at my merchandise. You might spy something you like!
+
+End

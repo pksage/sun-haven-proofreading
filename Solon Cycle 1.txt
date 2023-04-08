@@ -1,0 +1,33 @@
+Solon Cycle 1
+
+Dialogue:: Farmer.
+
+
+Option1:: How did you become a master blacksmith?
+
+Option2:: You have a reputation as a tough teacher.
+
+
+Response1:: A lifetime of putting iron to the forge will do that.[]Anyway, can't be any kind of blacksmith before you've got an anvil. Have you made yourself one?
+
+Response2:: You're darn right, I do. You don't learn discipline by being coddled.
+
+
+Option1a:: Of course I have. 
+
+Option1b:: Of course I have... not.
+
+Response1a:: Then you're ready to make your own gear, which means you need ore. Take the minecart into the mines to get some ore. Go on, put that pickaxe I gave you to work.
+
+Response1b:: You'll need ore to craft one. Take the minecart into the mines to get some ore. Go on, grab yourself a pickaxe and put it to good use.
+
+
+Option2a:: Hard work is the best teacher there is. //Relationship Solon1 2
+
+Option2b:: What if you tried a more positive teaching strategy? //Relationship Solon1 -1
+
+Response2a:: That's right. Sounds like the farm fell into capable hands. 
+
+Response2b:: More positive? The only thing I'm positive about is this - you're a total ninny.
+
+End

@@ -1,0 +1,5 @@
+Clemmett One Liner 4
+
+Dialogue:: Huh? No no, it's <i>Clemmett</i> with a "C-L" in front.										
+
+End

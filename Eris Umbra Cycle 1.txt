@@ -1,0 +1,33 @@
+Eris Umbra Cycle 1
+
+Dialogue:: Because surely you're wondering - yes, I am <i>that</i> Eris Umbra.
+
+
+Option1:: I've never heard of you before
+
+Option2:: What's a pirate like yourself doing in a city like this?
+
+
+Response1:: Say again? Never, not even once? My reputation must be slipping... which is a good thing, I suppose.[]All you need to know about me is that I'm the richest pirate at sea. And since riches are the key to freedom, you could say I'm the most free pirate, too!
+
+Response2:: I've been hiding out here for nearly a month now, trying to keep a low profile.[]It seems like it's been working so far. I haven't met a single person who knew my name! It's a little insulting, actually.
+
+
+Option1a:: It sounds nice to sail free across the sea. //Relationship NPC1 2
+
+Option1b:: But you're not at sea. //Relationship NPC1 -1
+
+Response1a:: It's the best feeling in the world, let me tell you. It will be even better when I have my own fleet behind me... one day.
+
+Response1b:: Har har, you know what I mean. I'm no stickler for wordplay.
+
+
+Option2a:: Do you need help?
+
+Option2b:: Are you in some kind of danger?
+
+Response2a:: I only need to remain hidden. Four years ago, I abandoned my role as a noble in a far-off region. In fact, I was the queen's chief advisor until rebels stormed the castle.[]Queen Mayaria let herself get caught so that I could escape. In my heart, I am still loyal to her.
+
+Response2b:: I need to remain hidden because I abandoned my role as a noble in a far-off region. That was four years ago. In fact, I was the queen's chief advisor until rebels stormed the castle.[]Queen Mayaria let herself get caught so that I could escape. In my heart, I am still loyal to her.
+
+End

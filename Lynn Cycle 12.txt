@@ -1,0 +1,33 @@
+Lynn Cycle 12
+
+Dialogue:: You know, I really wish you could meet my family. My father would love you.
+
+Option1:: Maybe I will, one day.
+
+Option2:: You look a little far away. What's up?
+
+
+Response1:: Oh wow, I was just speaking my thoughts. But the idea of visiting home with you sounds so fun![]I could show you the gorge, and all my friends, and if we timed it right we could even catch the smithing festival!
+
+Response2:: Some days, like today, I get a little homesick. When I feel like this, I like to make myself a meal that I would have had back in my village.
+
+
+Option1a:: Whoa - slow down! //Relationship Lynn12 -1 Sad
+
+Option1b:: I would love to see where you came from. //Relationship Lynn12 2 Happy
+
+Response1a:: Oh? I didn't realize I was getting so carried away. Sorry if that made you uncomfortable.
+
+Response1b:: Let's try to make it happen one day. And then I can visit the Great City with you. I've never seen a city like that before.[]I love making plans with you like this! Just think of all the fun we'll have together.
+
+
+Option2a:: Does that help?
+
+Option2b:: What kind of food do you make?
+
+Response2a:: Oh yes, it definitely does. I also write letters to my family.[]That reminds me, I still have a few letters to send off. Thank goodness Sun Haven has a post office.
+
+Response2b:: I can make all of the best eastern dishes from my village! My favorite is pickled veggie salad, but sometimes I will go all out with a creamy beef stew.
+
+
+End

@@ -1,0 +1,5 @@
+Anne One Liner Summer 5
+
+Dialogue:: Still using those old tools I sold you, XX? I hope you upgraded by now.
+
+End

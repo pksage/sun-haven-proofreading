@@ -1,0 +1,9 @@
+Opal Cycle 0
+
+Dialogue:: Hello there. I don't believe we've met, have we?
+
+Option1:: I'm XX, from the town of Sun Haven.
+
+Response1:: Nel'Vari is a beautiful place made more beautiful by those who appreciate it. I am Opal, and it is good to meet you.
+
+End

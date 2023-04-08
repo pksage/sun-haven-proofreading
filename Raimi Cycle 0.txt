@@ -1,0 +1,9 @@
+Raimi Cycle 0
+
+Dialogue:: Hey, neighbor. I'll introduce myself - I'm Raimi. People might tell you I'm the toughest guy in town, but that's just what people say. 
+
+Option1:: Good meeting you Raimi, I'm XX.
+
+Response1:: Oh, XX? Thaaat's right, you're the farmer we've been expecting. We really needed someone to clean up that old farm. Great to have you!
+
+End

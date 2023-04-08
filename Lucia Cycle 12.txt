@@ -1,0 +1,33 @@
+Lucia Cycle 12
+
+Dialogue:: The day always improves when I bump into you, XX.[]What do you want to talk about?
+
+Option1:: Feel free not to answer, but do you ever feel held back by your title?
+
+Option2:: You always seem so in control. How do you do it?
+
+
+Response1:: I don't mind, XX. In some ways, being Archmage is indeed a restriction. I do everything as a representative of our town, so I have to be careful.[]But the satisfaction I feel from guiding Sun Haven forward outweighs all else. It's a sacrifice I would make again and again.
+
+Response2:: In part, it's due to my training. I had to practice clearing my mind to control my magic. That same trick keeps me from losing my composure.
+
+
+Option1a:: We're lucky to have you, Lucia. //Relationship Lucia12 2 Happy
+
+Option1b:: Don't you think you're neglecting yourself? //Relationship Lucia12 -1
+
+Response1a:: I would do anything for my people. That means you, XX.
+
+Response1b:: I really don't see it that way at all. Perhaps we simply see things differently, XX.
+
+
+Option2a:: Have your feelings ever gotten away from you? //Emote none Embarrassed
+
+Option2b:: I never considered that side of your training before.
+
+Response2a:: Oh, yes... once as a teenager, I got into a shouting match with Catherine about who-knows-what.[]We were both hard headed and adept with magic, a bad combination for teenagers... I ended up burning her hair off by accident.[]But that's in the past! We haven't fought even once since then. We were only foolish kids at the time.
+
+Response2b:: Naturally, it's not the first thing that comes to mind when you hear "fire magic," but that was actually where Grandfather's training started - with simple meditation.
+
+
+End

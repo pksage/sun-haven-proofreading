@@ -1,0 +1,23 @@
+Claude Cycle 18
+
+Dialogue:: I've been thinking about trying something... different. Maybe fishing?
+
+Option1:: I can't believe you want to try something that isn't music. //Emote none Embarrassed
+Option2:: Trying something new might help you with your music.
+
+Response1:: Well, I feel like a new man. I'll never stop obsessing over my music, but maybe it's time to broaden my horizons. You're always doing all sorts of stuff, after all. 
+Response2:: You know, I had a talk with Jun a while back, and he said something along the same lines. At the time I thought it was nonsense, but now that I've met you, I wonder...
+
+Option1a:: You with a fishing rod, that'll be the day. //Relationship Claude18 -1 Mad
+Option1b:: I think it's amazing you want to try new things. //Relationship Claude18 2 Romantic
+
+Response1a:: I thought you'd be excited. This is... a sour surprise. 
+Response1b:: I knew you'd be excited. Maybe this is the start of a brand new Claude. With you, my muse. 
+
+Option2a:: Give it a go. It can't hurt. //Relationship Claude18 2 Happy
+Option2b:: Do what makes you comfortable. //Emote none Embarrassed
+
+Response2a:: You're right. Maybe it really will help. And at least I can say I tried, that'd make Jun happy if nothing else. 
+Response2b:: I was worried you'd push me really hard to give it a go, but it's nice that you're not breathing down my neck about it.
+
+End

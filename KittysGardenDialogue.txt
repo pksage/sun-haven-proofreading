@@ -1,0 +1,25 @@
+CatherinesGardenQuest
+
+Dialogue:: Hey XX, this is perfect timing! I just realized I forgot to water my garden before coming in today. I'll give you a potion if you help me out.
+
+
+Option1:: Where is your garden?
+
+Option2(Permanent):: What do you need me to do?
+
+
+Response1:: It's just on the side of my house, you know, stuck in the dirt like plants are.
+
+Response2:: Just make sure all my leafy babies have enough water. I'd be crushed if they withered in the sunshine. Let me know when you've finished so I can repay you.
+
+
+Option2a:: I'll take care of that. //Quest none KittysGardenQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Great. You're really helping me out, XX. (End)
+
+Response2b:: I guess someone doesn't want a top-quality potion. (End)
+
+End

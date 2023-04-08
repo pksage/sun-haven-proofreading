@@ -1,0 +1,23 @@
+Liam Cycle P12
+
+Dialogue:: I love my big ol' wheat field. I've got it so easy, wheat is so simple to grow! Nothing like your work, I'm sure, XX.
+
+Option1:: Do you ever have trouble keeping up with your field?
+Option2:: It's amazing that you grow and mill your own flour.
+
+Response1:: Nope, not really. The first few years it was rough controlling the weeds, but after working the soil enough they don't get too bad anymore.
+Response2:: You think so, XX? Heh, I mostly just like that it cuts down on ordering from someone else. Business deals are always so formal and serious, it's really awkward for me.
+
+Option1a:: Harvesting must be a pain, though.
+Option1b:: It's a pretty well-kept field.  //Emote none Embarrassed
+
+Response1a:: Well, that's certainly not the easiest. Emma and Elizabeth both can't wait to get old enough to help, though! They're the best.
+Response1b:: Oh shoot, XX, you really think that? That would mean a lot coming from anyone, but you're a farmer! So it's extra meaningful.
+
+Option2a:: You can't expect to run a business if you can't handle that kind of stuff. //Relationship LiamP12 -1 Sad
+Option2b:: You do what you gotta do to get by, no judging. //Relationship LiamP12 2 Happy
+
+Response2a:: When you put it that way, it really makes me seem like I'm just avoiding my problems. Ugh, time for a walk, maybe...
+Response2b:: Heh, thanks. I always feel silly saying it out loud, but I'm glad you understand how I feel. It makes me feel... less silly about it.
+
+End

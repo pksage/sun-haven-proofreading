@@ -1,0 +1,33 @@
+Vaan Cycle 9
+
+Dialogue:: My dearest XX! I was just thinking about you, and about our future.
+
+Option1:: Our future? What were you thinking?
+
+Option2:: What goals do you want to accomplish in the future?
+
+
+Response1:: I'm not sure! There are so many possibilities, XX. I'm just glad we're finally together. Suddenly the future is a bright, branching river - and we get to choose where we go.
+
+Response2:: Since I've learned all I can about wind magic from Nivara, I would love to find a new source of instruction. I know there's more knowledge out there, I just don't know where.
+
+
+Option1a:: The future is completely in our control. //Relationship Vaan9 2 Happy
+
+Option1b:: I don't think we get to choose our futures. //Relationship Vaan9 -1 Sad
+
+Response1a:: I feel exactly the same way. XX, I'm constantly amazed at you. I always knew we were a perfect match.
+
+Response1b:: Every part of me disagrees, XX. But that's okay, you'll see when the time comes.
+
+
+Option2a:: Be patient, I'm sure you'll something will come to you. //Emote none Happy
+
+Option2b:: Keep looking. You won't find it if you don't look. //Emote none Happy
+
+Response2a:: You're right. I just need to keep myself open to all possibilities.
+
+Response2b:: You're right. I just need to keep myself open to all possibilities.
+
+
+End

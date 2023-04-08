@@ -1,0 +1,33 @@
+Catherine Cycle 3
+
+Dialogue:: XX, let me ask you something. Does this hat make my ears look big? You know what - forget I asked.
+
+Option1:: Actually, I can't tell if those are your real ears, or if that's the hat...
+
+Option2:: Big ears just means better hearing, right? Music must sound amazing!
+
+
+Response1:: At least you asked. Too many people just reach up and yank on them. It hurts![]Oh, and I suppose that answers your question. Yes, these are my ears. Please don't pull on them.
+
+Response2:: Oh, that is true. I absolutely love listening to the piano. Sometimes though, I just need to hear something with energy. That's when I reach for my Gavin Knapp record. They play guitar better than anyone I've ever heard!
+
+
+Option1a:: I've never met a rabbit Amari before you. //Emote none Happy
+
+Option1b:: I have to ask - do you have really really good hearing? //Emote none Embarrassed
+
+Response1a:: I'm happy to be your first! And yes, I have very very good hearing. I know you didn't ask, but I don't need to be a witch to see that you were about to.
+
+Response1b:: Saw that one coming... Yep, I can hear someone whispering from across the town square.
+
+
+Option2a:: Forget records, I prefer live music. //Relationship Catherine3 -1 Mad
+
+Option2b:: I never knew you had such great musical taste! //Relationship Catherine3 2
+
+Response2a:: Well sure, live music is always better. You don't have to be a snob about it though.
+
+Response2b:: Actually, I never listened to music that much before I had a conversation with Claude about it. No really, a full conversation![]Anyway, I bumped into him outside the record store and he opened me up to the world of music. Now I go to the record store every week.
+
+
+End

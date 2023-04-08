@@ -1,0 +1,24 @@
+Nathaniel Cycle P15
+
+Dialogue:: You've really become a valuable part of our community, XX.[]I just wanted to tell you that because I think it's important to let people know their value. It's good for morale!
+
+Option1:: Thanks Nathaniel, but my morale is just fine. //Emote none Happy
+Option2:: You seem to think about morale a lot.
+
+Response1:: Yeah, I can tell! You must be doing well on the farm, eh? Glad to see it, truly.[]And I mean what I said, XX. Sun Haven wouldn't feel the same without you here.
+Response2:: Morale is our very best weapon, XX! A good mood keeps a soldier focused and gives them hope in a tight spot.[]And if they never see a fight, then at least they enjoyed their day!
+
+Option1a:: The farm is doing quite well, thanks!
+Option1b:: I'm glad I can help with my farm.
+
+Response1a:: It must be nice, working on a quiet farm all on your own. The barracks can feel a bit crowded sometimes. It would be nice to have some privacy...[]Oh well, I'll get it one day. For now, it's duty through service as always.
+Response1b:: It must be nice, working on a quiet farm all on your own. The barracks can feel a bit crowded sometimes. It would be nice to have some privacy...[]Oh well, I'll get it one day. For now, it's duty through service as always.
+
+Option2a:: This is why you're such a good leader. //Relationship NathanielP15 2 Happy
+Option2b:: That's childish, a good mood can't replace proper training. //Relationship NathanielP15 -1 Mad
+
+Response2a:: Heh, well thanks! Not everyone in town sees the value in my leadership strategy. I appreciate your support, XX.
+
+Response2b:: It's foolish of you to think that I would cut back on my soldiers' training for any reason. Trust me, each soldier in the Sun Haven Corps is a capable fighter.
+
+End

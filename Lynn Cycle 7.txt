@@ -1,0 +1,33 @@
+Lynn Cycle 7
+
+Dialogue:: Finally, someone I can talk to.[]Guess what, XX... I finally saw Elios today!
+
+Option1:: How'd it go??
+
+Option2:: So do you feel like a "Sun Haven Local" now?
+
+
+Response1:: Elios is so huge! I knew he'd be big, but it was pretty unnerving to stand right in front of him.[]But of course everything went fine. I didn't get any blessing, but he did tell me some really nice things.
+
+Response2:: I guess I know Sun Haven pretty well, but I still miss my home a lot. My family, too. I still don't quite know where I fit in here, to be honest.
+
+
+Option1a:: Are you sad you weren't blessed?
+
+Option1b:: What kinds of nice things?
+
+Response1a:: Maybe a little disappointed... but honestly, I don't know if I could handle that right now. I already feel like I'm doing the most I can.[]If I suddenly became Blessed, I don't know what I would do!
+
+Response1b:: Mostly he was talking about how strong I am. Can you believe it - a dragon telling me that I'm strong! It was amazing!
+
+
+Option2a:: You're fitting in fine! //Relationship Lynn7 2 Happy
+
+Option2b:: I could tell you were having some trouble. //Relationship Lynn7 -1 Sad
+
+Response2a:: Aw, really? Maybe I'm just overthinking again. Thanks XX.
+
+Response2b:: You can tell? Maybe I really am the odd girl out here.
+
+
+End

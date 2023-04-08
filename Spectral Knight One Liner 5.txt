@@ -1,0 +1,5 @@
+Spectral Knight One Liner 5
+
+Dialogue:: I used to be quite an adventurer. Not unlike yourself!					 					
+
+End

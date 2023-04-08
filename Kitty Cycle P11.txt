@@ -1,0 +1,23 @@
+Kitty Cycle P11
+
+Dialogue:: When's the last time you climbed a nice, tall tree, XX? We should go climbing together sometime, nya!
+
+Option1:: I don't really climb any trees.
+Option2:: Where do you usually climb trees?
+
+Response1:: Nya?! Well you should start! It's a great pastime!  
+Response2:: Any tree is a good tree to climb, nya. Out in the forest there's always big, soft, lazy Snaccoons sleeping under the trees![]They're just sooo big and cute, I wish I could keep one as a pet, like my kitties!
+
+Option1a:: What if I fall?  //Emote none Happy
+Option1b:: You're probably a lot better at it than me.  //Emote none Happy
+
+Response1a:: You just land on your feet, silly! Wait, you're good at that, right? Kitty is! I've never landed anywhere else, nya!
+Response1b:: Heheh, I bet you aren't wrong! I've climbed trees my whole life, and I'm very good at it, nya!
+
+Option2a:: A Snaccoon would be a cute pet, but hard to feed! //Relationship KittyP11 2 Happy
+Option2b:: Don't be crazy, you couldn't keep a Snaccoon as a pet! //Relationship KittyP11 -1
+
+Response2a:: That's truuueee, XX! But they sleep a lot, so it gives Kitty plenty of time to find them some food!
+Response2b:: You think too small, XX! You gotta dream like Kitty: big!
+
+End

@@ -1,0 +1,23 @@
+Donovan Cycle 16
+
+Dialogue:: Wow... I can't believe it! I just saw you and thought, "I'm MARRIED to this person!"
+
+Option1:: How does it feel? //Emote none Embarrassed
+Option2:: Did you think you'd ever get married?
+
+Response1:: It's weird! It's weird, right? Or am I blowing this out of proportion? 
+Response2:: It definitely wasn't in the plan. Then again, I didn't really have a plan, either. So I guess if there never was a plan... at least it wasn't against the plan?
+
+Option1a:: It's definitely weird. //Emote none Happy
+Option1b:: I don't think it's weird at all.
+
+Response1a:: I'm glad you think so, too. At least it's weird together, right? 
+Response1b:: I guess it's different for someone like me. Settling down feels weird. That's what people call it, right? We're "settling down?"
+
+Option2a:: I love your logic. //Relationship Donovan16 2 Happy
+Option2b:: That makes no sense. //Relationship Donovan16 -1 Mad
+
+Response2a:: Hah, if you can call it that! It works for me, anyway. I've made some of my best decisions using flawed logic. Like marrying you! 
+Response2b:: I know the logic is flawed, but at least try to stay with me here. 
+
+End

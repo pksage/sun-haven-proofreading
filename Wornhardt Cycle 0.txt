@@ -1,0 +1,9 @@
+Wornhardt Cycle 0
+
+Dialogue:: Hey, neighbor! I'm Doctor Wornhardt. You look plenty healthy to me, but come see me if you're feeling under the weather.
+
+Option1:: Wow, thanks! I'm XX, glad to meet you, doctor. //Emote none Happy
+
+Response1:: You can call me Wornhardt if you don't want to call me doctor. But really, I don't mind either way!
+
+End

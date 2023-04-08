@@ -1,0 +1,33 @@
+Wornhardt Cycle 1
+
+Dialogue:: Settling in all right, are we?[]What's on your mind, farmer?
+
+Option1:: Have you lived here your whole life, doctor? //Emote none none Happy
+
+Option2:: You're the only doctor in Sun Haven? //Emote none none Happy
+
+
+Response1:: No, I relocated from the Southern Islands just about a year ago. The south is great, but I'm lucky to be here. Sun Haven has been good for me.
+
+Response2:: Don't worry, I'm well-equipped to take care of this town. Besides, almost everyone here is in great health. It's honestly a little boring for me, but I'd much rather be bored than stressed out.
+
+
+Option1a:: Do you miss the Southern Region?
+
+Option1b:: The south? But you're so...  //Emote none Embarrassed
+
+Response1a:: I'll tell you what I do miss, the fruit. Fruit trees grow all over the place down there. I used to pick a free breakfast while walking to work every day! One less thing to worry about, you know?
+
+Response1b:: I know what you're going to say - I'm very pale. Believe me, it was a challenge growing up on a tropical island with this complexion.
+
+
+Option2a:: Some people might think that makes you sound lazy. //Relationship Wornhardt1 -1 Mad
+
+Option2b:: More people could use a little boredom in their life. //Relationship Wornhardt1 2 Happy
+
+Response2a:: It's a good thing I don't care what some people think!
+
+Response2b:: I agree completely. I always feel better after slowing down and taking a breath. Sun Haven has let me to do that more than ever before.
+
+
+End

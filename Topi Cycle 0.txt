@@ -1,0 +1,9 @@
+Topi Cycle 0
+
+Dialogue:: Um, hi... Who are you?
+
+Option1:: My name's XX. I'm the new farmer.
+
+Response1:: We have a new farmer? Nobody told me!
+
+End

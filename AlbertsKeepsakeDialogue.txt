@@ -1,0 +1,25 @@
+AlbertsKeepsakeQuest
+
+Dialogue:: Excuse me! Do you have time to spare? I've lost something dear to me - a sword from my younger days as a knight.
+
+
+Option1:: Do you remember where you had it last?
+
+Option2(Permanent):: What do you need me to do?
+
+
+Response1:: Sure, sure. Let's see... I went for a walk in the forest... the eastern forest... and brought my sword for protection... a monster jumped out of a bush and scared me, so I ran back to town.[]I suppose it must have unclipped from my belt when I ran.
+
+Response2:: If you could check the eastern forest and find my old sword, I would be very grateful to you.
+
+
+Option2a:: I'll do it! //Quest none AlbertsKeepsakeQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Oh great, thank you youngster! I'll be waiting for you. (End)
+
+Response2b:: Oh dear... (End)
+
+End

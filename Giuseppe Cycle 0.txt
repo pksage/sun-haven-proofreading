@@ -1,0 +1,9 @@
+Giuseppe Cycle 0
+
+Dialogue:: I heard we were getting a new neighbor. Welcome to Sun Haven, my name's Giuseppe. 
+
+Option1:: What an interesting name! My name is XX.
+
+Response1:: You think so? I come from a town on the border of the Northern and Eastern Regions. It's a pretty standard name there.
+
+End

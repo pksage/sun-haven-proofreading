@@ -1,0 +1,23 @@
+Lucia Cycle 17
+
+Dialogue:: Dear me... I'm sorry XX, I'm particularly tired today. Topi, Pod, and Kitty ran into one of the traveling merchants' carts and made a huge mess. I spent the morning helping clean it up.
+
+Option1:: You didn't have to help clean it, you know.
+Option2:: Are you busy for the rest of the day, or can you recouperate?
+
+Response1:: Believe me, I know. I had those three troublemakers help too, but there was a lot to pick up. To make matters worse, there may still be damage to the cart itself.
+Response2:: Unfortunately, I'm quite busy today. It's no trouble, however - I'm sure I can find some relaxation time later tonight.
+
+Option1a:: What were they doing??
+Option1b:: Those kids are always playing, nonstop.
+
+Response1a:: This time they were playing... what was it... "Jump Tag?"[]It sounds like a combination of Leap Frog and Tag. Seemingly, it's a great way to knock over a mining merchant's cart!
+Response1b:: This time they were playing... what was it... "Jump Tag?"[]It sounds like a combination of Leap Frog and Tag. Seemingly, it's a great way to knock over a mining merchant's cart!
+
+Option2a:: Can't you just forget about one meeting? //Relationship Lucia17 -1
+Option2b:: You make being Archmage look easy. //Relationship Lucia17 2 Happy
+
+Response2a:: Oh no, XX. Even if I did that and had the best nap of my life, I would just be that much more behind in my work. I would only end up more stressed and tired later.
+Response2b:: Hah! Oh, thank you XX. It doesn't feel that way to me, but thank you. Let's keep up appearances for the rest of the town, shall we?
+
+End

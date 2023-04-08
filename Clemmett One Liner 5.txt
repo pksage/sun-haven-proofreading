@@ -1,0 +1,5 @@
+Clemmett One Liner 5
+
+Dialogue:: Hiya XX!												
+
+End

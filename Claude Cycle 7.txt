@@ -1,0 +1,33 @@
+Claude Cycle 7
+
+Dialogue:: Do you listen to music, XX? Listening to records is how I got into music to begin with.
+
+Option1:: What kind of music do you listen to, Claude?
+
+Option2:: Have you played music for a long time?
+
+
+Response1:: I usually listen to stringed instruments. Sometimes I'll draw inspiration from my records.
+
+Response2:: Music has been a companion to me my whole life, even when nobody else was. It feels like eons now...
+
+
+Option1a:: I'd love to hear your favorite records, sometime! //Relationship Claude7 2
+
+Option1b:: Sounds kind of boring. I like loud music. //Relationship Claude7 -1 Embarrassed
+
+Response1a:: That's fine with me, but the music I listen to is boring.[]You should ask Arvel at the record store for advice. He has a gift for pairing people with music.
+
+Response1b:: I guess you're not wrong. You should ask Arvel at the record store for advice. He has a gift for pairing people with music.
+
+
+Option2a:: I think I see why you feel so strongly about your work.
+
+Option2b:: What do you mean by that?
+
+Response2a:: I don't want to get into it right now, but there's good reason that I shoot for perfection in my music. 
+
+Response2b:: I don't want to get into it right now, but there's good reason that I shoot for perfection in my music.
+
+
+End

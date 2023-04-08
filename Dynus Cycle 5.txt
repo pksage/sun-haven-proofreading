@@ -1,0 +1,29 @@
+Dynus Cycle 5
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: Why are you helping the Demons?
+Option2:: How does a dragon become as powerful as you?
+
+Response1:: The Demons are a convenient vehicle for my dominion... Do not be confused, helping them is not my intent. They are a stepping stone... toward my empire.
+Response2:: Not all dragons are born equal... Some are mere serpents, but others... like myself... are born for greatness.
+
+
+Option1a:: It seems like you're working for them.
+
+Option1b:: What use do you have for an empire, anyway?
+
+Response1a:: You know nothing... of my intentions.[]I wouldn't expect a creature like you... to understand my dominion.
+Response1b:: My empire must grow to maintain my power... but I wouldn't expect a creature like you... to understand my dominion.
+
+
+Option2a:: So you were just lucky to be born this way? //Relationship Dynus5 -1
+
+Option2b:: Now I truly understand your superiority. //Relationship Dynus5 2
+
+
+Response2a:: It is nothing to do with luck, whelp... It is providence.
+
+Response2b:: Yes, now you see... and soon, everyone in this world will see.
+
+End

@@ -1,0 +1,33 @@
+Donovan Cycle 6
+
+Dialogue:: XX... You're staring at my dog parts. I don't really care, but if you have a question then just ask. No need to be all... starey.
+
+Option1:: Sorry... Is it hard to wear hats with those wolf ears?
+
+Option2:: I've been holding onto this for a long time - you have a really great tail.
+
+
+Response1:: Ha ha, you're a real clown, XX. I can wear hats just fine... probably. Come to think of it, I've never actually tried before. Are my ears that big?
+
+Response2:: Hey, thanks! I try to keep it clean. I'm pretty proud of it. But sometimes it causes more trouble than it's worth.
+
+
+Option1a:: They really are. //Relationship Donovan6 -1 Embarrassed
+
+Option1b:: I think it's cute! //Relationship Donovan6 2
+
+Response1a:: Whatever, I can hear a pin drop on the other side of a crowded room. Who cares if I can't wear dumb hats?
+
+Response1b:: Whatever, I can hear a pin drop on the other side of a crowded room. But, I guess looking cute can be useful too!
+
+
+Option2a:: What kind of trouble? //Emote none Embarrassed
+
+Option2b:: I can't tell if you like it or not.
+
+Response2a:: I'm always knocking things over with it or hitting strangers. You'd think I'd get used to it, but sometimes it's like it has a mind of its own...
+
+Response2b:: My life would be easier without it, but I can't deny that it completes my look. Yeah, it's a complicated relationship.[]Well, what do you think? Best tail in Withergate? ... Of course the answer is yes!
+
+
+End

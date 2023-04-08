@@ -1,0 +1,33 @@
+Vaan Cycle 4
+
+Dialogue:: Hey XX, are you liking Nel'Vari? I hope you are.
+
+Option1:: It's gorgeous here.
+
+Option2:: Have you been to visit Nivara?
+
+
+Response1:: You think so, too? I'm glad. You really do deserve to be here. After all, not just anyone could find their way to our home.
+
+Response2:: Of course I have. When Elves come of age, they go to receive her blessing. For me, her blessing revealed my abilities with wind magic, for which I'm endlessly grateful.
+
+
+Option1a:: Getting here was too easy, you should get more security. //Relationship Vaan4 -1 Mad
+
+Option1b:: Thank you for being so welcoming to me, Vaan. //Relationship Vaan4 2 Happy
+
+Response1a:: Well, XX, that's because it isn't meant to be <i>impossible</i>  to find our city, only selective. //Emote none Mad
+
+Response1b:: Of course. You being here only adds to Nel'Vari's charm. Really, I mean that. //Emote none Happy
+
+
+Option2a:: Do you think Nivara will give me a blessing?
+
+Option2b:: So Nivara's blessing gave you your magic, just like Elios.
+
+Response2a:: I'm sure I don't know. Nivara will make that judgement when she meets you.[]Just be yourself, XX, and Nivara will see you the same way that I do... I'm certain you will be found worthy.
+
+Response2b:: You're mistaken. A dragon's blessing doesn't give you magic. The blessing reveals your true self.
+
+
+End

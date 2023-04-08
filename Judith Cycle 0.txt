@@ -1,0 +1,9 @@
+Judith Cycle 0
+
+Dialogue:: Who's that? Say, I don't recognize your face.
+
+Option1:: My name's XX. I'm the new farmer here.
+
+Response1:: Oh, the farmer! That's right Lucia told us there was someone moving in there.[]It's good to meet you, my name is Judith.
+
+End

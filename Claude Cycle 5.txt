@@ -1,0 +1,33 @@
+Claude Cycle 5
+
+Dialogue:: ... Hm? Oh - pardon me, XX. I was in another world, thinking about music.
+
+Option1:: You still haven't told me much about your music.
+
+Option2:: Do you ever share your music?
+
+
+Response1:: I don't know what to tell you. I make it, it comes out wrong, I make it again.
+
+Response2:: I don't share my music with anybody.
+
+
+Option1a:: Nothing great ever happened on the first try. //Relationship Claude5 2
+
+Option1b:: Maybe you should just move on to another project. //Relationship Claude5 -1 Sad
+
+Response1a:: There's truth to that, even if it's kind of an annoying truth. I'll try to remember that, XX.
+
+Response1b:: Thanks XX, but I don't need you to tell me how to give up. I already know how to do that.
+
+
+Option2a:: Wouldn't it be helpful to have other people listen to it? //Emote none Mad
+
+Option2b:: If you ever want an outside opinion on your work, I'm happy to help.
+
+Response2a:: It's about meeting my own standards, XX. What do I care what other people think?
+
+Response2b:: I guess you're probably my first choice at this point. I don't want to get your hopes up, though.
+
+
+End

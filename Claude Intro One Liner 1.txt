@@ -1,0 +1,5 @@
+Claude Intro One Liner 1
+
+Dialogue:: I'm not really in a mood to talk, thanks. I've got a lot on my mind.
+
+End

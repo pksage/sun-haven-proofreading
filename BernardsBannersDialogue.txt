@@ -1,0 +1,25 @@
+BernardsBannersQuest
+
+Dialogue:: Oh, hello there XX. I've heard that you're quite helpful around town. I have a task I could use a hand with, if you have the time.
+
+
+Option1:: What kind of a task is it?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: Some of the decorative banners around town are looking a tad tattered. I need to repair them to keep Sun Haven looking ship-shape.
+
+Response2:: If you can bring me some fabric to assist the repairs, that would be greatly appreciated.
+
+
+Option2a:: I'll do it! //Quest none BernardsBannersQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Fantastic! I'll repay you kindly, of course. (End)
+
+Response2b:: Oh dear... (End)
+
+End

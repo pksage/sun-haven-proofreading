@@ -1,0 +1,9 @@
+Claude Cycle 0
+
+Dialogue:: Hm, you must be the new farmer. I'm Claude.
+
+Option1:: I'm XX. Good to meet you!
+
+Response1:: Sure thing. Er, you too.
+
+End

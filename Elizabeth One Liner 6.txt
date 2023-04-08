@@ -1,0 +1,5 @@
+Elizabeth One Liner 6
+
+Dialogue:: What's your favorite part about spring, huh?							
+
+End

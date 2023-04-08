@@ -1,0 +1,33 @@
+Anne Cycle 14
+
+Dialogue:: You know, if you let me invest in your farm we could really increase production!
+
+Option1:: You think I need help on the farm?
+
+Option2:: Not everyone is so focused on productivity, Anne. //Emote none Happy
+
+
+Response1:: It's not about needing help, it's about expansion! Hire some workers, buy a little more land... I usually charge for this kind of advice, you know!
+
+Response2:: And not everyone gets to wear solid gold jewelry, but to each their own I guess!
+
+
+Option1a:: I know you're just thinking about what's best for my future. //Relationship Anne14 2 Happy
+
+Option1b:: I don't need any of your help with my farm. //Relationship Anne14 -1 Mad
+
+Response1a:: You're darn right I am! That's all I think about, you know. The future. Investments.[]We've got a very long road ahead of us, XX, and I want to pave it with gold.
+
+Response1b:: I know that, but - oh, forget it. Stubborn farmers...
+
+
+Option2a:: Do you even like wearing all that jewelry?
+
+Option2b:: I really shouldn't be surprised by that answer.
+
+Response2a:: Hey, I have an image to protect! And that image is sparkly and expensive.
+
+Response2b:: No, you shouldn't! I wear my priorities on my sleeve. And on my ears, and around my neck. Get it?
+
+
+End

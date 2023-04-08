@@ -1,0 +1,9 @@
+Rex Cycle 0
+
+Dialogue:: Hello there! I'm Rex. I know all there is to know about digging underground.
+
+Option1:: Hi Rex, I'm XX. Did you say, underground?
+
+Response1:: That's right! I'm a traveling merchant selling all the mining gear you need.
+
+End

@@ -1,0 +1,33 @@
+Liam Cycle 12
+
+Dialogue:: How are you, XX? You're looking really good!
+
+Option1:: You seem to be doing well these days, too.
+
+Option2:: You've gained some muscle yourself. //Emote none Embarrassed
+
+
+Response1:: You know, maybe it does feel like the days are getting easier. I don't even know what changed, to be honest.
+
+Response2:: Really? I don't know why that would be... I guess I've been lifting more bags of flour now that business is starting to pick up a bit.
+
+
+Option1a:: I know what changed - you! //Relationship Liam12 2 Happy
+
+Option1b:: It must be because of Jun's work. //Relationship Liam12 -1 Mad
+
+Response1a:: I guess so, huh? Or, you know, it could even be because of a new relationship... Can you tell I'm talking about you? Because I am!
+
+Response1b:: I get what you mean, but I'd like a little credit too.
+
+
+Option2a:: I'll add bags of flour to my exercise routine.
+
+Option2b:: I'm glad to hear business is good!
+
+Response2a:: Yeah right, like you need any help! Between the farming and adventuring, I'd say your routine works just fine already.
+
+Response2b:: Oh right, I never mentioned - I had my best week yet! Peter asked for thirty loaves of bread. I didn't want to ask why and jinx it, but... I mean, why??
+
+
+End

@@ -1,0 +1,5 @@
+Head Chef Azarios One Liner 1
+
+Dialogue:: Tonight's main course will be grilled steak <i>au povire</i>, served with broiled Kraken Kale... If that apprentice chef forgets the sauce again, I'll throw him in the dungeon myself!											
+
+End

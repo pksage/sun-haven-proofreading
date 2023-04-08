@@ -1,0 +1,9 @@
+Benson Cycle 0
+
+Dialogue:: S'cuse me, professional bee-guy coming through.
+
+Option1:: But you're a rabbit-guy!
+
+Response1:: Right, I'm a professional bee-guy who is a rabbit-guy. Thanks for noticing!
+
+End

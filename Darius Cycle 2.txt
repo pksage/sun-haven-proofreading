@@ -1,0 +1,33 @@
+Darius Cycle 2
+
+Dialogue:: You again. I expect you've learned to watch your tongue around me.[]My father didn't build this place from nothing just to have peasants like you disrespecting the royal family.
+
+Option1:: Withergate is quite impressive.
+
+Option2:: How did your father become king of Withergate?
+
+
+Response1:: Of course it is. I didn't design the city myself, but I personally recommended the architect. Xyla is well known among monsters for her skill and ferocity.
+
+Response2:: My family has always been royalty among monsters and Withergate was founded by my family. Is it so hard to put two and two together?
+
+
+Option1a:: You must have good taste in friends, then.
+
+Option1b:: I've already met her!
+
+Response1a:: I only give my time freely to people of a certain class - a class to which you don't belong.
+
+Response1b:: That's good. Now you've seen an example of who earns my respect.
+
+
+Option2a:: I didn't know - please forgive my ignorance! //Relationship Darius2 2
+
+Option2b:: I was only wondering. //Relationship Darius2 -1 Mad
+
+Response2a:: Of course not, you know nothing. I've heard the talk among the Humans in Sun Haven. Such tiny, stupid people.
+
+Response2b:: Go waste someone else's time with your idiotic questions.
+
+
+End

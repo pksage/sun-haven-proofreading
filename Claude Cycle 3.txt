@@ -1,0 +1,33 @@
+Claude Cycle 3
+
+Dialogue:: Hello, XX. Are you still getting used to Sun Haven? It takes some time.
+
+Option1:: Were you born in this town, Claude?
+
+Option2:: Are you worried about Sun Haven?
+
+
+Response1:: I'm from Sun Haven, but my family moved to the Great City a while back. I've actually lived most of my life there.
+
+Response2:: Why would I be? If the town goes under, I'll just move away. What's there to worry about?
+
+
+Option1a:: So why are you here now?
+
+Option1b:: I moved here from the Great City, too.
+
+Response1a:: I moved back into town to get a little peace and quiet while I work.
+
+Response1b:: We have that in common, then. I never want to set foot in that city again, if I'm being honest. So dirty and loud.
+
+
+Option2a:: That's pretty cold hearted. //Relationship Claude3 -1
+
+Option2b:: But what about the people in town? //Relationship Claude3 2
+
+Response2a:: If you say so. Anyway, I'm not here to save anyone.
+
+Response2b:: I guess I see your point... the people have been good to me here. But that doesn't mean I can change anything.
+
+
+End

@@ -1,0 +1,29 @@
+Anne Cycle P14
+
+Dialogue:: I have to say, Sun Haven has really been turning itself around lately. I hear you're the one to thank for that, XX.
+
+Option1:: Do you have any favorite customers around town? //Emote none Happy
+Option2:: Do you plan to ever leave Sun Haven?
+
+Response1:: Not trying to butt into my clientele, are we? Hah, just kidding XX! My favorite customer is the one handing me cash.[]But if you want a name, then it's Kitty. Whenever I have pet food, Kitty buys it all up right away!
+
+Response2:: You know, I think you asked me something similar when we first met. I think I said that if business didn't pick up, I'd have to leave.[]That's still true, but I really don't see myself leaving town anytime soon. Sun Haven's really bounced back!
+
+Option1a:: Kitty buys <i>all</i> your pet food?
+
+Option1b:: She does have lots of mouths to feed.
+
+Response1a:: She might be a bit of a goof, but the girl does own her own business, after all. Seems like she's doing well for herself, too.
+
+Response1b:: True, but I've seen her open a bag of the stuff and start munching on it right away![]She's a real character, but she pays well so I'm not complaining.
+
+
+Option2a:: Looks like you owe me one. //Relationship AnneP14 -1 Mad
+Option2b:: Good, Sun Haven wouldn't be the same without you. //Relationship AnneP14 2 Happy
+
+
+Response2a:: Excuse me? Listen, <i>maybe</i> you've had something to do with Sun Haven's dramatic turnaround, but the only one I owe for my profit is me. 
+
+Response2b:: Nowhere is the same without me, XX! I'm a bit of an icon, if you haven't noticed. 
+
+End

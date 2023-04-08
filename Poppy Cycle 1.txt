@@ -1,0 +1,33 @@
+Holly Cycle 1
+
+Dialogue:: Hey there! Find anything interesting in the mines?
+
+
+Option1:: Who taught you blacksmithing?
+
+Option2:: You should meet Sun Haven's blacksmith.
+
+
+Response1:: Blacksmithing isn't a very common trade among Nel'Varians. Or at least it hasn't been in recent generations... but we've discovered ancient texts that detail long lost Elven smithing![]I studied those texts, until I had a pretty good idea of how it all worked.
+
+Response2:: Oh really? Does Sun Haven have a blacksmith too? I've never thought about going beyond Nel'Vari's borders before... but I wonder what things a <i>Human</i>  blacksmith knows...
+
+
+Option1a:: That's incredible! //Relationship Holly1 1
+
+Option1b:: Are you sure you can rely on such old information? //Relationship Holly1 -1
+
+Response1a:: I've had to figure some things out on my own along the way, but I'm smithing just like our ancestors did over 1,000 years ago!
+
+Response1b:: Of course I'm sure. I've had to figure some things out on my own along the way, but I'm smithing just like our ancestors did over 1,000 years ago!
+
+
+Option2a:: You should visit sometime.
+
+Option2b:: Solon and Lynn are excellent smiths.
+
+Response2a:: Oh... I don't know about that... Wesley would probably get mad... but it's a tempting offer. Maybe someday... 
+
+Response2b:: Solon? Lynn? Ohh, I don't know if I could ever visit... Wesley would probably get mad... but now I'm <i>really</i>  curious.
+
+End

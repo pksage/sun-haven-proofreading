@@ -1,0 +1,23 @@
+Donovan Cycle P14
+
+Dialogue:: Hey, I think I can smell the last meal you ate. Did you have... tree bark? Wait no, that must be something else.
+
+Option1:: You're probably smelling my farm, Donovan. //Emote none Embarrassed
+Option2:: Why would you want to smell my last meal, anyway?
+
+Response1:: Yeah, okay that makes a lot of sense. I didn't take you for a tree-eater.
+Response2:: People are usually impressed by that trick. Then again, I also usually get it right. Guess today's not my lucky day, huh?
+
+Option1a:: What's a tree-eater?
+Option1b:: Still, your nose is pretty impressive! //Emote none Happy
+
+Response1a:: Someone who eats trees, obviously. Not that I've ever met anyone who did...
+Response1b:: Ah, thanks! I try to keep a sharp sniffer in case of emergencies. 
+
+Option2a:: I'm sure it's really impressive when it works! //Relationship DonovanP14 2 Happy
+Option2b:: That's a silly trick anyway. //Relationship DonovanP14 -1 Embarrassed
+
+Response2a:: Heheh, yeah! Maybe I'll try again next time to really impress you. 
+Response2b:: Huh, you might be right... Maybe it's time to retire that tired old trick. 
+
+End

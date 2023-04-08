@@ -1,0 +1,33 @@
+Pinto Cycle 2
+
+Dialogue:: Hey, um... Have you seen a copper helmet anywhere? I put mine down... somewhere...
+
+
+Option1:: Don't you get in trouble when you lose your gear?
+
+Option2:: Pinto, do you even like it in the army?
+
+
+Response1:: You don't know the half of it. Has Roza ever yelled at you before? I can feel her voice in my bones when she yells.
+
+Response2:: Even though I'm still terrible at it, I'm having a lot of fun. When we're relieved of duty for the day, we all get to just hang around the barracks. I've never had a group of friends to do that with before.[]So yeah, I love it!
+
+
+Option1a:: I'll find your helmet for you!  
+
+Option1b:: I hope you find it soon.
+
+Response1a:: You will? Wow, okay! I think I was walking nearby town square when I lost it. Thanks, farmer!
+
+Response1b:: That makes two of us. How many chances do you get before they kick you out of the army?
+
+
+Option2a:: Your training will catch on, one day! //Relationship Pinto2 2
+
+Option2b:: There are easier ways to make friends. //Relationship Pinto2 -1
+
+Response2a:: That's what I keep telling myself - but it's nice to hear it from someone else for once!
+
+Response2b:: Maybe for you. Making friends has always been hard for me, even harder than this military stuff.
+
+End

@@ -1,0 +1,54 @@
+Vending Machine Game 8
+
+Dialogue:: <i>The machine eats your ticket!</i>
+
+
+Option:: //TICKETS1 Insert another ticket.
+
+Option:: //HEALTH2 Scream at the machine.
+
+Option:: Fish it back out. //RIGHTANSWER
+
+
+Response:: <i>You put a second ticket in the machine. It eats that ticket, too. You're not sure what else you were expecting to happen.</i>
+
+Response:: <i>You scream like a madman at the machine, ranting and raving. It feels good to get it all out, but it didn't get you a potion.</i>
+
+Response:: <i>You grab a stick from the ground and jam it squarely into the ticket slot of the machine. Wrenching the stick around, you reclaim your ticket![]You feed the ticket back into the slot, and this time the machine knows better than to cross you.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine begins to float, levitating off of the ground!</i>
+
+
+Option:: Stand up on your tippytoes. //RIGHTANSWER
+
+Option:: //HEALTH2 Punch the machine.
+
+Option:: Beg the machine to cooperate. 
+
+
+Response:: <i>The machine seems a bit heavy for whatever force is lifting it. Standing up on your toes is more than enough height to reach the control panel again.</i>
+
+Response:: <i>You take a good swing at the machine, but it floats out of the way. You have to confess that the machine made you look quite the fool.</i>
+
+Response:: <i>You beg the machine to land back on the ground, but it merely responds by floating even higher. This clearly isn't going to work out in your favor.</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine turns into a frog!</i> 
+
+
+Option:: Call a manager.
+
+Option:: Give it a smooch. //RIGHTANSWER
+
+Option:: //HEALTH2 Kick the machine.
+
+
+Response:: <i>You call the frog's manager. It's another frog. Of course it is.</i>
+
+Response:: <i>A vending machine turning into a frog is weird, but <b>kissing</b> a vending machine that turned into a frog is definitely even weirder.</i>[]<i>But, hey, the frog turns back into a machine and out comes the potion! Totally worth it. ...Right?</i>
+
+Response:: <i>You attempt to deliver a swift kick to the machine, but it hops out of the way. You try again, only for your kick to once again be dodged. Ribbit.</i>
+
+
+End

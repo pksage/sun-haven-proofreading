@@ -1,0 +1,33 @@
+Iris Cycle 13
+
+Dialogue:: Hi XX. Today I saw a flower bud that made me think of you. It just started to bloom!
+
+Option1:: Is that because I'm... pretty like a flower?
+
+Option2:: You're so charming. I've never met anyone like you before, Iris.
+
+
+Response1:: Maybe! Or maybe it's because you're soft and gentle. With me, at least. Also, you smell surprisingly nice!
+
+Response2:: Like me, huh? Well I can't <i>not</i> dig into that a little bit. Please, explain!
+
+
+Option1a:: I'm not soft - I'm tough. //Relationship Iris13 -1
+
+Option1b:: I'm liking this flower bud image more and more. //Relationship Iris13 2 Happy
+
+Response1a:: All right, relax. You're not fooling anyone with the tough act.
+
+Response1b:: Haha, you're such a dork. I mean it about the smell, though. You should smell like mud and sweat, but you just smell... really good! 
+
+
+Option2a:: You're brilliant and intensely focused. //Emote none Happy
+
+Option2b:: You're gorgeous and totally independent. //Emote none Happy
+
+Response2a:: Heh, thanks XX![]We're already dating, but it feels like you're getting ready to ask me out again... What are you planning?
+
+Response2b:: Heh, thanks XX![]We're already dating, but it feels like you're getting ready to ask me out again... What are you planning?
+
+
+End

@@ -1,0 +1,25 @@
+SoldiersDietQuest
+
+Dialogue:: Hey XX, I've got a job for you if you're interested! We need some extra breakfast rations at the barracks.
+
+
+Option1:: Extra rations?
+
+Option2(Permanent):: What do you need me to do?
+
+
+Response1:: It's conditioning week. Got to keep my squad in shape, after all! Naturally, everyone will need a little extra fuel to get them through it.
+
+Response2:: If you can cook up <color=#39CCFF>10 Egg Hash</color> for the soldiers, we'll be sure to pay you in kind.
+
+
+Option2a:: I can do that! //Quest none SoldiersDietQuest
+
+Option2b:: I'm too busy to help right now.
+
+
+Response2a:: Great! Eggs are a perfect way to start a hard day of training drills. Deliver them to Roza when they're ready. (End)
+
+Response2b:: Aw, shoot. Well, that's okay XX. You're a busy farmer doing farmer things. (End)
+
+End

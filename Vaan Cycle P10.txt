@@ -1,0 +1,23 @@
+Vaan Cycle P10
+
+Dialogue:: You were probably fast asleep, but before daybreak this morning there was a fantastic fog blanketing the sky. So refreshing to fly through.
+
+Option1:: So you were up earlier than me, huh?
+Option2:: Don't you get cold when you fly?
+
+Response1:: Oh my, is the farmer feeling a little insecure? Not always the earliest to rise after all? I'm only joking with you.[]Yeah, sometimes I like to wake up really early and go on flights. Watching the whole world light up beneath me in real time is always so breathtaking. It's like a reverse sunrise, I guess.
+Response2:: Well, yeah. Sort of. Honestly I've learned that 'cold' is mostly a state of mind! I guess that's my inner-Elf talking, but I've learned to feel a connection to the chill.[]Like it doesn't bother me, it's just part of the experience. Which makes it part of me. Or does that sound a little silly?
+
+Option1a:: Flying must be amazing.
+Option1b:: Isn't there any downside to flying?
+
+Response1a:: You can believe me when I say that it truly is. It is something about me that I will never relinquish. No matter what, who or why. 
+Response1b:: No, not really. I mean, if there's <i>one</i> bad thing, it's when I hit a bug. You ever smack face-first into a gnat while flying full speed?[]Well, of course you haven't, but it feels like getting hit with a rock!
+
+Option2a:: That's fascinating. So you're sort of cold-resistant? //Relationship VaanP10 2 Happy
+Option2b:: Sounds kind of ridiculous. //Relationship VaanP10 -1 Mad
+
+Response2a:: Heh, I wouldn't say "resistant", more like "receptive". I'm receptive to the cold, because the cold is just part of the experience of flying.[]Thanks for trying to get on my wavelength, XX. You're alright.
+Response2b:: Hm. I shared that piece of info with you because I thought you'd be understanding of it. Guess I was wrong.
+
+End

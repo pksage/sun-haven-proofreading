@@ -1,0 +1,33 @@
+Jun Cycle 6
+
+Dialogue:: I love seeing you around town, XX. You make Sun Haven a little more perfect!
+
+Option1:: I feel like I could tell you anything, Jun.
+
+Option2:: What does a perfect day look like for you?
+
+
+Response1:: I cherish the ability to gain someone's trust. People confide in me because I'm good at keeping secrets - really good. You can trust me more than anyone, XX.
+
+Response2:: Hm, good question. I'd most likely paint in the morning and walk around town in the afternoon. I enjoy seeing the people that I know just living their lives.[]Then in the evening, I would watch the sunset from my house with a nice, hearty salad.
+
+
+Option1a:: You had my trust a long time ago. //Relationship Jun6 2 Happy
+
+Option1b:: On second thought, I'm not so sure. //Relationship Jun6 -1 Sad
+
+Response1a:: To hear you say that... Well, the feeling is mutual. I don't have as many people to confide in as I have confiding in me, so I'm grateful to have you, XX.
+
+Response1b:: I understand. Take your time, XX.
+
+
+Option2a:: Everything about that screams, "Jun." //Emote none Happy
+
+Option2b:: I can't think of a more perfect day. //Emote none Happy
+
+Response2a:: Oh, I forgot something important! The day wouldn't be perfect without you in it, XX.
+
+Response2b:: Oh, I forgot something important! The day wouldn't be perfect without you in it, XX.
+
+
+End

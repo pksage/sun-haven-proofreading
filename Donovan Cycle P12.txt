@@ -1,0 +1,23 @@
+Donovan Cycle P12
+
+Dialogue:: Hey, XX. You're an honest person, right? Well, do I... stink?
+
+Option1:: You want me to smell you? //Emote none Embarrassed
+Option2:: What in the world makes you ask? //Emote none Embarrassed
+
+Response1:: Yeah, yeah. Just, uh, you know. Take a good whiff of me. What do I smell like to you? 
+Response2:: Look, us wolf Amari have excellent senses of smell. Like right now, I can smell the dirt on your boots. It's actually nice, one of the things I love about you, really.[]But I have been informed, incorrectly, that I <i>smell</i> like I live in a sewer. But if I don't smell it, then there's no way it's true! Which it definitely isn't.[]I try not to care what others think of me, but I can't stand it when they say something that isn't true.
+
+Option1a:: You smell like Donovan to me. //Emote none Happy
+Option1b:: You sort of stink. //Emote none Embarrassed
+
+Response1a:: See! I knew I didn't stink! 
+Response1b:: You mean I stink good, or I stink bad? I'm okay with stinking good, but please tell me I'm not stinking bad... 
+
+Option2a:: Whoever it was, just ignore them. //Relationship DonovanP12 2 Happy
+Option2b:: You have to stop letting it get to you. //Relationship DonovanP12 -1 Embarrassed
+
+Response2a:: Heh. Sure, you're right. Helps to hear you feel the same way, though.
+Response2b:: I wanted some support from a friend, not a lecture. Nevermind, I shouldn't have asked in the first place.
+
+End

@@ -1,0 +1,5 @@
+Darius One Liner Married 6
+
+Dialogue:: Do you feel the spring wind blow? This is a new era of Withergate's glory - of <i>our</i>  glory.									
+
+End

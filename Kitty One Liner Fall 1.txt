@@ -1,0 +1,5 @@
+Kitty One Liner Fall 1
+
+Dialogue:: I think my favorite drink is milk! What's your favorite, XX?
+
+End

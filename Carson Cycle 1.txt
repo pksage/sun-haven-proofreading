@@ -1,0 +1,32 @@
+Carson Cycle 1
+
+Dialogue:: <i>*Sigh*</i>... Hey there.
+
+
+Option1:: Is beekeeping hard?
+
+Option2:: Why don't you work somewhere else?
+
+Response1:: Hard? No, not really. You just have to not get stung. If you can manage that, then it's a pretty simple and rewarding trade.
+
+Response2:: This orchard has been in our family for generations, so I can't just leave everyone like that. Besides, getting stung while collecting honey is... well, it's all I know.
+
+
+Option1a:: Don't get stung, got it.
+
+Option1b:: How can I avoid being stung?
+
+Response1a:: My cousins make it look so easy, but I always end up getting stung. Maybe it's a gift some people are born with. Or maybe I was born with a curse?
+
+Response1b:: Heck if I know! My cousins make it look so easy, but I always end up getting stung. Maybe it's a gift some people are born with. Or maybe I was born with a curse?
+
+
+Option2a:: Your loyalty is very admirable.
+
+Option2b:: Beekeeping isn't for you.
+
+Response2a:: You think so? Well, that doesn't make the stings hurt any less, but it's sure nice to hear. //Relationship Carson1 1
+
+Response2b:: You're telling me! But I don't know how to do anything else... //Relationship Carson1 -1
+
+End

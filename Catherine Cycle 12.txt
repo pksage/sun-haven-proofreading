@@ -1,0 +1,33 @@
+Catherine Cycle 12
+
+Dialogue:: Your magic seems a lot stronger now, XX. I'm really glad Elios gave you his blessing.
+
+Option1:: Have you ever visited Elios on Dragon's Meet?
+
+Option2:: You never got his blessing?
+
+
+Response1:: Yes, I visited Elios. It was a true honor being in the presence of such strong magic... though I didn't much like the hike up the mountain.[]I'm glad I did it, but I'm also glad that I don't have to do it again!
+
+Response2:: No, I'm afraid not. Otherwise, I would be able to channel magic through my body like you and Lucia. But I think I get by just fine with my witchcraft.
+
+
+Option1a:: I'm surprised that hiking is a challenge for someone like you. //Relationship Catherine12 -1 Mad
+
+Option1b:: The journey to Dragon's Meet is tough. I guess that means you're tougher! //Relationship Catherine12 2
+
+Response1a:: Hiking is no problem, but being escorted through monsters and blazing heat is entirely different. Give me some credit, XX!
+
+Response1b:: Aw, thanks! I had blisters on my heels for a week, haha.[]Hard as it was, it was well worth getting a blessing from the Sun Dragon. Honestly, I don't think I've felt that good before or since.
+
+
+Option2a:: It's amazing that you have such a deep connection with magic, then.
+
+Option2b:: You have a truly unique relationship with magic.
+
+Response2a:: Magic is everywhere, XX. Everyone has a connection to it, but some people don't pay attention. I just pay attention, that's all.
+
+Response2b:: Magic is everywhere, XX. Everyone has a connection to it, but some people don't pay attention. I just pay attention, that's all.
+
+
+End

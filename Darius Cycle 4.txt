@@ -1,0 +1,33 @@
+Darius Cycle 4
+
+Dialogue:: You've demonstrated that even someone of the lowest class can learn respect. You may ask questions of me freely from now on, outsider. But don't get cocky.
+
+Option1:: Who in town do you trust the most?
+
+Option2:: I've got to know... What does the prince like to eat for dessert?
+
+
+Response1:: Certainly, it's Xyla. I've worked with her closely over years. What's more, I'm the reason she lives here in the first place.[]Having found her at a low point and raising her into glory... I know her loyalty is never in question.
+
+Response2:: Since I was little, our chef has made me an excellent moon cream pie. I'm sure you wouldn't stand it. It is an acquired taste.
+
+
+Option1a:: One day, I'll earn your trust the same way. //Relationship Darius4 2
+
+Option1b:: What if she's just keeping up an act? //Relationship Darius4 -1 Mad
+
+Response1a:: If I will it, certainly. But only if I will it.
+
+Response1b:: If you think she could fool ME... the only fool here is you.
+
+
+Option2a:: It sounds great!
+
+Option2b:: It sounds weird. //Emote none Mad
+
+Response2a:: Some of the street vendors in Withergate serve a lesser version of it, but nobody makes it like the royal family's chef.
+
+Response2b:: I wouldn't expect an unrefined pallet to enjoy it.
+
+
+End

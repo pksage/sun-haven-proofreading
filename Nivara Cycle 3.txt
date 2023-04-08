@@ -1,0 +1,23 @@
+Nivara Cycle 3
+
+Dialogue:: Have you practiced your skills and meditated yet today, XX?
+
+Option1:: Do you think Dynus could be redeemed?
+Option2:: What's your most important lesson?
+
+Response1:: I wondered when you would ask me about Dynus. As for your question, I do believe he can be redeemed. There is no one who is incapable of change, little sprout.[]Elios and myself had much to learn at one time. Dynus, for all the power he has obtained, still does.
+Response2:: My most important lesson? Be kind to others.
+
+Option1a:: I think everyone is capable of changing, too. //Relationship Nivara3 2
+Option1b:: WI'll make Dynus see the error of his ways. //Relationship Nivara3 2
+
+Response1a:: I am glad you think so. It is a good way of looking at the world, and the people who live within in.
+Response1b:: You speak with confidence, little sprout. I do not doubt your words.
+
+Option2a:: That's... a really simple lesson.
+Option2b:: It's simple, but it makes sense.
+
+Response2a:: Does it need to be complex? Kindness is the root of all good things, XX. No matter who you meet or what you do, keep a kind heart. Everything else will follow much easier.
+Response2b:: Does it need to be complex? Kindness is the root of all good things, XX. No matter who you meet or what you do, keep a kind heart. Everything else will follow much easier.
+
+End

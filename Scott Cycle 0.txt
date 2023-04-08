@@ -1,0 +1,9 @@
+Scott Cycle 0
+
+Dialogue:: Welcome, friend. Call me Scott. I'll supply whatever weaponry you need - or want!
+
+Option1:: I'm XX, good to meet you.
+
+Response1:: Like I said, XX. If you find yourself outmatched on the battlefield, come find me.
+
+End

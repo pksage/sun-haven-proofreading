@@ -1,0 +1,33 @@
+Tonya Cycle 1
+
+Dialogue:: Hey neighbor, you're looking fit! Is that from farming, or are you a health nut like me? Both, I bet.
+
+
+Option1:: Do you like delivering mail?
+
+Option2:: Doesn't it get tiring, being so healthy all the time?
+
+
+Response1:: Well I get to see everybody in town once a day and I get some great cardio out of it. I don't see any downside!
+
+Response2:: Sure it does, but being tired makes me happy. I never feel better than when my muscles are all sore from a really good workout.
+
+
+Option1a:: You'll get bored of it sooner or later. //Relationship Tonya1 -1
+
+Option1b:: No wonder you're a great courier - you have a great attitude. //Relationship Tonya1 2
+
+Response1a:: You don't know me very well, farmer.
+
+Response1b:: It's true, your attitude does affect the job! That being said, I'd bet you're a top-notch farmer.
+
+
+Option2a:: What's your favorite way to exercise?
+
+Option2b:: Where do you usually work out in town?
+
+Response2a:: I like running on the beach in the morning when the sun comes up. I imagine the sunrise is like my reward.
+
+Response2b:: I like running on the beach in the morning when the sun comes up. I imagine the sunrise is like my reward.
+
+End

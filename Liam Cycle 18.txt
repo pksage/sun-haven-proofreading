@@ -1,0 +1,23 @@
+Liam Cycle 18
+
+Dialogue:: You know, we should work together. With your fresh ingredients, I could make some delicious treats!
+
+Option1:: Don't they say not to mix business with your personal life?
+Option2:: But your food is already so fresh!
+
+Response1:: Who says that? Is that a real thing? I haven't heard it before, but I'm often oblivious to these things.
+Response2:: Well yeah, but not as fresh as your crops! I'm really curious to know if there's a difference in the taste.
+
+Option1a:: It's just a saying.
+Option1b:: It's true, you know.
+
+Response1a:: If I'm not supposed to mix business with my personal life, then I was doomed from the start. How could anyone have a family business like that?
+Response1b:: If I'm not supposed to mix business with my personal life, then I was doomed from the start. How could anyone have a family business like that?
+
+Option2a:: Okay, it sounds fun! //Relationship Liam18 2 Happy
+Option2b:: I don't think it's a good idea for us to work together. //Relationship Liam18 -1 Sad
+
+Response2a:: Yeah? Great! I can't wait to see what we make together, XX!
+Response2b:: Oh... Okay then, I understand. Forget I mentioned it.
+
+End

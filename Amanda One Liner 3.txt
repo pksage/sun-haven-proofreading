@@ -1,0 +1,5 @@
+Amanda One Liner 3
+
+Dialogue:: Having a good day? That's great, please do it quietly.
+
+End

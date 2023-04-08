@@ -1,0 +1,33 @@
+Lynn Cycle 1
+
+Dialogue:: Oh, hello! It's you again. It's... good to see a face that I actually recognize. Especially after what happened on the train...
+
+Option1:: What do you do here, Lynn?
+
+Option2:: Where did you say you're from?
+
+
+Response1:: I'm a blacksmith. Or I guess, apprentice blacksmith. Solon is teaching me but I've only just started training with him. I hope to be as good as him, one day.
+
+Response2:: I'm from a little village in the east, so I'm still learning to live in a big city like this. It's a lot to take in.
+
+
+Option1a:: Blacksmithing? That wouldn't have been my first guess.
+
+Option1b:: I'm sure you'll become a master one day, too. //Relationship Lynn1a 2 Happy
+
+Response1a:: Everyone seems surprised when they hear that, but I don't see why. Many women in my old village work the forge. Is it really so odd?
+
+Response1b:: Oh, well, thank you! I - I'm sorry, compliments always catch me by surprise. You're very nice, you know! 
+
+
+Option2a:: If you think this is a big city, you're really clueless! //Relationship Lynn1b -1 Sad
+
+Option2b:: I'm adjusting, too. You'll get used to it in no time. //Relationship Lynn1b 2 Happy
+
+Response2a:: Oh. I'm really sorry, I didn't know... 
+
+Response2b:: Thanks. For now I'm taking it slow and trying to explore a new part of Sun Haven every day. 
+
+
+End

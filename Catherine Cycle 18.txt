@@ -1,0 +1,24 @@
+Catherine Cycle 18
+
+Dialogue:: Lately, I've been inspired to learn all sorts of new things!
+
+Option1:: What are you learning about now?
+Option2:: How do you find time to learn so much stuff?
+
+Response1:: Anne had a set of these curious cards. She told me that witches in the Western Region are crazy about them right now. They're called "tarot cards."[]I can learn to divine fate with them, similar to my tea leaves.
+Response2:: If I really want to do something, I let nothing stop me. It's important for me to make room in my life for new passions, you know.
+
+Option1a:: Do you really need to learn more magic? //Relationship Catherine18 -1 Mad
+Option1b:: You're so curious, I love it. //Relationship Catherine18 2 Happy
+
+Response1a:: Do I <i>need</i> to? Maybe I don't, but that doesn't mean I don't want to. I thought you'd be excited to hear what I was up to, but I guess not. 
+Response1b:: Pretty soon I'll learn all the cards, and then I'll divine our future with them! It'll be so much fun. 
+
+
+Option2a:: But you're so busy, how do you do it?
+Option2b:: You sound even busier than I am. //Emote none Happy
+
+Response2a:: Hey, I'm a pretty quick learner! And if I get my work done a few minutes faster every day, then it really adds up.
+Response2b:: I want to live every day to the fullest. If there's time to spare, I want to spend it either learning something new, or with you! 
+
+End

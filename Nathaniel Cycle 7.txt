@@ -1,0 +1,33 @@
+Nathaniel Cycle 7
+
+Dialogue:: Keep your chin up, XX - it's going to be a good day.
+
+Option1:: Are you single, Nathaniel?
+
+Option2:: Nathaniel, are you busy tomorrow? I think we should go out together!
+
+
+Response1:: Sure am! Hm, maybe I shouldn't say that so excitedly.[]Er, yes. Currently.
+
+Response2:: I'm busy every day, but I can make time for a friend. What did you have in mind?
+
+
+Option1a:: I figured you would be. //Relationship Nathaniel7 -1 Sad
+
+Option1b:: I'm sure you have an admirer or two in town. //Relationship Nathaniel7 2 Embarrassed
+
+Response1a:: Oh. Am I... that bad?
+
+Response1b:: Well, I wouldn't know about that... I just try to be friendly, is all.
+
+
+Option2a:: Let's go on a proper date. //Quest none NathanielHangout1Quest
+
+Option2b:: Actually, nevermind.
+
+Response2a:: Oh! Absolutely, that sounds like fun![]You can meet me at the barracks at 12:00 pm and we'll go from there.
+
+Response2b:: Oh? Okay, well come find me if you need anything else.
+
+
+End

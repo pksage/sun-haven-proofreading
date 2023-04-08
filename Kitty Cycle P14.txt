@@ -1,0 +1,23 @@
+Kitty Cycle P14
+
+Dialogue:: Jingle jingle, don't you like how Kitty's bells jingle? Teehee.
+
+Option1:: Your bells must make sneaking up on critters hard.
+Option2:: Why do you have so many jingle bells on your outfit, anyway? //Emote none Happy
+
+Response1:: Give Kitty more credit, XX! If Kitty is prowling, the bells don't make a sound! Kitty only jingles with Kitty wants to jingle!
+Response2:: I just like the sound they make! Jingle jingle! Kitty can make music whenever, wherever! Claude says Kitty's bells don't count as music, but Kitty disagrees! Nya!
+
+Option1a:: Makes sense. You're a cat, after all.
+Option1b:: You can really move that quietly?
+
+Response1a:: Why do you think my name is <i>Kitty</i>, nya?!
+Response1b:: Of course, of course! It's real easy for Kitty to be nice and quiet! When Kitty wants to be, of course! Other times Kitty jingle, jingle, jingles! Nya!
+
+Option2a:: Claude can be very picky about music. //Relationship KittyP13 2 Happy
+Option2b:: Claude isn't wrong. //Relationship KittyP13 -1 Mad
+
+Response2a:: Teehee, I knew you'd understand. Claude is just a stick-in-the-mud! Jingle jingle!
+Response2b:: Nyan? Kitty didn't think XX was such a stick-in-the-mud! You must be hanging out with Claude too much, nya!
+
+End

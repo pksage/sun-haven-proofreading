@@ -1,0 +1,24 @@
+KittysDress
+
+Dialogue:: Hiya XX! Want to help Kitty??
+
+Option1:: What does Kitty need help with?
+
+Option2(Permanent):: What do I need to do?
+
+
+Response1:: I'm making a faaaancy dress. It's so so fancy that it even has a gem! Except, I don't have the gem yet, nyan.
+
+Response2:: Just find me <color=#39CCFF>1 Sapphire</color> for my fancy fancy dress, and I'll reward you!
+
+
+Option2a:: I'll help you! //Quest none KittysDressQuest
+
+Option2b:: I can't help you right now.
+
+
+Response2a:: Oh, good! I can't wait, nya! (End)
+
+Response2b:: So disappointing, nyan... (End)
+
+End

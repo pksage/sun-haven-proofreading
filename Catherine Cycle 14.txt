@@ -1,0 +1,33 @@
+Catherine Cycle 14
+
+Dialogue:: Don't you feel Sun Haven picking up speed? It almost feels like it did ten years ago!
+
+Option1:: Do you think Sun Haven is actually going to bounce back?
+
+Option2:: Do you think you'll miss the peace and quiet? //Emote none Happy
+
+
+Response1:: I've always had faith in our little home, you know that. Maybe I'm reading into some misleading energies, but I really think Sun Haven turned a corner recently.
+
+Response2:: Maybe, but there will always be a quiet corner of Sun Haven. That's part of why I love it here. No matter who you are, there's a place for you here.
+
+
+Option1a:: I think I've noticed the same thing. Sun Haven is coming back! //Relationship Catherine14 2 Happy
+
+Option1b:: One day I hope to be as optimistic as you. //Relationship Catherine14 -1
+
+Response1a:: I'm so excited for you to see the town in its prime! Oh, and the tavern is so fun when it's full of strange travelers. XX, I'm glad you're here for this.
+
+Response1b:: It's not optimism, XX. Optimism has no basis. I'm going off of things I see and feel. There's a big difference.
+
+
+Option2a:: I know I've got a place here... with you!
+
+Option2b:: I'm just glad we can stop worrying so much for the town's future.
+
+Response2a:: Oh, extra cheesy today? Mm, I love that kind of cheese!
+
+Response2b:: Maybe, but let's not declare victory just yet. We shouldn't slow down before we're there, you know?[]XX, let's keep working to make Sun Haven the best it can be!
+
+
+End

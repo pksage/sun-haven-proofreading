@@ -1,0 +1,5 @@
+Holly One Liner 5
+
+Dialogue:: My forge is extra hot today!
+
+End

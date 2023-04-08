@@ -1,0 +1,23 @@
+Lucius Cycle 1
+
+Dialogue:: Have you ever basked in the glow of the moon before, XX?
+
+Option1:: Why do you like the moon so much?
+Option2:: What do you do here in Nel'Vari?
+
+Response1:: There's a balance to nature. Fire and water, plant and animal, sun and moon. Most of the citizens in Nel'Vari embrace the sun. Elves like me are the other side of that balance.
+Response2:: I'm an attendant to the moon. We take care of Nel'Vari during the night, while the others rest. I take my task seriously, though really I just love working in moonlight.
+
+Option1a:: The moon is beautiful. People should appreciate it more often. //Relationship Lucius1 2
+Option1b:: The sun is way more important than the moon, though. //Relationship Lucius1 -1
+
+Response1a:: You truly respect the duality of nature. Perhaps you're more at home here than you know, XX.
+Response1b:: That's a primitive way to think. Every bit of nature is important, XX, and no one part is worth more than another.
+
+Option2a:: So you're the night crew?
+Option2b:: Does Nel'Vari need that much care, even at night?
+
+Response2a:: That's a strange way of putting it, but yes.[]Nature doesn't sleep like you or I. Even at night there's much to be taken care of, and it's the attendants of the moon who handle it.
+Response2b:: That is correct, XX. We live in a delicate ecosystem.[]Nature doesn't sleep like you or I. Even at night there's much to be taken care of, and it's the attendants of the moon who handle it.
+
+End

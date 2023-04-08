@@ -1,0 +1,9 @@
+Coral Cycle 0
+
+Dialogue:: Hey, sweetie! I'm Coral. I'm chilled to serve you!
+
+Option1:: My name is XX!
+
+Response1:: I hope you see something you like, XX!
+
+End

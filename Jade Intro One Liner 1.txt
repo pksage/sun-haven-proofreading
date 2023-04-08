@@ -1,0 +1,4 @@
+Jade Intro One Liner 1
+
+Dialogue:: I'm working hard on a manuscript, but I don't mind a little small talk.						 																																																							
+End

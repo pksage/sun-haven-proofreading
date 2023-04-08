@@ -1,0 +1,33 @@
+Nathaniel Cycle 11
+
+Dialogue:: There's my farmer!
+
+Option1:: Do you think I'm "yours?" //Emote none Embarrassed
+
+Option2:: So what are the rules for dating civilians, anyway?
+
+
+Response1:: Oh, of course not! I wouldn't think that. I just meant - well, I'm always happy when I can see you.
+
+Response2:: Well, the rules of decorum don't explicitly say anything against it... I don't think we have anything to worry about, XX.
+
+
+Option1a:: Don't worry, Nathaniel - I'm kidding! //Emote none Embarrassed
+
+Option1b:: It's okay Nathaniel, I can be yours. //Emote none Embarrassed
+
+Response1a:: Oh man, you had me going there. The last thing I want to do is make you upset.
+
+Response1b:: Oh man, you had me going there. The last thing I want to do is make you upset.
+
+
+Option2a:: That's too bad - I kind of like breaking the rules. //Relationship Nathaniel11 -1 Sad
+
+Option2b:: That's good, I don't want to get you in any trouble. //Relationship Nathaniel11 2 Happy
+
+Response2a:: Maybe you do, but I still have a career to protect.
+
+Response2b:: Any trouble that comes my way is only on me, XX. Don't worry. Everything will work out just fine, I know it!
+
+
+End

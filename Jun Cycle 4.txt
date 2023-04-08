@@ -1,0 +1,33 @@
+Jun Cycle 4
+
+Dialogue:: You're looking energetic today - you must have slept well, huh?[]One of the first things I tell my clients is, good sleep is key to a healthy attitude!
+
+Option1:: What made you want to be a counselor to begin with?
+
+Option2:: So what are your tips for sleeping well at night?
+
+
+Response1:: I always get emotionally involved in people's stories, even when they have nothing to do with me. In part, I'm just a naturally good listener.[]That's also part of why I enjoy teaching so much... Oh, you didn't know that I'm also the teacher for the kids here?
+
+Response2:: I work hard every day to tire myself out. There's nothing like going to bed feeling adequately exhausted.[]But really, it's all about time management. Just keep an eye on your clock when it gets dark to make sure you don't stay up too late by mistake.
+
+
+Option1a:: Do you really think you're making people happier?  //Emote none Happy
+
+Option1b:: All your work is really shaping the future of Sun Haven!
+
+Response1a:: Of course! Just having a friend to talk to can do wonders for your mental health.
+
+Response1b:: I suppose you're right. I never thought of it that way, but that's actually a huge responsibility.
+
+
+Option2a:: That's not much of a tip. //Relationship Jun4 -1 Mad
+
+Option2b:: Thanks Jun, you're so helpful! //Relationship Jun4 2 Happy
+ 
+Response2a:: All I can do is tell you what works for me, XX. What you do with that is up to you.
+
+Response2b:: I do get a strong satisfaction from helping out whenever I can. Heh, I guess it's kind of my pastime.
+
+
+End

@@ -1,0 +1,33 @@
+Xyla Cycle 5
+
+Dialogue:: Oh, you again. Don't you have anyone else to bother? Friends or family?
+
+Option1:: So who do you usually spend time with around here?
+
+Option2:: Do you have family here? Or, at all?
+
+
+Response1:: The king and prince, obviously. Then Cordelia, since she's on the royal council with me. You know, I don't spend a lot of time with many other people... except you, for some reason.[]Why <i>do</i> I bother with you, anyway? Ugh, I'm starting to worry about my sanity.
+
+Response2:: No, no family here or anywhere that I know of. Before you start up with the pity party - I don't care. I can do whatever I want, whenever I want. So don't throw any feelings my way, okay?
+
+
+Option1a:: It sounds like you don't have many friends. //Emote none Romantic
+
+Option1b:: I know you like me, even if you won't admit it!
+
+Response1a:: That's about right, and I'm better off for it. I don't need more people wasting my time and filling my head with their dumb thoughts. I get plenty of that from you!
+
+Response1b:: Maybe you're right, maybe I've finally lost it...[]Living in this city has softened me up too much - I need to pick a fight with somebody. I'd choose you, but I actually want a challenge.
+
+
+Option2a:: Pity? You? Please. //Relationship Xyla5 2 Romantic
+
+Option2b:: It's obvious you miss your mommy. //Relationship Xyla5 -1 Mad
+
+Response2a:: You're finally starting to sound like you belong here.
+
+Response2b:: I can't tell if you tried for a joke, or if you're just that stupid.
+
+
+End

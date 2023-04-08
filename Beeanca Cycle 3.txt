@@ -1,0 +1,23 @@
+Beeanca Cycle 3
+
+Dialogue:: Have you tried the honey of the Grand Tree? Truly remarkable stuff.
+
+Option1:: Do your bees make the Grand Tree's honey?
+Option2:: What's your favorite drink at the tavern?
+
+Response1:: For that I can not take credit, actually. No, the honey that flows through the Grand Tree is made by an ancient hive of bees that live deep beneath the earth, in the Grand Tree's root system.[]They've been making honey for... well, a <i>really</i>  long time. So there's a LOT to go around.
+Response2:: I'm very partial to Slate's honeybrew, actually. I don't know how he does it, but he somehow makes honey into a drink that is frothy and thin, yet still full of delicious honey flavor.[]I've tried to woo the recipe out of him, but he's too cool to fall for my charms. Sigh.
+
+Option1a:: Oh, right, I think I've seen that place!
+Option1b:: I'm not sure what you're talking about.
+
+Response1a:: So you've been beneath the Grand Tree before? Very adventurous, but I do hope you're careful when you're down there. As my bees tell it, the bees of the Grand Tree having been fighting one another for many generations.[]Don't get caught up in the crossfire, honey!
+Response1b:: If you're feeling adventurous, you can see it all for yourself. There's a clifftop enterance to the Grand Tree's root system elsewhere in Nel'Vari.[]If you find it, you might be able to enter it and explore the underground hives yourself. Be careful if you do, though. As my bees tell it, the bees of the Grand Tree having been fighting one another for many generations.
+
+Option2a:: Maybe he'd teach me.
+Option2b:: Why not make your own?
+
+Response2a:: Hah! Good luck, honey. If <i>I</i>  can't get the recipe from him, then there's no chance you will. No offense, of course.
+Response2b:: I could try. But that takes too much experimentation. Besides, I don't know anything about making drinks. Best to just get it by the barrel from Slate.
+
+End

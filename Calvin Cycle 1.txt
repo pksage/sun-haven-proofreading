@@ -1,0 +1,33 @@
+Calvin Cycle 1
+griffin
+Dialogue:: Oh, you again. Welcome to the party.
+
+
+Option1:: You say that like it's not a party.
+
+Option2:: Why did you choose to become a soldier?
+
+
+Response1:: Yeah, that's on purpose. There's no party here.
+
+Response2:: It was my last option. I dropped out of my apprenticeship and didn't feel like delivering baby griffons for a living like my parents. So, here I am. Soldier boy.
+
+
+Option1a:: You should just leave if you hate it here. //Relationship Calvin1 -1
+
+Option1b:: You're a breath of fresh air. //Relationship Calvin1 1
+
+Response1a:: Listen, I don't hate it here. I don't love it either. I'm just bored.
+
+Response1b:: Hah, good one. 
+
+
+Option2a:: Well this isn't so bad compared to that, huh?
+
+Option2b:: So you don't have any personal interest in being a soldier?
+
+Response2a:: You're not wrong, but that's a low bar.
+
+Response2b:: Not a bit. But it pays well and I get free food, so it's good enough for me.
+
+End

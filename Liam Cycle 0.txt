@@ -1,0 +1,9 @@
+Liam Cycle 0
+
+Dialogue:: Hello, you must be the one who bought the old farm. I'm Liam, it's good to meet you.
+
+Option1:: Pleasure to meet you, Liam. I'm XX. //Emote none Embarrassed
+
+Response1:: Likewise! My name's Liam. Wait, I said that already...
+
+End

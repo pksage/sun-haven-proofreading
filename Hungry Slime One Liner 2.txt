@@ -1,0 +1,5 @@
+Hungry Slime One Liner 2
+
+Dialogue:: Still hungry! Still hungry! Feed, feed, feed!	
+
+End

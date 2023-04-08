@@ -1,0 +1,33 @@
+Jade Cycle 1
+
+Dialogue:: Hello again. You wouldn't know anything about writing a script, would you?
+
+
+Option1:: A script?
+
+Option2:: Are you always so hard at work?
+
+
+Response1:: That's right, for a play. I'm going to be a renowned playwright one day soon.[]Hey, you should get an autograph - that'll be worth something after I'm famous!
+
+Response2:: Until I finish this manuscript, I sure will be. Then again, a script is never really "finished," if you ask me.
+
+
+Option1a:: You're so sure of yourself! //Relationship Jade1 2
+
+Option1b:: What if you don't get famous? //Relationship Jade1 -1
+
+Response1a:: Of course! I haven't met anyone that holds up to my skill as a wordsmith. I'm a champion behind the keys of a typewriter.
+
+Response1b:: That seems unlikely... I never really thought about it!
+
+
+Option2a:: So when do you know you're done with it?
+
+Option2b:: So you just work forever?
+
+Response2a:: I'll know when it's done. That's part of being a writer, you need to have the instincts.
+
+Response2b:: It's never good to rush a script. It will be done when it's done - and it will be <i>glorious!</i>
+
+End

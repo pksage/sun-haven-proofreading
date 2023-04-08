@@ -1,0 +1,33 @@
+Lynn Cycle 8
+
+Dialogue:: Hi, I was just thinking about you today while hammering some armor into shape.[]Oh dear, I hope that doesn't send the wrong message...
+
+Option1:: You must be doing a lot of hammering - you're looking stronger than you used to.
+
+Option2:: Did you also make that pauldron on your shoulder?
+
+
+Response1:: Do you think so? I always thought my arms were so skinny. My daddy used to call me Twiggy because he said my arms were like little twigs. I never really liked it that much.
+
+Response2:: This? It was a parting gift from my mother before I moved here. She always makes my armor just a liiittle too big... Oh, I wish I could hug her right now!
+
+
+Option1a:: Twiggy?? I've got to use that! //Relationship Lynn8 -1 Mad
+
+Option1b:: That name doesn't really fit anymore. //Relationship Lynn8 2 Happy
+
+Response1a:: Oh no - I shouldn't have told you that!! I <i>really</i> don't like that name.
+
+Response1b:: I have gained a little muscle, but I know I'm still quite small. I really do feel stronger, though!
+
+
+Option2a:: Is your mother working as a blacksmith, still?
+
+Option2b:: Was she worried about your safety? //Emote none Happy
+
+Response2a:: She did, but now she only smiths for fun. In a way, that makes my pauldron seem even more special!
+
+Response2b:: Oh no, not at all. Most people wear decorative armor back home.[]It's cute that you think this little piece would offer any real protection!
+
+
+End

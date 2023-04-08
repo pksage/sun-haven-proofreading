@@ -1,0 +1,23 @@
+Renee Cycle 1
+
+Dialogue:: Hello again, neighbor!
+
+Option1:: You seem cheerful.
+Option2:: Did you live somewhere else before Sun Haven?
+
+Response1:: I'm just happy to be living here in Sun Haven is all! We're facing uncertain times right now, but even still, Sun Haven is a great town! It's an honor to live here.
+Response2:: I grew up in a fishing village right on the southern tip of the Western Region. My family even visited the Southern Islands a few times! But of all the places I went, Sun Haven was where I wanted to stay.
+
+Option1a:: Well, we DO have our own dragon...
+Option1b:: Well, how many towns have their own guardian dragon?
+
+Response1a:: Elios, the Sun Dragon! It's said that there are <i>other</i>  guardian dragons out there in the world... but that's all I know about that!
+Response1b:: That's right! We've got Elios, the Sun Dragon! Although It's said that there are <i>other</i>  guardian dragons out there in the world... but that's all I know about that!
+
+Option2a:: Sun Haven does seem quite nice. //Relationship Renee1 1
+Option2b:: You could have lived on tropical islands, but you chose Sun Haven? //Relationship Renee1 -1
+
+Response2a:: That's what I want to hear! Sun Haven pride!
+Response2b:: I sure did! Sun Haven pride!
+
+End

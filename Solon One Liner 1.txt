@@ -1,0 +1,5 @@
+Solon One Liner 1
+
+Dialogue:: Hey, farmer. You'll need to build some muscle if you're going to tame that land.
+
+End

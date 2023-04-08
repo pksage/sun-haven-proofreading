@@ -1,0 +1,9 @@
+Sasha Cycle 0
+
+Dialogue:: Oh, a visitor! My name's Sasha.
+
+Option1:: I'm XX. What is this place?
+
+Response1:: This is the recovery room. We serve people and creatures of all kinds here. You're welcome to stay!
+
+End

@@ -1,0 +1,33 @@
+Wornhardt Cycle 14
+
+Dialogue:: Seeing your face every day makes me think I must be the luckiest man alive.
+
+Option1:: If you were the luckiest man alive, you would also be rich. //Emote none Romantic
+
+Option2:: You think you're lucky? You're dating a farmer - I'm dating a doctor!
+
+
+Response1:: I am rich - in love and affection! Heheh.
+
+Response2:: XX, you're every bit as important as I am in this town. We need a farmer exactly as much as we need a doctor![]Well, except for Albert. That guy needs a doctor <i>way</i> more than he needs a farmer...
+
+
+Option1a:: Boooooo.
+
+Option1b:: Nice one!  //Emote none Happy
+
+Response1a:: I get it, my jokes are too good. No need to explain, it's obvious. You love my humor too much.
+
+Response1b:: Just when I thought you couldn't be more perfect - you like bad jokes!
+
+
+Option2a:: Are you making fun of a patient? Isn't that wrong? //Relationship Wornhardt14 -1 Embarrassed
+
+Option2b:: Then this town is lucky to have us both. //Relationship Wornhardt14 2 Happy
+
+Response2a:: Sorry XX, but I need to keep my sense of humor. It's my defense mechanism as a doctor.
+
+Response2b:: Sun Haven really has changed my life in every way possible. I know it did the same for you too, XX. You're right, we're both lucky for lots of reasons.
+
+
+End

@@ -1,0 +1,9 @@
+Luke Cycle 0
+
+Dialogue:: What is this that my Elf eyes see? A stranger, here in Nel'Vari?
+
+Option1:: Er, that's right. I'm XX, I come from Sun Haven.
+
+Response1:: Sun Haven? That Human settlement that Vaan is always talking about? Now this is interesting. My name is Luke, since you were kind enough to give me your own.
+
+End

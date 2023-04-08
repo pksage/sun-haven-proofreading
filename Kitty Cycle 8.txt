@@ -1,0 +1,33 @@
+Kitty Cycle 8
+
+Dialogue:: Hello XX, you've got a funny funny look on your face. Did you sleep okay?
+
+Option1:: I've had a lot of fun with you, Kitty...
+
+Option2:: Kitty, what do you like most about your work?
+
+
+Response1:: I've had fun with you too, XX! We should go out together, nya! Like, on a date!
+
+Response2:: Oh, sooo many things. The pet store looks so cute on the outside. But even most of all is the adorable animals! I always get along with animals so it's easy and fun for me, nya.
+
+
+Option1a:: Would you like to go out tomorrow?  //Quest none KittyHangout2Quest
+
+Option1b:: I think we should just be friends, Kitty. //Emote none Sad
+
+Response1a:: AH! Yes, I'd love to! Oh so fun, nya. You should come to my house tomorrow at 5:00 pm!
+
+Response1b:: Oh, really? I thought different, but okay... I'd rather be friends than nothing, nyaa.
+
+
+Option2a:: Of course you get along with animals. //Relationship Kitty8 -1 Mad
+
+Option2b:: You're lucky to have a job you love. //Relationship Kitty8 2 Happy
+
+Response2a:: What do you mean, nyan?? That's very very rude, XX! You need to treat Kitty nicer.
+
+Response2b:: I agree, teehee! It's much more fun. Sometimes I see Emmett in the store and he doesn't look so happy... but I can tell you like your farm, nya!
+
+
+End

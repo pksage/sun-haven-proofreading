@@ -1,0 +1,5 @@
+Mari One Liner 5
+
+Dialogue:: Thanks for saying hi, hun. You sure you're not just doing that to stay on my good side? Either way, it's working!
+
+End

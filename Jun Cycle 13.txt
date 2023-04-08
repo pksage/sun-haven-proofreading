@@ -1,0 +1,33 @@
+Jun Cycle 13
+
+Dialogue:: XX, my sweet. I was thinking of you while painting the other night.
+
+Option1:: Hey, how come you haven't painted me yet? //Emote none Embarrassed
+
+Option2:: Do you have any goals as a painter, Jun?
+
+
+Response1:: Oh, um, well... I don't want to lie to you, XX. There's a chance that I already have.
+
+Response2:: It would be nice to paint a large mural one day. But otherwise, painting is just how I relax. I don't feel the need to put pressure on it with too many big goals. Does that make sense?
+
+
+Option1a:: That's so thoughtful!
+
+Option1b:: You painted me without telling me? I don't know how I feel about that.
+
+Response1a:: Oh good! I was worried you might be uncomfortable with it.[]It was one day that I noticed you in your field with the sun setting behind you, and I was simply inspired.
+
+Response1b:: I'm sorry if that's uncomfortable. One day I noticed you in your field with the sun setting behind you, and I was simply inspired.
+
+
+Option2a:: I get it - making it competitive would ruin the hobby. //Relationship Jun13 2 Happy
+
+Option2b:: I get it - it's just for yourself, not others. //Relationship Jun13 -1 Sad
+
+Response2a:: Some people can't separate their ambitions from their hobbies, which leads them to quit doing something they love just because they don't get recognition.[]I'm glad you aren't one of those people, XX.
+
+Response2b:: Some people can't separate their ambitions from their hobbies, which leads them to quit doing something they love just because they don't get recognition.[]I'm glad you aren't one of those people, XX.
+
+
+End

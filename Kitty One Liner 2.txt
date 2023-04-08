@@ -1,0 +1,5 @@
+Kitty One Liner 2
+
+Dialogue:: You look tired, XX. You need a cat nap, nya!					
+
+End

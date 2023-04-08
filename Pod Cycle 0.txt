@@ -1,0 +1,9 @@
+Pod Cycle 0
+
+Dialogue:: Hi, stranger![]Are you a farmer? Magic Red Lady visited yesterday and said a farmer was coming.
+
+Option1:: That's right, I'm a farmer. My name is XX, what's yours?
+
+Response1:: My name is XX... Hehe, no it's not - I'm Pod!
+
+End

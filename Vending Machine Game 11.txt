@@ -1,0 +1,54 @@
+Vending Machine Game 11
+
+Dialogue:: <i>You press one of the buttons, but the machine registers a different input!</i>
+
+
+Option:: Randomly press buttons. //RIGHTANSWER
+
+Option:: Wait it out.
+
+Option:: Give it a smooch.
+
+
+Response:: <i>Losing your patience, you press every single button on the machine in random order. Finally, the machine yields and registers your initial input.</i>
+
+Response:: <i>You cross your arms and plant your feet firmly to the ground. You'll wait this little mishap out.</i>[]...[]...[].......[]<i>...You get tired of waiting.</i>
+
+Response:: <i>You pucker up and plant a big, wet kissy on the machine. It doesn't do anything, but several onlookers give you some strange looks.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>Sparks begin shooting wildly out of the interface of the machine!</i>
+
+
+Option:: //HEALTH2 Shake the machine. //RIGHTANSWER
+
+Option:: Threaten the machine with your weapons.
+
+Option:: //TICKETS5 Bribe the machine.
+
+
+Response:: <i>You give the machine a good shake. You think you can hear some of the inner metal bits bending and breaking, but it gets the sparks to stop flying.</i>
+
+Response:: <i>Alright, vending machine! No more Mister Nice Farmer. Give up the potion, or else!!</i>[]<i>The machine must have nerves of steel, because it doesn't even so much as flinch at your threats. Oh well!</i>
+
+Response:: <i>You pull a shiny stack of tickets from your pocket. Slipping it towards the machine, you throw in a little sweet talk to flavor the deal. The machine takes the tickets, but doesn't respond to the bribe.</i>
+
+
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine vanishes into thin air!</i>
+
+
+Option:: Scribble an angry message on the machine.
+
+Option:: Find it with feel. //RIGHTANSWER
+
+Option:: Make tea.
+
+
+Response:: <i>You attempt to draft an anger-filled message on the side of the machine, but it's invisible and so you can't see what you're writing. You're pretty sure it's good and angry, though.</i>
+
+Response:: <i>The machine may be invisible to the naked eye, but you can still use your hands to feel around for it... a button here, a knob there... yeah, this'll work. Out comes the potion!</i>
+
+Response:: <i>You brew a lovely pot of tea. It's very relaxing and calms your nerves, but you find it very much lacking as a substitute for a potion.</i>
+
+
+End

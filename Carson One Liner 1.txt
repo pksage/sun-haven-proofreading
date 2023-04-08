@@ -1,0 +1,5 @@
+Carson One Liner 1
+
+Dialogue:: Another day, another sting.							
+
+End

@@ -1,0 +1,33 @@
+Catherine Cycle 4
+
+Dialogue:: Hi, XX! I'm always happy to see you around town.
+
+Option1:: Catherine, you're always so cheerful. Does anything make you mad?
+
+Option2:: Of everyone in Sun Haven, who do you prefer to spend your time with?
+
+
+Response1:: I know I seem very cool most of the time, but sometimes I do get fired up. It's usually when I see someone being unfair or cruel to another person.[]I'll admit that I've cast my share of curses over people that I thought deserved it. That was only as a teenager, though.
+
+Response2:: Lucia and I have always gotten on very well. And believe it or not, I have a lot of fun with Anne. I don't know if she feels the same way, though.
+
+
+Option1a:: I wish I could do that sometimes! //Relationship Catherine4 2 Happy
+
+Option1b:: You can cast curses? Doesn't that mean you practice dark magic? //Relationship Catherine4 -1 Embarrassed
+
+Response1a:: Oh, good. I was worried you might judge me for that![]Anyway, I've grown up since then. I don't take part in dark practices anymore.
+
+Response1b:: I said it was only as a teenager, didn't I? I've grown up since then, XX. I don't take part in dark practices anymore.
+
+
+Option2a:: What do you mean? //Emote none Happy
+
+Option2b:: You don't think Anne likes you? //Emote none Happy
+
+Response2a:: Well, I always end up giving her some lecture about her morals. I used to be more serious about it, but I've started doing it for fun. Now I just like to push her buttons, hehe.
+
+Response2b:: Well, I always end up giving her some lecture about her morals. I used to be more serious about it, but I've started doing it for fun. Now I just like to push her buttons, hehe.
+
+
+End

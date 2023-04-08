@@ -1,0 +1,33 @@
+Judith Cycle 1
+
+Dialogue:: Oh, the farmer. It's so good having you in town. 
+
+
+Option1:: Have you been in Sun Haven a long time?
+
+Option2:: Do you have a favorite memory from your life here?
+
+
+Response1:: What, why do you ask?[]Oh don't worry, I'm only poking fun at you. I know I'm no youngster![]It's been more than thirty years that I've lived here. Most of that time has been with my husband, Albert.
+
+Response2:: Oh yes, I'm glad you asked! I was a young girl when I first saw Elios. It wasn't on Dragon's Meet, but in the skies above Sun Haven.[]A colony of ghasts came out of nowhere, threatening to attack the town. But Elios wouldn't have it! No, he swooped down from his mountaintop and spouted fire until the ghasts fled back north.
+
+
+Option1a:: It seems like a waste to spend all that time in one place. //Relationship Judith1 -1
+
+Option1b:: A life like that sounds perfectly peaceful. //Relationship Judith1 2
+
+Response1a:: You have a lot to learn, kiddo. Maybe one day you'll see what it means to make a life for yourself.
+
+Response1b:: It hasn't been perfect, but it has certainly been nice.
+
+
+Option2a:: Did anyone panic?
+
+Option2b:: Were you scared? 
+
+Response2a:: It should have been scary, but I didn't panic one bit. In fact, nobody did. Elios took action, so I felt safe. I would even say that I felt strong knowing he was on my side.[]After seeing his power that day, I knew that Sun Haven was one of the safest places in the world. I still believe that to be true.
+
+Response2b:: It should have been scary, but I didn't panic one bit. In fact, nobody did. Elios took action, so I felt safe. I would even say that I felt strong knowing he was on my side.[]After seeing his power that day, I knew that Sun Haven was one of the safest places in the world. I still believe that to be true.
+
+End

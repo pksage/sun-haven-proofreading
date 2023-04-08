@@ -1,0 +1,9 @@
+Kara Cycle 0
+
+Dialogue:: Hello there, you're the new neighbor? I'm happy to make your acquaintance. I'm Pod's mother, Kara. 
+
+Option1:: Hi Kara, my name is XX.
+
+Response1:: XX, now that's a nice name. I'm glad that old farm has someone to care for it now. It used to be so beautiful.
+
+End

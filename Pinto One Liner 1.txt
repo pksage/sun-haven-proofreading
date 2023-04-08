@@ -1,0 +1,5 @@
+Pinto One Liner 1
+
+Dialogue:: *ACHOO!* Ugh... Sorry, were you talking to me?											
+
+End

@@ -1,0 +1,33 @@
+Lester Cycle 2
+
+Dialogue:: I heard you're running the farm across the river. That sounds like fun work!
+
+
+Option1:: Do you have fun as a guard?
+
+Option2:: What do you do when you're not in uniform?
+
+
+Response1:: I wouldn't quite say that. Don't get me wrong, it's not bad or anything. The work is more about protection than having fun.
+
+Response2:: I like to think of myself as an amateur inventor. I once used an old wagon wheel to make a machine that sharpens your sword for you. I love turning problems into projects!
+
+
+Option1a:: Wouldn't you rather do something you enjoy? //Relationship Lester2 -1
+
+Option1b:: Thank you for the work you do, even though it's not that fun. //Relationship Lester2 2
+
+Response1a:: You misunderstand me, farmer. I do enjoy this work, just not the same way that I enjoy... oh, I don't know - ice cream.
+
+Response1b:: It's not always so serious. Plus, the rest of the soldiers are a ton of fun. It gets pretty rowdy in the barracks after hours!
+
+
+Option2a:: What is your best invention?
+
+Option2b:: That's so creative! 
+
+Response2a:: Right now, my favorite is the scratcher I made. It's basically just a stick, but it's perfect for reaching any itch when you're wearing your armor.
+
+Response2b:: A lot of the time I'm just bunked up in the barracks, so there's plenty of time to get creative. In a way, boredom breeds creativity.[]Giuseppe told me that! Have you met him yet?
+
+End

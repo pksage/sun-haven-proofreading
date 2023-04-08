@@ -1,0 +1,25 @@
+AmandasBookQuest
+
+Dialogue:: Hey farmer, are you headed by the library?
+
+
+Option1:: Why do you ask?
+
+Option2(Permanent):: What do I need to do?
+
+
+Response1:: Amanda left her <color=#39CCFF>Book</color> in my boat last night. I don't really have time to return it today, but I know how much she loves this one.
+
+Response2:: I was hoping you could return Amanda's <color=#39CCFF>Book</color> for me. She should be at the library - like always.
+
+
+Option2a:: I'll do it! //Quest none AmandasBookQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: I really appreciate it XX. And I know Amanda does, too! (End)
+
+Response2b:: Oh man, that's too bad. (End)
+
+End

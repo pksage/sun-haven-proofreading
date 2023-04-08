@@ -1,0 +1,5 @@
+Wesley One Liner New Home Cutscene
+
+Dialogue:: We get it, you're a farming master. Hurry up and do what the Elder says, would you?
+
+End

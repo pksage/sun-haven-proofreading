@@ -1,0 +1,5 @@
+Sierra One Liner 4
+
+Dialogue:: Hey, you look a little fatigued. Are you getting enough fluids?																																																																						
+
+End

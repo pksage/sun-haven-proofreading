@@ -1,0 +1,9 @@
+Triberius Cycle 0
+
+Dialogue:: Welcome![]<b>Welcome.</b>[]<i>Wellllcome...</i>
+
+Option1:: Hi... and hi, and hi. My name is XX!
+
+Response1:: <b>XX, a strong name.</b>[]You can call us Triberius. Welcome to our haberdashery![]<i>Oh, just say "hat shop" for goodnessss sake...</i>[]<b>It's a pleasure to make your acquaintance.</b>
+
+End

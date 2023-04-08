@@ -1,0 +1,25 @@
+HeatTheBarracksQuest
+
+Dialogue:: Hi there, XX. You always seem to have perfect timing. Thanks to Pinto's clumsiness, I've got a job for you.
+
+
+Option1:: What did Pinto do?
+
+Option2(Permanent):: What do you need?
+
+
+Response1:: Pinto was sent to gather coal to heat the barracks at night, but he dropped the whole basket into the river on the way back.[]I guess there was a bee involved. He seemed embarrassed, so I didn't ask questions.
+
+Response2:: We'll need <color=#39CCFF>10 Coal</color> to keep us all warm and toasty tonight. Think you can swing it?
+
+
+Option2a:: I'll get right on it! //Quest none HeatTheBarracksQuest
+
+Option2b:: I'm too busy right now.
+
+
+Response2a:: Fantastic! You're a real credit to Sun Haven, XX. You can bring the coal to me. (End)
+
+Response2b:: Really? That's too bad. It'll be a chilly night in the barracks. (End)
+
+End

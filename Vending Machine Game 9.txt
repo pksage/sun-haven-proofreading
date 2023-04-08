@@ -1,0 +1,54 @@
+Vending Machine Game 9
+
+Dialogue:: <i>Slime begins dripping down every side of the machine!</i>
+
+
+Option:: //HEALTH2 Stand on your head.
+
+Option:: Grab a tissue. //RIGHTANSWER
+
+Option:: //HEALTH1 Give the machine 'the stink eye'.
+
+
+Response:: <i>You stand on your head. You get slime on your head. This was a bad idea.</i>
+
+Response:: <i>Ooooh, haunted slime conjured by spirits not of this earthly realm. How scaaary... yeah, right. You grab a hankie and wipe off the slime. Ever onward.</i>
+
+Response:: <i>You give the machine a good, long dose of the dreaded 'stink eye'. Meanwhile, slime pools around your ankles. You don't think the stink eye treatment worked.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine mixes all of the potions around!</i>
+
+
+Option:: //HEALTH2 Pick the machine up and drop it. //RIGHTANSWER
+
+Option:: Sigh loudly.
+
+Option:: Tickle the machine.
+
+
+Response:: <i>With a grip to rival the greatest of Guardian Dragons you heft the machine up off the ground a good inch or two. You then let it fall back down. All the potions inside conveniently rearrange themselves back to normal!</i>
+
+Response:: <i>You loudly sigh. It accomplishes nothing, so you give it another try. Still nothing. Sigh.</i>
+
+Response:: <i>You tickle the machine. It laughs, and all the potions rearrange! But they're still in the wrong order!</i>
+
+
+LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i> [] <i>Your potion begins to drop down... and gets stuck against the glass!</i>
+
+
+Option:: Pretend to be Dynus.
+
+Option:: Pretend the machine works.
+
+Option:: //HEALTH2 Punch the machine. //RIGHTANSWER
+
+
+Response:: <i>In your deepest and most booming voice, you command the machine to obey your will. The machine, unphased by your acting ability, refuses to comply.</i>
+
+Response:: <i>You spend a few moments living inside of a fantasy land in your head, where the machine works perfectly. It didn't change reality, however, and your potion is still stuck!</i>
+
+Response:: <i>Stupid machine! You give it a solid punch. Your fingers hurt, but your potion is dislodged!</i>
+
+
+End

@@ -1,0 +1,5 @@
+Slobert Intro One Liner 1
+
+Dialogue:: What are you looking at me for?								
+
+End

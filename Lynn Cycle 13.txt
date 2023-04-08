@@ -1,0 +1,33 @@
+Lynn Cycle 13
+
+Dialogue:: It feels like my life is really coming together. You're a big part of that, XX.
+
+Option1:: Lynn, I love you, but... 
+
+Option2:: You know, sometimes I wonder if I should have chosen a different profession.
+
+
+Response1:: But what? Don't keep me in anticipation, XX!
+
+Response2:: Oh, sweet XX. When I started my apprenticeship, I was terrified! You remember, right? I constantly doubted my choice to move here.[]Now I'm almost at the end of my apprenticeship and I've learned almost everything Solon has to teach. What I'm trying to say is, just give it some time, sweetheart.
+
+
+Option1a:: When you come home from the forge, you stink. Real bad. //Relationship Lynn13a -1 Mad
+
+Option1b:: Would you mind taking a bath after you get home from the forge? //Relationship Lynn13a 2 Embarrassed
+
+Response1a:: Well good, that's how you know I worked hard all day. I'm glad I stink!
+
+Response1b:: Oh dear, I must smell like a sweat golem after a day's work! I'm glad you mentioned it, XX. I'll make sure to wash up when I get home.
+
+
+Option2a:: That's not the same. I'm not a blacksmith. //Relationship Lynn13b -1
+
+Option2b:: I don't know what I'd do without you, sweet pea. //Relationship Lynn13b 2 Happy
+
+Response2a:: XX... I know you'll understand soon.
+
+Response2b:: Oh stop, you'd be just fine on your own. And me, too. In a way, that's what makes us such a strong couple.
+
+
+End

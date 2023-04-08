@@ -1,0 +1,33 @@
+Judith Cycle 2
+
+Dialogue:: Keep your chin up. Life is beautiful, even when it's hard. 
+
+
+Option1:: Do you have any advice for someone like me?
+
+Option2:: What do you do here, Judith?
+
+
+Response1:: I should have expected that - young people are always asking their elders for advice.[]Well kiddo, sometimes life guides you and sometimes you guide life. It's never too late to change your course if it feels like you're headed in the wrong direction.
+
+Response2:: Oh, I'm quite retired now. It's cute you mistook me for a working woman![]Before retirement, I was the town courier. Sun Haven really only needs one courier, so I was happy to pass the torch to Tonya when the time came.
+
+
+Option1a:: Have you ever felt like you were going the wrong direction? 
+
+Option1b:: Is there a story behind that? 
+
+Response1a:: Certainly. I failed to make some changes like I should have, but I still ended up in a nice place.
+
+Response1b:: Not one I care to tell right now. Maybe one day, farmer.
+
+
+Option2a:: I bet people loved you delivering their mail. //Relationship Judith2 2
+
+Option2b:: Looking at you, I wouldn't have thought you were a courier. //Relationship Judith2 -1
+
+Response2a:: Oh! Hehe, you're not wrong at all![]In fact, I don't think I bought myself a drink in the tavern for twenty years. My friends and neighbors always paid for me! It was a wonderful time.
+
+Response2b:: Perhaps you should judge less with your eyes, farmer.
+
+End

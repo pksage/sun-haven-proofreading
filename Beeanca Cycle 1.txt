@@ -1,0 +1,23 @@
+Beeanca Cycle 1
+
+Dialogue:: Can't you feel the vibration of my wings? It feels so good to be buzzing!
+
+Option1:: What brought you to Nel'Vari?
+Option2:: Last we spoke, you said that you pollinate?
+
+Response1:: Oh, I was just minding my own business one day, making sure all my bees were hard at work, when I had a vision! That took me by surprise, let me tell ya.[]In the vision, I saw a dragon draped with flowers and vines. Turns out, Nivara was calling me directly! She was looking for help keeping the plants healthy around here. Of course, I happily offered my help.[]Elves are hard workers, but nobody works as hard as a bee!
+Response2:: That's right! Hold on now... judging by your face, I'd guess you don't even know what that means![]Wow, you're really without a clue, aren't ya? Don't worry honey, Beeanca will help you.
+
+Option1a:: You must be a great help if Nivara called you herself! //Relationship Beeanca1 2
+Option1b:: So all you do is work? //Relationship Beeanca1 -1
+
+Response1a:: Not everyone likes to work so much, but me and my bees get such satisfaction from a job well done. Just look around you! All these healthy plants - most of them are here because of me and my bees!
+Response1b:: Well don't say that like it's a <i>bad</i> thing! Not everyone likes to work so much, but me and my bees get such satisfaction from a job well done.[]Just look at all these healthy plants around you - most of them are here because of me and my bees!
+
+Option2a:: So are you going to tell me?
+Option2b:: I don't really care anymore.
+
+Response2a:: Everyone knows that bees make the world go 'round! We keep all the plants growing by spreading our pollen around.[]You really didn't know that? Where have you <i>beeeen?</i>
+Response2b:: Well fine then, excuse me for taking time out of my day trying to educate <i>you</i> and improve <i>your</i> life.
+
+End

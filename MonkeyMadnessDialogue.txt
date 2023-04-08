@@ -1,0 +1,24 @@
+Monkey Madness
+
+Dialogue:: XX! I've heard good things about you. Supposedly you have a variety of skills. I'm hoping one of those skills is combat.
+
+Option1:: What's going on?
+
+Option2(Permanent):: What do you need me to do?
+
+
+Response1:: Those darned monkeys are causing trouble for travelers. They're too dangerous. We need to do something.
+
+Response2:: Slay 10 monkeys in the eastern forest, and that's it. Hopefully the rest will get the message. Come find me when you're done and I'll gladly pay you.
+
+
+Option2a:: I'm on it! //Quest none MonkeyMadnessQuest
+
+Option2b:: I'm too busy to help right now.
+
+
+Response2a:: I can't wait to teach these monkeys a lesson. (End)
+
+Response2b:: That's disappointing. Hopefully someone else will step up to the challenge. (End)
+
+End

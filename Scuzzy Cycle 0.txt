@@ -1,0 +1,9 @@
+Scuzzy Cycle 0
+
+Dialogue:: Step right up, step right up! No need to push, there's plenty for everyone!
+
+Option1:: Sorry, but who are you?
+
+Response1:: Eh? Wait, you're the only one in line? I thought there'd be way more customers out this way. Ah well...[]I'm setting up shop here today, if you don't mind! You don't, do you? Great! I'll be here all day, kid.[]Have a look around, and if there's something that's too expensive for you- well, I'll come back around here <i>same time, same day, next month</i>  and you can buy it then! Only the best from Scuzzy W. Bear.
+
+End

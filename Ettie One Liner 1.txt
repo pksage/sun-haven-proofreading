@@ -1,0 +1,5 @@
+Ettie One Liner 1
+
+Dialogue:: Warm summers we've been having lately. Better than cold winters, I suppose.						
+
+End

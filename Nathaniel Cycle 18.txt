@@ -1,0 +1,23 @@
+Nathaniel Cycle 18
+
+Dialogue:: My lovely XX, you're exactly who I need to see right now.
+
+Option1:: Rough day?
+Option2:: How can I help?
+
+Response1:: Just tiring. We're anticipating a shipment of supplies, so we have to take a full inventory of the barracks. It's exhausting.
+Response2:: I could use a pick-me-up. You always have something sweet to say!
+
+Option1a:: Don't let a little counting ruin your day.
+Option1b:: Don't work yourself too hard today.
+
+Response1a:: I know, and I won't, but sometimes I have to put on a face for the other soldiers. Today is definitely one of those days.
+Response1b:: I know, and I won't, but sometimes I have to put on a face for the other soldiers. Today is definitely one of those days.
+
+Option2a:: I guess your hair looks nice today. //Relationship Nathaniel18 -1 Sad
+Option2b:: If I'm sweet, it's just because I've spent so much time with you. //Relationship Nathaniel18 2 Happy
+
+Response2a:: That's not quite the sweetness I was hoping for, but I'll take what I can get I guess.
+Response2b:: See that? That's <i>exactly</i> what I needed. XX, thank you for being so... you!
+
+End

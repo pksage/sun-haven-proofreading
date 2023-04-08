@@ -1,0 +1,17 @@
+Molly Cycle 0
+
+Dialogue:: Oh! Hey there! Can I help you with anything?
+
+Option1:: What is this place?
+
+Option2:: What's your story?
+
+Response1:: Geology might seem boring to some people, but it's really important. Don't you know anyone who smiths? Or maybe you've cut stone for a path before?[]If we can fill out our displays, then everyone can come and learn the importance of geology!
+
+Response2:: I studied geology and earth magic at the Great Academia, in the Great City. Once I graduated though, I wasn't sure what sort of work an earth mage could find...[]That's when I met Covington. He told me I could continue my studies and show people the wonders of rock and minerals. I agreed, obviously.[]We don't have the samples for a full display, but I'll keep documenting and organzing the stock we do have... I just have to be careful not to knock anymore of it over...
+
+Option1a:: I see.
+
+Option2a:: I see.
+
+End

@@ -1,0 +1,9 @@
+Morgan Cycle 0
+
+Dialogue:: You might have impressed everyone else by aiding Ulmus and winning the Elder's favor, but you don't impress me.
+
+Option1:: Well... I'm XX.
+
+Response1:: My name is Morgan. I don't expect us to make friends.
+
+End

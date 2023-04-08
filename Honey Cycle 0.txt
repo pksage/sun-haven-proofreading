@@ -1,0 +1,9 @@
+Honey Cycle 0
+
+Dialogue:: I haven't seen you here before. Of course, I usually have my eyes on the water.[]You have a kind face. I'm Honey, nice to meet you!
+
+Option1:: Hello Honey, my name is XX.
+
+Response1:: It's my pleasure to meet you, XX. I'll see you around town for sure!
+
+End

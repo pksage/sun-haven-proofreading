@@ -1,0 +1,5 @@
+Wornhardt One Liner 3
+
+Dialogue:: You feeling okay, XX? You're looking a little green. Hey wait... Nevermind - it was a trick of the light.
+
+End

@@ -1,0 +1,33 @@
+Rex Cycle 1
+
+Dialogue:: Grammy told me Sun Haven was a nice town. Once again, she was right!
+
+
+Option1:: What made you choose to be a miner?
+
+Option2:: Grammy?
+
+
+Response1:: Mines are where I'm the most comfortable - I'd rather be underground than above ground most of the time. But you can't sell your wares where people can't see you.
+
+Response2:: Grammy, Grams, Mee-Maw, Grandma! I owe her a lot. She's the one that supported my dream of being a traveling merchant in the first place.
+
+
+Option1a:: You're like a mole!
+
+Option1b:: You don't ever feel uncomfortable underground?
+
+Response1a:: Haha! That's a good one! I'm definitely a mole.
+
+Response1b:: Not as long as I've got light. It's nice and cozy down there with all the rocks. Rocks are our oldest friends!
+
+
+Option2a:: Isn't she worried about your safety, traveling so much? //Relationship Rex1 -1
+
+Option2b:: Grammys are the best. Everyone should be close with their "mee-maw." //Relationship Rex1 2
+
+Response2a:: Oh gosh, do you think I'm worrying her? I should send her a letter.
+
+Response2b:: I agree completely! Our elders need to be cherished.
+
+End

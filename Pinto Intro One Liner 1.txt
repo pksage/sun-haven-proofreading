@@ -1,0 +1,5 @@
+Pinto Intro One Liner 1
+
+Dialogue:: I just started here a couple of weeks ago, so you're not the only newbie in town.								
+
+End

@@ -1,0 +1,9 @@
+Erica Cycle 0
+
+Dialogue:: Heya! Careful of falling apples!
+
+Option1:: Falling apples?
+
+Response1:: Well, they're actually thrown. All the more reason to watch out for them!
+
+End

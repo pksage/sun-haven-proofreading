@@ -1,0 +1,33 @@
+Kitty Cycle 10
+
+Dialogue:: This morning I met a traveler from the East. From what they said, the Eastern Region sounds beautiful!
+
+Option1:: You don't plan to ever leave Sun Haven for good, right Kitty?
+
+Option2:: I haven't asked, have you traveled much outside of Sun Haven?
+
+
+Response1:: Actually, I never thought about it before... Sun Haven is such a comfy home, the thought of leaving is so so sad!
+
+Response2:: Yes yes, I've gone across the big bridge once! ... Well actually, only halfway. Nyaaan - it's too scary!
+
+
+Option1a:: I can't imagine staying. //Relationship Kitty10 -1 Sad
+
+Option1b:: I'd love to stay here with you. //Relationship Kitty10 2 Happy
+
+Response1a:: Oh no... I don't know if I can leave, XX. If you leave, I might not come with you, nyan!
+
+Response1b:: Ah! XX, that's a nice thought, nya. It will be so much more fun sharing this town with my partner!
+
+
+Option2a:: I could walk across with you one day. //Emote none Happy
+
+Option2b:: Wait, you've never even been across the bridge?  //Emote none Embarrassed
+
+Response2a:: You're so brave!! Let's do that one day, nya. In the meantime we can just chase butterflies in the grass, yeah yeah!
+
+Response2b:: Don't tease me about it! There's a lot of water under that bridge, eep! No thanks!
+
+
+End

@@ -1,0 +1,23 @@
+Vaan Cycle P9
+
+Dialogue:: So many developments in Sun Haven lately! The little city is really getting its groove back, it seems. I'd love to check it out more, if the guards weren't so aggressive!
+
+Option1:: Why do the guards in Sun Haven hate you so much?
+Option2:: What's the biggest change to Sun Haven you've seen?  //Emote none Happy
+
+Response1:: Well they don't have anything against the Elven race in general, they just don't like that I won't "identify myself" in a "proper way", or whatever.[]Maybe I would, if they'd stop shooting at me everytime I fly near! And that guard with the big sword! Who taught her to talk the way she does? Yeesh![]That's the problem with society. Either you follow all their rules, or you're good for nothing. And everyone wonders why I'm always bouncing around from place to place.
+Response2:: Well, that's pretty easy. Your farm is probably the number one thing, but it isn't just that. It's as if the whole town seems busier than it has before, more bustling.[]If Sun Haven was a dwindling breeze before, it's a lively gale now.
+
+Option1a:: Maybe you should just follow the rules. //Relationship VaanP9 -1 Mad
+Option1b:: They shouldn't see you as such a threat. //Relationship VaanP9 2
+
+Response1a:: Ugh, after the way they've been jerks to me? Not a chance.
+Response1b:: Right?! That's what I've been trying to tell them! Maybe it's too late now, though. They seem to hate me pretty good, so perhaps I'll never be able to freely enjoy Sun Haven.
+
+Option2a:: It must be interesting, seeing it all happen from above.
+Option2b:: I wish I could see the town grow from the sky.
+
+Response2a:: It is. A bird's eye view is usually my preferred way of seeing things, but I'd love to check Sun Haven out from the ground more, though.
+Response2b:: It is a sight to be savored, that's for sure. Ah, how unfortunate that everyone can not be as skilled as myself! I'd love to check Sun Haven out from the ground more, though.
+
+End

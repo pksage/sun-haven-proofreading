@@ -1,0 +1,23 @@
+Edwin Cycle 1
+
+Dialogue:: Hey *hic* farmer. 
+
+Option1:: So... why are you here?
+Option2:: Is Sun Haven much different from your home?
+
+Response1:: What, an Elf ain't allowed to get a drink at his favorite waterin' hole? I hope I'm not *hic* <i>inconveniencing</i> ya. If I'm not welcome, I can hit the road anytime.
+Response2:: How do you know that I'm not from Sun Haven? Ain't I a native, too?
+
+Option1a:: I didn't mean it that way. //Relationship Edwin1 2
+Option1b:: Well, what's your answer? //Relationship Edwin1 -1
+
+Response1a:: Yeah all right, you seem *hic* genuine enough. No offense taken, farmer.[]It's like I said, this is my favorite place to *hic* get a drink. I stumbled in from the road and *hic* took a seat. Simple as that.
+Response1b:: I don't gotta answer none of your questions. 'Specially if that's how ya talk to people. No manners.
+
+Option2a:: I'm sorry, my mistake.
+Option2b:: I just haven't seen you around town is all.
+
+Response2a:: HAH! Don't ya worry, kid. I'm messin' with ya.[]I'm not native here. But my home's not much different, all told. Friendly *hic* people, tight community. I guess the only real difference is - it's full'a Elves!
+Response2b:: HAH! Don't ya worry, kid. I'm messin' with ya.[]I'm not native here. But my home's not much different, all told. Friendly *hic* people, tight community. I guess the only real difference is - it's full'a Elves!
+
+End

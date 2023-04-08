@@ -1,0 +1,9 @@
+Ronald Cycle 0
+
+Dialogue:: You must be the new farmer I've heard about. Welcome to our tavern! 
+
+Option1:: Hello, my name is XX.
+
+Response1:: And I'm Ronald. Let me know if you're craving anything to eat or drink, you hear?
+
+End

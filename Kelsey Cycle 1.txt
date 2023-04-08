@@ -1,0 +1,23 @@
+Kelsey Cycle 1
+
+Dialogue:: Welcome again, friend! If you don't have animals of your own, this is the cart for you, yes yes!
+
+Option1:: Where do your wares come from?
+Option2:: So... the giant milk...
+
+Response1:: My family works as farmers. We have a large farm, many days from here! I travel to Sun Haven to sell what we make, yes yes!
+Response2:: It comes from our cows, of course! They produce a lot, because we take such good care of them, yes yes! Drink up!
+
+Option1a:: Do you sell anywhere else?
+Option1b:: Why Sun Haven?
+
+Response1a:: My brothers and sisters all go to different towns! We sell far and wide!
+Response1b:: Sun Haven hasn't had a farmer in a long time, so there's always buyers here, yes yes! Don't you know there's no farmer in Sun Haven, heehee?
+
+Option2a:: It's an impressive setup! //Relationship Kelsey1 -1
+Option2b:: I don't need your milk. //Relationship Kelsey1 2
+ 
+Response2a:: My father is a great craftsman! Our milkcarts are his own design, yes yes!
+Response2b:: Fine! More milk for everyone else, heehee.
+
+End

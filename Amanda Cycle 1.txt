@@ -1,0 +1,33 @@
+Amanda Cycle 1
+
+Dialogue:: Hello. Unless you need something from me, go ahead and grab a book.
+
+
+Option1:: Are you from Sun Haven?
+
+Option2:: How many books have you read?
+
+
+Response1:: Yes, I'm a native here. The library was a comfortable place for me when I was a kid. Still is, too.
+
+Response2:: I don't know. Probably about equal to the number of head injuries you've had.
+
+
+Option1a:: Was this your dream job as a kid, then?
+
+Option1b:: I don't blame you, libraries are so cozy.
+
+Response1a:: My dream job as a kid was to be a dragon. This was a pretty close second.
+
+Response1b:: And they're usually so quiet too. You know. Usually.
+
+
+Option2a:: I actually believe that! //Relationship Amanda1 2
+
+Option2b:: You don't have to be rude. //Relationship Amanda1 -1
+
+Response2a:: To your credit, you sure know how to take a joke.
+
+Response2b:: And you don't have to distract me.
+
+End

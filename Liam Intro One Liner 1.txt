@@ -1,0 +1,5 @@
+Liam Intro One Liner 1
+
+Dialogue:: Take a stroll through my wheat field sometime, it's really peaceful. Just don't trample the wheat, please.
+
+End

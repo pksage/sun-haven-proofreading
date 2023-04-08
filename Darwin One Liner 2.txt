@@ -1,0 +1,5 @@
+Darwin One Liner 2
+
+Dialogue:: No jelly! Only jams! Jams, I say!							
+
+End

@@ -1,0 +1,9 @@
+Quincy Cycle 0
+
+Dialogue:: Oh look, it's our new farmer! Hello farmer, call me Quincy.
+
+Option1:: Hi Quincy, my name is XX.
+
+Response1:: XX, what a fun name! 
+
+End

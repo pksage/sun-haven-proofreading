@@ -1,0 +1,33 @@
+Allison Cycle 2
+
+Dialogue:: By now, I think of Sun Haven as my home away from home.
+
+
+Option1:: You seem to really care about this town.
+
+Option2:: Have you heard rumors of a monster town?
+
+
+Response1:: I'm here to protect Sun Haven, so I have to care about it. Sometimes I even pretend to switch lives with people to try and understand them better.[]That might sound kooky, but it helps.
+
+Response2:: Withergate? Of course! Who hasn't?
+
+
+Option1a:: That's a little weird.
+
+Option1b:: That's really thoughtful.
+
+Response1a:: Fine, call me a little weird then. //Relationship Allison2 -1
+
+Response1b:: I think so too. Plus, it keeps me entertained! For the record, Solon's life is the most fun. //Relationship Allison2 2
+
+
+Option2a:: Are you worried? 
+
+Option2b:: You don't sound worried. 
+
+Response2a:: I guess I'm a little worried. Or maybe I'm just wary. Either way, I'm glad I have the training to deal with any possible attacks.
+
+Response2b:: If I panic, then how can I expect the civilians to stay calm? I have to lead by example, just like Nathaniel says.
+
+End

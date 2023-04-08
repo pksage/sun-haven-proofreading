@@ -1,0 +1,33 @@
+Camila Cycle 2
+
+Dialogue:: Working hard, farmer? I suppose you'd have to, huh?
+
+
+Option1:: What do you do for work?
+
+Option2:: You're right, farming is hard work.
+
+
+Response1:: I rent a room out to travelers. Business has been down lately, as you can imagine.
+
+Response2:: Don't I know it. That's why I never bothered with farming.
+
+
+Option1a:: Why wouldn't your customers just stay at the inn above the tavern? 
+
+Option1b:: That's a smart business model. 
+
+Response1a:: People are happy to pay for a private space. The inn can get pretty raucus on a busy night.
+
+Response1b:: It was Anne's idea. She's a great resource if you're planning a business. She's good company, too!
+
+
+Option2a:: Afraid of a little hard work? //Relationship Camila2 -1
+
+Option2b:: Good thing, or I wouldn't have a job right now! //Relationship Camila2 1
+
+Response2a:: A good friend told me to work smart, not hard. That thinking has kept me very comfortable here.
+
+Response2b:: Heh, I guess that's right. I'm glad it worked out for the two of us, then.
+
+End

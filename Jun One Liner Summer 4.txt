@@ -1,0 +1,5 @@
+Jun One Liner Summer 4
+
+Dialogue:: You've really turned that old farm around, XX! It's such a beautiful place now.
+
+End

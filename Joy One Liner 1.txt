@@ -1,0 +1,5 @@
+Joy One Liner 1
+
+Dialogue:: Happy holidays! Got all sorts of drinks for sale, plus some exclusive winter goodies. Can I get you anything?
+
+End

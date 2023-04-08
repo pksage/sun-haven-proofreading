@@ -1,0 +1,33 @@
+Anne Cycle 8
+
+Dialogue:: Hi XX. You look far off... Something on your mind?
+
+Option1:: Topi and Pod have me thinking. What's your favorite childhood memory?
+
+Option2:: Speaking of far off... If you could travel anywhere, where would it be?
+
+
+Response1:: I don't really have an answer. Look, I had a rough childhood. I didn't have birthday parties or lollipops whenever I scraped my elbows. And in case my tone isn't clear, I don't like getting into it.
+
+Response2:: That's easy, the Southern Region. I've always wanted to live in a tropical paradise, and the water there is warm enough to swim in every day. I can already see my cabana on the beach!
+
+
+Option1a:: I'm sure there was someone who could have helped you. //Relationship Anne8 -1 Mad
+
+Option1b:: If you ever do want to talk, you can talk to me. //Relationship Anne8 2 Embarrassed
+
+Response1a:: How can you say that when you don't even know what happened? Don't try to help people who don't ask for it, XX.
+
+Response1b:: Thanks for the offer, I guess. Jun has tried to squeeze it out of me before but he's so... tender. He means well, but it annoys me. I appreciate what you said though, XX. I'll keep it in mind.
+
+
+Option2a:: Do you think you would continue working as a merchant? //Emote none Happy
+
+Option2b:: Why do you want to live on the islands? //Emote none Happy
+
+Response2a:: Of course! My plan is to have a partner in the north send me items that I can label as "exotic" in the south. Then I could open a shop that's small but with high-value goods.[]Low work, high payoff. That's the life!
+
+Response2b:: The Southern islanders know how to live! They work the days and celebrate the nights. Plus, the islands get a lot of tourists.[]It's the perfect work-life balance - work off the tourists and live with the natives.
+
+
+End

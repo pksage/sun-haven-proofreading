@@ -1,0 +1,23 @@
+Sable Cycle 1
+
+Dialogue:: Are you a fast swimmer? I bet you're even faster than Rel'Tar!
+
+Option1:: What makes you ask that?
+Option2:: Rel'Tar?
+
+Response1:: I want to go swimming, but I can't because my wings won't work anymore. So I ask people about swimming instead!
+Response2:: Yeah, the crossbow man! He swims fast, but he used to be faster. That's what he says, anyway.[]Rel'Tar is nice but he gets real angry when I play with his crossbows, hehe.
+
+Option1a:: If you could, I bet you'd be a fast swimmer. //Relationship Sable1 2
+Option1b:: You should stop talking about swimming if it's dangerous to you. //Relationship Sable1 -1
+
+Response1a:: I think so too! I'm the fastest flyer of all my sisters. Swimming looks a lot like flying, so I know I'd be fast.
+Response1b:: It's just talk, sheesh... I won't jump in the ocean or anything, promise!
+
+Option2a:: What do you mean, he used to be faster?
+Option2b:: Do you spend a lot of time with him?
+
+Response2a:: His legs don't work like they used to. Or maybe, his knees? He told me but I don't remember 'cause he tells me lots of things.[]I know for sure that he doesn't run very fast at all. He swims even faster than he runs, isn't that funny? Just like a fishy!
+Response2b:: Sure, he tells me lots of things. I learn a lot, too. Like, his legs don't work like they used to. Or maybe it's his knees? He told me but I don't remember 'cause he tells me lots of things.[]I know for sure that he doesn't run very fast at all. He swims even faster than he runs, isn't that funny? Just like a fishy!
+
+End

@@ -1,0 +1,5 @@
+Chester Intro One Liner 1
+
+Dialogue:: Actually, if you left me alone here I would be <i>purr</i>fectly happy.																																																																	
+
+End

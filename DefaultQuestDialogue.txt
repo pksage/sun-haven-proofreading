@@ -1,0 +1,25 @@
+QuestName
+
+Dialogue:: 
+
+
+Option1:: 
+
+Option2(Permanent):: 
+
+
+Response1:: 
+
+Response2:: 
+
+
+Option2a::  //Quest none QuestName
+
+Option2b:: 
+
+
+Response2a::  (End)
+
+Response2b::  (End)
+
+End

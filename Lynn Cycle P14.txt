@@ -1,0 +1,34 @@
+Lynn Cycle P14
+
+Dialogue:: When Solon works hard, he works <i>really</i> hard! He was smacking a breastplate with such force the other day that he cracked the anvil nearly in half!
+
+
+Option1:: Your ears must be ringing at the end of the day.
+
+Option2:: Does it ever make you want to find a new place to work?
+
+
+Response1:: It's true! No one seems to think how loud working in a smithery must be! Thankfully Solon normally has enough wares that he only worries about selling the stock.[]But whenever he gets on an anvil... my head rings for days!
+
+Response2:: Of course not! I find Solon incredibly inspiring, actually. To strike metal so hard you break your anvil! It's not just his raw strength that does that, you know.[]Solon is working, all day every day, honing his mastery. If I could even be a tenth the blacksmith Solon is, I'd be so proud of myself.
+
+
+Option1a:: You should try some kind of ear plugs.
+
+Option1b:: My head hurts just thinking about it.
+
+Response1a:: Hmm. To plug up my ears? That's maybe not a bad idea, XX. I'll have to look into that sometime!
+
+Response1b:: Well, I hope next time you're exhausted after a hard day work that you count your lucky stars that you don't have to put up with Solon's hammering!
+
+
+Option2a:: You're going to surpass Solon in no time! //Relationship LynnP14 2 Happy
+
+Option2b:: A student could never surpass a master. //Relationship LynnP14 -1 Mad
+
+Response2a:: No matter what, it's what I want to do! I don't care how many hammer smacks I have to listen to!
+
+Response2b:: Sorry XX, but I've never heard anything so ridiculous.
+
+
+End

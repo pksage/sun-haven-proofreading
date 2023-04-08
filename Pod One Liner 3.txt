@@ -1,0 +1,5 @@
+Pod One Liner 3
+
+Dialogue:: When no one's looking, I hide snacks in my pants. But not in the pockets, 'cause that's what they expect.												
+
+End

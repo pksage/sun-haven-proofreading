@@ -1,0 +1,5 @@
+Vaan Intro One Liner 2
+
+Dialogue:: I can't chat for long right now, but I'm glad we officially met, XX.
+
+End

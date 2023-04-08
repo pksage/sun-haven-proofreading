@@ -1,0 +1,23 @@
+Nivara Cycle 5
+
+Dialogue:: It is good to see you again, XX. I am happy to watch you as you continue to grow.
+
+Option1:: Are we friends, Nivara?
+Option2:: What is your relationship with Elios like?
+
+Response1:: Why wouldn't we be, little sprout? I count all in Nel'Vari as my friends. You are no different. You are my student and my dear friend.
+Response2:: Elios is wise and powerful, and full of pride. We are much the same in those ways. His pride is for his people, just as mine is.[]We differ, however, in that Elios has always preferred a more direct approach to helping his pupils grow.[]It is something that he has struggled with in the past... though I can not judge him, for I also had my own struggles with <i>my</i>  methods. Neither of us was perfect, XX.[]We are much wiser today than we were in our younger years, and we remain strong friends.
+
+Option1a:: You're my friend too, Nivara. //Relationship Nivara5 2
+Option1b:: Of course you are. You're special... just like everyone else. <i>Nivara chuckles to herself</i>. //Relationship Nivara5 2
+
+Response1a:: I am honored that you think so, XX.
+Response1b:: This forest is certainly a special place. I have chosen it because of the Elves' immense influence on this part of the world. They deserve every bit as much credit as I do.
+
+Option2a:: Elios and you, not perfect?
+Option2b:: I had no idea your history was so... storied.
+
+Response2a:: Is that so hard to believe, XX? All trees begin as seeds. Guardian dragons are no different.
+Response2b:: There is much to tell, but now is perhaps not the time. I believe you're capable of discovering tales of my history, if it truly interests you.
+
+End

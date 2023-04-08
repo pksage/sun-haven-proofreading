@@ -1,0 +1,33 @@
+Xyla Cycle 7
+
+Dialogue:: Welcome back, outsider. I guess you're sticking around, huh?[]I guess I can't blame you. This city is just too great.
+
+Option1:: Hey, where did you live before Withergate?
+
+Option2:: Hey, if you could live anywhere in the world, where would you go? //Emote none Happy
+
+
+Response1:: Before Withergate City was built, there was only the castle. The Demon King took me in after Darius found me living in a cave out in the wilds.[]I didn't really have a home before that and I've got to say... I kind of miss it!
+
+Response2:: Anywhere, huh? I've heard that the Naga have some real intricate cave systems that include whole cities. I don't know why, but there's just something so comfy about a dark, dripping cave.
+
+
+Option1a:: So you owe it all to Darius, huh? //Emote none Mad
+
+Option1b:: Living in a cave is pretty hardcore.
+
+Response1a:: I don't owe anything to anyone, outsider. Darius has my respect and loyalty - even my friendship! - but he doesn't own me.
+
+Response1b:: For once I agree with you! But it flooded when it rained, so I decided to follow Darius back to the castle anyway. Eh, it worked out all right.
+
+
+Option2a:: A cave sounds awful. //Relationship Xyla7 -1 Mad
+
+Option2b:: I guess I can see why you'd be comfortable there. //Relationship Xyla7 2
+
+Response2a:: Hey, you asked me the question. What did you expect - a tropical beach? That's not my style.
+
+Response2b:: Caves are safe and private. Honestly, I don't know why more people aren't living in caves!
+
+
+End

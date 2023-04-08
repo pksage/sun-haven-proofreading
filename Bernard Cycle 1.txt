@@ -1,0 +1,33 @@
+Bernard Cycle 1
+
+Dialogue:: The farmer, hello again.
+
+
+Option1:: Have you worked with Lucia long?
+
+Option2:: So what exactly is your job?
+
+
+Response1:: You could say that. I was good friends with her grandparents, so I've known her since she was a young girl growing up here.
+
+Response2:: I'm the town administrator, meaning I take care of all the managerial business that Lucia is too busy to perform. I also officiate marriages, should anyone in town be so lucky.
+
+
+Option1a:: Would you say you're friends? 
+
+Option1b:: So you knew her personally, before she was Archmage? 
+
+Response1a:: I suppose that's the right term. It feels almost like a guardianship, though I know she needs no guidance from me.[]Still, I can't help but remember her as a child toddling around the town square in diapers.[]Oh, please don't tell her I mentioned that. For obvious reasons, she hates when I bring that up.
+
+Response1b:: When the day came that she became the town's Archmage, I couldn't believe it. I can still see her toddling around the town square in diapers, and now she leads all of Sun Haven.[]Yes, I know her well. Her spirit is undefeatable. She will pull us out of the struggle we find ourselves in. And I have promised to help her the whole way.
+
+
+Option2a:: Your work sounds important! //Relationship Bernard1 2
+
+Option2b:: Are you bored with your job? //Relationship Bernard1 -1
+
+Response2a:: Indeed it is, even though it's entirely behind the scenes. However, I don't necessarily need recognition to make an impact on Sun Haven.
+
+Response2b:: It sounds that boring to you? Good thing it's not your job then. I enjoy helping the town, so I enjoy my work.
+
+End

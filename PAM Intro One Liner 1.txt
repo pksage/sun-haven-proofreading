@@ -1,0 +1,5 @@
+PAM Intro One Liner 1
+
+Dialogue:: My batteries are lunar-powered, so I can run forever!
+
+End

@@ -1,0 +1,9 @@
+Spectral Knight Cycle 0
+
+Dialogue:: Hello there! Admiring my shine, are we? 
+
+Option1:: My name's XX, who are you?
+
+Response1:: My true name was lost long ago. Here, I'm called the Spectral Knight. I quite like the title!
+
+End

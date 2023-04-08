@@ -1,0 +1,5 @@
+Claude One Liner 4
+
+Dialogue:: No thanks, I'm not feeling too chatty right now.
+
+End

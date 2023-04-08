@@ -1,0 +1,34 @@
+Lynn Cycle P12
+
+Dialogue:: My family mailed me a package of my mother's homemade honeycakes. I was going to share them with everyone, but I... kinda ate the entire box. They were just so good!
+
+
+Option1:: You ate an entire box of cakes?!
+
+Option2:: So your mom is a baker, huh? I thought she was a blacksmith.
+
+
+Response1:: It isn't like I meant to!! It just made me realize how much I miss my family back home. Even if Liam is twice the baker my mom could ever be, it's like I could taste the love.
+
+Response2:: Well, my mother bakes. She isn't really a 'baker' like Liam. I have a cousin who is a pretty good baker, but he ended up moving away up to a bigger village.[]When I'm a master smith, I always wanted to travel up there and pop in on him as a surprise! He'd never expect quiet little Lynn to do something like that!
+
+
+Option1a:: Are you thinking about moving back home?
+
+Option1b:: Everything tastes better when mom makes it.
+
+Response1a:: No, I miss it sometimes, but I'm focused on Sun Haven for the time being.[]Maybe there'll come a day when I move back home, but it won't be until after I become a master smith!
+
+Response1b:: Right? Now I'm super regretting that I ate them all myself!! I swear, next time she sends me something, you're going to be the first to try it! Well, after me, at least!
+
+
+Option2a:: I'm sure he wouldn't want to be bothered like that. //Relationship LynnP12 -1 Mad
+
+Option2b:: The look on his face is going to be priceless! //Relationship LynnP12 2 Happy
+
+Response2a:: We were actually really close growing up. I know he'd be thrilled to see me, so you probably don't know what you're talking about!
+
+Response2b:: Tell me about it! I don't even think he knows I left the village, even. Busting into his bakery and flexing my master blacksmith skills on him? I bet he'd be likely to fall faint!
+
+
+End

@@ -1,0 +1,5 @@
+Lucia One Liner 2
+
+Dialogue:: Sorry, I can't talk for long. I'm going over city planning today at the town hall. It is... unexciting.							
+
+End

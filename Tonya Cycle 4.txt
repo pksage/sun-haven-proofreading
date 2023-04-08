@@ -1,0 +1,23 @@
+Tonya Cycle 4
+
+Dialogue:: Everytime I see you, you look a little bit stronger! You must be really working your farm over there.
+
+Option1:: Do you really think I'm looking stronger?
+Option2:: The farm keeps me plenty busy.
+
+Response1:: I'm not joking, if that's what you think. I take fitness seriously, and it seems you do too.[]Oh, maybe we could start a class together! It's time the neighborhood got into shape.
+Response2:: I can see that! Sometimes I think Giuseppe would benefit from more work, too. But then I see how good he is with the kids and, well, it would be a shame to sacrifice that.
+
+Option1a:: That sounds fun!
+Option1b:: I'm too busy for something like that.
+
+Response1a:: Really? Nobody in town is ever so excited about exercise - other than me, of course.
+Response1b:: And here I thought you could be the fellow health nut I've been waiting for in Sun Haven. Oh well, maybe I can get Giuseppe to do some sit ups... yeah right!
+
+Option2a:: You're lucky to have each other. //Relationship Tonya4 2
+Option2b:: Isn't it worth it if Giuseppe is healthier? //Relationship Tonya4 -1
+
+Response2a:: Don't I know it! Even if we get into a squabble, he has me laughing by the end of it.
+Response2b:: Hm, I don't think so. It's easy to be healthy, but it's difficult to be a good parent.
+
+End

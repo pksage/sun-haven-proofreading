@@ -1,0 +1,24 @@
+Dynus Cycle 1
+
+Dialogue:: You've returned... Speak, or cease wasting my time.
+
+Option1:: Were you a guardian dragon before you came to Withergate?
+Option2:: How did you come to Withergate?
+
+Response1:: No, that was never my purpose... I only guard Withergate for its convenience.
+Response2:: Withergate... came to me. My power attracted the Demons... they knew their place before long.
+
+Option1a:: So you're only here for the glorite?
+Option1b:: Do you care about Withergate at all?
+
+Response1a:: Indeed, there is no hoard like this anywhere else... in the entire world.
+Response1b:: I care only... for what Withergate will do for my rise to power... This place is but a stepping stone... on my path to greatness.
+
+Option2a:: You've secured a lot of power here. //Relationship Dynus1 2
+Option2b:: Did you need the Demon's help? //Relationship Dynus1 -1
+
+Response2a:: This is a mere fraction of what is to come... When my empire is complete, no power in this world... will rival mine.
+
+Response2b:: Ignorant rat... I needed no aid. The Demons came to me... and I chose the partnership with Minos... in exchange for their tributes.
+
+End

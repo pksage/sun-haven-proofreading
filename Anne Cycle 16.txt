@@ -1,0 +1,29 @@
+Anne Cycle 16
+
+Dialogue:: I don't think you realize just how lucky you are, XX. I have a lot of suitors, you know. But you're the only one who ever got a ring on me.
+
+Option1:: You had other suitors?
+Option2:: Putting a ring on you was no easy feat! //Emote none Happy
+
+Response1:: Well, they thought so. I never really had an interest in any of them despite the many, many gifts they sent me.[]I've gained admirers in a lot of places, but all of them want me the same way they want a pile of gold. You're the only person who's made me feel wanted as a person and not a trophy.
+
+Response2:: Good! I've worked hard my entire life - it's time someone else worked hard for <i>me</i>![]When it comes down to it, it makes sense that the hardest worker won me over. And nobody works harder than a farmer! 
+
+Option1a:: Who needs trophies when I've got you? //Relationship Anne16 2 Happy
+
+Option1b:: You should have told me about these "suitors" earlier. //Relationship Anne16 -1 Mad
+
+Response1a:: Heh, oh <i>please</i> get all sappy for me, XX. I think I'm warming up to your cheesy lines!
+
+Response1b:: Really, XX? They were nothing to me, so why mention them?[]We're married, remember? You don't need to be so insecure.
+
+
+Option2a:: I could say the same about you, Miss Renowned Merchant. //Emote none Romantic
+Option2b:: I wasn't competing, I was only doing what I wanted to do. //Emote none Happy
+
+
+Response2a:: Excuse me? That's <i>Mrs.</i> Renowned Merchant now!
+
+Response2b:: That's the kind of thing that sets you apart from the others XX. Did you hear yourself? You weren't even competing! Oh my, what style, what class! 
+
+End

@@ -1,0 +1,5 @@
+Generic Guard One Liner 2
+
+Dialogue:: Is someone there? I can barely see out of this thing...						
+
+End

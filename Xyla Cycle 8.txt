@@ -1,0 +1,33 @@
+Xyla Cycle 8
+
+Dialogue:: If you're going to spend so much time here, you might as well help out. Most of our citizens contribute somehow, you know.
+
+Option1:: Is that where all of this technology came from?
+
+Option2:: Hey, I'm a very helpful person.
+
+
+Response1:: I'd love to take credit for all our awesome lights, but that's the one part of Withergate I had nothing to do with.[]The people actually brought all this technology with them from... wherever they came from. The takeaway is, even our lowest citizens have more to offer than your Human town!
+
+Response2:: Maybe, or maybe you're just in it for the pay.[]Actually, that reminds me. I have something for you. Don't read into it too much, but it's a gift.
+
+
+Option1a:: You still had something to do with it, you know. //Relationship Xyla8 2 Happy
+
+Option1b:: You shouldn't call them your "lowest citizens." //Relationship Xyla8 -1 Mad
+
+Response1a:: Hm, yeah I guess you're right. They wouldn't even be here if not for me. Good point, farmer!
+
+Response1b:: If that actually bothers you, then you have no sense of class. It's called hierarchy, and you're at the bottom.
+
+
+Option2a:: Wait, you have a gift for me? //AddItem none Xyla'sQueenChessPiece 1
+
+Option2b:: You've never surprised me like this before! //AddItem none Xyla'sQueenChessPiece 1
+
+Response2a:: Yeah yeah, don't make a big thing about it. I figure since we're starting to be... friends and all...[]Anyway, just take this. It's a chess piece, the black queen. I swiped it from the Demon King's chess set when we were remodeling the throne room.[]I thought it would remind you of me. Also, I don't want to get blamed for the stolen piece. You're welcome!
+
+Response2b:: Yeah yeah, don't make a big thing about it. I figure since we're starting to be... friends and all...[]Anyway, just take this. It's a chess piece, the black queen. I swiped it from the Demon King's chess set when we were remodeling the throne room.[]I thought it would remind you of me. Also, I don't want to get blamed for the stolen piece. You're welcome!
+
+
+End

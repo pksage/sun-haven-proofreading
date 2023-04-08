@@ -1,0 +1,33 @@
+Wornhardt Cycle 2
+
+Dialogue:: Sun Haven is such a pleasant little town. It's unbelievable that some people are scared to travel here.
+
+Option1:: Are you worried about the rumors?
+
+Option2:: How long do you think you'll stay here, Wornhardt?
+
+
+Response1:: Ah yes, Withergate, land of monsters, city of the underbelly... I don't know about any of that, but the idea of a monster attack is worrying even if it's unlikely.
+
+Response2:: I haven't thought about it too much, but as long as I'm happy then I don't see any reason to leave. 
+
+
+Option1a:: It's a good thing we have you in town, just in case.
+
+Option1b:: I don't think it will come to that.
+
+Response1a:: Right, it's a good thing... But I hope it doesn't come to that. I moved to Sun Haven to avoid that kind of action.
+
+Response1b:: Neither do I, but there is this little voice in the back of my head that keeps reminding me of things like that, things that worry me. I've been trying to ignore that voice for a long time.
+
+
+Option2a:: It's important to let yourself be happy. //Relationship Wornhardt2 2 Happy
+
+Option2b:: So you'll just abandon Sun Haven as soon as you're unhappy with it? //Relationship Wornhardt2 -1 Sad
+
+Response2a:: I agree. We should enjoy the happy little things while they're here with us.[]I like chatting with you, XX. For some reason, the conversation just flows.
+
+Response2b:: That's not what I said, XX. There's no need to get worked up. Why don't you take a few breaths and relax?
+
+
+End

@@ -1,0 +1,23 @@
+Kitty Cycle 17
+
+Dialogue:: Hello hello, happy day XX! It's going to be a happy day because my animals told me so.
+
+Option1:: You can... talk to animals?  //Emote none Embarrassed
+Option2:: What are you going to do on this happy day?
+
+Response1:: Huh? No, silly! Don't joke XX, I can just tell by their moods, nya.[]Today the chickens were bobbing their heads a lot and talking to each other. If the chickens are happy, then it's a happy day!
+Response2:: I was thinking of stretching in the sunshine... but then I remembered how Roza told me not to lay down on the paths, nyaaaan.
+
+Option1a:: It's incredible how well you know those animals. //Relationship Kitty17 2 Happy
+Option1b:: I don't know why you think that means they're happy. //Relationship Kitty17 -1 Sad
+
+Response1a:: It only takes time to get to know them, nya. You can do the same thing too, easy easy. Just spend time with animals on your farm and you'll see!
+Response1b:: You don't understand the animals like I do, XX. I'm friends with all my animals, nya nya!
+
+Option2a:: Why not lay on the grass?
+Option2b:: Why not go for a run?
+
+Response2a:: The grass doesn't get as warm as the paths do. I also like to rub my cheeks in the hard ground, teehee!
+Response2b:: Or better yet - a chase! But who should I chase... Squirrel? Bird? Pod? Choices, choices, nya...
+
+End

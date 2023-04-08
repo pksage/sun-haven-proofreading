@@ -1,0 +1,9 @@
+Renee Cycle 0
+
+Dialogue:: Hi! Are you new around here? I hope you find Sun Haven to be a great home!
+
+Option1:: Hi! I moved here from the Great City.
+
+Response1:: Wow, the Great City? That's amazing! People from all over the four regions living here in Sun Haven!
+
+End

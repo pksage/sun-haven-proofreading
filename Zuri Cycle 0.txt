@@ -1,0 +1,9 @@
+Zuri Cycle 0
+
+Dialogue:: I don't recognize you. Are you new?
+
+Option1:: I'm XX. Who are you?
+
+Response1:: Call me Zuri. Let me know if you wanna go 'round the wheel, eh?
+
+End

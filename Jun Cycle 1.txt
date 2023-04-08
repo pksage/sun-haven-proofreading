@@ -1,0 +1,33 @@
+Jun Cycle 1
+
+Dialogue:: XX, great to see you again![]If you have the time, I'd love to check in with you. I am the town's counselor, after all.
+
+Option1:: Sure, let's check in!
+
+Option2:: What do you do as a counselor?
+
+
+Response1:: How are you settling in, XX? 
+
+Response2:: Simply put, I talk to people about their problems. If you're feeling overwhelmed, come find me. Everybody needs someone to talk to.
+
+
+Option1a:: I've been settling in well. //Emote none Happy
+
+Option1b:: Sometimes I get lost around here. //Emote none Embarrassed
+
+Response1a:: That's really good to hear, XX. You already look much more comfortable than when you first showed up.
+
+Response1b:: I would love to help, but... I'm terrible at giving directions.
+
+
+Option2a:: People need to learn to deal with their own problems. //Relationship Jun1 -1 Mad
+
+Option2b:: This town is lucky to have someone like you in it. //Relationship Jun1 2 Happy
+
+Response2a:: I'm surprised to hear you say something like that.
+
+Response2b:: Thanks, XX. I knew you were a kind person.
+
+
+End

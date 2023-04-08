@@ -1,0 +1,23 @@
+Liam Cycle P11
+
+Dialogue:: My back's been aching the last couple of days. Makes bending down a real pain!
+
+Option1:: Have you been to the hospital for it yet?
+Option2:: You should take it a little easier on yourself.
+
+Response1:: Eh, I didn't really want to trouble anyone... I think it's fine, really. It's just a little crick in the back, you know?
+Response2:: Yeah, you're right, XX. I should, but I've gotten so many orders lately. People in Sun Haven really depend on me, so I have a real hard time telling anyone "no".
+
+Option1a:: Go see a doctor, Liam. //Emote none Embarrassed
+Option1b:: Doctors like Wornhardt are here to help, you should get checked out. //Emote none Embarrassed
+
+Response1a:: I just don't want to be a bother is all... oh, alright, XX. I'll go make an appointment...
+Response1b:: I just don't want to be a bother is all... oh, alright, XX. I'll go make an appointment...
+
+Option2a:: It's okay if you can't always help everyone. //Relationship LiamP11 2 Happy
+Option2b:: You have to learn to turn people down. //Relationship LiamP11 -1 Sad
+
+Response2a:: I know, XX. I just have a really hard time feeling like I'm letting someone down, especially when they need me for something.[]This is a problem I'm really trying to work on, so thanks for being supportive.
+Response2b:: Something like that is just too hard for me. Look, can we forget I said anything, please? I'll just put up with the extra work. It's fine, really.
+
+End

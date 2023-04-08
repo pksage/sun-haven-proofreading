@@ -1,0 +1,25 @@
+JustWhatTheDoctorOrderedQuest
+
+Dialogue:: Welcome, XX. Say, are you busy? If not, do you want to be?
+
+
+Option1:: Why do you ask?
+
+Option2(Permanent):: How can I help?
+
+
+Response1:: I'm waiting on an order. It's some medicine that Catherine ordered for me, but it's taking longer than expected.
+
+Response2:: I wondered if you could stop by Catherine's shop to check on my order.
+
+
+Option2a:: I can do that for you! //Quest none JustWhatTheDoctorOrderedQuest
+
+Option2b:: I'm too busy to help right now.
+
+
+Response2a:: Fantastic! I'll be waiting. (End)
+
+Response2b:: Oh, that's too bad. (End)
+
+End

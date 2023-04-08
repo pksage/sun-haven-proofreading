@@ -1,0 +1,23 @@
+Zeke Cycle 1
+
+Dialogue:: Didn't we meet already? It's hard to keep track of all the faces here.
+
+Option1:: Do you like living in Withergate?
+Option2:: What do you do here?
+
+Response1:: The folk in this town are worth their salt, that's for certain. I'm a martial artist, so I know how to spot people with potential.[]I love being surrounded by that energy, like anyone around might start a fight.
+Response2:: I do work around the carnival. It's nothing exciting, just keeping people in order for the most part.[]I like it because it comes with a lot of down time. That's why I practice my martial arts.
+
+Option1a:: So you're hoping for a fight?
+Option1b:: You sound like a violent person.
+
+Response1a:: That's not quite what I mean. I don't <i>want</i> to get into any trouble. That's not the way of the martial artist.[]Still, knowing that there are some people here whose strength rivals my own - now <i>that</i> is thrilling.
+Response1b:: I guess that's true, but I'm not trying to start any trouble or anything. I'm here in case trouble breaks out. Still, it's exciting to know that there are people here whose strength rivals my own.
+
+Option2a:: You're keeping order here? That explains a lot... //Relationship Zeke1 -1
+Option2b:: To keep people in line takes a strong will. //Relationship Zeke1 2
+
+Response2a:: Excuse me??[]Wait... forget it. You're not worth my time.
+Response2b:: Hm? You almost sound like a martial artist, speaking like that! I'm starting to like you, XX.
+
+End

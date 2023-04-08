@@ -1,0 +1,5 @@
+Hungry Slime One Liner 3
+
+Dialogue:: Don't forget - you gotta feed me or else I'm slimin' the place!					
+
+End

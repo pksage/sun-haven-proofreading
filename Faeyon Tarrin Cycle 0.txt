@@ -1,0 +1,9 @@
+Faeyon Tarrin Cycle 0
+
+Dialogue:: So you managed to find your way into town after all?[]I saw you walking through the fog earlier. I'm Faeyon Tarrin, but you may call me Faeyon.
+
+Option1:: Good to meet you Faeyon. I'm XX.
+
+Response1:: XX, welcome to Withergate. This city is an oddity, as you'll see. I'm curious to know how you'll get along here.
+
+End

@@ -1,0 +1,5 @@
+Bloberta One Liner 1
+
+Dialogue:: Hello valued shopper. What can I do for you today? ...Please say you don't need anything.																																																																			
+
+End

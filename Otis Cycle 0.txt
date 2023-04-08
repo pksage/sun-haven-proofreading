@@ -1,0 +1,11 @@
+Otis Cycle 0
+
+Dialogue:: Come on, farmer! Plant a few seeds, beautify the world in darkness!
+
+Option1:: What are these seeds?
+Option2:: So who are you?
+
+Response1:: I told'ya before, didn't I? These are <color=#39CCFF>special flowers</color> that <color=#39CCFF>grow in darkness</color>! I mean, they grow in sunlight, too, but why would ya' plant them in the <i>sun</i>?[]They even drop <color=#39CCFF>essence of darkness</color> when they bloom! So that's neat, huh?
+Response2:: I'm just a monster who loves himself some Dynus. The Moon Dragon is gonna make everything better, you'll see! Withergate is a great place, so just think about a whole <i>world</i>  of Withergate!
+
+End

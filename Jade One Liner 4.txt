@@ -1,0 +1,4 @@
+Jade One Liner 4
+
+Dialogue:: I bet you're a creative type, too.						 																																																							
+End

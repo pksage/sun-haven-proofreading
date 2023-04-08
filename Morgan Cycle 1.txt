@@ -1,0 +1,23 @@
+Morgan Cycle 1
+
+Dialogue:: You're back? I'm sick and tired of newcomers.
+
+Option1:: What's wrong with newcomers?
+Option2:: You need a new attitude.
+
+Response1:: The last time we let a newcomer inside of Nel'Vari, they came back with a small army. That may have been fifty years ago, but it could happen today.
+Response2:: Yeah? Well you need to stay in your own town, with your own people. Leave the Elves alone for once.
+
+Option1a:: You sound paranoid. //Relationship Morgan1 -1
+Option1b:: It's smart to be on guard. //Relationship Morgan1 2
+
+Response1a:: If you'd seen the fight I saw, in these very fields, you would be paranoid too.
+Response1b:: Hm, maybe you're not a threat to us after all. But don't think for a moment that I'm letting my guard down around you.
+
+Option2a:: Don't the Elves live in peace?
+Option2b:: I think you're worried about nothing.
+
+Response2a:: Yes, but there's trouble coming. I can feel it. It feels... cold.
+Response2b:: Since you don't seem to have figured it out yet - I don't much care for you or what you think.
+
+End

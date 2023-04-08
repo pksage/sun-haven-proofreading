@@ -1,0 +1,33 @@
+Kara Cycle 1
+
+Dialogue:: Oh, hello farmer. Good to see you out.
+
+
+Option1:: I haven't seen you in town much.
+
+Option2:: Pod seems like a handful.
+
+
+Response1:: I don't go out a lot. Most days I just don't have the energy for an outing, especially after playing with Pod in the morning.
+
+Response2:: He can be, but I like to see him living life his way. If he gets into a little trouble every now and then - so what? At least he's happy.
+
+
+Option1a:: Are you okay?
+
+Option1b:: Why are you so tired?
+
+Response1a:: Oh yes, thank you. I have a heart condition that gives me fatigue, but it's under control. Doctor Wornhardt and Catherine have both done wonders for me.
+
+Response1b:: I have a heart condition that gives me fatigue, but it's under control. Doctor Wornhardt and Catherine have both done wonders for me!
+
+
+Option2a:: All that matters is that he's happy and safe. //Relationship Kara1 2
+
+Option2b:: That doesn't seem very responsible. //Relationship Kara1 -1
+
+Response2a:: I couldn't agree more.
+
+Response2b:: Thanks for the parenting advice, farmer! But I'll raise my son how I like.
+
+End

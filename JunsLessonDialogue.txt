@@ -1,0 +1,25 @@
+JunsLesson
+
+Dialogue:: XX, I was hoping to bump into you. If you have a moment to spare, I could use your help with something.
+
+
+Option1:: How can I help?
+
+Option2(Permanent):: Where should I go?
+
+
+Response1:: I'm planning a reward-based lesson for the kids and I need <color=#39CCFF>Cookies</color> to use as the reward. You'd be doing me a big favor if you brought me <color=#39CCFF>4 cookies</color>.
+
+Response2:: After you have the <color=#39CCFF>Cookies</color>, you can bring them to my desk in the library.
+
+
+Option2a:: Okay, I'll have your cookies in no time. //Quest none JunsLessonQuest
+
+Option2b:: Sorry, I can't help you right now.
+
+
+Response2a:: Thanks, XX! You're a lifesaver. (End)
+
+Response2b:: Oh, I understand. Don't worry, I can give the kids pretend cookies. (End)
+
+End

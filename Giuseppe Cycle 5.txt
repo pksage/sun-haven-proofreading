@@ -1,0 +1,23 @@
+Giuseppe Cycle 5
+
+Dialogue:: Gotten to know everyone yet? We're not the biggest town on the map, but we sure do have spirit.
+
+Option1:: You're one of the most spirited people in town, Giuseppe.
+Option2:: What do you want Topi to be when he grows up?
+
+Response1:: Aw gee, you think? Heh, thanks farmer! It's not often I get a compliment out of the blue.[]I try to stay positive. If ever I'm feeling down, I just channel that into my art.
+Response2:: I don't want him to be anything, specifically. It's up to him to figure that stuff out. As long as he does what he loves and supports his family, I'd be proud.
+
+Option1a:: That sounds unhealthy.
+Option1b:: That explains a lot about you.
+
+Response1a:: Huh? But Jun told me it was good practice. Maybe I should check in with that guy.
+Response1b:: Oh, don't get the wrong idea! Not <i>all</i> of my art comes from a dark place. Making art is more like a kind of meditation that calms me down. That's how Jun explained it to me, anyway.
+
+Option2a:: Do you support your family? //Relationship Giuseppe5 -1
+Option2b:: You're a good role model for him, then. //Relationship Giuseppe5 2
+
+Response2a:: Alright, let me rephrase it: so long as he does what he loves and at least marries someone who supports a family, I'd be proud.[]I just want to be a grandpa one day!
+Response2b:: Sure! Except for the, um, "support the family" part since Tonya brings in all the money.[]If Topi is lucky enough to find someone who will support his dreams like Tonya does for me, then I'd be proud too. Really, I just want to be a grandpa one day!
+
+End

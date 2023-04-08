@@ -1,0 +1,9 @@
+Salix Cycle 0
+
+Dialogue:: Hm... ?
+
+Option1:: Um, hello. I'm XX...
+
+Response1:: XX. Yes, the forest. You were there. Salix is my name.
+
+End

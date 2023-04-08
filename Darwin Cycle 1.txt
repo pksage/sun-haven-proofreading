@@ -1,0 +1,32 @@
+Darwin Cycle 1
+
+Dialogue:: I've heard you're a farmer. I thank you for growing fruits, but don't go thinking you're qualified to make jam.
+
+
+Option1:: Why can't I make jam?
+
+Option2:: Got any tips for making jam?
+
+Response1:: Feh! Jam making takes years of practice and hard work to perfect! You must be meticulous about the quality of your ingredients and treat them with the proper care they deserve.[]Only then can you even <i>begin</i>  to <i>start</i>  thinking about <i>maybe</i>  making jam!
+
+Response2:: I have many tips! Many! But do you think I would share them so easily? Feh!
+
+
+Option1a:: I had no idea jam making took so much work.
+
+Option1b:: Yeah right, it can't be that hard.
+
+Response1a:: At least you are capable of understanding that much. //Relationship Darwin1 1
+
+Response1b:: Fine, go on and make your little jams. I'm <i>sure</i>  you'll do just fine at it.[]I say that with sarcasm, of course. //Relationship Darwin1 -1
+
+
+Option2a:: I was hoping that you would.
+
+Option2b:: Aw come on, just one tip!
+
+Response2a:: Alright, here's a tip... when you're done mashing fruit into incomprehensible slop, <i>don't</i>  call it a jam. Heh... 
+
+Response2b:: Alright, here's a tip... when you're done mashing fruit into incomprehensible slop, <i>don't</i>  call it a jam. Heh...
+
+End

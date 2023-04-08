@@ -1,0 +1,23 @@
+Bloberta Cycle 1
+
+Dialogue:: Welcome back to the Withergate Train Station Potion Empori-whatever. Are you gonna buy anything?
+
+Option1:: Do you hate your job?
+Option2:: Is potion making fun?
+
+Response1:: Woow is it <i>that</i>  obvious? My cousin Slobert told me this job would be really easy, but he didn't tell me it would also be <i>really</i>  boring.
+Response2:: How should I know? I don't actually make this stuff, I just sell it. My guess is that it must be pretty hard, though. Or else everyone would be doing it, right?
+
+Option1a:: You should get a new job. //Relationship Beeanca1 2
+Option1b:: You should take your job more seriously. //Relationship Beeanca1 -1
+
+Response1a:: That's a good idea. But here's a better one: I should get <i>no</i>  job and hang out with my slimes at the carnival all day.
+Response1b:: Pfft, whatever.
+
+Option2a:: I've dabbled in potion making, myself.
+Option2b:: If you could make a potion, what kind would you make?
+
+Response2a:: Wow, how exciting.[]<i>The slime girl feigns a yawn</i>. 
+Response2b:: Uhhh, I dunno. Slimes are already the ultimate lifeform. What would I need a potion for? Ohh, maybe one that makes me <i>even slimier</i>? That'd be sick!
+
+End

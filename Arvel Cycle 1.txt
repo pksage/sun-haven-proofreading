@@ -1,0 +1,33 @@
+Arvel Cycle 1
+
+Dialogue:: Hello, farmer! I hope your crops are, um, growing.
+
+
+Option1:: I'm surprised you've stayed open through these hard times.
+
+Option2:: What made you want to open a record store?
+
+
+Response1:: Well, what can I say? I'm careful with my money. It helps that the people of Sun Haven really appreciate their music, too.[]Matter of fact, Claude may have single-handedly kept me in business over the years.
+
+Response2:: I know, it's not the safest bet. I'd probably be better off opening something like...[]Aw jeez, I can't even think of another shop to open! That's just it - music is the only thing that I actually know well enough to turn it into a business.
+
+
+Option1a:: It sounds like you owe Claude big time. 
+
+Option1b:: I definitely appreciate music, too! 
+
+Response1a:: Yeah, maybe I should thank him somehow. I guess, a record on the house? What do you get somebody who's rich, anyway?
+
+Response1b:: Well great! Grab yourself a jukebox and some records, and you'll be ready to jam out![]Is that what people say now? "Jam out?" I should really know these things.
+
+
+Option2a:: It's smart to turn your interest into a career. //Relationship Arvel1 2
+
+Option2b:: There's nothing else you're good at? //Relationship Arvel1 -1
+
+Response2a:: Hey, thanks! I'm sure that if I tried farming like you, I'd only end up hurting myself. So you bet I'm grateful to be here!
+
+Response2b:: Well... Man, now you put me on the spot and my mind drawing blanks.
+
+End

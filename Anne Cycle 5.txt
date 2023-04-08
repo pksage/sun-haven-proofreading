@@ -1,0 +1,34 @@
+Anne Cycle 5
+
+Dialogue:: Hey there, XX. Just stopping by?
+
+
+Option1:: Oh, just visiting the best merchant in Sun Haven.
+
+Option2:: Have you always worked alone?
+
+
+Response1:: Didn't I tell you once before that I don't give discounts based on compliments? Heck, I don't give discounts at all.
+
+Response2:: Aside from my old mentor, nobody's ever worked with me but me.
+
+
+Option1a:: That just sounds like smart business to me. //Relationship Anne5 2 Happy
+
+Option1b:: That's nothing to be proud of, you know. //Relationship Anne5 -1 Mad
+
+Response1a:: It's easy to be smart about your business when you work alone. No coworkers to disagree with you, and no splitting profits!
+
+Response1b:: Whatever, it's decisions like that that helped me rise to the top.
+
+
+Option2a:: It must be easier working alone.
+
+Option2b:: It must be a challenge working alone.
+
+Response2a:: Eh, depends on the business. I planned for my own success - as you can see - so being alone is what works best for me.[]Sometimes I consider taking on a partner, but then I count my money and forget about it.
+
+Response2b:: Eh, depends on the business. I planned for my own success - as you can see - so being alone is what works best for me.[]Sometimes I consider taking on a partner, but then I count my money and forget about it.
+
+
+End

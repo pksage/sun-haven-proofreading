@@ -1,0 +1,5 @@
+Rex Intro One Liner 2
+
+Dialogue:: It's my dream to explore every cave in the world!																																													
+
+End

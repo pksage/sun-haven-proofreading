@@ -1,0 +1,33 @@
+Claude Cycle 1
+
+Dialogue:: Oh, the farmer. I have a nice view of your farm from my upper story.[]Um, did you want to talk for some reason?
+
+Option1:: I haven't seen you around too much.
+
+Option2:: That giant house is all yours??
+
+
+Response1:: I'm not surprised. I'm usually quite busy at home.
+
+Response2:: That's right. Living alone in a spacious home helps me focus on my work.
+
+
+Option1a:: What brings you out today? //Emote none Embarrassed
+
+Option1b:: Do you need help with anything? //Emote none Embarrassed
+
+Response1a:: I'm hoping to get some inspiration from a new record... again. It won't be long before I buy every record in the store, I swear.
+
+Response1b:: I suppose so, but not help you can give me.[]I'm hoping to get some inspiration from a new record... again. It won't be long before I buy every record in the store, I swear.
+
+
+Option2a:: That sounds miserable. //Relationship Claude1 -1 Sad
+
+Option2b:: It sounds great to have all that space to yourself! //Relationship Claude1 2
+
+Response2a:: Call me miserable, then.
+
+Response2b:: You think so? Well that makes two of us.
+
+
+End

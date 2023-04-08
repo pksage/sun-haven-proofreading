@@ -1,0 +1,23 @@
+Jet Cycle 1
+
+Dialogue:: What? Whadd'ya want, kid?
+
+Option1:: How did you find yourself here?
+Option2:: That's a nice hat!
+
+Response1:: Eh? What the heck are ya talking about?[]I walked here, same as anyone. Say, what kinda scam are you trying to pull here?
+Response2:: Hey, thanks kid! My esteemed colleague Chauncey over there gave it to me as a gift! Didn't mention where he got it, but who cares!
+
+Option1a:: I'm not a scammer! //Relationship Jet1 -1
+Option1b:: I was just trying to be polite. //Relationship Jet1 2
+
+Response1a:: Oh so what, now you're <i>too good</i> for scams? That's it - ya better beat it, kid.
+Response1b:: Oh! Sure, right. You were just making conversation, of course, of course. Still, I <i>did</i> walk here, so I don't know what else to tell ya, kid.
+
+Option2a:: Chauncey?
+Option2b:: I've met Chauncey, he's a nice guy.
+
+Response2a:: Yeah, he's that blue Slime over there, working the bean counting game. Say, you should give him a bit of business. Tell him I sent ya as thanks for the hat!
+Response2b:: You're not wrong, Chauncey is a stand-up guy. Say, you should give him a bit of business. Tell him I sent ya as thanks for the hat!
+
+End

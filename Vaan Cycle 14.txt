@@ -1,0 +1,33 @@
+Vaan Cycle 14
+
+Dialogue:: You're just like one of your crops - started as a seed but grown strong and elegant.
+
+Option1:: You see me like a plant? //Emote none Happy
+
+Option2:: You're unlike anyone I've ever met, Vaan.
+
+
+Response1:: Yes! You know, you're really precious when you're watered.
+
+Response2:: Of course I am, and so are you. I think that's a big reason why we fell for each other, XX. Nobody else fits us.
+
+
+Option1a:: You're messing with me.
+
+Option1b:: Watered??
+
+Response1a:: That's right, my precious sunflower - haha!
+
+Response1b:: Yes, my precious sunflower.[]Haha, I just like pushing your buttons.
+
+
+Option2a:: Even I don't understand you sometimes. //Relationship Vaan14 -1 Sad
+
+Option2b:: We're two of a kind. //Relationship Vaan14 2 Happy
+
+Response2a:: Is that how you've felt this whole time? Maybe there really isn't a perfect match for me after all.
+
+Response2b:: As long as I have you in my life, XX, I'll feel complete. I would fly anywhere with you.
+
+
+End

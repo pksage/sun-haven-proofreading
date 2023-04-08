@@ -1,0 +1,33 @@
+Lynn Cycle 15
+
+Dialogue:: Hey, don't you ever think it's a little crazy?[]I mean, that we met each other on the train to our new lives in Sun Haven. And now here we are, together like this. Do you think it was fate?
+
+Option1:: Fate or not, I'm glad I'm with you.
+
+Option2:: Are you happy with our relationship?
+
+
+Response1:: I don't know if I believe in fate, either, but I think it's very romantic. We were both the town newcomers. For some people, that's a really hard thing to adjust to.[]For you and me, though, it was the start of all of this!
+
+Response2:: I'm happier than I ever thought I could be. With you, with Sun Haven, with my job. No matter how much I sometimes miss home, I'm so happy I'm here.[]When I first came to Sun Haven I wasn't sure if I'd be here for longer than a few years. Now, I don't want to think of ever leaving. Especially leaving you, XX.[]...When I think of the future, it's you on your farm and me... as your wife, XX!
+
+
+Option1a:: Maybe it really was fate that put us on the same train.
+
+Option1b:: I'll never forget the train we met on, at any rate.
+
+Response1a:: Heheh, either fate or good timing! Maybe we'll never know for sure, but that's okay, XX. We're together now.
+
+Response1b:: Me either. I was still so nervous that day. Meeting you helped me feel a lot easier, so maybe it was only natural we bonded so well. It's still romantic, though!
+
+
+Option2a:: I see. //Relationship Lynn15 -1 Sad
+
+Option2b:: I see the same thing. //Relationship Lynn15 2 Happy
+
+Response2a:: Maybe you don't feel the same way right now? It's okay, XX. I'm going to be here for you, as soon as you do.
+
+Response2b:: Oh, XX, I don't even know what to say right now!! I won't rush you... just try and surprise me, okay?!
+
+
+End

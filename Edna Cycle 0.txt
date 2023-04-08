@@ -1,0 +1,9 @@
+Edna Cycle 0
+
+Dialogue:: Hm? Why hello there, dearie. What brings you here?
+
+Option1:: Hi, I'm just looking around your orchard.
+
+Response1:: Feel free to look as long as you'd like. I bet there's a lot you could learn from our little orchard.
+
+End

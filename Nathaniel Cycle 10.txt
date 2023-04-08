@@ -1,0 +1,33 @@
+Nathaniel Cycle 10
+
+Dialogue:: I was just thinking about you, XX![]I have some free time. Want to chat?
+
+Option1:: Say, what kind of music do you like?
+
+Option2:: Do you like pets, Nathaniel?
+
+
+Response1:: I'm not picky, I like just about anything I can dance to.[]What's with the look? I'm a great dancer, ask any of the soldiers! Except Calvin. He's very, very sarcastic.
+
+Response2:: I grew up with a dog named Pancake, but we can't have pets in the barracks. But I would love to have a dog again one day!
+
+
+Option1a:: When did you learn to dance?
+
+Option1b:: What's your best dancing story?
+
+Response1a:: It was on deployment in the far west. There was a fun band playing in a tavern and a pretty woman just dragged me onto my feet.[]She may have stolen my wallet, but I didn't even care because she made me feel like the best dancer in the world!
+
+Response1b:: It was on deployment in the far west. There was a fun band playing in a tavern and a pretty woman just dragged me onto my feet.[]She may have stolen my wallet, but I didn't even care because she made me feel like the best dancer in the world!
+
+
+Option2a:: I love dogs too! //Relationship Nathaniel10 2 Happy
+
+Option2b:: I've never been a dog person. //Relationship Nathaniel10 -1 Sad
+
+Response2a:: I knew you would! Dogs are so loyal, they're the perfect companions. We even use them in the military to find lost people, sometimes.
+
+Response2b:: That's a surprise. Dogs are so sweet and fun! How can you not like them?
+
+
+End

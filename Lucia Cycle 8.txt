@@ -1,0 +1,33 @@
+Lucia Cycle 8
+
+Dialogue:: Sun Haven only gets more beautiful with each passing day. Don't you think so, XX?
+
+Option1:: You're not dating anyone, are you Lucia?
+
+Option2:: You really deserve to enjoy these beautiful days. Why don't we go on a date?
+
+
+Response1:: Oh no, not at the moment. I have precious little free time, so I prefer to wait until someone particularly special comes along. Although, I've certainly had my share of admirers.
+
+Response2:: I try to make time for myself, but it's difficult. There is always so much to be done.[]Perhaps you're right. A date would be a nice break from my daily work!
+
+
+Option1a:: That's no surprise to me! //Relationship Lucia8 2 Embarrassed
+
+Option1b:: It seems inappropriate for the Archmage to date their citizens. //Relationship Lucia8 -1 Sad
+
+Response1a:: Be careful now, you might make a lady blush! And don't think I haven't noticed how special you are, XX. 
+
+Response1b:: I suppose I see where you're coming from, but that doesn't leave me many options. XX, I'm afraid that simply makes no sense.
+
+
+Option2a:: Great, let's do it! //Quest none LuciaHangout1Quest
+
+Option2b:: Then again, maybe this isn't a good idea. //Emote none Sad
+
+Response2a:: Why don't you meet me in front of the town hall tomorrow at 5:00 pm?
+
+Response2b:: We shouldn't do anything that makes you uncomfortable, XX.
+
+
+End

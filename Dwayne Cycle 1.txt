@@ -1,0 +1,33 @@
+Dwayne Cycle 1
+
+Dialogue:: What do you want, shrimp? 
+
+
+Option1:: Do you have to be rude?
+
+Option2:: What's your name?
+
+
+Response1:: Don't have to be. Wanna be.
+
+Response2:: What's it to you?
+
+
+Option1a:: What kind of person wants to be rude? //Relationship Dwayne1 -1
+
+Option1b:: I can tell you're pretty tough. //Relationship Dwayne1 2
+
+Response1a:: The kind I wanna be. Why, what kind of weakling do you wanna be?
+
+Response1b:: Pretty tough? You don't know the half of it, kid.
+
+
+Option2a:: I was just asking... 
+
+Option2b:: I want to get to know you better. 
+
+Response2a:: Fine. It's Dwayne. Now you know, so you can go. 
+
+Response2b:: Ugh... Sorry pal, not interested.
+
+End

@@ -1,0 +1,9 @@
+Mari Cycle 0
+
+Dialogue:: Well hello there, welcome on in. I'm Mari, and I'll be takin' good care of you today. 
+
+Option1:: Hi Mari, I'm XX. I just moved in.
+
+Response1:: Then that must make you the farmer. Lucia made her rounds and gave us all a heads up. Glad to have ya in Sun Haven!
+
+End

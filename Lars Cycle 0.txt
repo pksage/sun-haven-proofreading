@@ -1,0 +1,9 @@
+Lars Cycle 0
+
+Dialogue:: Watch out, here comes a new face!
+
+Option1:: Nice meeting you, my name's XX.
+
+Response1:: XX - I like that! Mine's Lars. Good to have you in Nel'Vari, XX.
+
+End

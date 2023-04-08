@@ -1,0 +1,54 @@
+Vending Machine Game 2
+
+Dialogue:: <i>The machine begins to float, levitating off of the ground!</i>
+
+
+Option:: Stand up on your tippytoes. //RIGHTANSWER
+
+Option:: Pour a watering can on the machine.
+
+Option:: Call a manager.
+
+
+Response:: <i>The machine seems to be a bit heavy for whatever force is lifting it. Standing up on your toes is more than enough height to reach the control panel again.</i>
+
+Response:: <i>If machines do not desire to obey, then they shall be punished. You dump the contents of a watering can all over the mischevious, floating machine. Now it's wet AND floating, which doesn't solve your problem.</i>
+
+Response:: <i>Can you get a manager over here?! ...Well?! Huh?!?! A manager?!??!?</i>[]...[]...[]<i>Guess not. Darn.</i>
+
+
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>Sparks begin shooting wildly out of the interface of the machine!</i>
+
+
+Option:: Threaten the machine with your weapons.
+
+Option:: Shield yourself. //RIGHTANSWER
+
+Option:: Pull the "REFUND" lever.
+
+
+Response:: <i>En garde, ye sniveling cur! If you choose the path of deviousness, then prepare to battle! ...The machine doesn't respond to your requests for combat.</i>
+
+Response:: <i>The tiny sparks sting a little, but they don't really hurt. You shield your eyes and face from the worst of the sparking, and continue on your quest.</i>
+
+Response:: <i>You pull a lever labeled "refund". A mechanical buzz emits from within the machine and a length of paper pops out. Grabbing the piece of paper, you read two words: "NO REFUNDS".</i>
+
+
+LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i> [] <i>Your potion begins to drop down... and gets stuck against the glass!</i>
+
+
+Option:: Pretend to be Dynus.
+
+Option:: //HEALTH2 Punch the machine. //RIGHTANSWER
+
+Option:: Scribble an angry message on the machine.
+
+
+Response:: <i>You lower your voice to a deep growl, impersonating the Moon Dragon to the best of your talents. You command respect and subservience from the machine. You thought it was a pretty good impersonation, but it doesn't work.</i>
+
+Response:: <i>Stupid machine! You give it a solid punch. Your fingers hurt, but your potion is dislodged!</i>
+
+Response:: <i>Plucking up a convienently placed nearby marker, you scribble a colorful message that lets the world know just how you feel about this #$&@! machine.</i>
+
+
+End

@@ -1,0 +1,5 @@
+Jerry One Liner 1
+
+Dialogue:: Hey! I can cut you up a sculpture real quick! How about it? And don't worry about them melting, I make them with special ice that <i>never</i>  melts - or your money back!
+
+End

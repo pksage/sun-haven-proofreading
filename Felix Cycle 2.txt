@@ -1,0 +1,23 @@
+Felix Cycle 2
+
+Dialogue:: Hello again, XX.
+
+Option1:: Have you lived in Withergate for long?
+Option2:: Where else in the world have you seen?
+
+Response1:: All my life. My grandfather was actually a part of the previous Demon King, Aster's, royal guard. So I have a little bit of royalty in my blood. Or at least royalty-adjacent.
+Response2:: I've traveled a lot around the Western Region. Some in the Eastern Region. Once or twice I've been up to the Northern Region. I've never had any business in the Southern Islands yet.
+
+Option1a:: You would fit in with Darius.
+Option1b:: Wow, you must really respect your grandfather.
+
+Response1a:: Not a chance. For lack of a better term, I think Darius is a jerk. He throws his weight around like a 'proper' Demon. I'm not one for bluster like that.
+Response1b:: Hm, I suppose I do. I never got a chance to meet him, as he died in battle before I was born. It's not a sensitive topic for me, I'm only saying.
+
+Option2a:: Business?
+Option2b:: What takes you all over the place like that?
+
+Response2a:: Oh. Nothing. I do deliveries, that's all.
+Response2b:: Nothing, really. Just some work. I do... deliveries. Plus, I like the see the world. It's how I met Felicity, after all.
+
+End

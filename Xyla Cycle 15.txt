@@ -1,0 +1,33 @@
+Xyla Cycle 15
+
+Dialogue:: Sometimes I remember that you had just crawled out of a sewer when we met. Then I think, "I can't believe I'm with this sewer rat!"
+
+Option1:: Are you finally having second thoughts?
+
+Option2:: Are you happy with our relationship? //Emote none Embarrassed
+
+
+Response1:: Eh, no such luck... It's not everyday I find someone who can keep up with me like you do, XX. That's worth something, even if it came from the sewer!
+
+Response2:: Ugh, you know I hate getting into mushy talk. But since you asked...[]There's a <i>teeny tiny</i> chance that I'm happier than ever before... just a chance![]I've even been thinking that I wouldn't mind staying this happy for the rest of my life, you know. Do you catch my drift, XX? Or is that too subtle for your little rat brain?
+
+
+Option1a:: It's not my fault there's no good road to Withergate...
+
+Option1b:: You throw that in my face a lot for someone who used to live in a cave.
+
+Response1a:: Are you saying that it's my fault? Well... actually, you're technically right about that. Heck, maybe Withergate could use a reliable road. I'll bring it up to King Minos.
+
+Response1b:: I would choose a cave over a sewer any day. If you disagree, then you're either a sewer rat or... well, Donovan.
+
+
+Option2a:: Oh, I sure do. //Relationship Xyla15 2 Happy
+
+Option2b:: Oh, I sure do... not. //Relationship Xyla15 -1
+
+Response2a:: You'd better! My ring finger is feeling pretty light these days.
+
+Response2b:: I would sigh, but the breath would be wasted on you... Let's just say that my ring finger is feeling pretty light these days. Get the picture now?
+
+
+End

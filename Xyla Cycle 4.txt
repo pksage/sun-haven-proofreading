@@ -1,0 +1,33 @@
+Xyla Cycle 4
+
+Dialogue:: Hey there, outsider. You look lost. The Human town is back where you came from!
+
+Option1:: So do you have any hobbies - other than antagonizing people, that is? //Emote none Happy
+
+Option2:: You know, I think I'm catching onto your act.
+
+
+Response1:: Trying to get to know me? I'll play along.[]Yeah, I like to challenge my brain since my body is perfect. Chess is my favorite game. Talk about strategy! I'm undefeated in Withergate - and that includes Darius. 
+
+Response2:: Oh, are you now? I'm really, really curious - what is it you think you've caught onto?
+
+
+Option1a:: Have you beaten the Demon King?
+
+Option1b:: I've never played before.
+
+Response1a:: The Demon King is too busy to play games. Besides, the best strategy against the king is not to play him in the first place - that's a lose-lose.
+
+Response1b:: Well then there's no point in playing against me. Maybe go practice for, oh, fifty years. Start against toddlers and work your way up. I'll be waiting at the top.
+
+
+Option2a:: You're afraid to act nice because you fear rejection. //Relationship Xyla4 -1 Happy
+
+Option2b:: You like to push people's buttons to see who breaks and who doesn't. //Relationship Xyla4 2 Romantic
+
+Response2a:: That... is... HILARIOUS! You took your shot and missed by a mile, pal.
+
+Response2b:: Well look at you, outsider. Of course I like pushing people's buttons - that's what buttons are for![]Heck, I'll admit, I'm surprised with you. The sewer rat has a brain after all!
+
+
+End

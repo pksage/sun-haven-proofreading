@@ -1,0 +1,24 @@
+JourneyToDragonsMeet1Quest
+
+Dialogue:: Rise and shine, XX! I hope you don't mind me waiting here. Hey, it looks like your farm is already shaping up.[]Anyway, it's time to plan your first visit to Dragon's Meet. XX, are you ready to meet Elios?
+
+Option1:: Dragon's Meat?
+
+Option2(Permanent):: What do I need to do?
+
+
+Response1:: That's "meet," with two e's. It's where Elios lives on the mountaintop. New neighbors in Sun Haven make the trek to receive Elios's Blessing as a rite of passage. A way to truly join Sun Haven!
+
+Response2:: The ascent to Dragon's Meet can be dangerous, so I'll escort you up the mountain myself. Just meet me at the <color=#39CCFF>town square, tomorrow at 10 am</color>.
+
+
+Option2a:: Sounds like a plan, I'm in! //Quest none TheSunDragonsProtection1Quest
+
+Option2b:: I'm too busy for this right now.
+
+
+Response2a:: Perfect! I'll be waiting for you at our town square at 10 a.m. (End)
+
+Response2b:: Oh, I see. In that case, please talk to me as soon as you have some free time. I just can't wait for Elios to give you his Blessing! (End)
+
+End

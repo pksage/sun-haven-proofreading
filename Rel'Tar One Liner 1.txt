@@ -1,0 +1,5 @@
+Rel'Tar One Liner 1
+
+Dialogue:: Hello, traveler. Long way from home, huh?								
+
+End

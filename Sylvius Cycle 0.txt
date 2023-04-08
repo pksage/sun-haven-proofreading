@@ -1,0 +1,9 @@
+Sylvius Cycle 0
+
+Dialogue:: Hi, I'm Sylvius. My sister and I are the best merchants out of Nel'Vari. 
+
+Option1:: Hi there, my name's XX.
+
+Response1:: Heh, funny name.[]Wait, are you the one who made it here all the way from Sun Haven? Color me impressed!
+
+End

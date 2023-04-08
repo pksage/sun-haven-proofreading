@@ -1,0 +1,23 @@
+Donovan Cycle P11
+
+Dialogue:: I was thinking about hosting a cookout. Maybe some drinks, and a lot of meat roasting over an open fire.
+
+Option1:: But you live in a sewer. Where would you host a cookout?
+Option2:: What would you serve other than meat?
+
+Response1:: Good point. Didn't think about that. Well, no biggie. We'll host it right on the streets of Withergate! Everyone's invited! Plenty of drinks, friends and meat. Lots of meat.
+Response2:: What else is there, XX? Meat is like, I dunno, most of what I eat. I don't know much about other types of food, other than I don't like them as much as meat.[]I'm just going to focus on doing what I know best. No sense in trying something new and screwing it up.
+
+Option1a:: Where did you get everything for this cookout? //Emote none Embarrassed 
+Option1b:: How will you get the invites out?
+
+Response1a:: Yeah, see. That's the thing. I don't have it all yet. Well, more accurately, I don't have any of it yet. But like I said, it's all in the planning stage of things.[]Let's dream big and worry logistics later. 
+Response1b:: Oh that's the easy part. Just mention it to a few of the bats around the city. They blab about everything. Give it a few hours and half the town will know what's going down.
+
+Option2a:: Sounds great, as long as everyone loves meat! //Relationship DonovanP11 2 Happy
+Option2b:: You should give new things a try. //Relationship DonovanP11 -1 Mad
+
+Response2a:: Hey, if they don't like meat then they can go host their <i>own</i> cookout! But Donovan's cookout is serving meat, meat, meat!!
+Response2b:: Nah, been there, hated that. I know what I like, XX. Don't try changing that, because I'm not interested.
+
+End

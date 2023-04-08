@@ -1,0 +1,5 @@
+Jun One Liner Married 7
+
+Dialogue:: Ah, I was having some troubled thoughts just now... but seeing you dispelled them, XX.
+
+End

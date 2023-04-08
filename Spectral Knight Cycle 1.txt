@@ -1,0 +1,33 @@
+Spectral Knight Cycle 1
+
+Dialogue:: You again! Well met. Care for a spot of conversation?
+
+
+Option1:: Where were you before you came here?
+
+Option2:: I haven't seen many spirits before.
+
+
+Response1:: Before I met my fate in Withergate, I lived in a quaint Human town. Actually, I wasn't even a true knight! I only donned the armor for a journey which turned out to be my last.
+
+Response2:: I'm not surprised - it's not everywhere we can exist like this. Keeping a spirit form is hard work! Withergate's darkness makes it much easier, however.
+
+
+Option1a:: Not a real knight? No wonder you ended up here. //Relationship Spectral Knight1 -1
+
+Option1b:: You're very jolly considering the circumstances. //Relationship Spectral Knight1 2
+
+Response1a:: I would argue with you, but I may not have much footing to do so.
+
+Response1b:: I've always believed that everything happens for a reason and you can't control all that happens to you. Thinking like that, it's easy to keep high spirits.[]Hah! Get it? Spirits!
+
+
+Option2a:: So what happens if you can't keep your form? 
+
+Option2b:: Have you tried keeping your form in another town? 
+
+Response2a:: I disappear into the ether forever.[]Only joking! Haha, the look on your face! No, I simply can't interact with the world. I've been told that I slip into another plane of existence, but I don't know much about that. 
+
+Response2b:: Oh certainly, I've tried. It knocks me on my behind, I can tell you that. Last time I was on a road out in the sunshine, I couldn't hold my shape for more than a minute. 
+
+End

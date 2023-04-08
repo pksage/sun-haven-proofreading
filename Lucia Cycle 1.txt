@@ -1,0 +1,33 @@
+Lucia Cycle 1
+
+Dialogue:: Hello, XX. Despite the looming darkness, I've had a good feeling ever since you've moved in... It's as though Sun Haven is embers, but a sudden wind is rekindling flame.
+
+Option1:: So what's it like being in charge of Sun Haven?
+
+Option2:: What are your plans for Sun Haven?
+
+
+Response1:: It certainly comes with its challenges. At first, very few people accepted me as leader because I'm so young. I had to earn everyone's support gradually.[]Now, everyone in town looks to me when there's a decision to make.
+
+Response2:: We're in an uphill battle to revive Sun Haven's economy. It's crucial that we bring more travelers and new shops into town... now more than ever, especially.[]Still, I'm not worried. Sun Haven has a bright future, and I will be there fanning the flames. Will you help me, XX?
+
+
+Option1a:: To be fair, you are quite young.
+
+Option1b:: I can't believe anyone doubted you. //Emote none Embarrassed
+
+Response1a:: I'm well aware, XX. If you have any doubts about me, just give it time. You'll come around.
+
+Response1b:: Well, you did not see my first year as leader. I made my share of mistakes, then.[]Suffice it to say I was incredibly lucky to have Elios guiding me along my path to becoming Archmage.
+
+
+Option2a:: I'll do whatever I can to help our town. //Relationship Lucia1 2 Happy
+
+Option2b:: I'm here for myself. I can't make any promises about the town. //Relationship Lucia1 -1 Sad
+
+Response2a:: I'm thankful, XX. There's something about you - I can't help but think Sun Haven is better for having you in it.
+
+Response2b:: I suppose I don't blame you, but everyone has to contribute for a community to thrive. I hope you join us, XX.
+
+
+End

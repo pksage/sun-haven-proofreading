@@ -1,0 +1,36 @@
+Catherine Cycle 11
+
+Dialogue:: Today feels like a lazy day to me. How about you, XX?
+
+
+Option1:: If you're feeling lazy, I could cook for you. What's your favorite meal? //Emote none Happy
+
+Option2:: How do you pass the time on lazy days?
+
+
+Response1:: I can put a good dent in an everything-stuffed casserole, especially if it has extra carrots. And for dessert - apple cinnamon pie!
+
+Response2:: I love books of poetry. They remind me of spells.
+
+
+Option1a:: I don't like pie. //Relationship Catherine11 -1
+
+Option1b:: Since you make potions, you must be a fantastic cook! //Relationship Catherine11 2
+
+
+Response1a:: What! That can't be... XX, you have to try one from Liam's shop. They're to die for, I don't know how he does it. If I didn't know better, I'd think he was a witch, too.
+
+Response1b:: Thanks for the vote of confidence, but... Unfortunately, I'm a terrible cook. Potions and salves are a piece of cake, but an actual piece of cake? I might as well not try.[]You have to try one from Liam's shop. They're to die for, I don't know how he does it. If I didn't know better, I'd think he was a witch, too.
+
+
+Option2a:: Why do they remind you of spells?
+
+Option2b:: Do you have a favorite poem? //Emote none Embarrassed
+
+
+Response2a:: There's power in words, you know. It's kind of the basis of witchcraft. If someone wrote a strong poem with a specific intent? That's essentially a spell.
+
+Response2b:: I don't have one favorite, but there's a book of love poems in the library. It's kind of my guilty pleasure... I always find myself blushing by the end of it!
+
+
+End

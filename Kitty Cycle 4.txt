@@ -1,0 +1,33 @@
+Kitty Cycle 4
+
+Dialogue:: Hi XX! I'm a little bored. Any ideas, nya?
+
+Option1:: Do you have any hobbies?
+
+Option2:: You seem like the kind of cat who'd like dancing!
+
+
+Response1:: I try teaching tricks to my pet kittens, but they're too sleepy to learn. Oh, and I loooove sewing and knitting clothes! I especially love yarn, it's so soft and colorful and happy!
+
+Response2:: Oh yes, but only to the right music. I can't dance to boring music, like what Claude listens to. It has to be energetic, like Kitty!
+
+
+Option1a:: I'm not so sure cats could use their hands that well. //Relationship Kitty4 -1 Sad
+
+Option1b:: Looking at your dress, I bet you make really great clothes! //Relationship Kitty4 2 Happy
+
+Response1a:: Cats are very good with their hands. Plus, you haven't even seen my stuff I've made, nyan.
+
+Response1b:: Oh yes, even the house cats love them! No you silly, I don't put them in the clothes, they like to lay on top of them! 
+
+
+Option2a:: What's the right kind of music? //Emote none Happy
+
+Option2b:: Somehow I think you could dance to anything. //Emote none Happy
+
+Response2a:: Fast music, for certain. I like a fast beat, nya! That's what gets my paws tapping!
+
+Response2b:: Maybe, maybe. Kitty dances in the grass, sometimes with no music at all!
+
+
+End

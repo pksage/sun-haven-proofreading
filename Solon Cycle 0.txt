@@ -1,0 +1,9 @@
+Solon Cycle 0
+
+Dialogue:: You're who's taking that land? Hm. Thought you'd be bigger.
+
+Option1:: ... Thanks? My name's XX.
+
+Response1:: Pleasure. Call me Solon. If you need some new gear, you come right to me.
+
+End

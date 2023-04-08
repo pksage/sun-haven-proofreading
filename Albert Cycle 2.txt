@@ -1,0 +1,33 @@
+Albert Cycle 2
+
+Dialogue:: You look like a real go-getter. It's good that the old farm fell to someone like you.
+
+
+Option1:: Do you know who owned the farm before me?
+
+Option2:: What do you do here?
+
+
+Response1:: Sure do, they were a workhorse too. Also, a dear friend to Judith and me. He left out of the blue about ten years ago.
+
+Response2:: I'm a knight of the Queen's court, of course!
+
+
+Option1a:: It's tough when friends leave. //Relationship Albert2 2 
+
+Option1b:: That seems questionable. //Relationship Albert2 -1
+
+Response1a:: Yes, it is.[]Thanks for talking, farmer. Not everyone has time for us old geezers in this fast-paced world, heh.
+
+Response1b:: I would never question that man's honor. He was as decent as anyone.
+
+
+Option2a:: Wait, what queen? 
+
+Option2b:: No way, that's so exciting! 
+
+Response2a:: Just a joke, youngster. I laid my sword up some time ago. Besides, Sun Haven never even had a queen!
+
+Response2b:: Just a joke, youngster. I laid my sword up some time ago. Besides, Sun Haven never even had a queen!
+
+End

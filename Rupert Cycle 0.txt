@@ -1,0 +1,9 @@
+Rupert Cycle 0
+
+Dialogue:: Eh? New to these docks, ain't ya? I never seen you before, at least.
+
+Option1:: I'm Sun Haven's new farmer, XX. Nice to meet you.
+
+Response1:: Ah, farmer is it? Good to meet you, too. I'm Rupert, and I fish. You can fish, too. Plenty of fish to go around, but you won't catch near as many as me, eheh.
+
+End

@@ -1,0 +1,9 @@
+Catherine Cycle 0
+
+Dialogue:: Isn't your name XX? So good to meet you, I'm Catherine. I own the farming store here.
+
+Option1:: That's right - wait, how did you know my name? //Emote none Happy
+
+Response1:: Oh, don't you know? I'm surprised you can't tell. I'm a witch! It wasn't hard to divine the name of our new farmer.
+
+End

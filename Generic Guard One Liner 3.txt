@@ -1,0 +1,5 @@
+Generic Guard One Liner 3
+
+Dialogue:: A peaceful society starts with the citizens.						
+
+End

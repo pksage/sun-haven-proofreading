@@ -1,0 +1,5 @@
+Kitty One Liner Winter 5
+
+Dialogue:: What's your favorite part of the winter, XX?
+
+End

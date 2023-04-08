@@ -1,0 +1,5 @@
+Sable Intro One Liner 1
+
+Dialogue:: I'm glad we're not travelling anymore. Nel'Vari is fun!			
+
+End

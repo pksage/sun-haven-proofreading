@@ -1,0 +1,5 @@
+Slopp One Liner 1
+
+Dialogue:: <i>*Blup*</i> Want some advice? Make sure the king doesn't slip in your slime trail, or else he'll think you're a traitor. <i>*Blup*</i>									
+
+End

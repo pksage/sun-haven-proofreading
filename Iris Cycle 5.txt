@@ -1,0 +1,33 @@
+Iris Cycle 5
+
+Dialogue:: I never told you, I think it's really impressive how you found your way into NelVari!
+
+Option1:: Have you been outside of Nel'Vari much?
+
+Option2:: How do you feel about Nel'Vari being so secretive?
+
+
+Response1:: Mostly just to gather different kinds of plants. I don't like to stray too far, though. The farther I get from Nel'Vari, the more I worry. I can't explain it exactly, but it feels like being exposed.
+
+Response2:: I think it's a bit much, honestly. But the Elder can tell you stories of intruders from the past. I guess our culture came close to being wiped out, once.[]It's frightening stuff, so I understand why we take precautions now.
+
+
+Option1a:: The world is a big place, it can be intimidating. //Relationship Iris5 2
+
+Option1b:: That's silly, you should explore the world. //Relationship Iris5 -1 Sad
+
+Response1a:: It's something like that, yeah. It's nice that you understand - even if I don't fully understand myself.
+
+Response1b:: I don't think it's silly at all. I'm happy here, so why leave?
+
+
+Option2a:: Do you worry about that happening again?
+
+Option2b:: With that in mind, it makes sense that you would hide yourselves. //Emote none Happy
+
+Response2a:: No, I'm not worried. It's not worth the risk to our society to <i>not</i> have the protection spell in place.
+
+Response2b:: I came to the same realization when the Elder told me what happened.[]You're really starting to see things like a Nel'Vari Elf! I'm glad the Elder welcomed you into our home.
+
+
+End

@@ -1,0 +1,33 @@
+Anne Cycle 1
+
+Dialogue:: Hey, you're that new farmer. Whatever you need, I can help - for a price![]Or are you just looking to chat?
+
+
+Option1:: You seem to like it here.
+
+Option2:: I don't think we were properly introduced. You're Anne?
+
+
+Response1:: What's not to like? Good weather means a lot of foot traffic, and a reputation as a trading hub sure doesn't hurt business either. Plus, I can enjoy the sunshine when business is slow.
+
+Response2:: Whoops, that's not the first time that's happened. Yep, I'm Anne, the best merchant in Sun Haven and don't let anybody tell you different!
+
+
+Option1a:: It doesn't feel right to judge a town by the money it makes you. //Relationship Anne1 -1 Mad
+
+Option1b:: I can appreciate a business-minded person like yourself. //Relationship Anne1 2 Romantic
+
+Response1a:: I'm not sure, but it's definitely not right to judge people you just met.
+
+Response1b:: You sound like you really get it. I look forward to seeing you around town - and I mean that in every sense!
+
+
+Option2a:: Are you from Sun Haven originally?
+
+Option2b:: What brought you to Sun Haven in the first place?
+
+Response2a:: I got my start farther west. Traveled a lot for work. If you ask me, every big city is the same. Same people, same dirty streets, same same same.[]But then I heard about Sun Haven and thought, "That sounds different."[]It was a risk coming here, but risk often leads to reward. For me, anyway.
+
+Response2b:: I got my start farther west. Traveled a lot for work. If you ask me, every big city is the same. Same people, same dirty streets, same same same.[]But then I heard about Sun Haven and thought, "That sounds different."[]It was a risk coming here, but risk often leads to reward. For me, anyway.
+
+End

@@ -1,0 +1,9 @@
+Caspian Cycle 0
+
+Dialogue:: Why hello there. How do you do? 
+
+Option1:: Hello, I'm XX. Pleasure meeting you.
+
+Response1:: Thanks, I'm Caspian. Charmed. 
+
+End

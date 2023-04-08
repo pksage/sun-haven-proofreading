@@ -1,0 +1,5 @@
+Sophie One Liner 2
+
+Dialogue:: Allie tells me I train too much.						 					
+
+End

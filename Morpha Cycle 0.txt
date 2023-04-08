@@ -1,0 +1,9 @@
+Morpha Cycle 0
+
+Dialogue:: Welcome, dearest. My name is Morpha. I'm so glad you've come to visit today.
+
+Option1:: I'm XX. Were you expecting me?
+
+Response1:: Oh no, not at all...[]But it is nice to have visitors!
+
+End

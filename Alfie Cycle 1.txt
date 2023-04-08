@@ -1,0 +1,32 @@
+Alfie Cycle 1
+
+Dialogue:: Excuse me, coming through.
+
+
+Option1:: Still busy?
+
+Option2:: Know any bee jokes?
+
+Response1:: We're always busy. Our girls produce a lot of honey, and it's up to us to keep their hives clean and prepared for making even more.
+
+Response2:: What? I don't know any jokes about bees.
+
+
+Option1a:: Your girls? 
+
+Option1b:: How much honey do your bees make?
+
+Response1a:: That's right. The bees. Every bee you see making honey is a worker bee, and they're all female. Interesting, huh?
+
+Response1b:: Oh, a few hundred jars worth. Each day, that is. Maybe not the most when compared to the great bee farms you find further out west, but no one beats us in quality.
+
+
+Option2a:: That's un-bee-lievable.
+
+Option2b:: You're not very fun.
+
+Response2a:: Un-bee-lievable? What?[]...Oh, I get it. Yeah, very cute.
+
+Response2b:: Forget jokes. Being busy like a bee is the very essence of fun. Or at least I think so.
+
+End

@@ -1,0 +1,23 @@
+Iris Cycle 16
+
+Dialogue:: You're married now, XX. Does it feel like a big change? 
+
+Option1:: You're married, too!  //Emote none Happy
+Option2:: Will our marriage get in the way of your work?  //Emote none Embarrassed
+
+Response1:: And for me it feels... strangely natural. I don't know if I believe in fate, but it feels like we belong with each other. Like it was supposed to be this way. 
+Response2:: I thought by now you'd have known not to worry about that. I am an enchanter, but I'm also your wife. I wouldn't have married you if I thought things wouldn't work out.[]You're the same way, right?
+
+Option1a:: It feels like a natural change to me, too. //Relationship Iris16 2 Happy
+Option1b:: That sounds silly to me. //Relationship Iris16 -1 Sad
+
+Response1a:: See? I knew you felt it, too. It's almost kind of eerie, but in a good way. 
+Response1b:: Do you think so? I really thought you would feel the same way, but I've been wrong before. 
+
+Option2a:: I'd give up farming for you, if I had to! //Relationship Iris16 2 Happy
+Option2b:: You're right, my work is important to me.
+
+Response2a:: Really?! For me? I never thought you'd do something like that! Oh, now I'm a little guilty for how I felt. You won't hold it against me, will you? 
+Response2b:: We both made a smart choice with each other, XX. That's how you can tell our relationship is built to last.
+
+End

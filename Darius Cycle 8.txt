@@ -1,0 +1,33 @@
+Darius Cycle 8
+
+Dialogue:: XX, I'm glad you're here. My mind could use a distraction.
+
+Option1:: Why not head to the carnival if you need a distraction?
+
+Option2:: Darius, as the prince of Withergate... are you dating anyone? //Emote none Embarrassed
+
+
+Response1:: Because I have no capacity for childish games... but, at least the citizens enjoy it.[]Xyla suggested it would raise spirits here. Monsterfolk are a downtrodden people, so my father made the call.[]In actuality, I would prefer to have barracks and barracks of fighters to protect our city. Maybe we will, one day.
+
+Response2:: Oh? Heh, that caught me off guard. I never know what to expect from you, XX.[]In fact, I have no romantic involvement right now. I'm very much open to the idea, though.
+
+
+Option1a:: Increasing your strength is always a good idea. //Relationship Darius8 2 Happy
+
+Option1b:: Security is important, but so is having fun. //Relationship Darius8 -1 Mad
+
+Response1a:: Certainly. It would secure the future of my family, as well as all monsterfolk. Your support is more than welcome.
+
+Response1b:: Of course you think so. You're still an outsider, completely ignorant of my people's history.
+
+
+Option2a:: I'm surprised you don't already have someone at your side.
+
+Option2b:: I'm sure you will find someone soon! //Emote none Happy
+
+Response2a:: My father has tried to arrange my relationships before, but that never ended well. I much prefer to make those decisions on my own.
+
+Response2b:: Oh? Do you know something I don't? I'm keeping my eye on you, XX.
+
+
+End

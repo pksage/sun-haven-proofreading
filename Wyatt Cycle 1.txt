@@ -1,0 +1,23 @@
+Wyatt Cycle 1
+
+Dialogue:: Oh it's you, the outsider. It's pretty neat that you're an outsider, actually. I get a lot of my stuff imported.
+
+Option1:: What kind of stuff do you get imported?
+Option2:: Aren't dragons supposed to be a little more... impressive?
+
+Response1:: Have you ever heard of <i>Magic Kitty Princess Paradise: Island of Extreme Dreaming and Daring Adventure</i>? Ah, who am I kidding. Of course you haven't.[]Anyways, I love collecting statuettes of all the characters. Nowhere around here sells them, though, so I gotta import. 
+Response2:: You think every dragon is like the Moon Dragon, or the Sun Dragon? Those are Guardian Dragons! Maybe I'm not Dynus, but tons of people still flock to pay me tribute.
+
+Option1a:: That... sounds interesting. //Relationship Wyatt1 2
+Option1b:: Sounds dumb. //Relationship Wyatt1 -1
+
+Response1a:: Oh you have no idea! Come by my place sometime, you can read the first four hundred volumes.[]Of course, there's six hundred more volumes after that. Oh, and don't forget the spin-off series!
+Response1b:: It isn't dumb!! M.K.P.P.I.E.D.D.A is art! Besides, dragons are natural hoarders. Just look at Dynus!
+
+Option2a:: How many people give you tribute?
+Option2b:: I don't think anyone gives you tribute.
+
+Response2a:: Eh, alright, you got me. No one gives me tribute like they do for Dynus. It's not my fault I wasn't born one hundred feet tall!
+Response2b:: Eh, alright, you got me. No one gives me tribute like they do for Dynus. It's not my fault I wasn't born one hundred feet tall!
+
+End

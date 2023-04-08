@@ -1,0 +1,23 @@
+Luis Cycle 1
+
+Dialogue:: Hi - Hello - Howdy. Are you here to collect a prize or what?                     
+
+Option1:: I just want to talk to you!
+Option2:: Do you like this job?
+
+Response1:: ... Why? I'm just trying to work here.[]Sheesh, tourists...
+Response2:: I get yelled at by children, I clean up sticky messes all day long, and I think a rat sleeps in this head at night... What's not to like?
+
+Option1a:: You're right, I am a tourist! //Relationship Luis1 -1
+Option1b:: Actually, I live here! //Relationship Luis1 2
+
+Response1a:: Yes, that's obvious. You're so... happy and enthusiastic... ugh. I would throw up, but then I'd have to clean it..
+Response1b:: Is that so? Yeesh, they'll let anyone in nowadays... What is this town coming to?
+
+Option2a:: You're being sarcastic.
+Option2b:: Sounds like a dream!
+
+Response2a:: Wow, how very observant. You must be some kind of mastermind.
+Response2b:: Heh, yeah that's me. Living the dream.
+
+End

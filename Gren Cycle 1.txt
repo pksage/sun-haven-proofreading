@@ -1,0 +1,23 @@
+Gren Cycle 1
+
+Dialogue:: Oh, hello! I wasn't sure if I'd see you again since you're not from here.
+
+Option1:: Are you from Nel'Vari, then?
+Option2:: The Elves have welcomed guests before, right?
+
+Response1:: My family has lived here for years beneath the Grand Tree. We were here before there were enough Elves to even make a city!
+Response2:: Well certainly! They're gracious hosts, the Nel'Vari Elves. Quite a few Amari folk have found wonderful lives here. Something about this place just feels like home to us.
+
+Option1a:: You live <i>under</i> the Grand Tree? //Relationship Gren1 2
+Option1b:: That sounds a little... dirty. //Relationship Gren1 -1
+
+Response1a:: Of course! You won't find me living in the branches. I'm no tree frog, you know.
+Response1b:: Only in the sense that we live in a dirt hole. But it's really much grander than it sounds! Don't you think we would have made it nice by now?[]Sure, it's still a dirt hole. The nicest dirt hole in the forest!
+
+Option2a:: So all the Amari get along?
+Option2b:: It sounds like you're very comfortable living here.
+
+Response2a:: With the Elves? Absolutely! Though I will say there has been some tension between me and some of the bug Amari.[]My reflexes kicked in when I met Beeanca and... yeah, we don't talk much.
+Response2b:: With the Elves? Absolutely! Though I will say there has been some tension between me and some of the bug Amari.[]My reflexes kicked in when I met Beeanca and... yeah, we don't talk much.
+
+End

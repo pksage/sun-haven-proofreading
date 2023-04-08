@@ -1,0 +1,25 @@
+LateFees
+
+Dialogue:: I'm sorry, were you standing there long? I'm so wrapped up in these late fees that I didn't see you come in.
+
+
+Option1:: What late fees?
+
+Option2(Permanent):: Do you need help?
+
+
+Response1:: We charge people for keeping books past their due date. It's some good extra income, but people don't always pay on time.[]Four people owe late fees but none have paid yet and I can't leave to track these people down. It's just a little frustrating.
+
+Response2:: Not unless you can collect each of these late fees and bring them back here.
+
+
+Option2a:: I can do that for you! //Quest none LateFeesQuest
+
+Option2b:: Sorry, I can't help with that.
+
+
+Response2a:: Wow - really? That would be tremendous! Here's the list of people who owe fees. Please come right back when you're finished. (End)
+
+Response2b:: Don't worry, I wasn't expecting you to. I just wish people took more responsibility for their debts. (End)
+
+End

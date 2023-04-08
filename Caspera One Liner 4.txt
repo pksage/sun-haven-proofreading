@@ -1,0 +1,5 @@
+Caspera One Liner 4
+
+Dialogue:: What a lovely evening. I want to watch the sun rise over the castle.											
+
+End

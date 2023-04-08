@@ -1,0 +1,33 @@
+Iris Cycle 2
+
+Dialogue:: Good seeing you again, XX. I'm glad I could catch you between projects. Enchanting is busy work, you know.
+
+Option1:: What do you do when you're not working?
+
+Option2:: If you weren't an enchantress, what would you do instead?
+
+
+Response1:: I'm always trying to learn what I can, so I read a lot of books. Sometimes I'll read something that leads to a big discovery!
+
+Response2:: That's easy. I would definitely be a woodworker - I know, predictable answer.
+
+
+Option1a:: That just sounds like more work. //Relationship Iris2 -1
+
+Option1b:: What do you mean by "big discovery?" It sounds interesting! //Relationship Iris2 2 Happy
+
+Response1a:: Really? I think it's fun. Maybe I do work too much... aaand I already decided that I don't care.
+
+Response1b:: Well, I figured out how to make flowers fireproof. Oh, and last year I managed an interesting serum that doubles the number of roots a plant has! That one was big.[]Am I bragging? I feel like I'm bragging.
+
+
+Option2a:: That was maybe not as predictable as you think.
+
+Option2b:: Of course, I totally saw that coming!
+
+Response2a:: Oh, really? Lots of Elves are woodworkers. For me, it's just another way to feel close to nature.[]I feel connected to nature when I'm enchanting, but it's different with woodcraft. Feeling the wood with your hands and working with it to create something beautiful... It's just different.
+
+Response2b:: Oh, really? Lots of Elves are woodworkers. For me, it's just another way to feel close to nature.[]I feel connected to nature when I'm enchanting, but it's different with woodcraft. Feeling the wood with your hands and working with it to create something beautiful... It's just different.
+
+
+End

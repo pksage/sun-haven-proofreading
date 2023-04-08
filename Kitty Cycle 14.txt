@@ -1,0 +1,33 @@
+Kitty Cycle 14
+
+Dialogue:: Hi hi, XX! Do you have a busy day? Don't let it get you down!
+
+Option1:: How do you stay so happy all the time?
+
+Option2:: I'm never sad with you around, Kitty! //Emote none Happy
+
+
+Response1:: Just look around XX, the whole world is happy, nya! Just look at the sunshine and flowers. They're so bright and joyful, I just copy them!
+
+Response2:: Aw! Same same, XX! Since we became two peas in a pod, everything has been happier. I'm very very grateful to have you with me!
+
+
+Option1a:: That doesn't make any sense. //Relationship Kitty14 -1 Mad
+
+Option1b:: Does that make you a... copycat? //Relationship Kitty14 2 Happy
+
+Response1a:: I don't know how else to explain to you, XX. That's all there is to it! If you don't understand, then Kitty can't help.
+
+Response1b:: Heehee, XX! I can't believe I never thought of that - I'm a real copycat. How funny, nya nya!
+
+
+Option2a:: I'm glad you're happier now, Kitty! //Emote none Romantic
+
+Option2b:: You make me happier, too! //Emote none Romantic
+
+Response2a:: I promise to always be happy with you, XX. And Kitty doesn't break promises!
+
+Response2b:: I promise to always be happy with you, XX. And Kitty doesn't break promises! 
+
+
+End

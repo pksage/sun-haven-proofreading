@@ -1,0 +1,34 @@
+Lynn Cycle P11
+
+Dialogue:: Hey, XX. Have you gotten a chance to check out everything we sell at the smithy?
+
+
+Option1:: How is life in Sun Haven different from back home?
+
+Option2:: You seem to be adjusting to life in Sun Haven.
+
+
+Response1:: Oh, that's such a good question. Well, for starters, Sun Haven might be a pretty small town to you, but it's so much bigger than my home village![]The oddest thing in Sun Haven is that I make stuff that we turn around and sell. We make so much stuff every single day![]Back home, our village is so small that everything the blacksmiths make is meant for use by the villagers.
+
+Response2:: Oh, do you mean that? I'll be real honest, at first I actually wasn't sure if I'd ever really like living here. But the more the days go by, the more I think I'm really fitting in!
+
+
+Option1a:: That sounds like a very tight-knit community. //Relationship LynnP11 2
+
+Option1b:: Sounds awful, I bet you're glad you came to Sun Haven. //Relationship LynnP11 -1 Mad
+
+Response1a:: I suppose it is, isn't it? Our blacksmiths make some spare money from repairing or replacing parts, but mostly our little village shares what everyone makes.[]It's very quaint, and Sun Haven is a lot different. But that doesn't mean I don't like it here! Sun Haven is so big and full of people and things, which is nice in its own way.
+
+Response1b:: You think my home sounds awful? I'm sorry you think that, but I guess I understand why. They're two very different places, after all...
+
+
+Option2a:: Sun Haven is better with you here.
+
+Option2b:: You're going to do just fine, Lynn.
+
+Response2a:: You mean even little ol' me makes a difference? That's very sweet of you to say, XX.[]I want nothing more than to honor my heritage as a blacksmith by mastering all of the advanced techniques that Solon can teach me!
+
+Response2b:: Thanks, XX. I'm really starting to think so, too.[]I want nothing more than to honor my heritage as a blacksmith by mastering all of the advanced techniques that Solon can teach me!
+
+
+End

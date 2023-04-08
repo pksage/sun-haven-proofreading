@@ -1,0 +1,23 @@
+Denzel Cycle 1
+
+Dialogue:: XX, you're back! I always knew you were a smart customer.
+
+Option1:: You're really passionate about your food, huh?
+Option2:: Have you been a cook your whole life?
+
+Response1:: Food is life! Are you not passionate about life!?
+Response2:: A cook? No way! I am an artisanal master of fine cuisine!
+
+Option1a:: Calm down - it's just food. //Relationship Denzel1 -1
+Option1b:: You're totally right! //Relationship Denzel1 2
+
+Response1a:: Huh. You're not such a smart customer after all, it turns out.
+Response1b:: Of course I am! I've been a fry cook for my whole life! You don't go that long frying food without learning what it's all about!
+
+Option2a:: Have you been an artisanal master of fine cuisine your whole life?
+Option2b:: It's much easier to say "cook."
+
+Response2a:: No way! Before this, I was a professional thumb wrestler! Before they changed the rules and I was disqualified...
+Response2b:: True! It is also much easier to eat food raw, but it is much better fried!
+
+End

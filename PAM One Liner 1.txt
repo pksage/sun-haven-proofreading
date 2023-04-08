@@ -1,0 +1,5 @@
+PAM One Liner 1
+
+Dialogue:: Who is up for a challenge? How about, you? Or perhaps, you!
+
+End

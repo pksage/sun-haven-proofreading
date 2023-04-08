@@ -1,0 +1,23 @@
+Claude Cycle P11
+
+Dialogue:: I just came across an old critic's review of my first concerto. He called it "lacking in concrete inspiration."[]Heh, critics...
+
+Option1:: Do you agree with what the critic said?
+Option2:: How did you come across such an old review?
+
+Response1:: Not really. Maybe he was right, or maybe he was wrong. Either way, I don't really write my music for other people's enjoyment.
+Response2:: My concerto is famous through every region of the land. Hundreds of people wrote what they thought about it.[]Sometimes, when I'm really dwelling on the past, I'll go back see what people said about my concerto.
+
+Option1a:: Who do you write your music for, then?
+Option1b:: You don't care if people like your music?
+
+Response1a:: I write my music for me, XX. I appreciate if other people enjoy it, but it's not necessary.[]I feel if I tried to make music specifically that other people would like, I'd just limit myself.
+Response1b:: I write my music for me, XX. I appreciate if other people enjoy it, but it's not necessary.[]I feel if I tried to make music specifically that other people would like, I'd just limit myself.
+
+Option2a:: That's truly amazing, Claude! //Relationship ClaudeP11 2 Happy
+Option2b:: That's an unhealthy obsession. //Relationship ClaudeP11 -1 Mad
+
+Response2a:: Yeah. Like I said, it was famous through every region. Some of them write that they love, it others write they they hate it.[]I don't mind much either way, but it's interesting they care enough about my music to hate it.
+Response2b:: If there's one thing I'll never do, it's allow myself to be confined by the opinion of another. I can read all the old reviews I want.  
+
+End

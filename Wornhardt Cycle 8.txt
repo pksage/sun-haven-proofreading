@@ -1,0 +1,32 @@
+Wornhardt Cycle 8
+
+Dialogue:: Hey now, there's my favorite farmer! I hope you have a long and successful stint on the farm, XX.
+
+Option1:: Do you consider yourself successful, Wornhardt?
+
+Option2:: So what's your plan for the long term, Wornhardt?
+
+
+Response1:: Wow, that's a hefty question. Let me think a moment...[]You know, I think I do. Mainly because I found a place I'm happy to call home. That's all the success I need.
+
+Response2:: Long term, huh? I'll be honest with you. I'm still kind of getting myself settled into life here. I haven't thought one bit about any far future. I'm really just trying to enjoy the moment.
+
+
+Option1a:: You're a surprisingly simple guy, Wornhardt.  //Emote none Happy
+
+Option1b:: I hope to find success the way you have.
+
+Response1a:: Thanks, but you might not think that once you get to know me better!
+
+Response1b:: Just hang in there, XX. I'm completely certain that you'll find your success someday soon.
+
+
+Option2a:: That's pretty irresponsible, especially for a doctor. //Relationship Wornhardt8 -1 Mad
+
+Option2b:: Focusing on the present is important. //Relationship Wornhardt8 2 Happy
+
+Response2a:: What's irresponsible is expecting too much of yourself - and others.
+
+Response2b:: We both agree on that! It's easy to get caught up in life and forget to enjoy yourself. //Emote none Happy
+
+End

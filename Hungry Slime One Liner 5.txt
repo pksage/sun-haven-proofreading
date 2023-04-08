@@ -1,0 +1,5 @@
+Hungry Slime One Liner 5
+
+Dialogue:: Feed me, Seymour!					
+
+End

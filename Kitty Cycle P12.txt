@@ -1,0 +1,23 @@
+Kitty Cycle P12
+
+Dialogue:: I wanna learn how to fish! But Peter says he doesn't have time to teach me, and Rupert is always too shy to talk to Kitty, nya!
+
+Option1:: Rupert is shy around you?
+Option2:: Why do you want to learn how to fish?
+
+Response1:: Yup yup, whenever I try to talk to him he gets sooo embarrassed, he can't even be grumpy! I guess he never learned how to talk to cute girls, teehee!
+Response2:: Fish is my favorite food, you know that, right? Usually I just fish with my claws, but people using fishing rods catch sooo much more fish!![]It's against Kitty's better instinct as an Amari, but I must learn the secret of fishing rods, nya!
+
+Option1a:: I wouldn't think he'd have such a soft side.  //Emote none Happy
+Option1b:: I guess Rupert likes cats.  //Emote none Happy
+
+Response1a:: Hehe. It's cute, but he still won't teach Kitty how to fish!
+Response1b:: Hehe. It's cute, but he still won't teach Kitty how to fish!
+
+Option2a:: I couldn't picture you using a fishing rod. //Relationship KittyP12 -1 Sad
+Option2b:: If you ever learn, we could go fishing sometime! //Relationship KittyP12 2 Happy
+
+Response2a:: Nyan?! Is it so strange Kitty wants to learn something new, XX?
+Response2b:: Ohh, that's a fun idea! We could see who catches more fishies, and then Kitty could eat them all! Right?
+
+End

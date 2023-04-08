@@ -1,0 +1,32 @@
+Demon King Minos Cycle 1
+
+Dialogue:: You're in the presence of a king. Be sure you don't forget yourself.[]Now, what brings you before me?
+
+
+Option1:: I'm curious about Withergate's history, my king.
+
+Option2:: I want to add to Withergate's prosperity, my king.
+
+
+Response1:: Before Withergate was made a city, only Castle Withergate stood on this land. With our strength, Castle Withergate was pulled out of the very ground.[]Soon after I took the throne, I knew it was time to spread my family's influence. I established Withergate City below the castle as a means of further increasing our power. 
+
+Response2:: I see... very good. I understand that you are a farmer in your Human town. Certainly you can use your experience raising crops to increase our bounty.[]The apartments have farmable space on the rooftop where you can work. Xyla's genius idea, of course.
+
+
+Option1a:: I thought you made Withergate to unify monsterfolk.
+
+Option1b:: How did the monsterfolk come to be here?
+
+Response1a:: At the time of Withergate's founding, there was indeed rising conflict among the monsterfolk.[]Monsterfolk aren't well liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many Monsterfolk began to see their days as numbered.[]All the Monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
+
+Response1b:: At the time of Withergate's founding, there was rising conflict among the Monsterfolk.[]Monsterfolk aren't well liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many Monsterfolk began to see their days as numbered.[]All the Monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
+
+Option2a:: Do you really think that will help much? //Relationship DemonKing1 -1
+
+Option2b:: I'm happy to contribute however I can. //Relationship DemonKing1 2
+
+Response2a:: Questioning me is brash, outsider. Too brash. If you continue to slip up, I will let you rot in darkness for the rest of your miserable life.
+
+Response2b:: You act like a true citizen of our beautiful city. Many are here only to live, not to help. If I'm to build a future for Demons and monsterfolk alike, then I'll need citizens like you.
+
+End

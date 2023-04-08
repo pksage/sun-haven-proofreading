@@ -1,0 +1,33 @@
+Donovan Cycle 9
+
+Dialogue:: You're looking pretty buff, XX. Is that from farming or fighting?[]Either way, keep it up and you'll have nothing to fear in this town!
+
+Option1:: You seem pretty fearless, but I wonder... what scares you, Donovan?
+
+Option2:: Is there anybody in town that you would be afraid to fight?
+
+
+Response1:: Okay sure, I'll tell you. But only because we're getting to know each other pretty well. And you have to keep it quiet. This is a test to see if I can trust you, XX! Don't blow it.
+
+Response2:: Hm... Not Darius... Not Xyla... Maybe Arianella, the seamstress... Actually, the only person I can think of is you, XX.
+
+
+Option1a:: You can trust me. //Emote none Embarrassed
+
+Option1b:: Out with it already. //Emote none Embarrassed
+
+Response1a:: I can't swim to save my life. For some reason, I sink like a bag of rocks. I just can't keep my head above water.[]Maybe I need to gain some weight or something. Anyway, now you know. So don't tell!
+
+Response1b:: I can't swim to save my life. For some reason, I sink like a bag of rocks. I just can't keep my head above water.[]Maybe I need to gain some weight or something. Anyway, now you know. So don't tell!
+
+
+Option2a:: You're right, I would cream you. //Relationship Donovan9 -1 Embarrassed
+
+Option2b:: I wouldn't want to fight you, Donovan! //Relationship Donovan9 2 Happy
+
+Response2a:: Whoa whoa whoa - that's not what I meant at all! Good to know where you stand though, sheesh.
+
+Response2b:: That's exactly my point, I think I actually like you too much. Heck, I'd rather get crushed by the club bouncer than have to fight you.
+
+
+End

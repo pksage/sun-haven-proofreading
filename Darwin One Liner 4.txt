@@ -1,0 +1,5 @@
+Darwin One Liner 4
+
+Dialogue:: Yes, my apron is messy. Never trust a jam maker with a clean apron. Better than that, never trust a jam maker who isn't me!				
+
+End

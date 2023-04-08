@@ -1,0 +1,33 @@
+Jun Cycle 2
+
+Dialogue:: So is it love at first sight? I mean, with Sun Haven?
+
+Option1:: You've been here a while, right Jun? Do you still like it here?
+
+Option2:: Did you move here like me?
+
+
+Response1:: Of course, Sun Haven is great. I just wish it was doing better. The people here have a strong will, though, so I'm optimistic.[]The trick is not losing hope, and if anyone does lose hope then that's where I come in.
+
+Response2:: Not at all, I was born and raised here in Sun Haven. I've never even visited the Great City. My little house has been my only home all my life.
+
+
+Option1a:: I think Sun Haven will bounce back! //Relationship Jun2a 2 Happy
+
+Option1b:: How do you stay so positive?
+
+Response1a:: That's exactly the positivity I'm talking about! I already knew you were a positive person, but it's nice hearing you talk like that.
+
+Response1b:: I take care of myself. For me that means taking an inventory of my worries or fears and writing them down. Maybe it's not for everybody, but that's my process.
+
+
+Option2a:: There's no reason to move if you're happy. //Relationship Jun2b 2 Happy
+
+Option2b:: Living in one house your whole life sounds terribly boring. //Relationship Jun2b -1 Mad
+
+Response2a:: Oh, absolutely. Hey, feel free to come visit me whenever you want! You know, so you can see my home. My house is just above Liam's. He's a great neighbor, too.
+
+Response2b:: It's good to know you think I'm boring!
+
+
+End

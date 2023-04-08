@@ -1,0 +1,34 @@
+Darius Cycle 11
+
+Dialogue:: Ah, my trusted companion. I'm always glad to see you, XX. You distract me from my daily troubles.
+
+Option1:: I feel close to you too, Darius.
+
+Option2:: You make me feel invincible.
+
+
+Response1:: Then I should take you out for a night. Surely, your answer must be yes?
+
+Response2:: I have something for you, XX. It won't make you invincible, but it's as close as you can get. My family's enchanted heirloom.[]This royal heirloom will make you undefeatable. Will you take it as a gift from me?
+
+
+Option1a:: I'm afraid not, Darius. //Relationship Darius11 -1 Sad
+
+Option1b:: I would love to, Darius! //Quest none DariusHangout2Quest
+
+Response1a:: I see. Not just anyone can reject the prince of Demons. You're truly something special, XX.
+
+Response1b:: Fantastic! Meet me outside of the apartment building tomorrow at 5:00 pm.
+
+
+Option2a:: Of course, I accept! //AddItem none Darius'sRoyalHeirloom 1
+
+Option2b:: Are you sure? //AddItem none Darius'sRoyalHeirloom 1
+
+Response2a:: I know this heirloom is destined for you. Take it, keep it proudly and let its strength flow through you.
+
+Response2b:: I know this heirloom is destined for you. Take it, keep it proudly and let its strength flow through you. 
+
+
+End
+

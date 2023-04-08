@@ -1,0 +1,23 @@
+Benny Cycle 1
+
+Dialogue:: Another fan coming to see Withergate's finest busker? Sorry kid, I don't do autographs!
+
+Option1:: Do you have a lot of fans?
+Option2:: What's a busker?
+
+Response1:: Well, no. Not yet! I will soon though. I've got all the time in the world to build my fanbase!
+Response2:: Huh? You mean you aren't a busker-buff? Hmph, that's a slap in the ego...[]A busker is a street performer, obviously!
+
+Option1a:: That will never happen. //Relationship Benny1 -1
+Option1b:: I bet you already have more fans than you know! //Relationship Benny1 2
+
+Response1a:: Not with that attitude... Besides, since I'm a ghost I can wait forever and ever to reach my success!
+Response1b:: Is that right? Have you heard something?? This is it - Busker Benny is finally on his way to the big time!! 
+
+Option2a:: You seem proud to be a busker.
+Option2b:: Is it a fun job?
+
+Response2a:: It's not just a job, you know. It's my whole reason for being here! Sure, I could float off to the afterlife if I wanted to - <i>yawn!</i>[]I still need to make a name for myself here before I move on. Soon, everyone will know Benny as the best busker in Withergate!
+Response2b:: It's not just a job, you know. It's my whole reason for being here! Sure, I could float off to the afterlife if I wanted to - <i>yawn!</i>[]I still need to make a name for myself here before I move on. Soon, everyone will know Benny as the best busker in Withergate!
+
+End

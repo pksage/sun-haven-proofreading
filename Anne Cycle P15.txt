@@ -1,0 +1,29 @@
+Anne Cycle P15
+
+Dialogue:: You work real hard, don't you? I wonder if you've made as much money as I have since coming to Sun Haven!
+
+Option1:: How much money have you made?
+Option2:: What do you make all your money for, anyway?
+
+Response1:: Well, a good merchant never sells and tells. I'm not going to give up sensitive information like that![]Don't forget, information can fill a wallet just as quick as it can drain it.
+
+Response2:: At first, it was simple survival. But then I learned to like the taste of success and the comforts that come with it.
+
+Option1a:: You're just being dramatic. //Relationship AnneP15 -1 Mad
+
+Option1b:: That's a smart precaution for a business owner. //Relationship AnneP15 2
+
+Response1a:: Call it dramatic if you like, XX. I've been in the game a long time, so I know I'm not just blowing smoke. 
+
+Response1b:: It might sound like I'm being dramatic, but I've been in the game a long time.  I know I'm not just blowing smoke.[]Oh, but it's not that I don't trust <i>you</i>, of course.
+
+
+Option2a:: You're a very driven person. 
+Option2b:: At least invest everything wisely.
+
+
+Response2a:: True, but I still know how to have fun! I'll slow down some day. Maybe in the distant future, heh.
+
+Response2b:: Wisely? XX, you're a farmer! You want me to invest in potatoes? Oh wait, I already did - it's called dinner!
+
+End

@@ -1,0 +1,33 @@
+Catherine Cycle 5
+
+Dialogue:: I just met a couple of travelers from the Northern Region. The north sounds so cold... I'm really glad it's warm here!
+
+Option1:: Are you from Sun Haven, or did you move here?
+
+Option2:: Have you traveled much outside of Sun Haven?
+
+
+Response1:: All of my siblings and I were born right here in Sun Haven. All eight of us![]The rest of my litter moved to other cities, but I just couldn't leave.
+
+Response2:: Not really. I went on vacation with my family once to the far west. It was very industrious and everyone seemed so busy. Honestly, I didn't love it.
+
+
+Option1a:: What's keeping you here?
+
+Option1b:: You love Sun Haven that much? //Emote none Happy
+
+Response1a:: Hm... You know, I just see a future for myself here. And I don't mean literally, like in a crystal ball - I prefer tea leaves for fortune telling, anyway.[]Oops, I'm rambling. To put it simply, I want to raise a family here. Simple as that!
+
+Response1b:: Don't sound so surprised! I'm sure you'll agree once you get to know everyone. The people really make this town special.
+
+
+Option2a:: If you thought the big city was boring, that's on you. //Relationship Catherine5 -1 Mad
+
+Option2b:: I don't see why anyone would want to live that way. //Relationship Catherine5 2 Happy
+
+Response2a:: XX, life is only as boring as you make it. Or, right now, life is as annoying as you make it.[]I'm saying that you're annoying me.
+
+Response2b:: I completely agree! A busy town is fun, but at least give me some trees to sit under on a hot day.
+
+
+End

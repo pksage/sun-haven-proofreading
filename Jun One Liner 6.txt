@@ -1,0 +1,5 @@
+Jun One Liner 6
+
+Dialogue:: Your hair is looking great today, XX. You should wear a fresh spring daisy in it, what do you say?
+
+End

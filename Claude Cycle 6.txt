@@ -1,0 +1,33 @@
+Claude Cycle 6
+
+Dialogue:: You know XX, you could come visit me at my home sometime... if you wanted.
+
+Option1:: If I wanted to bring you a gift, what would you like?
+
+Option2:: Have you invited anyone to your house before?
+
+
+Response1:: There isn't much I need that I can't get myself, XX. You've seen my house, right?
+
+Response2:: Actually... huh, no I haven't. Congratulations on being the first, I guess.
+
+
+Option1a:: I don't care!
+
+Option1b:: I still think it would be nice.
+
+Response1a:: Well, fine then. I can always use fresh food. In fact, it's been a while since I've had fresh cinaberry.
+
+Response1b:: Well, fine then. I can always use fresh food. In fact, it's been a while since I've had fresh cinaberry.
+
+
+Option2a:: I'm honored! //Relationship Claude6 2
+
+Option2b:: It's weird that I'm the first. //Relationship Claude6 -1 Embarrassed
+
+Response2a:: I'm glad, but you don't have to make a big thing about it.
+
+Response2b:: Well somebody has to be the first...
+
+
+End

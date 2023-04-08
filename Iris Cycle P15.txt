@@ -1,0 +1,23 @@
+Iris Cycle P15
+
+Dialogue:: I remember, one day I was feeding the fish in Nivara's pools when she told me I had great purpose. I'm still not sure what she meant by that.
+
+Option1:: Do <i>you</i> feel like you have great purpose?
+Option2:: Can't you ask her to explain?
+
+Response1:: I'm... not even sure what that means, to be honest. The Elder has purpose, but he's been leading us for generations.[]I'm still so young. It's hard to know what my purpose is supposed to be.
+Response2:: "The most important lessons are learned, not told."[]Yeah, that's Nivara. She loves to make you work for your wisdom...
+
+Option1a:: I bet you'll figure it out without even trying. //Relationship IrisP15 2 Happy
+Option1b:: If you're this confused, maybe Nivara was wrong. //Relationship IrisP15 -1 Mad
+
+Response1a:: You really believe that? Well... darn it, if you can then why can't I?[]I guess the first step is learning how to believe in myself. Ugh, I can already tell this will be fun... 
+Response1b:: That's impossible! The World Dragon has never led me astray, not in enchanting and not in life. Her wisdom is absolute, XX. I'm... a little shocked you even said that.
+
+Option2a:: That's pretty smart.
+Option2b:: That seems unhelpful.
+
+Response2a:: You think so? It drives me crazy... Not to sound ungrateful, but sometimes I just want a direct answer.
+Response2b:: I agree. But at the same time, I understand her point. It's a little annoying that she's always right.
+
+End

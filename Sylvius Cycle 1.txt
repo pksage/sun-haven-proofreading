@@ -1,0 +1,33 @@
+Sylvius Cycle 1
+
+Dialogue:: Your search for the best woodworking has ended. What can I get you?
+
+
+Option1:: Is it difficult selling your goods here?
+
+Option2:: What a cute deer!
+
+
+Response1:: You mean in Nel'Vari? Sure, it's tricky selling wooden goods in a town full of woodworkers. The key is to exceed in quality.
+
+Response2:: His name is Telumbe, and he's the best! He's been in our family a long time. I think he's older than Sylvia and I combined.
+
+
+Option1a:: You must really be the best in town, then.
+
+Option1b:: How did you become such a fine artisan?
+
+Response1a:: You bet! Between Sylvia and me, there's not an Elf in the world that holds a candle to our skill.
+
+Response1b:: Practice, practice, practice. All I've done since I was a kid is carve wood. Sometimes it's like I can hear the wood, telling me how to shape it.
+
+
+Option2a:: Doesn't Telumbe get tired pulling the cart? //Relationship Sylvius1 -1
+
+Option2b:: It sounds like Telumbe is a perfect companion for you. //Relationship Sylvius1 2 
+
+Response2a:: Telumbe could pull 10 of these. Don't underestimate him just because he's old.
+
+Response2b:: He really is! Animals are crucial to our way of life, so they become our family.
+
+End

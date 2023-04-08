@@ -1,0 +1,33 @@
+Anne Cycle 9
+
+Dialogue:: Before you ask, no I will not be your mentor. I work too much to be someone's role model!
+
+Option1:: Is there any role model you look up to?
+
+Option2:: I'd say you work too much, Anne. What would you even do on a day off? //Emote none Happy
+
+
+Response1:: I've got to respect Lucia's ability as a leader. I don't know how, but she's got this town wrapped around her magic little fingers.[]Other than her? Probably my old mentor. At least, I used to.
+
+Response2:: Day off, huh? I can't imagine why I'd want a day off. I guess if I had to take a day off, I would spend it on the beach with a whole cheesecake to myself.[]Oh, and at the bottom of the cake is a diamond!
+
+
+Option1a:: You've never mentioned a mentor before. //Relationship Anne9 -1 Sad
+
+Option1b:: I remember you talking about her before. //Relationship Anne9 2
+
+Response1a:: Actually, I have. Can't expect you to remember everything, I guess.
+
+Response1b:: Actually, my old mentor was a man, but I don't think I told you that. Heck, I'm surprised you remember me mentioning him at all!
+
+
+Option2a:: Don't you ever want a day off?
+
+Option2b:: Cake on the beach sounds risky. What about the sand?
+
+Response2a:: I don't like days that don't make me any money. Too many days like that and I don't eat.[]A while back, I promised myself that I would never go to bed hungry again. I definitely intend to keep that promise.
+
+Response2b:: XX, if you think a little sand would stand between me and a delicious raspberry cheesecake then you really don't know a thing about me. Besides, I've eaten some nasty food in my time.
+
+
+End

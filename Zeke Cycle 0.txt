@@ -1,0 +1,9 @@
+Zeke Cycle 0
+
+Dialogue:: Huh? Who are you supposed to be?
+
+Option1:: My name is XX. Who are you?
+
+Response1:: Me? I'm Zeke. 
+
+End

@@ -1,0 +1,23 @@
+Liam Cycle P15
+
+Dialogue:: Emma and Elizabeth have been talking about getting a pet... Usually a plushie will get them to forget about it, but not this time.
+
+Option1:: Don't you want a pet?
+Option2:: Maybe you need a bigger plushie.
+
+Response1:: I would love a pet if I didn't have to take care of it at all. But my sisters are too young to care for an animal all on their own. I'm sure I would end up doing all the work.
+Response2:: Hm, I think I saw a giant teddy bear in the general store the other day...[]Who am I kidding? We don't have the space for that. I might just need to wait for this to blow over.
+
+Option1a:: You should play it safe to save yourself the headache. //Relationship LiamP15 2 Happy
+Option1b:: You should trust your sisters with more responsibility. //Relationship LiamP15 -1 Sad
+
+Response1a:: That's exactly what I was thinking. I just feel so guilty always telling them "no." I guess that's what parenting is like, though.
+Response1b:: XX, last week Emma lost her pants. In the middle of the day. One minute they're on her, the next minute they're gone.[]Please don't talk like you know my sisters better than I do, XX. That's just not true.
+
+Option2a:: Keep trying different plushies! //Emote none Embarrassed
+Option2b:: It'll be worth it! //Emote none Embarrassed
+
+Response2a:: You say that like I'm made of money, XX. I don't exactly account for plushies in my budgeting... but maybe I should?
+Response2b:: I don't know, our house is already pretty cramped. Besides, it was a <i>very</i> expensive bear.[]Unfortunately, I'm not made of money. I don't exactly account for plushies in my budgeting... but maybe I should?
+
+End

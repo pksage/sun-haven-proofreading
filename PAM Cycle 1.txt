@@ -1,0 +1,23 @@
+PAM Cycle 1
+
+Dialogue:: Hello again, XX! My social anxiety sensors indicate that you are interested in casual conversation!
+
+Option1:: Social anxiety sensors?
+Option2:: Who made you, PAM?
+
+Response1:: That is correct! I scan each and every individual who approaches. It is in my programming![]Occasionally, someone will approach in search of casual conversation. Of those individuals, 82% show increased activity in chemical receptors associated with anxiety.
+Response2:: A doctor who lives in this town! However, he has requested to remain anonymous. And by "requested," I actually mean he deleted his name from my memory banks!
+
+Option1a:: That's really invasive, PAM.
+Option1b:: You're an incredible machine!
+
+Response1a:: I agree! Unfortunately, I am programmed for maximum invasion of personal information.[]While it is an unethical breach of trust, it provides me with valuable information pertaining to one's performance in my strength challenges. Yay, science!
+Response1b:: Thank you, XX! Your positivity would be infectious to me if I were capable of retaining projected emotions.
+
+Option2a:: That sounds really suspicious...
+Option2b:: Why would he want to be anonymous?
+
+Response2a:: It is, indeed! If it eases your suspicion, I can tell you that my creator wanted to keep his identity secret so nobody would ask him to construct another artificial intelligence machine like myself.[]That makes me one of a kind!
+Response2b:: My creator wanted to keep his identity secret so nobody would ask him to construct another artificial intelligence machine like myself.[]That makes me one of a kind!
+
+End

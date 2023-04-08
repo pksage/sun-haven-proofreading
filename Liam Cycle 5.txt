@@ -1,0 +1,33 @@
+Liam Cycle 5
+
+Dialogue:: I've been taking more walks like you said and it really helps. I'm more relaxed at home, which is a lot better for the girls.
+
+Option1:: How are your sisters doing?
+
+Option2:: Say, where is the rest of your family? //Emote none Sad
+
+
+Response1:: They're just fine, thanks! Both of them are responsible for their age, so I can leave them alone sometimes.[]If they needed a close eye on them like Pod does, then I don't know how I could do my job.
+
+Response2:: Ooh, sorry XX that's... a touchy subject. Um. Maybe I'll tell you sometime, but I don't want to get into it right now.
+
+
+Option1a:: Are you sure you're giving them enough attention? //Relationship Liam5 -1 Sad
+
+Option1b:: You've got some wonderful sisters, there. //Relationship Liam5 2 Happy
+
+Response1a:: Hm, I guess they might be a little overlooked sometimes. You don't think I'm being neglectful? Ah, maybe I should talk to them.
+
+Response1b:: I know. Sometimes I forget that they're so young because they manage themselves so well. I could learn something from them, for sure.
+
+
+Option2a:: You can share with me.
+
+Option2b:: I can wait until you're ready to talk about it.  //Emote none Happy
+
+Response2a:: Sorry, XX. Maybe someday.
+
+Response2b:: You're a good friend, XX. I'm glad you're here.
+
+
+End

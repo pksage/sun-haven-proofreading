@@ -1,0 +1,23 @@
+Romana Cycle 1
+
+Dialogue:: Honey and jams! Come, try every flavor!
+
+Option1:: That's a very pretty cart you have.
+Option2:: Isn't it hard to travel with that dress?
+
+Response1:: Oh this lil' old thing? It's just my quaint little way of carrying along my wares. It keeps a girl in shape, don't you know? Pulling it, that is.
+Response2:: The uniform doesn't make travel any easier, but that's the price one pays to look professional and stand out! What other merchant catches your eye like I? Hehehe.
+
+Option1a:: You... pull your own cart? //Relationship Romana1 2
+Option1b:: Yeah, sure it does, granny. //Relationship Romana1 -1
+
+Response1a:: Hehehe... well, it doesn't pull itself!
+Response1b:: Don't believe me, eh? I'll wrestle you anytime you're feeling jumpy, youngster!
+
+Option2a:: I guess you have a point.
+Option2b:: Does it really work?
+ 
+Response2a:: Such a well mannered youngster. Listen to your elders, hehehe!
+Response2b:: Maybe we can swap outfits sometime and you can see for yourself, hehehe...
+
+End

@@ -1,0 +1,33 @@
+Topi Cycle 4
+
+Dialogue:: You're lucky you get to play on a farm all day!
+
+
+Option1:: You know that what I do is hard work, right?
+
+Option2:: You get to play all day too, right?
+
+
+Response1:: Sure, but it's fun because you get to play in dirt and mud and stuff too. Right?
+
+Response2:: It's not the same. When I get too dirty then I get in trouble with my mom.
+
+
+Option1a:: I try not to get too dirty. //Relationship Topi4 -1
+
+Option1b:: That's right, farming is a lot of fun! //Relationship Topi4 2
+
+Response1a:: Figures, adults are always so boring.
+
+Response1b:: I knew it! I want to be a farmer too now, just like you, XX.
+
+
+Option2a:: Your dad doesn't care?
+
+Option2b:: Just clean up before your mom gets home.
+
+Response2a:: He's usually dirty too, hehehe.
+
+Response2b:: Ooh, that sounds like something Pod would say. You're real smart, XX!
+
+End

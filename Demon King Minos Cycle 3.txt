@@ -1,0 +1,33 @@
+Demon King Minos Cycle 3
+
+Dialogue:: Once again, you come before me. I hope you're here with purpose and not only to waste my time.
+
+
+Option1:: Isn't there a queen?
+
+Option2:: What are your plans for Withergate, my king?
+
+
+Response1:: Curious about the queen? I suppose if you want to be a true citizen, then you should know the story.[]Darius was a mere child and my father was still king. I, the prince, was already long married to my queen-to-be, Aisling.[]At the time, we were fresh to this world... less established. We aided Dynus in driving out of our lands the last vestiges of a wretched race who opposed him.[]Aisling and I fought fiercely side by side, and together we cleaved down many of the vile, tentacled beasts. Battle after battle. One day, however, Aisling was struck down by the enemy.
+
+Response2:: Withergate City is my legacy to Darius. My plan is to make this city as grand and prosperous as possible. Then, when my son takes the throne, he will have the advantage of a city behind his rule.
+
+
+Option1a:: What did you do?
+
+Option1b:: I'm sorry for your loss.
+
+Response1a:: I continued fighting. Aisling was a <i>true</i> Demon. She crushed tens of thousands of foes beneath her cloven foot. She knew the potential cost of war, and did not fear paying the price.[]Her sacrifice helped secure our ultimate victory. I suggest that you weep, for this pathetic world will never see the likes of her greatness again.
+
+Response1b:: Of course you are. You are weak. Aisling was a <i>true</i>  Demon. She crushed tens of thousands of foes beneath her cloven foot. She knew the potential cost of war, and did not fear paying the price.[]Her sacrifice helped secure our ultimate victory. I suggest that you weep, for this pathetic world will never see the likes of her greatness again.
+
+
+Option2a:: It sounds like your plan is to do nothing new. //Relationship DemonKing3 -1
+
+Option2b:: Giving your son a strong start is a great idea. //Relationship DemonKing3 2
+
+Response2a:: As far as I know, Cordelia is my personal strategist. I will always be grateful for her advice, but a peasant like you has no right to criticise my plans for this city.
+
+Response2b:: Indeed, it was Cordelia's idea to bide my time and make Withergate as great as it can be. She's a valuable strategist and a large part of Withergate's success.
+
+End

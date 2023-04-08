@@ -1,0 +1,33 @@
+Kitty Cycle 5
+
+Dialogue:: Kitty had a nightmare last night... I was climbing a tree all grown up, but I got stuck like I did as a kitten!
+
+Option1:: I'm sure you're strong enough to get back down, now!
+
+Option2:: Maybe Catherine can help you with those nightmares.
+
+
+Response1:: What if it's a warning that I shouldn't be climbing trees anymore? Oh that would make Kitty sad!
+
+Response2:: Like with magical herbs, nya? I don't like Catherine's potions too much. They taste so... yuck! Nasty.
+
+
+Option1a:: Don't be sad, I'm sure you won't get stuck. //Emote none Happy
+
+Option1b:: You'll be ok, but maybe you can climb shorter trees for now, just in case!
+
+Response1a:: You're right, I'm a pretty good climber now, nya! So nice to have a sunny friend cheering me on. Thanks, XX!
+
+Response1b:: You're right, nya! Gosh you're so clever, XX! 
+
+
+Option2a:: You should just deal with it if you want to avoid the nightmares. //Relationship Kitty5 -1 Sad
+
+Option2b:: It's true... Maybe she could make one that tastes like berries? //Relationship Kitty5 2 Happy
+
+Response2a:: Ugh, I'd rather have nightmares, nyan...
+
+Response2b:: Oh! Or fish! I think I'll go ask her to try, nya. Good idea, XX!
+
+
+End

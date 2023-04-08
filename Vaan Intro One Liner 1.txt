@@ -1,0 +1,5 @@
+Vaan Intro One Liner 1
+
+Dialogue:: Keep your head up, maybe you'll see me again soon.
+
+End

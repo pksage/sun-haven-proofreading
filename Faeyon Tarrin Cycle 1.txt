@@ -1,0 +1,33 @@
+Faeyon Tarrin Cycle 1
+
+Dialogue:: You must be wondering, "What's an Angel doing here?"[]As a Watcher, it's my mission to observe the world and its activity. Especially in places like this.
+
+
+Option1:: What's a "Watcher?"
+
+Option2:: What did you mean when you said "places like this?"
+
+
+Response1:: To some degree, all Angels are sworn Watchers. We record the history of the world without altering it ourselves.[]Think of us merely as historians. But even so, I find that I can at least give a little help to vulnerable people, like some of the citizens here.
+
+Response2:: Withergate is still relatively new as a city. It's too early to tell what will become of it. From what I've seen over the past few years, though, anything can happen here.
+
+
+Option1a:: You should help whenever you can. //Relationship Faeyon Tarrin1 2
+
+Option1b:: Upholding tradition is important. //Relationship Faeyon Tarrin1 -1
+
+Response1a:: In my heart, I agree. But my cultural oath demands that I stay impartial.[]I suppose the task of protecting the weak falls on the shoulders of righteous adventurers like yourself!
+
+Response1b:: Yes, but I still wish I could help more directly. I envy your kind - those not tethered to the laws of your culture.
+
+
+Option2a:: Why do you think anything could happen here?
+
+Option2b:: You've been here for years?
+
+Response2a:: This city is full of monsterfolk from all over the world. Monsterfolk aren't all that dangerous, but they can be unpredictable.[]Just look at what they've done in one short decade - the lights, the buildings... it's unlike anything I've ever seen.
+
+Response2b:: Yes I have. It doesn't feel that long to an experienced watcher - we are trained to withstand the passing of time. We have to stay sharp if we're to be impartial observers, after all.
+
+End

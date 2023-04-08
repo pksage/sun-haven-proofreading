@@ -1,0 +1,23 @@
+Lars Cycle 1
+
+Dialogue:: Were you talking to me? Sorry friend, I was thinking over a theory on hornsnakes.
+
+Option1:: What kind of theory?
+Option2:: I hate hornsnakes!
+
+Response1:: I've been watching wild hornsnakes to figure out what they use their horns for. So far, it's been kind of a bust.[]It's my dream to make an encyclopedia of all the animals native to our forest, but that means I have a lot to learn first.
+Response2:: Huh? How can you hate an animal? Especially one as unique as the hornsnake![]If nothing else, they play an important role in the ecosystem. Without them, arcbugs would take over our forest!
+
+Option1a:: That's a noble goal. Knowledge is important to any society. //Relationship Lars1 2
+Option1b:: Maybe you need some help. //Relationship Lars1 -1
+
+Response1a:: Wow, thank you! Some of the Elves think I'm just wasting my time. Apparently, tradition is more important than education to some of my kind.[]I can't blame them though. Tradition is how we've survived all these years hidden in the forest.
+Response1b:: I appreciate the offer, but I only want my name on this encyclopedia. Maybe that's selfish, but it's <i>my</i> dream.
+
+Option2a:: I don't get it, what do you mean?
+Option2b:: I still don't like them.
+
+Response2a:: Hornsnakes and arcbugs compete for territory. Neither of their populations can get too big or they get in each other's way. It's the natural balance at work!
+Response2b:: Maybe ecology just isn't for everyone.
+
+End

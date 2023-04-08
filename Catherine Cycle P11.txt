@@ -1,0 +1,23 @@
+Catherine Cycle P11
+
+Dialogue:: I've heard that some people play music for their plants. It's supposed to help them grow. Putting music and plants together, I think it's a fantastic idea.
+
+Option1:: What kind of music would you play to a plant?
+Option2:: Do you think music really makes plants grow?
+
+Response1:: I don't know. I like to think that even music has an aura. The sounds and vibrations and rhythm, all of it has an energy to it. At least, that's what I think.[]Maybe it depends on how I want the plant to grow. Noisy and loud for big and bountiful, quiet and reserved for soft and small? Who knows!
+Response2:: I don't know! Really, I just think it sounds like fun, even if it doesn't work. Besides, it's a good excuse to listen to a lot of music.
+
+Option1a:: You seem to have lots of questions about the world. //Emote none Happy
+Option1b:: That's a lot for me to get my head around.
+
+Response1a:: Hehe, I'm sure it didn't take you this long to notice that, XX. Life is a mystery, and I like to figure it out.
+Response1b:: It might seem pretty crazy, but that's how I like to think. Life is a mystery, and I like to figure it out.
+
+Option2a:: Sounds like it might be a waste of time. //Relationship CatherineP11 -1 Sad
+Option2b:: I can picture you playing your music to all your plants now. //Relationship CatherineP11 2 Happy
+ 
+Response2a:: Nothing is a waste of time if you enjoy doing it. Try to live without limiting yourself to things you think are "worth the time", XX. I certainly do. 
+Response2b:: It is kind of funny, huh? I told you it sounded fun! Now I'll have to try it sometime. It'll be interesting to see if it really works or not![]Of course, it's really the fun of it that counts, right? 
+
+End

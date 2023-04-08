@@ -1,0 +1,33 @@
+Liam Cycle 8
+
+Dialogue:: I don't know why, but my thoughts are pretty scattered today. Maybe I'm working too much.
+
+Option1:: Here's a question to get your mind off things - what's your favorite holiday?
+
+Option2:: Do you ever take a day off for yourself?
+
+
+Response1:: Oh man, so many holidays... I really like the Lantern Festival. Everyone gets together to make wishes before we all release floating lanterns into the night sky.
+
+Response2:: A whole day off for myself, what a concept. I don't think I've had a day like that since... well, since I moved here with my sisters.
+
+
+Option1a:: What do you like about it?
+
+Option1b:: Sounds fun! What do you do to celebrate?
+
+Response1a:: I think there's something symbolic about it, but I don't really remember... It's a nice time, though.[]I like it because we're all celebrating the same thing. I don't feel out of place because I'm just another local.[]Man, I'm rambling and I don't even know if I'm making sense.
+
+Response1b:: I think there's something symbolic about it, but I don't really remember... It's a nice time, though.[]I like it because we're all celebrating the same thing. I don't feel out of place because I'm just another local.[]Man, I'm rambling and I don't even know if I'm making sense.
+
+
+Option2a:: It sounds like you don't know how to take care of yourself. //Relationship Liam8 -1 Sad
+
+Option2b:: Your sisters are lucky to have a hard-working brother taking care of them. //Relationship Liam8 2 Happy
+
+Response2a:: Ugh, I know. I just don't know how I can make time for myself with everything else on my plate. Maybe I'm doing something wrong.
+
+Response2b:: Thanks for saying so. People don't understand what it's like raising them on my own AND working at the same time.
+
+
+End

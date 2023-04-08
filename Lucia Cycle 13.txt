@@ -1,0 +1,33 @@
+Lucia Cycle 13
+
+Dialogue:: You make Sun Haven feel more like home than ever before. I didn't think that was a possibility!
+
+Option1:: Do you think people will talk about you, marrying a farmer?
+
+Option2:: You seem more relaxed these days.
+
+
+Response1:: I should think not. Regardless, it doesn't matter one bit - people can talk all they want, but their words don't have to mean a thing to us.
+
+Response2:: I'm sure I know why that is - don't act coy, clearly I'm talking about you, XX![]I have more balance between work and my personal life than I ever have before. I'm surprised at how much of a relief I feel, to be honest.
+
+
+Option1a:: I don't know, I wouldn't want to hurt your career. //Relationship Lucia13 -1 Mad
+
+Option1b:: You're right, it's none of their business //Relationship Lucia13 2
+
+Response1a:: My career is mine alone to worry about. Focus on your own problems, XX.
+
+Response1b:: I would prefer to worry about ourselves and forget about others when we're together.
+
+
+Option2a:: You're not worried that you're working less because of me?  //Emote none Happy
+
+Option2b:: It's delightful to see you smiling so much. //Emote none Romantic
+
+Response2a:: Not one bit! Even if I am working slightly less, it actually feels like I'm thinking more clearly. I would even say I'm getting more work done than I was before.
+
+Response2b:: XX, for that I have you to thank. My inner fire is burning brighter than ever with your love.
+
+
+End

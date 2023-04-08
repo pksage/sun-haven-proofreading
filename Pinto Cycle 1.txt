@@ -1,0 +1,33 @@
+Pinto Cycle 1
+
+Dialogue:: Hello again, farmer. Are you settling in well? For me it's... in progress. 
+
+
+Option1:: Pinto, where are you from? 
+
+Option2:: How old are you?
+
+
+Response1:: I came down from the Northern Region. I like the weather here way better than there. Still, I miss my friends.
+
+Response2:: I look young, but I'm old enough to be a recruit. Barely.
+
+
+Option1a:: You won't last if you're already regretting it. //Relationship Pinto1 -1
+
+Option1b:: It was brave of you to make that journey. //Relationship Pinto1 2
+
+Response1a:: Do you think so? Man, maybe you have a point...
+
+Response1b:: Wow, brave? I don't think anyone has called me brave before.
+
+
+Option2a:: You're new to the army, then? 
+
+Option2b:: What made you join?
+
+Response2a:: I'm still in training. It's a lot of fun! But I'm not very good at it yet.
+
+Response2b:: My dad said it would build character. I'm not sure what he means by that, though.
+
+End

@@ -1,0 +1,5 @@
+Giuseppe Intro One Liner 2
+
+Dialogue:: I'm always looking for a new way to express myself.				
+					
+End

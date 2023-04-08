@@ -1,0 +1,33 @@
+Liam Cycle 1
+
+Dialogue:: Hi again. Sorry, it's XX, right? It's been a while since somebody new moved in.
+
+Option1:: No offense Liam, but you look like you need a nap.
+
+Option2:: What do you do for a living, Liam?
+
+
+Response1:: That's only because I do... Sorry, I don't mean to complain. I'm just burning the candle at both ends these days.
+
+Response2:: I run the bakery. I mean, I'm a baker. I also take care of my sisters. Usually, I'm doing both at the same time.
+
+
+Option1a:: You should take better care of yourself. //Relationship Liam1 -1 Sad
+
+Option1b:: If it makes you feel better, you smell fantastic. //Relationship Liam1 2 Happy
+
+Response1a:: I'm aware, thanks.
+
+Response1b:: Oh? Must be the gingerbread. Hey, that's an upside to baking that I never thought about. Thanks!
+
+
+Option2a:: Do your sisters help in the bakery?
+
+Option2b:: How old are your sisters?
+
+Response2a:: Emma and Elizabeth, they're just kids. They tried helping me bake once and it went... not too good.[]Calvin returned a cake with glitter in it. I couldn't stop giggling because he had sparkles in his teeth. He was pretty mad...
+
+Response2b:: Emma and Elizabeth, they're just kids. They tried helping me bake once and it went... not too good.[]Calvin returned a cake with glitter in it. I couldn't stop giggling because he had sparkles in his teeth. He was pretty mad...
+
+
+End

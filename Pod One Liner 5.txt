@@ -1,0 +1,5 @@
+Pod One Liner 5
+
+Dialogue:: One time I found a gold coin at the beach!						
+
+End

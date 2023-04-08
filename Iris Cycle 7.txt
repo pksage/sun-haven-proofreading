@@ -1,0 +1,33 @@
+Iris Cycle 7
+
+Dialogue:: Oh, XX. You're looking a little tired, are you working extra hard these days?
+
+Option1:: What about you? Have you been busy lately?
+
+Option2:: You work so much, how do you always seem so calm?
+
+
+Response1:: Not any more busy than usual, so... I guess that's still a yes. A project of mine is keeping me up at night. But self-planting seeds will be huge when I'm done!
+
+Response2:: Is that a bad thing? I don't like being too rowdy is all. Keeping myself calm helps me focus.
+
+
+Option1a:: Just don't forget to take care of yourself. //Emote none Embarrassed
+
+Option1b:: It's lucky you have something to be excited about, at least. //Emote none Happy
+
+Response1a:: I know you're right and I should treat myself better, but I get so wrapped up in my research that I just don't have the capacity to care.
+
+Response1b:: Thanks XX. Most people just lecture me on self-care. They're not wrong or anything, I just don't have the capacity to care right now.
+
+
+Option2a:: You should let your feelings out more often. //Relationship Iris7 -1 Mad
+
+Option2b:: It shows great self-control. //Relationship Iris7 2 Happy
+
+Response2a:: Don't assume that I'm suppressing my feelings just because I'm calm. Did you ever think that maybe I'm just, actually calm?
+
+Response2b:: That's the first time anyone's ever said that about me. I usually get the opposite...
+
+
+End

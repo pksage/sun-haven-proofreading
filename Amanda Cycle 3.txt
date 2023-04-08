@@ -1,0 +1,33 @@
+Amanda Cycle 3
+
+Dialogue:: Jun holds his classes in the back. I don't know how he deals with those shrieking kids every day.
+
+
+Option1:: Jun is a gentle kind of person, huh?
+
+Option2:: Is that also where he offers counseling?
+
+
+Response1:: You have to be if you're working with kids. Well, if you're <i>good</i> at working with kids.
+
+Response2:: It is, yes.[]It's not as private as he would like, but Jun manages to make some real breakthroughs back there.[]... I know that because, like I said, it's not the most private place.
+
+
+Option1a:: I take it that kind of work doesn't appeal to you?
+
+Option1b:: Were you loud as a kid?
+
+Response1a:: I'm a librarian. My comfort zone is silence - you do the math.
+
+Response1b:: As far as I can remember, nope. I used to draw and read a lot instead of running and screaming in circles.
+
+
+Option2a:: You really shouldn't be eavesdropping on Jun. //Relationship Amanda3 -1
+
+Option2b:: So... do you like listening? //Relationship Amanda3 2
+
+Response2a:: I can't help what I hear. I have ears! All I can do is sit here and read, pretending not to hear. 
+
+Response2b:: I wouldn't say that. I mean, I don't mind overhearing Jun's talks...[]Okay fine, you caught me. Part of me enjoys listening in on his sessions. But it's not my fault! I can't help but overhear in the first place - it's not like I can turn my ears off.
+
+End

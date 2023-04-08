@@ -1,0 +1,9 @@
+Dr. Hopsan Barley Cycle 0
+
+Dialogue:: Aha! Another fan has come to admire my flavorsome beverages!
+
+Option1:: Um, my name's XX. Who are you?
+
+Response1:: You - have no idea who I am!?[]<b>Ahem.</b>[]I am Dr. Hopsan Barley, best brewmaster in all the regions! I'm glad you've made my acquaintance.
+
+End

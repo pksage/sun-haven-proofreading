@@ -1,0 +1,9 @@
+Benny Cycle 0
+
+Dialogue:: Hey there! Looking for some fun?[]Hold on, I don't recognize you. So you new to town or what?
+
+Option1:: My name's XX, I'm from Sun Haven.
+
+Response1:: What Haven? I don't know what you're talking about, but you can call me Benny. This booth is my whole life! Well, my <i>after</i>life.
+
+End

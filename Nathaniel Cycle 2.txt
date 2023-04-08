@@ -1,0 +1,33 @@
+Nathaniel Cycle 2
+
+Dialogue:: Good day, citizen! Heh, don't worry XX, I haven't forgotten your name.[]I've been here long enough to know everyone's name by heart.
+
+Option1:: You're in a good mood.
+
+Option2:: How long have you been here, anyway?
+
+
+Response1:: I try to keep spirits up when I'm on duty. I find it calms the civilians. Besides, it's refreshing to wear a smile sometimes instead of my army face.
+
+Response2:: I shipped here about... five years ago now?[]Wow, I never counted the years before. Time really flies by. But I guess that's part of what it means to dedicate your service to a cause.
+
+
+Option1a:: Don't you worry that people won't take you seriously? //Relationship Nathaniel2 -1 Sad
+
+Option1b:: Keeping people calm in tense times is very thoughtful. //Relationship Nathaniel2 2 Happy
+
+Response1a:: Not at all. At least, I didn't before you said that...
+
+Response1b:: Why thank you, XX! The soldier's motto is "Duty through service," but that doesn't always have to mean combat.
+
+
+Option2a:: That's a long time.
+
+Option2b:: I'm surprised you can stay positive after all that time.
+
+Response2a:: Duty through service, right? Luckily, Sun Haven is a great city. Even if I have to give five more years, I'm glad it's here.
+
+Response2b:: Duty through service, right? Luckily, Sun Haven is a great city. Even if I have to give five more years, I'm glad it's here.
+
+
+End

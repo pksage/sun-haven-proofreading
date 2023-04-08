@@ -1,0 +1,5 @@
+Lucia One Liner 4
+
+Dialogue:: I took a peek at your farm earlier - it's really coming together!
+
+End

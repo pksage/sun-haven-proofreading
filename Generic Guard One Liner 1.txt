@@ -1,0 +1,5 @@
+Generic Guard One Liner 1
+
+Dialogue:: Keep walking.						
+
+End

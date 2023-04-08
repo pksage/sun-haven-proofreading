@@ -1,0 +1,33 @@
+Jun Cycle 9
+
+Dialogue:: Since we've been together, I've been thinking of you constantly. I'm even starting to picture our future together!
+
+Option1:: You're looking at me funny... //AddItem none Jun'sDiary 1
+
+Option2:: Something I've been wondering - does it bother you that I'm just a farmer? //Emote none Romantic
+
+
+Response1:: I'm just excited![]XX, I have something for you. It's a gift. I want you to keep it with you always, okay?
+
+Response2:: Oh, you're so adorable. It doesn't matter what your job is - I don't mind one bit. All that matters is that <i>you're</i> happy with your job... and with me.
+
+
+Option1a:: What is it?
+
+Option1b:: I promise to keep it safe. 
+
+Response1a:: It's my journal where I keep all my thoughts and ideas - please take it! Consider it my way of sharing my thoughts with you.
+
+Response1b:: It's my journal where I keep all my thoughts and ideas - please take it! Consider it my way of sharing my thoughts with you.
+
+
+Option2a:: You always put me at ease, Jun. //Relationship Jun9 2 Happy
+
+Option2b:: I feel the same way - I don't care about your work either. //Relationship Jun9 -1 Sad
+
+Response2a:: I'm always here if you need an ear.[]That's a little rhyme I say to my clients. Isn't it cute?
+
+Response2b:: Well, it sounds a bit different to say that you don't care...
+
+
+End

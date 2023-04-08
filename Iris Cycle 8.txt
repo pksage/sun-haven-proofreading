@@ -1,0 +1,33 @@
+Iris Cycle 8
+
+Dialogue:: Hello, XX! It's fun having you around Nel'Vari nowadays.[]It reminds me of when I was a kid. More travelers used to come through back then.
+
+Option1:: Do you have a favorite memory from growing up here?
+
+Option2:: Iris, I was wondering if you would go on a date with me!
+
+
+Response1:: Let me think... There was that time when my friend Angel d'Argy and I climbed to the top of the Grand Tree - and I don't mean the Elder's room, I mean the very tippy-top!
+
+Response2:: Oh, yeah? Funny, I never thought you would have cared.[]Okay XX, I think it sounds fun!
+
+
+Option1a:: Isn't that dangerous? //Emote none Embarrassed
+
+Option1b:: How did you manage to climb that high? //Emote none Embarrassed
+
+Response1a:: Well it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble so... I don't try it anymore.
+
+Response1b:: Well it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble so... I don't try it anymore. 
+
+
+Option2a:: It's a date! //Quest none IrisHangout1Quest
+
+Option2b:: On second thought, maybe we should just stay friends. //Relationship Iris8 -1 Mad
+
+Response2a:: Hehe, you're cute. Come by my house tomorrow, then. Say, 12:00 pm?
+
+Response2b:: Oh, okay. Ha ha. Good one, XX, you got me.
+
+
+End

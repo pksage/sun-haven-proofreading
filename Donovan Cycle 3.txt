@@ -1,0 +1,33 @@
+Donovan Cycle 3
+
+Dialogue:: Oh hey XX... Huh? Oh, hey XX...[]Sorry, I'm a bit sleepy. I found a job and barely got any rest yesterday.
+
+Option1:: A job? So you actually work?
+
+Option2:: You look really tired. What were you doing yesterday?
+
+
+Response1:: Work? I try not to! I just do odd jobs when they come up. And if some treasure happens to cross my path, you can bet I'll take it. A dog's gotta eat, you know.
+
+Response2:: I'm fine. I was just looking for griffon eggs is all. There's a man who sells them as pets, but someone robbed him of his nest. So, I went out looking for them.[]I couldn't find them, so I'm going to go back out there tomorrow. It's a shame what happened to this guy.
+
+
+Option1a:: You just sound lazy. //Relationship Donovan3a -1
+
+Option1b:: Sounds like you have some real fun! //Relationship Donovan3a 2 Happy
+
+Response1a:: Just because I don't have a regular job doesn't mean I'm not active. Those Humans in Sun Haven are so focused on their jobs, it's unhealthy.
+
+Response1b:: You're right about that. Hey, I'll take you out sometime - we would have a blast!
+
+
+Option2a:: Can I help? //Relationship Donovan3b 2
+
+Option2b:: That's horrible! //Emote none Mad
+
+Response2a:: Sure, if you're up for it. I tracked the thief to the southern part of town, but I lost the scent. Come find me if you get the eggs back!
+
+Response2b:: Yeah, there are some scummy people in this city. Not many, but a few. I'm glad you seem to be one of the good ones.
+
+
+End

@@ -1,0 +1,33 @@
+Xyla Cycle 9
+
+Dialogue:: ... You're looking at me funny. But not in a way that makes me want to laugh.[]Okay, you're creeping me out. What's the big idea?
+
+Option1:: Xyla, you're not dating anybody, right? //Emote none Embarrassed
+
+Option2:: Here's the thing, Xyla... Let's go out.
+
+
+Response1:: Wow, strong assumption, outsider. Are you trying to leave town bruised?[]If I'm not dating anyone, it's just because there's nobody in this town worth my time.
+
+Response2:: Go... Date?? Wow, sewer rat! I never thought you'd be brave enough to ask me.
+
+
+Option1a:: Really? But there are so many people in Withergate.
+
+Option1b:: Yeah, most people here are far below you. //Emote none Embarrassed
+
+Response1a:: And here I was just starting to think you were fun to talk to. No surprise you went and ruined it, sewer rat.
+
+Response1b:: Ugh... flattery. I hate that I love it.
+
+
+Option2a:: On second thought, this was a mistake. //Relationship Xyla9 -1 Sad
+
+Option2b:: Maybe there's more to me than you know! //Quest none XylaHangout1Quest
+
+Response2a:: Chickening out after you asked? I'm not surprised. You would just bore me anyway.
+
+Response2b:: Okay then, why not? Let's see what happens. If nothing else, it could be hilarious! Meet me in front of my apartment at 5:00 pm tomorrow.
+
+
+End

@@ -1,0 +1,9 @@
+Eris Umbra Cycle 0
+
+Dialogue:: Hoy! My name's Eris Umbra. What do you call yourself?
+
+Option1:: My name is XX.
+
+Response1:: XX, I have to tell you something - you smell worse than a barrel of fish left in the sun. Did you think it a good idea, coming in through the sewer?
+
+End

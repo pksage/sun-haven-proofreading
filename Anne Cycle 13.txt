@@ -1,0 +1,33 @@
+Anne Cycle 13
+
+Dialogue:: At this point, there's not much about me you don't know. It's a funny thing, getting to know so much about a person.
+
+Option1:: I can find something new about you - what's the most exciting thing you've done?
+
+Option2:: What's so funny about getting to know someone, anyway?
+
+
+Response1:: Heh, you're good at this relationship business![]Okay, there was one time when I won a talent show in the Eastern Region. I don't normally go for stuff like that, but there was a cash prize and I happen to have the voice of a siren.[]What, can't you imagine me on stage?
+
+Response2:: Not funny like a joke or Nathaniel's face or anything. I guess I'm saying it's... unfamiliar. In a good way. A fun way.
+
+
+Option1a:: I can see it - you're already a complete showstopper! //Relationship Anne13 2 Happy
+
+Option1b:: You don't strike me as much of a performer. //Relationship Anne13 -1 Mad
+
+Response1a:: You've got that right! Maybe one day I'll find a stage to sing on again.
+
+Response1b:: For your information, I got a standing ovation when I was done singing.
+
+
+Option2a:: I'm surprised, you're usually so confident. //Emote none Embarrassed
+
+Option2b:: It will feel familiar soon. //Emote none Embarrassed
+
+Response2a:: Make no mistake, I'll always be sure of myself. It's how I grew up, remember?[]But even I can admit when I'm in uncharted waters. That's what our relationship feels like to me - an unpredictable adventure.
+
+Response2b:: Even I can admit when I'm in uncharted waters, XX. That's what our relationship feels like to me - an unpredictable adventure.
+
+
+End

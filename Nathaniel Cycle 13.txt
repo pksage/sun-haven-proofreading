@@ -1,0 +1,33 @@
+Nathaniel Cycle 13
+
+Dialogue:: Sometimes I think I would really enjoy a life like yours. Farming sounds peaceful.
+
+Option1:: Your time in Sun Haven hasn't been peaceful?
+
+Option2:: You would make a good farmer, I think.
+
+
+Response1:: Good point - I'm not exactly on the front lines of a battle here.[]But there's always that thought in my head. I have to be ready in case of any kind of emergency.
+
+Response2:: Sure, I could see that. There's honor in a simple life of hard work. Yeah, I could definitely go for something like that.
+
+
+Option1a:: How do you find peace of mind, anyway?
+
+Option1b:: I'm surprised you still stay so prepared.
+
+Response1a:: I always space out when I'm staring at the ocean. Maybe my sailboat is out there somewhere, waiting for my service to end... That's a nice thought.
+
+Response1b:: I've got to be, XX. I'm Captain, aren't I? What a humiliation it would be to be caught off guard here!
+
+
+Option2a:: You would probably get too bored, though. //Relationship Nathaniel13 -1 Mad
+
+Option2b:: I would love to run a farm with you! //Relationship Nathaniel13 2 Happy
+
+Response2a:: Give me some credit, XX. I don't need excitement every hour of every day. Heck, I've been in Sun Haven for five years without any major incidents.
+
+Response2b:: Maybe one day, we can make that a reality. But for now, I have to fulfill my duty to the army and our people.
+
+
+End

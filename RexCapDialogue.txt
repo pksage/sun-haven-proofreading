@@ -1,0 +1,25 @@
+Rex
+
+Dialogue:: What happened to my arm? I took a tumble in the mines. My cap fell off my head and the light went out. I got so flustered that I forgot my cap down there! Shame, too. That was my favorite mining cap.
+
+
+Option1:: What does it look like?
+
+Option2(Permanent):: Sorry to hear about your cap. Maybe you'll find another one like it.
+
+
+Response1:: It's green with a light on the front - but I think it's burned out.
+
+Response2:: Doubtful, that cap was made for me by my grandmother. Nobody makes a cap like Mammy.
+
+
+Option2a:: I can find your cap for you! //Quest none RexCapQuest
+
+Option2b:: I hope you find your cap.
+
+
+Response2a:: Well how about that! I'd be remarkably grateful if you did. (End)
+
+Response2b:: Me too. (End)
+
+End

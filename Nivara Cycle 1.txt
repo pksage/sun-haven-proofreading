@@ -1,0 +1,23 @@
+Nivara Cycle 1
+
+Dialogue:: Little sprout, what brings you to my sanctuary?
+
+Option1:: Tell me more about what you do here.
+Option2:: I want to know more about you.
+
+Response1:: Certainly. When I first discovered the Elves, they were a capable people... though they were spiritually lost.[]I made it my responsibility to maintain nature's balance wherever I go, so when I saw the Elves in need, I had no choice but to help.[]Over time I witnessed their impact on the forest here. Their efforts go further than they know, as nature is a cascade of cause and effect.[]So I remain in my sanctuary here to guide the cascade and maintain harmony.
+Response2:: There is much to tell, little sprout. Much more than can reasonably be told...[]I was born here, hatched in the branches of the Grand Tree. I grew quickly, and realized that I wished to preserve and protect the natural order of the world.[]I want to nurture life, though I also want life to go along its natural course with as little interference as possible. Do you understand what I mean?
+
+Option1a:: Don't you think you could help elsewhere, too? //Relationship Nivara1 -1
+Option1b:: With your guidance, it's no wonder the forest is so bountiful. //Relationship Nivara1 2
+
+Response1a:: Your intentions are pure, but your knowledge is limited. I have chosen this place because of the Elves' immense influence on this part of the world.[]Trust that I am in tune with the world at large, and there are forces other than myself maintaining balance in nature.
+Response1b:: This forest is certainly a special place. I have chosen it because of the Elves' immense influence on this part of the world. They deserve every bit as much credit as I do.
+
+Option2a:: I think I get it, Nivara.
+Option2b:: What do you mean 'interference'?
+
+Response2a:: I thought you would, little sprout. Elios has always wanted to guide life more directly, to bring one's potential out right away. That is his way. I prefer to let life bring its own potential out.[]Our differences do not make us opposed to one another. We have different ways of seeing the world, which makes us valuable allies when we work together.
+Response2b:: I thought you might ask that, little sprout. Elios has always wanted to guide life more directly, to bring one's potential out right away. That is his way. I prefer to let life bring its own potential out.[]Our differences do not make us opposed to one another. We have different ways of seeing the world, which makes us valuable allies when we work together.
+
+End

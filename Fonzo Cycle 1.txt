@@ -1,0 +1,23 @@
+Fonzo Cycle 1
+
+Dialogue:: Oh, you're back! So you're sticking around these parts? How exciting![]Did you want to talk about something?
+
+Option1:: You sure wear a lot of accessories!
+Option2:: If you want to protect nature, why do you sell animals here?
+
+Response1:: I've been known to accessorize. Every piece has a story, too.[]The feather on my hat came from a mighty griffon that saved my life. And these earrings? I won them in an archery competition.[]Souvenirs like these help me remember my blessings.
+Response2:: Great question, and one I love to answer![]Every little beast in this room is a rescue. Due to injury or abandonment, they couldn't make it on their own in the wild. But they will thrive in a controlled environment!
+
+Option1a:: You've lived an exciting life.
+Option1b:: It's important to remember our blessings.
+
+Response1a:: When you live as long as Elves live, you're bound to end up with a story or two!
+Response1b:: I couldn't have said it better myself. Glad to have you in Nel'Vari, XX.
+
+Option2a:: Isn't it still wrong to own an animal? //Relationship Fonzo1 -1
+Option2b:: You're a real hero! //Relationship Fonzo1 2
+
+Response2a:: If you can't see the difference between greed and kindness, then maybe you should have a chat with the World Dragon. She'll get your head on straight.
+Response2b:: Ah! Heh, thank you XX! But I wouldn't say that about myself.[]Ignoring a creature in need would be cruel. Way I see it, this is the least I can do.
+
+End

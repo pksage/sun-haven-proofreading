@@ -1,0 +1,33 @@
+Rupert Cycle 1
+
+Dialogue:: You know much about fishin'? I know too much. I'd teach you a thing or two, but my teachin' days are behind me. Too old now - or at least that's my excuse, eheh.
+
+
+Option1:: Do you ever feel like you're wasting time?
+
+Option2:: Don't you do anything other than fish?
+
+
+Response1:: Eheh, I used to think just like that when I was younger. Funny, now that I'm old I just don't care. Maybe seems sorry to you, but for me it's real liberating.
+
+Response2:: I suppose every night I go to bed. Does that count?[]Ah, but why justify myself? I fish! Don't gotta explain any more than that.
+
+
+Option1a:: It looks like you've found a happy life for yourself, at least. //Relationship Rupert1 2
+
+Option1b:: I hope I'm not so lazy when I'm your age. //Relationship Rupert1 -1
+
+Response1a:: Ain't nothin' secret about it. Just find what you love and do it. I dunno if I loved fishin' so much to start with, but it sure passes the time. Beats workin' anywhere else, that's for sure!
+
+Response1b:: Kid, you ain't even been around long enough to know what you want. Give it a few decades and if you're lucky enough to still be around, then you can decide.[]Until then, you go about your busy days and I'll go about keepin' this hook in the water.
+
+
+Option2a:: You must be pretty good at fishing, at least.
+
+Option2b:: Who's better at fishing then, you or Peter?
+
+Response2a:: Oh I'm sure there's better fishers out there somewhere. Way I see it, why compete with people I don't know? Bein' the best fisher in Sun Haven would do me just fine.[]So far as I can compare, I'd say I'm indeed pretty good at fishin'. The best? Maybe! It's all I do, so I better be pretty good at it!
+
+Response2b:: Hm. Hard to say. Peter isn't a half bad angler. Tell you what, next time I see Peter I'll challenge him to a fish-off. See which one of us catches the most.[]Then again, my memory ain't what it used to be. Chances are I'll forget all about it by tomorrow, eheh.
+
+End

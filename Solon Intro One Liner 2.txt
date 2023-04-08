@@ -1,0 +1,5 @@
+Solon Intro One Liner 2
+
+Dialogue:: It's about time someone took on that old farm. I look forward to having fresh crops in town again.														
+
+End

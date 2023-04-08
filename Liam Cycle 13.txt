@@ -1,0 +1,33 @@
+Liam Cycle 13
+
+Dialogue:: Do I have any icing on my face? I was teaching Elizabeth to decorate cakes earlier and things got messy.
+
+Option1:: Don't worry, your face is perfect. //Emote none Embarrassed
+
+Option2:: Have you told the girls that we're dating?
+
+
+Response1:: Well I wouldn't call it perfect...
+
+Response2:: I had that conversation with them last night. It took a looooot of explaining, but they know about us now.[]They were more curious than anything, but they're excited that I'm "best friends with the farmer." Especially Emma!
+
+
+Option1a:: Well I think you're the sweetest guy in Sun Haven - literally! //Emote none Embarrassed
+
+Option1b:: Don't sell yourself short, Liam. You're the handsomest guy in Sun Haven! //Emote none Embarrassed
+
+Response1a:: Ah sheesh, and now I think I'm the embarrassed-est guy in Sun Haven. You know compliments make me self-conscious!
+
+Response1b:: Ah sheesh, and now I think I'm the embarrassed-est guy in Sun Haven. You know compliments make me self-conscious!
+
+
+Option2a:: I don't really care what they think about us, anyway. //Relationship Liam13 -1 Sad
+
+Option2b:: It sounds like you handled it well. I'm glad you told them. //Relationship Liam13 2 Happy
+
+Response2a:: Is that true? I'm surprised you don't care what they think.
+
+Response2b:: Thanks, I was on the fence about it at first. I don't even know why, now that I think about it.
+
+
+End

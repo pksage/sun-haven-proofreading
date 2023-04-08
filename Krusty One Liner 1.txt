@@ -1,0 +1,5 @@
+Krusty One Liner 1
+
+Dialogue:: <i>Rrrraaawwrghhhh</i>!!![]<i>The monster doesn't seem like he'll be going anywhere soon. I better act fast before he keeps messing up my farm.</i>
+
+End

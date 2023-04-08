@@ -1,0 +1,33 @@
+Iris Cycle 11
+
+Dialogue:: You're looking stronger and stronger every time I see you, XX. I guess that's because of your farm work, huh?
+
+Option1:: I hope you get to see my farm one day. //Emote none Happy
+
+Option2:: I'd really like to go out with you again, Iris.
+
+
+Response1:: I would like that, XX. It will just take a little time, is all. I hope you'll be patient with me.
+
+Response2:: Really? I was thinking the same thing, XX...
+
+
+Option1a:: Sometimes you just need to take a chance. //Relationship Iris11 -1 Sad
+
+Option1b:: Take all the time you need, Iris. //Relationship Iris11 2 Happy
+
+Response1a:: Sometimes... maybe. But this doesn't feel like one of those times.
+
+Response1b:: Thanks, XX. I knew I could count on you.
+
+
+Option2a:: Perfect! //Quest none IrisHangout2Quest
+
+Option2b:: Actually, I'll have to pass on this one. //Emote none Sad
+
+Response2a:: Let's meet at my house at 5:00 pm tomorrow. I'm excited to see you there!
+
+Response2b:: Oh, okay. I'm sorry, I guess I just thought... Well, nevermind. 
+
+
+End

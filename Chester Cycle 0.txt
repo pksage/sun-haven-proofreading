@@ -1,0 +1,9 @@
+Chester Cycle 0
+
+Dialogue:: Oh, hello there. You look bored. Won't you take a spin on my wheel? Unless you're just here to chat, heheheh.
+
+Option1:: My name is XX, pleasure to meet you.
+
+Response1:: So you are looking for a chat after all. My name is Chester.
+
+End

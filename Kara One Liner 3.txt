@@ -1,0 +1,5 @@
+Kara One Liner 3
+
+Dialogue:: Maybe I'll go to the beach today.			 					
+
+End

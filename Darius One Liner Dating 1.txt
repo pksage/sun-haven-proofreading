@@ -1,0 +1,5 @@
+Darius One Liner Dating 1
+
+Dialogue:: Ah, XX. It is good to have you in my company. 									
+
+End

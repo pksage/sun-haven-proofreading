@@ -1,0 +1,33 @@
+Anne Cycle 2
+
+Dialogue:: Hey there, XX! Buying anything today, or just looking for a chat?
+
+
+Option1:: You're always out for a sale, huh? How did you get started as a merchant? //Emote none Happy
+
+Option2:: Do you plan to stay in Sun Haven long?
+
+
+Response1:: Let's just say I've been supporting myself for a long time. I learned the ins and outs of trade to survive from a young age.[]I'm living proof that survival is for the fittest!
+
+Response2:: If business doesn't pick up someday soon, I might have to move on. Sun Haven has been good to me though. I'm really pulling for this town.
+
+
+Option1a:: That sounds hard on your own. Don't be afraid to lean on others for help. //Relationship Anne2 -1 Mad
+
+Option1b:: That's actually inspiring, you're a real-life success story. //Relationship Anne2 2
+
+Response1a:: I didn't ask for your opinion, so keep your thoughts to yourself.
+
+Response1b:: I know I am, but it's nice to hear it out loud![]Hold on, don't go thinking that compliments will get you a discount. They won't.
+
+
+Option2a:: If I didn't know better, I'd say you like this town for more than its profitability.
+
+Option2b:: I hope you're able to stick around.
+
+Response2a:: Don't get me wrong, profit is my North Star. But, okay, there's part of me that likes Sun Haven for what it is.[]Or maybe making friends is part of my marketing strategy - who knows!
+
+Response2b:: Me too, XX. Packing everything up and moving is such a hassle for me, not to mention expensive.[]No matter how well I secure the cart, something always comes loose and makes a huge mess...
+
+End

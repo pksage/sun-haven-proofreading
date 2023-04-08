@@ -1,0 +1,5 @@
+Lester One Liner 1
+
+Dialogue:: Hey citizen, you're a farmer right? Your life must be so different from mine!									 					
+
+End

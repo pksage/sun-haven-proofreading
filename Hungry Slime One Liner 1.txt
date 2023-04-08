@@ -1,0 +1,5 @@
+Hungry Slime One Liner 1
+
+Dialogue:: Hnnng! Got my food yet?!
+
+End

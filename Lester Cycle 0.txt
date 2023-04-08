@@ -1,0 +1,9 @@
+Lester Cycle 0
+
+Dialogue:: A new face? I'm Lester, it's great to meet you!
+
+Option1:: I'm XX. It's nice to meet you too.
+
+Response1:: You said XX? Unique name!  
+
+End

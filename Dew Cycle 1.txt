@@ -1,0 +1,23 @@
+Dew Cycle 1
+
+Dialogue:: New stranger! I heard you do farmering. Is that true?
+
+Option1:: Well, yes I'm a farmer. Why do you ask?
+Option2:: It's pronounced "farming."
+
+Response1:: Do you grow corn? I like corn a lot!
+Response2:: Bleh, who cares? You sound like Wesley.
+
+Option1a:: I don't grow much corn. //Relationship Dew1 -1
+Option1b:: I grow lots of corn! //Relationship Dew1 2
+
+Response1a:: Aw... What's even the point of farmering then?
+Response1b:: Oh, yeah! That's great - I can fly into your corn farm sometimes and have corn!
+
+Option2a:: Who's Wesley?
+Option2b:: What's wrong with Wesley?
+
+Response2a:: Wesley is the Elder's assistant. He's always talking about proper. Talk proper, stand proper - who cares? Not me!
+Response2b:: He's always talking about proper. Talk proper, stand proper - who cares? Not me!
+
+End

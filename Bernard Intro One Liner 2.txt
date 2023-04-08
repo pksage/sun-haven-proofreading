@@ -1,0 +1,5 @@
+Bernard Intro One Liner 1
+
+Dialogue:: I work closely with the Archmage. Think of me as her sword.
+
+End

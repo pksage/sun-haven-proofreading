@@ -1,0 +1,33 @@
+Iris Cycle 14
+
+Dialogue:: I feel like a tree in Spring - everything is fresh and new! I look forward to my life with you, XX.
+
+Option1:: You know I never mentioned it before, but your tattoos are beautiful. //Emote none Embarrassed
+
+Option2:: What do you imagine when you think of our future?
+
+
+Response1:: All this time and you're only now commenting on them? I mean, thank you and all, but where did that come from?
+
+Response2:: Hm... Well for one, I see a lot of plants! My enchanting could really bring your farm to the next level, you know.[]Otherwise, I'm trying not to overthink our relationship, XX. I like to take things as they come.
+
+
+Option1a:: Maybe it's just the light, but I swear you're glowing! //Emote none Happy
+
+Option1b:: I'm just saying, your tattoos suit you elegantly. //Emote none Happy
+
+Response1a:: Okay, weirdo! Haha, I'm just kidding, XX. Mostly.[]You know, we give our people these tattoos at a very young age. They're supposed to be a representation of our spirit. At least, I think that's right. You might have to check that with the Elder.
+
+Response1b:: Okay, weirdo! Haha, I'm just kidding, XX. Mostly.[]You know, we give our people these tattoos at a very young age. They're supposed to be a representation of our spirit. At least, I think that's right. You might have to check that with the Elder.
+
+
+Option2a:: Maybe we aren't on the same page after all. //Relationship Iris14 -1 Mad
+
+Option2b:: I love that you stay in the present moment. //Relationship Iris14 2
+
+Response2a:: Well I can't know what you're thinking all the time, XX.
+
+Response2b:: That's another of Nivara's teachings, actually. "The only time is now" or something along those lines. I really took it to heart, actually.
+
+
+End

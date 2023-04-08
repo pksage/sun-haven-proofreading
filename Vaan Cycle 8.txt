@@ -1,0 +1,33 @@
+Vaan Cycle 8
+
+Dialogue:: I'm already so used to seeing you here that I forgot you're not native to Nel'Vari.
+
+Option1:: If you didn't live in Nel'Vari, where would you want to live?
+
+Option2:: When are you going to ask me out on a date?
+
+
+Response1:: That's tough. I don't know many places outside of Nel'Vari and Sun Haven. Although, I have heard of towering peaks in the Northern Region covered in snow.[]The wind must blast up those steep cliffs with such force... I can only imagine what I would learn from the wind there.
+
+Response2:: Ask you out on a date, hm? I admit, it's been on my mind. Well... how about tomorrow? //Emote none Happy
+
+
+Option1a:: You would freeze. //Relationship Vaan8 -1 Mad
+
+Option1b:: You're so dedicated to your mastery, Vaan. //Relationship Vaan8 2 Happy
+
+Response1a:: That's a risk I'm willing to take if it means further mastering my magic.
+
+Response1b:: Thank you! I'm delighted that you noticed, XX. People don't realize how hard I work for my magic.
+
+
+Option2a:: Sure, I'd love to! //Quest none VaanHangout2Quest
+
+Option2b:: It's best that we don't, Vaan. //Emote none Sad
+
+Response2a:: Alright! Meet outside of my house tomorrow night at 5:00 pm. I can't wait to see you there, XX.
+
+Response2b:: No problem, I completely understand. Even if it is disappointing.
+
+
+End
