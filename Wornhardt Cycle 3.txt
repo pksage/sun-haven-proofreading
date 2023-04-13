@@ -1,6 +1,6 @@
 Wornhardt Cycle 3
 
-Dialogue:: Hey XX, having fun yet? There's always something to do here![]I spend a lot of time just exploring the town. When I'm not working, of course.
+Dialogue:: Hey, XX, having fun yet? There's always something to do here![]I spend a lot of time just exploring the town. When I'm not working, of course.
 
 Option1:: Do you have any hobbies just for fun?
 
@@ -9,14 +9,14 @@ Option2:: Do you have a favorite spot around town?
 
 Response1:: I like cooking big meals for myself, if you count that. I usually make too much, though. Say, I should give you some leftovers the next time I cook.
 
-Response2:: I just love the windmills on the way to the beach. You've seen them by now, right?[]Try this, lie in the grass and watch the windmills spin against the sky. Without fail, it always takes my mind away. The way they spin in unison is mesmerizing. I wonder, how do they do that?
+Response2:: I just love the windmills on the way to the beach. You've seen them by now, right?[]Try this - lie in the grass and watch the windmills spin against the sky. Without fail, it always takes my mind away. The way they spin in unison is mesmerizing. I wonder... how do they do that?
 
 
 Option1a:: You shouldn't waste food like that. //Relationship Wornhardt3 -1 Mad
 
 Option1b:: That sounds great! I bet you're a fantastic cook. //Relationship Wornhardt3 2
 
-Response1a:: Relax XX, I don't waste food. I share with my pet mouse, Charlie. Let's not make assumptions about each other, okay?
+Response1a:: Relax, XX, I don't waste food. I share with my pet mouse, Charlie. Let's not make assumptions about each other, okay?
 
 Response1b:: Hey, don't take my word for it. Bring me some potatoes and I'll make you a great egg hash!
 

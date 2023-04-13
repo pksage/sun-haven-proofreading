@@ -1,6 +1,6 @@
 Wornhardt Cycle 9
 
-Dialogue:: Hey XX, who do you think is a better caretaker? Me, or Kitty?[]You know what, it's a pointless comparison. I shouldn't let her get in my head.
+Dialogue:: Hey, XX, who do you think is a better caretaker? Me or Kitty?[]You know what, it's a pointless comparison. I shouldn't let her get in my head.
 
 Option1:: Well, she's not "Doctor Kitty," right?
 
@@ -9,14 +9,14 @@ Option2:: You're experienced in caring for people, but what about pets?
 
 Response1:: Fair point, I guess I do have the certification. It's just that she said I need to give my patients more love. I just don't think it works that way with people. 
 
-Response2:: Well sure, I've got my pet mouse. Have I told you about him? His name is Charlie! He's really smart, you'd be surprised.
+Response2:: Well, sure, I've got my pet mouse. Have I told you about him? His name is Charlie! He's really smart, you'd be surprised.
 
 
 Option1a:: Don't worry about Kitty, you know what you're doing. //Relationship Wornhardt9 2 Happy
 
 Option1b:: You could be a warmer person. //Relationship Wornhardt9 -1 Sad
 
-Response1a:: Right, right. Of course, I just need to trust myself a bit more. Thanks for screwing my head on straight, XX.
+Response1a:: Right, right, of course. I just need to trust myself a bit more. Thanks for screwing my head on straight, XX.
 
 Response1b:: You really think that? I try so hard to be friendly.
 
@@ -27,7 +27,7 @@ Option2b:: Mice are great pets!  //Emote none Happy
 
 Response2a:: Charlie was already in my house when I moved in, so I just bought him a cage and some food and we've been buds ever since.
 
-Response2b:: I agree! Charlie's really easy to take care of, too. Aside from feeding, watering, cage cleaning, bath time, and health check-ups, he basically cares for himself!
+Response2b:: I agree! Charlie's really easy to take care of, too. Aside from feeding, watering, cage cleaning, bath time, and health checkups, he basically cares for himself!
 
 
 End

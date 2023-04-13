@@ -2,7 +2,7 @@ Dew Cycle 1
 
 Dialogue:: New stranger! I heard you do farmering. Is that true?
 
-Option1:: Well, yes I'm a farmer. Why do you ask?
+Option1:: Well, yes, I'm a farmer. Why do you ask?
 Option2:: It's pronounced "farming."
 
 Response1:: Do you grow corn? I like corn a lot!

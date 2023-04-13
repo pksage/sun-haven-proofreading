@@ -7,7 +7,7 @@ Option1:: Solon is right to be proud of you.
 Option2:: Solon must see you kind of like a daughter.
 
 
-Response1:: You think so, XX? I've come a really long way with my skills since moving to Sun Haven, it's good to be recognized by two of the most important people to me.
+Response1:: You think so, XX? I've come a really long way with my skills since moving to Sun Haven. It's good to be recognized by two of the most important people to me.
 
 Response2:: It's so cute, but I think so too! Thinking back on it, when I first arrived in Sun Haven, Solon really seemed to help me settle in and adjust.[]I didn't really recognize it at the time, but I think he really wanted to help me out. I'm so lucky to have found so many great people here!
 
@@ -16,9 +16,9 @@ Option1a:: Think you'll ever be better than your foremothers?
 
 Option1b:: Think you'll ever be better than Solon?
 
-Response1a:: Ohhh, now that I don't want to think about! My mother and grandmother are both so awesome at their work, I don't want to think of how far behind I still must be![]I'm just going to take it, one day at a time, and not focus on how far away I am! Solon is a great teacher, I know I'll get there someday.
+Response1a:: Ohhh, now that I don't want to think about! My mother and grandmother are both so awesome at their work, I don't want to think of how far behind I still must be![]I'm just going to take it one day at a time, and not focus on how far away I am! Solon is a great teacher, I know I'll get there someday.
 
-Response1b:: Ohhh, now that I don't want to think about! Solon is probably the single most skilled blacksmith I've ever met! But, he <i>is</i> teaching me, after all.[]Maybe it's inevitable that I'll surpass him eventually. The student becomes the teacher, right? Solon is a great teacher, so I know I'll get there someday.
+Response1b:: Ohhh, now that I don't want to think about! Solon is probably the single most skilled blacksmith I've ever met! But he <i>is</i> teaching me, after all.[]Maybe it's inevitable that I'll surpass him eventually. The student becomes the teacher, right? Solon is a great teacher, so I know I'll get there someday.
 
 
 Option2a:: I'm glad you found happiness in Sun Haven. //Relationship Lynn17 2 Happy

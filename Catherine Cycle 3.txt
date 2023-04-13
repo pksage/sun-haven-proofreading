@@ -9,7 +9,7 @@ Option2:: Big ears just means better hearing, right? Music must sound amazing!
 
 Response1:: At least you asked. Too many people just reach up and yank on them. It hurts![]Oh, and I suppose that answers your question. Yes, these are my ears. Please don't pull on them.
 
-Response2:: Oh, that is true. I absolutely love listening to the piano. Sometimes though, I just need to hear something with energy. That's when I reach for my Gavin Knapp record. They play guitar better than anyone I've ever heard!
+Response2:: Oh, that is true. I absolutely love listening to the piano. Sometimes, though, I just need to hear something with energy. That's when I reach for my Gavin Knapp record. They play guitar better than anyone I've ever heard!
 
 
 Option1a:: I've never met a rabbit Amari before you. //Emote none Happy

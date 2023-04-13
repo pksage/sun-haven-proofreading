@@ -17,7 +17,7 @@ Response1b:: She certainly has a few lessons left for me, probably more than I r
 Option2a:: Let me know if you need any help testing that idea! //Relationship Vaan18 2 Happy
 Option2b:: Do you really think she could sense that? //Relationship Vaan18 -1
 
-Response2a:: Heh, oh XX. I'm already getting all the "help" I need from you.[]I should thank you, actually. I didn't realize it, but you've accelerated my spiritual growth here. And just by being yourself! You're truly remarkable, XX.
-Response2b:: Of course, XX. It's not our place to doubt the guardian dragons, especially not Nivara. I'm sure you wouldn't cast doubt on Elios.
+Response2a:: Heh. Oh, XX. I'm already getting all the "help" I need from you.[]I should thank you, actually. I didn't realize it, but you've accelerated my spiritual growth here. And just by being yourself! You're truly remarkable, XX.
+Response2b:: Of course, XX. It's not our place to doubt the Guardian Dragons, especially not Nivara. I'm sure you wouldn't cast doubt on Elios.
 
 End

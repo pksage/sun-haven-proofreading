@@ -1,13 +1,13 @@
 Lucia Cycle 5
 
-Dialogue:: I've heard people calling you farmer a lot. Do you like that? I think it's endearing!
+Dialogue:: I've heard people calling you "farmer" a lot. Do you like that? I think it's endearing!
 
 Option1:: Do you have any nicknames?
 
 Option2:: The people here really are nice.
 
 
-Response1:: Well... All right, XX. I'll tell you this because I'm starting to really trust you. But please don't repeat this![]My grandfather called me "cinderhead" when I was a child. Usually when I was getting up to mischief. And - just between us, XX! - I still call myself cinderhead sometimes.
+Response1:: Well... Alright, XX. I'll tell you this because I'm starting to really trust you. But please don't repeat this![]My grandfather called me "cinderhead" when I was a child. Usually when I was getting up to mischief. And - just between us, XX! - I still call myself cinderhead sometimes.
 
 Response2:: The citizens are my favorite thing about Sun Haven. They make this town what it is. Without them, I would have no purpose here. What's a leader without people behind her?
 

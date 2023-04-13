@@ -21,7 +21,7 @@ Response1a:: I'm not worried about us, XX. It's good to have some space. Somethi
 Response1b:: I'm not worried about us, XX. It's good to have some space. Something Nivara once told me is, "the tallest trees of the forest grow not in each other's shadow."
 
 
-Option2a:: Oh Vaan - still admiring me from afar after all this time? //Relationship Vaan12 2 Happy
+Option2a:: Oh, Vaan - still admiring me from afar after all this time? //Relationship Vaan12 2 Happy
 
 Option2b:: Will you ever stop watching me from a distance? //Relationship Vaan12 -1 Sad
 

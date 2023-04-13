@@ -19,7 +19,7 @@ Option1b:: I haven't grown a lot of your seeds yet, actually.
 
 Response1a:: Yes, that is WONDERFUL NEWS! Grow them as quickly as possible, please! And as MANY as possible!!
 
-Response1b:: Oh, is that so? Well you really must! As quickly as possible, please! And as MANY as possible!!
+Response1b:: Oh, is that so? Well, you really must! As quickly as possible, please! And as MANY as possible!!
 
 
 Option2a:: So you stole the seeds? //Relationship Christine2 -1

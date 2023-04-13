@@ -11,7 +11,7 @@ Response2:: Oh, well, when I'm not able to gaze up at the moon, I do enjoy good 
 Option1a:: Nature sounds very complex. //Relationship Lucius1 2
 Option1b:: Why don't you think of the poor prey animals? //Relationship Lucius1 -1
 
-Response1a:: It is! Very complex, and delicate. Nivara once explained to me that nature is like a chain, each individual link of the chain relies on the link below and above it.[]If just one link breaks, the chain snaps. I didn't think Nivara was the type to use chains as a metaphor, but it certainly painted an effective picture.
+Response1a:: It is! Very complex, and delicate. Nivara once explained to me that nature is like a chain. Each individual link of the chain relies on the link below and above it.[]If just one link breaks, the chain snaps. I didn't think Nivara was the type to use chains as a metaphor, but it certainly painted an effective picture.
 Response1b:: But I do. Nature is a delicate balance, and every step of it must be maintained. If there's something wrong with the animals the owls prey on, I want to figure out what it is, and help fix it.[]Maybe it was too much of me to expect you to understand right away.
 
 Option2a:: What about griffon riding?

@@ -6,7 +6,7 @@ Option1:: Does anyone really believe you're not Human?
 Option2:: Why are you pretending you're not Human?
 
 Response1:: Most people don't bother looking under my big hat. I don't think I could have gotten this far without it.
-Response2:: Didn't I tell you that I'm undercover? I'm actually part of the Great City's governing board... or, I will be once I come back with the evidence that I need.
+Response2:: Didn't I tell you that I'm undercover? I'm actually part of the Great City's governing board... or I will be, once I come back with the evidence that I need.
 
 Option1a:: Maybe nobody cares if you're Human? //Relationship Phoebe1 -1
 Option1b:: That's clever, using your short height to your advantage. //Relationship Phoebe1 2

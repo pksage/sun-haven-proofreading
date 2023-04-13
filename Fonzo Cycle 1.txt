@@ -18,6 +18,6 @@ Option2a:: Isn't it still wrong to own an animal? //Relationship Fonzo1 -1
 Option2b:: You're a real hero! //Relationship Fonzo1 2
 
 Response2a:: If you can't see the difference between greed and kindness, then maybe you should have a chat with the World Dragon. She'll get your head on straight.
-Response2b:: Ah! Heh, thank you XX! But I wouldn't say that about myself.[]Ignoring a creature in need would be cruel. Way I see it, this is the least I can do.
+Response2b:: Ah! Heh, thank you, XX! But I wouldn't say that about myself.[]Ignoring a creature in need would be cruel. Way I see it, this is the least I can do.
 
 End

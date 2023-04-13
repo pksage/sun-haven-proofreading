@@ -17,7 +17,7 @@ Response:: <i>You leap onto the machine in one bounding motion. Oh, yuck! Now yo
 Response:: <i>You plead with the machine to please turn back from its slime-covered ways. Considering the slime doesn't stop, you'd guess it didn't work.</i>
 
 
-LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i> [] <i>Sparks begin shooting wildly out of the interface of the machine!</i>
+LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i>[]<i>Sparks begin shooting wildly out of the interface of the machine!</i>
 
 
 Option:: //HEALTH2 Shake the machine. //RIGHTANSWER
@@ -29,12 +29,12 @@ Option:: //HEALTH2 Suplex the entire machine.
 
 Response:: <i>Sparks, slime. Nothing will deter you from claiming your rightful reward. You shake the machine back and forth until the sparks subside. On the bright side of things, they burned away all the slime!</i>
 
-Response:: <i>You tip the machine over. It is now covered in slime, emitting sparks and tipped on its side. It's... quite the sight to behold. But you still don't get a potion from it.</i>
+Response:: <i>You tip the machine over. It is now covered in slime, emitting sparks, and tipped on its side. It's... quite the sight to behold. But you still don't get a potion from it.</i>
 
 Response:: <i>Holding to the theory that there is no problem that can't be solved by suplexing it, you suplex the machine and drive it into the ground. It looked pretty cool, but it didn't result in a potion.</i>
 
 
-LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i> [] <i>Your potion begins to drop down... and gets stuck against the glass!</i>
+LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i>[]<i>Your potion begins to drop down... and gets stuck against the glass!</i>
 
 
 Option:: //HEALTH1 Give the machine 'the stink eye'.
@@ -48,7 +48,7 @@ Response:: <i>You give the machine a good, long dose of the dreaded 'stink eye'.
 
 Response:: <i>Stupid machine! You give it a solid punch. Your fingers hurt, but your potion is dislodged!</i>
 
-Response:: <i>You let loose and scream, raging against the machine. All it does is give you a sore throat, though. A potion would really help with that, if only you had one...</i>
+Response:: <i>You let loose and scream, raging against the machine. All it does is give you a sore throat, though. A potion would really help with that. If only you had one...</i>
 
 
 End

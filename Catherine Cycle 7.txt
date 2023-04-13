@@ -25,7 +25,7 @@ Option2a:: Actually, I better not.
 
 Option2b:: Let's go on a date together! //Quest none CatherineHangout1Quest
 
-Response2a:: Oh, no? Well, all right XX. I'm just as happy to be your friend.
+Response2a:: Oh, no? Well, alright, XX. I'm just as happy to be your friend.
 
 Response2b:: Oh my, what a surprise! Hehe, of course I'll go out with you XX! Meet me in front of my house tomorrow at 5:00 pm.
 

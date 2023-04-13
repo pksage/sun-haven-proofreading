@@ -1,6 +1,6 @@
 Anne Cycle 8
 
-Dialogue:: Hi XX. You look far off... Something on your mind?
+Dialogue:: Hi, XX. You look far off... Something on your mind?
 
 Option1:: Topi and Pod have me thinking. What's your favorite childhood memory?
 

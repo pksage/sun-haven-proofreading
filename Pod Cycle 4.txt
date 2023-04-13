@@ -8,7 +8,7 @@ Option1:: Are you good friends with Emma?
 Option2:: You should ask Liam if she can come over.
 
 
-Response1:: Yeah! Except her brother Liam doesn't let her play as much as me and Topi. I wish we were neighbors too.
+Response1:: Yeah! Except her brother Liam doesn't let her play as much as me and Topi. I wish we were neighbors, too.
 
 Response2:: But then Elizabeth will come over too. Topi has a crush on Elizabeth and then he doesn't play with me. I hate it!
 
@@ -19,7 +19,7 @@ Option1b:: You think she would like the anthill?
 
 Response1a:: Yes, but we don't get to look at anthills in school.
 
-Response1b:: Yeah I know it! She likes bugs and cool stuff like that.
+Response1b:: Yeah, I know it! She likes bugs and cool stuff like that.
 
 
 Option2a:: Think of it this way - then you get more time to play with Emma. //Relationship Pod4 2

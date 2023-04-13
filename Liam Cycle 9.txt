@@ -1,6 +1,6 @@
 Liam Cycle 9
 
-Dialogue:: XX, glad to see you. I don't need anything, or anything like that. I mean, it's just nice seeing you is all.[]Er, do you have a question for me? You look like you have a question for me.
+Dialogue:: XX, glad to see you. I don't need anything, or anything like that. I mean, it's just nice seeing you, is all.[]Er, do you have a question for me? You look like you have a question for me.
 
 Option1:: I was wondering, do you like to read much? //Emote none Happy
 
@@ -9,14 +9,14 @@ Option2:: What's more important to you, being rich or being happy?
 
 Response1:: Sure! At least, I think I still do. I haven't finished a book in a long time.
 
-Response2:: Well, being happy is always most important. But it's a lot easier being happy when you've got money... Or, it makes life easier, at least. Ah, does that make me a bad person?
+Response2:: Well, being happy is always most important. But it's a lot easier being happy when you've got money... Or it makes life easier, at least. Ah, does that make me a bad person?
 
 
 Option1a:: Why is that?
 
 Option1b:: What if you made that a new goal?
 
-Response1a:: Maybe because I'm busy. But, also maybe because I haven't found anything good to read? It's hard to tell.
+Response1a:: Maybe because I'm busy. But also maybe because I haven't found anything good to read? It's hard to tell.
 
 Response1b:: Sure, I actually feel like I can take on a new goal right now. Will you choose the book for me? I really like adventure novels!
 

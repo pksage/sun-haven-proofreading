@@ -1,6 +1,6 @@
 Silas Cycle 0
 
-Dialogue:: Why hello there! Silas Leafward, pleasure to meet you! So tell me - what can <i>I</i> do for you <i>you</i>?
+Dialogue:: Why hello there! Silas Leafward, pleasure to meet you! So tell me - what can <i>I</i> do for <i>you</i>?
 
 Option1:: Are you selling stuff...?
 

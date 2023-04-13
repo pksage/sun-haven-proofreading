@@ -1,5 +1,5 @@
 Opal Intro One Liner 1
 
-Dialogue:: I hope you decide to stay for awhile. You must see Nel'Vari at night!																																																																			
+Dialogue:: I hope you decide to stay for a while. You must see Nel'Vari at night!																																																																			
 
 End

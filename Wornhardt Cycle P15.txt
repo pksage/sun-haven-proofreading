@@ -6,18 +6,18 @@ Option1:: It's not just you, I feel it too.
 Option2:: Maybe it's because you've kept everyone so healthy! //Emote none Happy
 
 Response1:: I don't want to get my hopes up, but it really feels like Sun Haven has survived the worst of it. 
-Response2:: Haha, that's nice XX but I don't think so. I think we've been getting more travelers through town. I've seen some unfamiliar faces here and there.
+Response2:: Haha, that's nice, XX, but I don't think so. I think we've been getting more travelers through town. I've seen some unfamiliar faces here and there.
 
 Option1a:: This town really is unlike any other. //Relationship WornhardtP15 2 Happy
 Option1b:: I wouldn't say Sun Haven's recovered just yet. //Relationship WornhardtP15 -1 Mad
 
 Response1a:: You're right. Even down south I couldn't find a community as close as this one. I really believe that's the reason Sun Haven has survived - commonwealth.
-Response1b:: Well sure, there's still some way to go. But you can't say we're not better off now than we were a few weeks ago.[]It's about being optimistic, XX. You might give it a try.
+Response1b:: Well, sure, there's still some way to go. But you can't say we're not better off now than we were a few weeks ago.[]It's about being optimistic, XX. You might give it a try.
 
 Option2a:: Do you like when new people come through?
 Option2b:: Have you had any trouble with travelers before?
 
-Response2a:: Sure! It's always good to keep things new and interesting. Plus, many travelers like to get a check-up after a long journey. 
+Response2a:: Sure! It's always good to keep things new and interesting. Plus, many travelers like to get a checkup after a long journey. 
 Response2b:: Not personally, although I did watch Mari kick a couple of young guys out of the tavern.[]You should have seen it - she dragged them out by the ears! Ronald didn't even notice until she had already slammed the door shut.
 
 End

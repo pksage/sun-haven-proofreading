@@ -11,7 +11,7 @@ Response2:: I love my life and duty, but the daily grind can get a little dull. 
 Option1a:: You did military training in the Great City?
 Option1b:: You must mean you trained at the Military Academy.
 
-Response1a:: Yeah! You're originally from the Great City, too, right? Maybe we passed by each other one day and never realized. Pretty crazy, huh?[]The Military Academy there is second to none. I was very fortunate to get in, all thanks to my mom. It was strict, but I survived. Came out better for it, too.
+Response1a:: Yeah! You're originally from the Great City too, right? Maybe we passed by each other one day and never realized. Pretty crazy, huh?[]The Military Academy there is second to none. I was very fortunate to get in, all thanks to my mom. It was strict, but I survived. Came out better for it, too.
 Response1b:: Oh right, you're originally from the Great City yourself, aren't you? So of course you know about the grand Military Academy.[]The Academy there is second to none. I was very fortunate to get in, all thanks to my mom. It was strict, but I survived. Came out better for it, too.
 
 Option2a:: You're only human, it's fine to slip up a little. //Relationship NathanielP12 2 Happy

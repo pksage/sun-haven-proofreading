@@ -5,7 +5,7 @@ Dialogue:: Hello hello, happy day XX! It's going to be a happy day because my an
 Option1:: You can... talk to animals?  //Emote none Embarrassed
 Option2:: What are you going to do on this happy day?
 
-Response1:: Huh? No, silly! Don't joke XX, I can just tell by their moods, nya.[]Today the chickens were bobbing their heads a lot and talking to each other. If the chickens are happy, then it's a happy day!
+Response1:: Huh? No, silly! Don't joke, XX, I can just tell by their moods, nya.[]Today the chickens were bobbing their heads a lot and talking to each other. If the chickens are happy, then it's a happy day!
 Response2:: I was thinking of stretching in the sunshine... but then I remembered how Roza told me not to lay down on the paths, nyaaaan.
 
 Option1a:: It's incredible how well you know those animals. //Relationship Kitty17 2 Happy

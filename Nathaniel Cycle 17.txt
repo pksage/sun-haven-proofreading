@@ -6,7 +6,7 @@ Option1:: You shouldn't compare.
 Option2:: Why does she have such a big sword anyway?
 
 Response1:: Heh, you almost sound like my mother. You're right, anyway. Her sword is just so <i>big</i>.
-Response2:: In battle, she uses her sword as a shield in a tight spot. I've seen it in action, Roza switches between offense and defense in the blink of an eye.[]It's a big part of why I made her my second-in-command. Not just because she's tough, but because she's smart.
+Response2:: In battle, she uses her sword as a shield in a tight spot. I've seen it in action - Roza switches between offense and defense in the blink of an eye.[]It's a big part of why I made her my second-in-command. Not just because she's tough, but because she's smart.
 
 Option1a:: Your sword is a little dinky. //Relationship Nathaniel17 -1 Sad
 Option1b:: You know that doesn't matter. //Relationship Nathaniel17 2 Happy
@@ -17,7 +17,7 @@ Response1b:: You're right, you're right. A sword is only as sharp as the soldier
 Option2a:: Have you ever sparred with her?  //Emote none Happy
 Option2b:: That's a ridiculous strategy.
 
-Response2a:: Heh, actually I haven't. And I don't plan to! There's no point in making me look bad in front of the soldiers.
-Response2b:: You say that, but you haven't seen her in battle. Trust me XX, she knows what she's doing.
+Response2a:: Heh, I actually haven't. And I don't plan to! There's no point in making me look bad in front of the soldiers.
+Response2b:: You say that, but you haven't seen her in battle. Trust me, XX, she knows what she's doing.
 
 End

@@ -15,9 +15,9 @@ Response1a:: Oh, I know this is going to sound corny... but there's no avoiding 
 Response1b:: Oh, I know this is going to sound corny... but there's no avoiding it.[]Now that I've got you with me, I see nothing but happiness in my future. I hope you feel the same way, XX.
 
 Option2a:: I was just having doubts. //Relationship Vaan15 -1 Sad
-Option2b:: I was wondering what it would be like if we were together, forever. //Relationship Vaan15 2 Romantic
+Option2b:: I was wondering what it would be like if we were together forever. //Relationship Vaan15 2 Romantic
 
 Response2a:: That wasn't the direction I thought this conversation was headed... Rest assured, XX, that I will stand by your side any day. If you want me there, I mean.
-Response2b:: Are you saying what I think you're saying? XX, it sounds like you're talking about a big step - <i>the</i> big step![]You should know, that I'll stand by your side any day!
+Response2b:: Are you saying what I think you're saying? XX, it sounds like you're talking about a big step - <i>the</i> big step![]You should know that I'll stand by your side any day!
 
 End

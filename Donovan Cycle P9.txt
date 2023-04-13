@@ -5,13 +5,13 @@ Dialogue:: Yo, XX. Did I ever tell you about that time I stumbled across an enti
 Option1:: Aren't yetis also monsters? 
 Option2:: You... ate the bones?
 
-Response1:: You mean like, monsterfolk? Nah, not at all. They're wild beasts, but their bones sure are tasty. 
+Response1:: You mean, like, monsterfolk? Nah, not at all. They're wild beasts, but their bones sure are tasty. 
 Response2:: Well, I chewed 'em up pretty good. I mean, they were just laying there, ya know? I assumed it was a 'first come, first serve' kind of thing.[]Hey, if I see a bone, I'm going to chew a bone! I'd rather do what I want rather than miss out.
 
 Option1a:: What makes a bone tasty?
 Option1b:: What kind of bone is your favorite?
 
-Response1a:: You know, I never thought about it before. I like yeti bones because they're nice and hard. Almost like rocks. So, maybe it's that?[]Bones taste better if they're more like rocks? I actually have no idea, now that I think about it.
+Response1a:: You know, I never thought about it before. I like yeti bones because they're nice and hard. Almost like rocks. So maybe it's that?[]Bones taste better if they're more like rocks? I actually have no idea, now that I think about it.
 Response1b:: Well... okay, I'll tell you this, but you can't tell anyone else, alright?[]Honestly, I love dragon bones! I've only had them a couple of times. Wild dragons, of course. But you know how everyone around here is with loving Dynus, and all.
 
 Option2a:: You give into your instinct too easily. //Relationship DonovanP9 -1 Mad

@@ -15,9 +15,9 @@ Response1a:: Mm, no. Not natural. I'm made this way by Iris. Nivara, too. They m
 Response1b:: Mm, no. Not natural. I'm made this way by Iris. Nivara, too. They made me sprout and gave me thoughts. Happier this way.
 
 Option2a:: You could call us friends! //Relationship Salix1 2
-Option2b:: I guess it means, "not happy." //Relationship Salix1 -1
+Option2b:: I guess it means "not happy." //Relationship Salix1 -1
 
-Response2a:: Friends? Of course. Many here in Nel'Vari are my friend, such as Flemmett. You are a friend, too. Good, good!
+Response2a:: Friends? Of course. Many here in Nel'Vari are my friend, such as Clemmett. You are a friend, too. Good, good!
 Response2b:: Hmm? You don't want me to be happy? Hm, how sad...
 
 End

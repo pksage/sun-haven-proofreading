@@ -10,7 +10,7 @@ Option2:: You look like a queen in a storybook! Do you ever read stories like th
 
 Response1:: I don't know if I really "hang out" with anyone, but I've had a few good conversations with the doctor. Wornhardt is a good man, even if he doesn't know it.
 
-Response2:: I don't read a lot of book with characters in them. I mostly like to read books about places.[]It started as a way to get to know different cities that I was traveling to but, believe it or not, I actually enjoy it now! I know, sounds boring, huh?[]Well, there's a lot of history out there. And some of it is actually pretty fascinating!
+Response2:: I don't read a lot of books with characters in them. I mostly like to read books about places.[]It started as a way to get to know different cities that I was traveling to, but believe it or not, I actually enjoy it now! I know, sounds boring, huh?[]Well, there's a lot of history out there. And some of it is actually pretty fascinating!
 
 
 Option1a:: What do you mean by that?

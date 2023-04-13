@@ -8,7 +8,7 @@ Option1:: Do you have any advice for someone like me?
 Option2:: What do you do here, Judith?
 
 
-Response1:: I should have expected that - young people are always asking their elders for advice.[]Well kiddo, sometimes life guides you and sometimes you guide life. It's never too late to change your course if it feels like you're headed in the wrong direction.
+Response1:: I should have expected that - young people are always asking their elders for advice.[]Well, kiddo, sometimes life guides you and sometimes you guide life. It's never too late to change your course if it feels like you're headed in the wrong direction.
 
 Response2:: Oh, I'm quite retired now. It's cute you mistook me for a working woman![]Before retirement, I was the town courier. Sun Haven really only needs one courier, so I was happy to pass the torch to Tonya when the time came.
 
@@ -17,7 +17,7 @@ Option1a:: Have you ever felt like you were going the wrong direction?
 
 Option1b:: Is there a story behind that? 
 
-Response1a:: Certainly. I failed to make some changes like I should have, but I still ended up in a nice place.
+Response1a:: Certainly. I failed to make some changes that I should have, but I still ended up in a nice place.
 
 Response1b:: Not one I care to tell right now. Maybe one day, farmer.
 

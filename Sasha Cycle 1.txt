@@ -5,8 +5,8 @@ Dialogue:: There's nobody we can't heal here.[]Oh, you're already feeling well? 
 Option1:: What's with that animal?
 Option2:: Where did you learn your healing skills?
 
-Response1:: You mean the snaccoon? That's our latest patient. He had a tumble in the river, poor thing!
-Response2:: Nivara provided me the resources to get started and Iris taught me some practical skills. It's amazing what you can do with mana these days!
+Response1:: You mean the Snaccoon? That's our latest patient. He had a tumble in the river, poor thing!
+Response2:: Nivara provided me the resources to get started, and Iris taught me some practical skills. It's amazing what you can do with mana these days!
 
 Option1a:: You're so kind for saving it! //Relationship Sasha1 2
 Option1b:: Why are you helping it? //Relationship Sasha1 -1
@@ -17,7 +17,7 @@ Response1b:: ... What do you mean? Why <i>wouldn't</i> we help it? It's injured 
 Option2a:: How is mana used for healing?
 Option2b:: So you don't have medical experience?
 
-Response2a:: Since mana flows through every living thing, it can be manipulated in predictable ways. All we do is guide extra energy to the spot of an injury and the mana does the work!
-Response2b:: Maybe not in the way you're thinking. Our practices differ quite a bit from Sun Haven. It's not all that complicated, anyway.[]Since mana flows through every living thing, it can be manipulated in predictable ways. All we do is guide extra energy to the spot of an injury and the mana does the work!
+Response2a:: Since mana flows through every living thing, it can be manipulated in predictable ways. All we do is guide extra energy to the spot of an injury, and the mana does the work!
+Response2b:: Maybe not in the way you're thinking. Our practices differ quite a bit from Sun Haven. It's not all that complicated, anyway.[]Since mana flows through every living thing, it can be manipulated in predictable ways. All we do is guide extra energy to the spot of an injury, and the mana does the work!
 
 End

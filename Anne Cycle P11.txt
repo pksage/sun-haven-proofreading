@@ -15,7 +15,7 @@ Option1b:: It would look pretty in a glass bottle.
 
 Response1a:: ...[]Can I use that as a sales pitch? I'm using it as a sales pitch. 
 
-Response1b:: Hm. An interesting idea, very classy. Most people would call it "decorative art," but I just call it "an easy way to charge more than it's worth."[]I wonder where I could source some fancy looking bottles... Hmm...
+Response1b:: Hm. An interesting idea, very classy. Most people would call it "decorative art," but I just call it "an easy way to charge more than it's worth."[]I wonder where I could source some fancy-looking bottles... Hmm...
 
 
 Option2a:: You just told me that people use it as medicine! //Relationship AnneP11 -1 Mad

@@ -11,8 +11,8 @@ Response2:: Excellent. I'm glad you don't mind taking the time to help out! Some
 Option1a:: You do too much, Jun! //Emote none Happy
 Option1b:: I suppose that can be helpful information for your job. //Emote none Happy
 
-Response1a:: Ah, it's not necessarily something for my job! I just enjoy knowing how everyone feels on things.[]Sure, it comes back to help me as Counselor, but it's also just nice to get everyone's thoughts and feelings.
-Response1b:: Ah, it's not necessarily something for my job! I just enjoy knowing how everyone feels on things.[]Sure, it comes back to help me as Counselor, but it's also just nice to get everyone's thoughts and feelings.
+Response1a:: Ah, it's not necessarily something for my job! I just enjoy knowing how everyone feels on things.[]Sure, it comes back to help me as a counselor, but it's also just nice to get everyone's thoughts and feelings.
+Response1b:: Ah, it's not necessarily something for my job! I just enjoy knowing how everyone feels on things.[]Sure, it comes back to help me as a counselor, but it's also just nice to get everyone's thoughts and feelings.
 
 Option2a:: It's great! I don't have to talk to people as much. //Relationship JunP10 -1
 Option2b:: It's a great way to see who needs help around town. //Relationship JunP10 2

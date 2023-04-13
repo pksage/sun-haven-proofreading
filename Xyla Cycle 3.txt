@@ -1,6 +1,6 @@
 Xyla Cycle 3
 
-Dialogue:: Look here, it's the Withergate Wannabe! You just can't stay away can you?
+Dialogue:: Look here, it's the Withergate Wannabe! You just can't stay away, can you?
 
 Option1:: Do you have any plans for Withergate?
 
@@ -16,7 +16,7 @@ Option1a:: That seems a little idealistic. //Relationship Xyla3 -1 Mad
 
 Option1b:: A monster metropolis, huh? If anyone can do it, it would be you. //Relationship Xyla3 2 Happy
 
-Response1a:: Idealistic is thinking you can snap off little comments like that without getting called out. Seriously outsider, who do you think you're talking to?
+Response1a:: Idealistic is thinking you can snap off little comments like that without getting called out. Seriously, outsider, who do you think you're talking to?
 
 Response1b:: You've got an eye for aptitude. You're sharper than you look, outsider.
 

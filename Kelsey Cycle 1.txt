@@ -17,7 +17,7 @@ Response1b:: Sun Haven hasn't had a farmer in a long time, so there's always buy
 Option2a:: It's an impressive setup! //Relationship Kelsey1 -1
 Option2b:: I don't need your milk. //Relationship Kelsey1 2
  
-Response2a:: My father is a great craftsman! Our milkcarts are his own design, yes yes!
+Response2a:: My father is a great craftsman! Our milk carts are his own design, yes yes!
 Response2b:: Fine! More milk for everyone else, heehee.
 
 End

@@ -1,5 +1,5 @@
 Nathaniel One Liner 7
 
-Dialogue:: We always get a fresh batch of recruits in the spring. They're eager, but truth be told half of them will give up and go home by summer.
+Dialogue:: We always get a fresh batch of recruits in the spring. They're eager, but truth be told, half of them will give up and go home by summer.
 
 End

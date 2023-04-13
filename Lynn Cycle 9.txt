@@ -17,9 +17,9 @@ Option1a:: Don't keep me waiting - I can't handle the anticipation! //AddItem no
 Option1b:: Oh Lynn, you didn't have to do anything for me. //AddItem none Lynn'sShield 1
 
 
-Response1a:: Well, I wanted to make something for you but then I thought maybe you deserved something even more special. So, here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
+Response1a:: Well, I wanted to make something for you, but then I thought maybe you deserved something even more special. So... here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
 
-Response1b:: Well, I wanted to make something for you but then I thought maybe you deserved something even more special. So, here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
+Response1b:: Well, I wanted to make something for you, but then I thought maybe you deserved something even more special. So... here.[]This is my shield. It bears my family's crest, so please be careful with it. That means absolutely no using it in combat, please!
 
 
 Option2a:: I want you to know, I think we should just stay good friends. //Relationship Lynn9 -1

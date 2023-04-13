@@ -5,7 +5,7 @@ Dialogue:: <i>The buttons of the machine lock up, becoming practically impossibl
 
 Option:: Impress the machine with a yo-yo trick.
 
-Option:: Push the button really, REALLY, hard. //RIGHTANSWER
+Option:: Push the button really, REALLY hard. //RIGHTANSWER
 
 Option:: Tell the machine a funny story.
 
@@ -17,7 +17,7 @@ Response:: <i>You're not letting some weird machine get the better of you. You p
 Response:: <i>You regale the machine with a retelling of the time you stepped on a dragon's tail, but the machine doesn't seem to be listening. Or capable of hearing, for that matter.</i>
 
 
-LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine goes dark, shutting down completely!</i>
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i>[]<i>The machine goes dark, shutting down completely!</i>
 
 
 Option:: Plant some seeds in the machine.
@@ -29,12 +29,12 @@ Option:: //TICKETS5 Bribe the machine.
 
 Response:: <i>You pull out a pack of seeds. You slip the tiny seeds into the ticket slot, following them down with a bit of water. You are unsure what this accomplished.</i>
 
-Response:: <i>You take a look behind the machine, spotting a big red button labeled "ON". You press it and, by some crazy miracle, the machine boots back to life.</i>
+Response:: <i>You take a look behind the machine, spotting a big red button labeled "ON." You press it, and by some crazy miracle, the machine boots back to life.</i>
 
-Response:: <i>You pull a shiny stack of tickets from your pocket. Slipping it towards the machine, you throw in a little sweet talk to flavor the deal. The machine takes the tickets, but doesn't respond to the bribe.</i>
+Response:: <i>You pull a shiny stack of tickets from your pocket. Slipping them towards the machine, you throw in a little sweet talk to flavor the deal. The machine takes the tickets, but doesn't respond to the bribe.</i>
 
 
-LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i> [] <i>The machine falls into a portal leading to another dimension!</i>
+LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i>[]<i>The machine falls into a portal leading to another dimension!</i>
 
 
 Option:: Ignore it.
@@ -44,11 +44,11 @@ Option:: Ask for an exchange.
 Option:: Go in after it. //RIGHTANSWER
 
 
-Response:: <i>Ignoring something is the best way to get it to go away. You ignore the portal, that eventually closes up on its own. The only issue is that it took the machine with it.</i>
+Response:: <i>Ignoring something is the best way to get it to go away. You ignore the portal, which eventually closes up on its own. The only issue is that it took the machine with it.</i>
 
-Response:: <i>You ask the portal if it would please exchange you a new vending machine. The portal fizzles for a bit, and then closes. You stand awkwardly, wondering when that exchange is going to get here.</i>
+Response:: <i>You ask the portal if it would please exchange you a new vending machine. The portal fizzles for a bit, then closes. You stand awkwardly, wondering when that exchange is going to get here.</i>
 
-Response:: <i>Refusing to go away empty handed, you boldly leap into the portal and follow the wayward machine.</i>[]<i>What occurs next is an epic adventure spanning a strange and wonderful new world... though upon reappearing back in Withergate, you lose all memory of your escapades.</i>[]<i>Wrestling the vending machine back into Withergate, it finally releases a potion!</i>
+Response:: <i>Refusing to go away empty-handed, you boldly leap into the portal and follow the wayward machine.</i>[]<i>What occurs next is an epic adventure spanning a strange and wonderful new world... though upon reappearing back in Withergate, you lose all memory of your escapades.</i>[]<i>Wrestling the vending machine back into Withergate, it finally releases a potion!</i>
 
 
 End

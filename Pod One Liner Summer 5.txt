@@ -1,5 +1,5 @@
 Pod One Liner Summer 5
 
-Dialogue:: Me and mama should get some ice cream later!							
+Dialogue:: Me and Mama should get some ice cream later!							
 
 End

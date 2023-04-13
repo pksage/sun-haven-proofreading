@@ -1,9 +1,9 @@
 Lucia Cycle P10
 
-Dialogue:: Hello there, XX. The other day I was speaking with Nathaniel and he tells me there's been a noticable decline in monsters outside the town borders.[]You wouldn't happen to be responsible, would you?
+Dialogue:: Hello there, XX. The other day I was speaking with Nathaniel, and he tells me there's been a noticeable decline in monsters outside the town borders.[]You wouldn't happen to be responsible, would you?
 
 Option1:: I've slain a few monsters, I suppose.
-Option2:: Is the town in any danger of monsters?
+Option2:: Is the town in any danger from monsters?
 
 Response1:: You can farm <i>and</i> fight! Very commendable, XX. Truly, I mean that. It isn't your job, but the safer the forests beyond the town are, the better!
 Response2:: Sun Haven itself is completely secure, though you should know that by now. However, the forests are teeming with dangerous monsters.[]Travel, at least by foot, is therefore quite dangerous for those who can't defend themselves. Someday I want to change that, and make travel of all kinds safe for everyone.
@@ -11,8 +11,8 @@ Response2:: Sun Haven itself is completely secure, though you should know that b
 Option1a:: Can't the guards deal with monsters on their own? //Relationship LuciaP10 -1
 Option1b:: Don't mention it, it's great to help out. //Relationship LuciaP10 2 Happy
 
-Response1a:: Well of course the town is capable of defending itself, XX. The guards do an excellent job, and I'm always ready to help fill in when needed.[]I merely wanted to thank you for helping out.
-Response1b:: That's the kind of attitude we need in Sun Haven! We're very lucky to have someone as muti-talented as you here. Elios said he sensed great potential in you, and it shows.
+Response1a:: Well, of course the town is capable of defending itself, XX. The guards do an excellent job, and I'm always ready to help fill in when needed.[]I merely wanted to thank you for helping out.
+Response1b:: That's the kind of attitude we need in Sun Haven! We're very lucky to have someone as multitalented as you here. Elios said he sensed great potential in you, and it shows.
 
 Option2a:: How will you accomplish that vision?
 Option2b:: There's a lot of monsters in the forest!

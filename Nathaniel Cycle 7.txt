@@ -23,11 +23,11 @@ Response1b:: Well, I wouldn't know about that... I just try to be friendly, is a
 
 Option2a:: Let's go on a proper date. //Quest none NathanielHangout1Quest
 
-Option2b:: Actually, nevermind.
+Option2b:: Actually, never mind.
 
 Response2a:: Oh! Absolutely, that sounds like fun![]You can meet me at the barracks at 12:00 pm and we'll go from there.
 
-Response2b:: Oh? Okay, well come find me if you need anything else.
+Response2b:: Oh? Okay. Well, come find me if you need anything else.
 
 
 End

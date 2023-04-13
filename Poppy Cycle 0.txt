@@ -4,6 +4,6 @@ Dialogue:: Hey there. Come to trade?
 
 Option1:: Hey, are you a merchant?
 
-Response1:: Sorta. I'm a member of the Restoration Society, we're a group of Nel'Varians who work to piece together our Elven history! I do have some things for trade, though.
+Response1:: Sorta. I'm a member of the Restoration Society. We're a group of Nel'Varians who work to piece together our Elven history! I do have some things for trade, though.
 
 End

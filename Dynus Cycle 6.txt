@@ -5,7 +5,7 @@ Dialogue:: You've returned... Speak, or cease wasting my time.
 Option1:: What will you do once you've conquered your empire?
 Option2:: Are you able to grant a blessing?
 
-Response1:: I will do what rulers do... rule. As my power grows... my opposition will terminated.
+Response1:: I will do what rulers do... rule. As my power grows... my opposition will be terminated.
 Response2:: I can, but I choose not to... why waste gifts on those who are too incompetent to use them?
 
 Option1a:: It sounds pointless to me. //Relationship Dynus6 -1
@@ -17,7 +17,7 @@ Response1b:: Others before have tried resisting... and they failed.
 Option2a:: Not even the Demons?
 Option2b:: What about me?
 
-Response2a:: The Demons... are capable enough on their own. If they needed by Blessing... they would have had nothing to offer me...
-Response2b:: Were the Blessings you received from the so called 'guardian dragons'... not enough for you? At least you understand... the desire for power.
+Response2a:: The Demons... are capable enough on their own. If they needed my blessing... they would have had nothing to offer me...
+Response2b:: Were the blessings you received from the so-called 'guardian dragons'... not enough for you? At least you understand... the desire for power.
 
 End

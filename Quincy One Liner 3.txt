@@ -1,5 +1,5 @@
 Quincy One Liner 3
 
-Dialogue:: I just woke up from a nap but I'm still tired. How is that possible??																																																																			
+Dialogue:: I just woke up from a nap, but I'm still tired. How is that possible??																																																																			
 
 End

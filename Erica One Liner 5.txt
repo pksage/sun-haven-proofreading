@@ -1,5 +1,5 @@
 Erica One Liner 5
 
-Dialogue:: Tell doctor Wornhardt that our apples don't mean to keep him away, hehe!		
+Dialogue:: Tell Doctor Wornhardt that our apples don't mean to keep him away, hehe!		
 
 End

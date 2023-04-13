@@ -7,9 +7,9 @@ Option1:: I never knew you to be so sweet!
 Option2:: It's time I asked... is there a story behind your sword?
 
 
-Response1:: I put on a strong front for the people, as a prince must. But you're not "people" XX. I want to be authentic with you.
+Response1:: I put on a strong front for the people, as a prince must. But you're not "people", XX. I want to be authentic with you.
 
-Response2:: This sword... Yes indeed, but I don't know how you'll feel about it.[]When Demons reach the end of their life, their bodies become as stone. The stone is different for each Demon, but stronger demons make harder stone.[]When my grandfather passed, his last wish was to continue serving his people. Then he became a hard, shining red stone almost like glass.[]We forged my grandfather into this sword to honor his last wish. He is always with me, as my protector.
+Response2:: This sword... Yes indeed, but I don't know how you'll feel about it.[]When Demons reach the end of their life, their bodies become as stone. The stone is different for each Demon, but stronger Demons make harder stone.[]When my grandfather passed, his last wish was to continue serving his people. Then he became a hard, shining red stone almost like glass.[]We forged my grandfather into this sword to honor his last wish. He is always with me, as my protector.
 
 
 Option1a:: I like this authentic version of you. //Emote none Happy
@@ -27,7 +27,7 @@ Option2b:: That's a beautiful way to honor him. //Relationship Darius13 2 Happy
 
 Response2a:: If you think that's creepy, then don't bother asking what we did with Grandmother.
 
-Response2b:: I think so, too. In fact, I want the same thing for myself one day. One day in the far, far future of course.
+Response2b:: I think so too. In fact, I want the same thing for myself one day. One day in the far, far future, of course.
 
 
 End

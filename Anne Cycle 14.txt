@@ -9,7 +9,7 @@ Option2:: Not everyone is so focused on productivity, Anne. //Emote none Happy
 
 Response1:: It's not about needing help, it's about expansion! Hire some workers, buy a little more land... I usually charge for this kind of advice, you know!
 
-Response2:: And not everyone gets to wear solid gold jewelry, but to each their own I guess!
+Response2:: And not everyone gets to wear solid gold jewelry, but to each their own, I guess!
 
 
 Option1a:: I know you're just thinking about what's best for my future. //Relationship Anne14 2 Happy

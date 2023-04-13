@@ -2,7 +2,7 @@ Jun Cycle 2
 
 Dialogue:: So is it love at first sight? I mean, with Sun Haven?
 
-Option1:: You've been here a while, right Jun? Do you still like it here?
+Option1:: You've been here a while, right, Jun? Do you still like it here?
 
 Option2:: Did you move here like me?
 

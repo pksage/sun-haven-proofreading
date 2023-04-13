@@ -8,9 +8,9 @@ Option1:: Can you tell me what crops I should plant, Kitty?
 Option2:: What kind of books do you like to read?
 
 
-Response1:: Ooh, my choice? I wish fish grew on trees but hm... Ooh or you should plant lettuce for Kitty!
+Response1:: Ooh, my choice? I wish fish grew on trees, but hm... Ooh, or you should plant lettuce for Kitty!
 
-Response2:: Fairy Tales! My favorite one is about a cat who turns into a human princess. I'm sure you can guess why, teehee!
+Response2:: Fairy tales! My favorite one is about a cat who turns into a Human princess. I'm sure you can guess why, teehee!
 
 
 Option1a:: Lettuce it is!
@@ -22,11 +22,11 @@ Response1a:: Yay! I know the general store has lettuce seeds, nya. Bring me some
 Response1b:: No no? Well you would know, XX, since you're the real farmer.
 
 
-Option2a:: Aren't fairytales meant for children? //Relationship Kitty7 -1 Mad
+Option2a:: Aren't fairy tales meant for children? //Relationship Kitty7 -1 Mad
 
 Option2b:: That does sound like you, Kitty! //Relationship Kitty7 2 Happy
 
-Response2a:: Fairytales are for everyone, nyan. Don't you like to use your imagination?
+Response2a:: Fairy tales are for everyone, nyan. Don't you like to use your imagination?
 
 Response2b:: Aw, you think Kitty's a princess?? Thank you, XX!
 

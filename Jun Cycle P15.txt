@@ -17,7 +17,7 @@ Response1b:: Oh... I'm sorry, have I bored you with my stories in the past? Or..
 Option2a:: Romance? I should have known! //Emote none Sad
 Option2b:: Romance? I don't see the appeal. //Emote none Sad
 
-Response2a:: Why, uh, do you say that? Actually you know what, don't answer that question.
+Response2a:: Why, uh, do you say that? Actually, you know what, don't answer that question.
 Response2b:: No, not even a little? That's too bad. I have one I thought was perfect for you, but I guess I'll just return it to the library.
 
 End

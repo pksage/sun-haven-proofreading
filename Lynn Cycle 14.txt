@@ -7,7 +7,7 @@ Option1:: What's on your agenda today, lovebug?
 Option2:: I want to cook you a special dinner soon. What is your favorite meal?
 
 
-Response1:: Oh, Solon is behind on a couple of custom orders, again, so I'll have to cover for him, again. Just another day at the forge.
+Response1:: Oh, Solon is behind on a couple of custom orders again, so I'll have to cover for him. Again. Just another day at the forge.
 
 Response2:: Oh XX, you know this already!
 
@@ -16,18 +16,18 @@ Option1a:: Wait, you're doing his work now?
 
 Option1b:: I can't believe you're doing Solon's projects for him!
 
-Response1a:: Yes, but only when he's behind. I don't really mind since he gives me a bonus. And also...[]People really think my work is his! You wouldn't believe how much of Solon's "master work" is actually mine.
+Response1a:: Yes, but only when he's behind. I don't really mind, since he gives me a bonus. And also...[]People really think my work is his! You wouldn't believe how much of Solon's "master work" is actually mine.
 
-Response1b:: It's only when he's behind. I don't really mind since he gives me a bonus. And also...[]People really think my work is his! You wouldn't believe how much of Solon's "master work" is actually mine.
+Response1b:: It's only when he's behind. I don't really mind, since he gives me a bonus. And also...[]People really think my work is his! You wouldn't believe how much of Solon's "master work" is actually mine.
 
 
 Option2a:: Creamy beef stew? //Relationship Lynn14 2 Happy
 
-Option2b:: Spicy Ramen?
+Option2b:: Spicy ramen?
 
 Response2a:: Wow, you really remembered! You're the best, XX.
 
-Response2b:: Sorry sweetie, that's not it. Oh but don't worry! I don't blame you - I only told you once, after all. I love creamy beef stew, remember?
+Response2b:: Sorry, sweetie, that's not it. Oh, but don't worry! I don't blame you - I only told you once, after all. I love creamy beef stew, remember?
 
 
 End

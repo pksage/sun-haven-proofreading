@@ -5,8 +5,8 @@ Dialogue:: That Xyla lady was bothering me earlier today. She kept asking if I'd
 Option1:: Why would Xyla be asking you about a rat catcher job?
 Option2:: I bet it pays decent, and it'd be a steady gig.
 
-Response1:: I mean, don't get me wrong. I love a good rat chase now and then. They're small and quick, so it makes it extra rewarding when you catch one of em'.[]Xyla seems to think I'd be pretty good at it. As like, a real "profession", I mean. Guess the city is having extra trouble with the rats these days, and all.
-Response2:: Maybe. But the last thing I'm worried about is stuff like that. I'd have to work every day, report to some 'boss' and worst of all, I'd be on the prince's payroll![]And all for what? Some extra change in my pocket? I wanna chase rats when I feel like chasing rats, not because it's my obligation. No way.
+Response1:: I mean, don't get me wrong. I love a good rat chase now and then. They're small and quick, so it makes it extra rewarding when you catch one of 'em.[]Xyla seems to think I'd be pretty good at it. As like, a real "profession", I mean. Guess the city is having extra trouble with the rats these days, and all.
+Response2:: Maybe. But the last thing I'm worried about is stuff like that. I'd have to work every day, report to some "boss", and worst of all, I'd be on the prince's payroll![]And all for what? Some extra change in my pocket? I wanna chase rats when I feel like chasing rats, not because it's my obligation. No way.
 
 Option1a:: What do you do with a rat when you catch it?
 Option1b:: The idea of you chasing rats is hilarious.
@@ -17,7 +17,7 @@ Response1b:: Yeah yeah, big bad Donovan the rat chaser, I know. But don't knock 
 Option2a:: Keeping the dream alive. I can appreciate that. //Relationship DonovanP10 2 Happy
 Option2b:: A job would give you some possibilities, though. //Relationship DonovanP10 -1 Mad
 
-Response2a:: Heheh, thanks, XX. I knew you'd understand. You're usually working everyday and I can understand that. We're just two different people in that way.[]Cool to have someone who's different, but understands. Rare in this world, for sure.
+Response2a:: Heheh, thanks, XX. I knew you'd understand. You're usually working every day and I can understand that. We're just two different people in that way.[]Cool to have someone who's different, but understands. Rare in this world, for sure.
 Response2b:: Ew, a pep talk. No thanks. Maybe some people need those kinds of "possibilities" in their lives, but I sure don't. I thought you of all people knew that. 
 
 End

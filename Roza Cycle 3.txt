@@ -10,7 +10,7 @@ Option2:: What's your favorite meal that you can't get at the barracks?
 
 Response1:: Don't remind me. It's still in the barracks, but he gets a whole room to himself. Perks of being captain.
 
-Response2:: Hm, tough call. I'll say chicken salad because it's got everything my body needs.
+Response2:: Hm, tough call. I'll say chicken salad, because it's got everything my body needs.
 
 
 Option1a:: You deserve those perks, too. //Relationship Roza3 -1
@@ -26,7 +26,7 @@ Option2a:: Okay, but what about dessert?
 
 Option2b:: Wow, you're even efficient when you eat.  
 
-Response2a:: I don't eat it often but... I can't resist chocolate ice cream. It's simply the perfect dessert.
+Response2a:: I don't eat it often, but... I can't resist chocolate ice cream. It's simply the perfect dessert.
 
 Response2b:: You say that like it's a bad thing.
 

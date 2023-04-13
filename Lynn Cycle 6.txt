@@ -12,13 +12,13 @@ Response1:: I've only been down there once. Maybe I should spend more time in na
 Response2:: Oh! Wow, just... the two of us? That sounds nice! Let's do it.
 
 
-Option1a:: Nature helps to clear your head, sometimes.
+Option1a:: Nature helps to clear your head sometimes.
 
 Option1b:: Nature won't help with your stress. Maybe you should talk to Jun.
 
-Response1a:: Well, it's certainly a better solution than no solution at all. Thanks XX, I'll give it a shot.
+Response1a:: Well, it's certainly a better solution than no solution at all. Thanks, XX, I'll give it a shot.
 
-Response1b:: Oh yeah, he's the counselor right? I don't know if I could do that, though. Just open up to a complete stranger... but maybe it wouldn't be so bad.
+Response1b:: Oh yeah, he's the counselor, right? I don't know if I could do that, though. Just open up to a complete stranger... but maybe it wouldn't be so bad.
 
 
 Option2a:: Tomorrow, then? //Quest none LynnHangout1Quest

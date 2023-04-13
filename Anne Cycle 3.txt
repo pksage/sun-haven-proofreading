@@ -10,7 +10,7 @@ Option2:: I was just wondering, have you gone to see Elios?
 
 Response1:: When I asked what I could do for you, I meant in terms of merchandise, but...[]Are we talking favorite food of all time? Then I have to go with raspberry cheesecake. So creamy and rich! How can anyone say no to that?
 
-Response2:: I went to see the Sun Dragon on my fourth day in town. It was mostly for publicity though - don't want to snub the local traditions, right?[]Anyway, I'm not Blessed like Lucia. Who needs magic when you've got a steady income?
+Response2:: I went to see the Sun Dragon on my fourth day in town. It was mostly for publicity, though - don't want to snub the local traditions, right?[]Anyway, I'm not Blessed like Lucia. Who needs magic when you've got a steady income?
 
 
 Option1a:: Good to know.
@@ -24,10 +24,10 @@ Response1b:: You haven't had it before? XX, that's completely unacceptable! Go t
 
 Option2a:: Pretending to value a town's tradition is worse than not participating in it at all. //Relationship Anne3 -1 Mad
 
-Option2b:: You seem so strategic, no wonder you're such a success. //Relationship Anne3 2 Happy
+Option2b:: You seem so strategic, it's no wonder you're such a success. //Relationship Anne3 2 Happy
 
 Response2a:: You're right, how dare I receive the Sun Dragon's blessing and make an honest living for myself! I'm so ashamed...[]... I hope you can tell that I'm being sarcastic.
 
-Response2b:: Ooh, surprise flattery! Be careful XX, you're starting to grow on me.
+Response2b:: Ooh, surprise flattery! Be careful, XX, you're starting to grow on me.
 
 End

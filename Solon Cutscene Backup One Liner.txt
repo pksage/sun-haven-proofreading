@@ -1,5 +1,5 @@
 Solon Cutscene Backup One Liner
 
-Dialogue:: Well don't just stand there - there's work to do.
+Dialogue:: Well, don't just stand there - there's work to do.
 
 End

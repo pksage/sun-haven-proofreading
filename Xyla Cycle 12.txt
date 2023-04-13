@@ -7,9 +7,9 @@ Option1:: What do you mean, talk of the town?
 Option2:: So do you still think of me as low-class?
 
 
-Response1:: Everyone knows we're together now. I'm a high-profile figure, you know. Don't get too worked up over it, rumors die as quickly as they're born.
+Response1:: Everyone knows we're together now. I'm a high-profile figure, you know. Don't get too worked up over it. Rumors die as quickly as they're born.
 
-Response2:: Oh, definitely. Come on XX, just because you're dating me doesn't mean you're immediately part of the elite. You have to earn your way to the top!
+Response2:: Oh, definitely. Come on, XX, just because you're dating me doesn't mean you're immediately part of the elite. You have to earn your way to the top!
 
 Option1a:: Who cares? Let them talk. //Relationship Xyla12 2 Happy
 

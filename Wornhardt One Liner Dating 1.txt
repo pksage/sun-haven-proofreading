@@ -1,5 +1,5 @@
 Wornhardt One Liner Dating 1
 
-Dialogue:: Hey XX, looking good today!									
+Dialogue:: Hey, XX, looking good today!									
 
 End

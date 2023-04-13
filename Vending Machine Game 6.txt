@@ -10,14 +10,14 @@ Option:: Randomly press buttons. //RIGHTANSWER
 Option:: Call a manager.
 
 
-Response:: <i>You pretend that you are the mighty Moon Dragon, Dynus himself. You command the machine to obey your words, but you must be a pretty lousy actor because it doesn't work.</i>
+Response:: <i>You pretend that you are the mighty Moon Dragon, Dynus himself. You command the machine to obey your words, but you must be a pretty lousy actor, because it doesn't work.</i>
 
 Response:: <i>Losing your patience, you press every single button on the machine in random order. Finally, the machine yields and registers your initial input.</i>
 
 Response:: <i>Can you get a manager over here?! ...Well?! Huh?!?! A manager?!??!?</i>[]...[]...[]<i>Guess not. Darn.</i>
 
 
-LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i> [] <i>The machine flips upside down!</i>
+LeadIn:: <i>The inner mechanisms of the machine seem to settle down a bit... something must be working! But then...</i>[]<i>The machine flips upside down!</i>
 
 
 Option:: Stand on your head. //RIGHTANSWER
@@ -27,14 +27,14 @@ Option:: Attempt to befriend the machine.
 Option:: Jump on top of the machine.
 
 
-Response:: <i>Two can play at that game! You fall forwards, meeting the ground with the top of your head. Now the controls are all right-side up! Or at least, they look that way. You're able to operate the machine as normal.</i>
+Response:: <i>Two can play at that game! You fall forwards, meeting the ground with the top of your head. Now the controls are all right-side up! Or at least they look that way. You're able to operate the machine as normal.</i>
 
 Response:: <i>You suggest that you and the machine could put your differences aside and become friends. The machine declines your offer of friendship. Wow, what a jerk!</i>
 
 Response:: <i>You jump onto the top of the machine, which is actually the bottom of the machine, as it is currently upside down. It's sort of cool to see what the bottom of the vending machine looks like, but it doesn't do any good.</i>
 
 
-LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine dispenses a glob of slimy ectoplasm!</i>
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i>[]<i>The machine dispenses a glob of slimy ectoplasm!</i>
 
 
 Option:: //HEALTH2 Suplex the entire machine.
@@ -44,11 +44,11 @@ Option:: Ignore it. //RIGHTANSWER
 Option:: Scribble an angry message on the machine.
 
 
-Response:: <i>You suplex the machine, landing it right side up. Success! Except... the force of the suplex broke all the potions inside... they magically reform back together, but still refuse to come out.</i>
+Response:: <i>You suplex the machine, landing it right side up. Success! Except... the force of the suplex broke all the potions inside. They magically reform back together, but still refuse to come out.</i>
 
 Response:: <i>Was that supposed to scare you? Deter you from your path?? You're getting that potion, and no amount of paranormal goo is going to stop you!! You wipe away the ectoplasm, revealing your potion underneath!</i>
 
-Response:: <i>You lose your temper and take up a marker, writing an unpleasant  message on the side of the machine.</i>[]<i>The machine, still upside down, flips right side up just as soon as your finished writing your message. Great, now no one can read it!</i>
+Response:: <i>You lose your temper and take up a marker, writing an unpleasant message on the side of the machine.</i>[]<i>The machine, still upside down, flips right side up just as soon as you're finished writing your message. Great, now no one can read it!</i>
 
 
 End

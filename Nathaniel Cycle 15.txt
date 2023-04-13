@@ -5,19 +5,19 @@ Dialogue:: You've got a faraway look, XX. Is there something you want to talk ab
 Option1:: I'm thinking about our future.
 Option2:: Are you happy in our relationship?
 
-Response1:: Heh, it's kind of funny to hear you refer to our future, together. Maybe I'm still getting used to being in a relationship like this.
+Response1:: Heh, it's kind of funny to hear you refer to our future together. Maybe I'm still getting used to being in a relationship like this.
 Response2:: I don't know how I could be happier... Are you really worried about this?[]XX, that's ridiculous! You have no reason to worry about me. I expect to be with you for a long time. Heck, maybe forever.
 
 Option1a:: I hope we aren't moving too fast for you.
 Option1b:: It's cute that you're still adjusting. //Emote none Embarrassed
 
-Response1a:: Absolutely not! Trust me XX, I'll let you know if I get really uncomfortable.
+Response1a:: Absolutely not! Trust me, XX, I'll let you know if I get really uncomfortable.
 Response1b:: Aw, come on! Don't embarrass me in public, XX, or people might think I'm too soft.
 
 Option2a:: Would you like that? //Relationship Nathaniel15 2 Happy
 Option2b:: I don't know if I could do <i>anything</i> forever. //Relationship Nathaniel15 -1 Sad
 
-Response2a:: Oh! Heh, I didn't mean to say that so directly, but... Honestly, I would![]I don't want to rush you though. Just know that whenever you're ready, XX, then I am too.
+Response2a:: Oh! Heh, I didn't mean to say that so directly, but... Honestly, I would![]I don't want to rush you, though. Just know that whenever you're ready, XX, then I am too.
 Response2b:: Is that so? Well, maybe we've finally found the difference between us. As a soldier, commitment is no stranger to me.
 
 End

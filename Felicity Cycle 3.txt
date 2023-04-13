@@ -6,9 +6,9 @@ Option1:: Which do you prefer? Withergate, or the Great City?
 Option2:: What's your favorite thing to do in Withergate?
 
 Response1:: Ohhh, don't make me choose! Okay, fine... I'd say... well... um... I'm not sure![]Withergate is definitely a city built by Demons, for Demons. Something about the eternal darkness, it just feels... more cozy. But the Great City is so much bigger and has so much MORE than even Withergate![]Ugh, why can't Withergate just be a district in the Great City? That would be perfect.
-Response2:: It's definitely the night clubs. Felix has ALL the hookups for the best clubs. I don't know how he does it, but he has a real way with people! He's always talking to this funny cat monster.[]Have you ever seen that guy? Walking around with the big coat on. He's so cute. Felix and him do a LOT of whispering to each other. I think they're total besties.
+Response2:: It's definitely the nightclubs. Felix has ALL the hookups for the best clubs. I don't know how he does it, but he has a real way with people! He's always talking to this funny cat monster.[]Have you ever seen that guy? Walking around with the big coat on. He's so cute. Felix and him do a LOT of whispering to each other. I think they're total besties.
 
-Option1a:: Why not the Great City be a district in Withergate?
+Option1a:: Why not have the Great City be a district in Withergate?
 Option1b:: Maybe the Great City should hire Xyla.
 
 Response1a:: Hehe, okay, that would work too!

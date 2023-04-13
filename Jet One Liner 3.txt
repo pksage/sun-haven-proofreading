@@ -1,5 +1,5 @@
 Jet One Liner 3
 
-Dialogue:: They call me a "barker" but that seems wrong. I haven't barked a day in my life!
+Dialogue:: They call me a "barker", but that seems wrong. I haven't barked a day in my life!
 
 End

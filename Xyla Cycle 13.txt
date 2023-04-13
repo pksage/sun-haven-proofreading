@@ -7,7 +7,7 @@ Option1:: I was just looking at the trees. Why are all the trees around here dea
 Option2:: Have you been busy around here?
 
 
-Response1:: Sorry XX, there are some things you'll have to ask the king himself. That question is one of them.
+Response1:: Sorry, XX, there are some things you'll have to ask the king himself. That question is one of them.
 
 Response2:: Not too busy. Withergate basically runs itself these days. Sure, I still sit on the council, but it's not nearly as busy as when I oversaw the city's construction.[]Back then, I felt like a real boss! Now I just help the king with boring jobs.
 
@@ -27,7 +27,7 @@ Option2b:: If you're bored, I guess that means you're good at your job. //Relati
 
 Response2a:: Have you been talking to Darius? That sounded just like one of his lines. Which I don't buy for a second, by the way.
 
-Response2b:: Hm, good point. I suppose there are worse things than that. Thanks XX, that was actually helpful.
+Response2b:: Hm, good point. I suppose there are worse things than that. Thanks, XX, that was actually helpful.
 
 
 End

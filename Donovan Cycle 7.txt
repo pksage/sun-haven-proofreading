@@ -18,7 +18,7 @@ Option1b:: It's good to keep your options open.
 
 Response1a:: Sure, if I had to. But hey, it's not like I'm planning on it or anything. This city has been the best home I've had, maybe ever!
 
-Response1b:: No way - I just said the exact same thing last night! Man XX, you and I really seem to be on the same page these days.
+Response1b:: No way - I just said the exact same thing last night! Man, XX, you and I really seem to be on the same page these days.
 
 
 Option2a:: Kings should live in regular houses, like the rest of us. //Relationship Donovan7 2 Happy

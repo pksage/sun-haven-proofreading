@@ -7,7 +7,7 @@ Option1:: Hey, where did you live before Withergate?
 Option2:: Hey, if you could live anywhere in the world, where would you go? //Emote none Happy
 
 
-Response1:: Before Withergate City was built, there was only the castle. The Demon King took me in after Darius found me living in a cave out in the wilds.[]I didn't really have a home before that and I've got to say... I kind of miss it!
+Response1:: Before Withergate City was built, there was only the castle. The Demon King took me in after Darius found me living in a cave out in the wilds.[]I didn't really have a home before that, and I've got to say... I kind of miss it!
 
 Response2:: Anywhere, huh? I've heard that the Naga have some real intricate cave systems that include whole cities. I don't know why, but there's just something so comfy about a dark, dripping cave.
 
@@ -18,7 +18,7 @@ Option1b:: Living in a cave is pretty hardcore.
 
 Response1a:: I don't owe anything to anyone, outsider. Darius has my respect and loyalty - even my friendship! - but he doesn't own me.
 
-Response1b:: For once I agree with you! But it flooded when it rained, so I decided to follow Darius back to the castle anyway. Eh, it worked out all right.
+Response1b:: For once I agree with you! But it flooded when it rained, so I decided to follow Darius back to the castle anyway. Eh, it worked out alright.
 
 
 Option2a:: A cave sounds awful. //Relationship Xyla7 -1 Mad

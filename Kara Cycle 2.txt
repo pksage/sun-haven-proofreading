@@ -28,6 +28,6 @@ Option2b:: What's stopping you?
 
 Response2a:: Something with my hands, like pottery. Giuseppe has offered to get me some clay, but I don't want to be a bother to him. 
 
-Response2b:: Oh, I'm not sure. I just haven't taken the leap yet. Who knows, maybe today is the day that inspiration takes me.[]Maybe... leatherwork? Or, needlepoint? There are so many possibilities!
+Response2b:: Oh, I'm not sure. I just haven't taken the leap yet. Who knows, maybe today is the day that inspiration takes me.[]Maybe... leatherwork? Or needlepoint? There are so many possibilities!
 
 End

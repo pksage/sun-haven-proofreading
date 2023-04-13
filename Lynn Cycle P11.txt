@@ -1,6 +1,6 @@
 Lynn Cycle P11
 
-Dialogue:: Hey, XX. Have you gotten a chance to check out everything we sell at the smithy?
+Dialogue:: Hey, XX. Have you gotten a chance to check out everything we sell at the smithery?
 
 
 Option1:: How is life in Sun Haven different from back home?

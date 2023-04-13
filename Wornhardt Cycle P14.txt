@@ -5,14 +5,14 @@ Dialogue:: Lucia honored me with a medal of recognition for my work the other da
 Option1:: You totally deserved it. //Emote none Embarrassed
 Option2:: So what's your medal look like?
 
-Response1:: You think so, too? I work real hard and everything, but I can't shake the feeling this honor could've gone to someone... more deserving. Did I really earn it?
-Response2:: Ah, it's really beautiful. I'd show it to you, but I've put it away for safekeeping.[]It's a golden emblem with Elios' likeness carved into it, along with the words "FOR SERVICE TO SUN HAVEN."[]Lucia's signature is also engraved on it, which is a nice touch.
+Response1:: You think so too? I work real hard and everything, but I can't shake the feeling this honor could've gone to someone... more deserving. Did I really earn it?
+Response2:: Ah, it's really beautiful. I'd show it to you, but I've put it away for safekeeping.[]It's a golden emblem with Elios's likeness carved into it, along with the words "FOR SERVICE TO SUN HAVEN."[]Lucia's signature is also engraved on it, which is a nice touch.
 
 Option1a:: Don't doubt yourself so much, you're doing great. //Relationship WornhardtP14 2 Happy
 Option1b:: So you think Lucia made a mistake? //Relationship WornhardtP14 -1 Sad
 
 Response1a:: I know I shouldn't be down on myself, but sometimes it's hard... though if you and the Archmage are telling me I'm doing great, then maybe I should listen![]Heh, thanks for the shot of confidence, XX.
-Response1b:: Lucia is a very wise Archmage, I never implied she was mistaken. I'm just not sure <i>why</i> it was me. Don't get the wrong idea, XX.
+Response1b:: Lucia is a very wise Archmage, and I never implied she was mistaken. I'm just not sure <i>why</i> it was me. Don't get the wrong idea, XX.
 
 Option2a:: Sounds fancy. //Emote none Embarrassed
 Option2b:: You should frame it.

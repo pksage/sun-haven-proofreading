@@ -1,5 +1,5 @@
 Wornhardt One Liner Winter 5
 
-Dialogue:: Have you spoken with Claude much? That guy refuses to come in for a medical checkup. I hate when someone plays risky with their health, but it's his ultimately his choice.
+Dialogue:: Have you spoken with Claude much? That guy refuses to come in for a medical checkup. I hate when someone plays risky with their health, but it's ultimately his choice.
 
 End

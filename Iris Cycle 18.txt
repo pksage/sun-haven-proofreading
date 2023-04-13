@@ -1,6 +1,6 @@
 Iris Cycle 18
 
-Dialogue:: The Elven Elder told me they approved of our union. You may not quite grasp the significance of that, but it's really amazing!
+Dialogue:: The Elven Elder told me he approved of our union. You may not quite grasp the significance of that, but it's really amazing!
 
 Option1:: What's the significance of the approval?
 Option2:: Haven't you met anyone outside of Nel'Vari before?

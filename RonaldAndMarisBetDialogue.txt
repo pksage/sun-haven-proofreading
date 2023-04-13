@@ -12,7 +12,7 @@ Option3(Permanent):: What's the bet?
 
 Response1:: Sure, we keep things interesting. Sometimes we disagree, but it's more fun to make a bet out of it!
 
-Response2:: If you prove me wrong and I'll reward you handsomly!
+Response2:: If you prove me wrong, I'll reward you handsomely!
 
 Response3:: I say nobody in town is brave enough to go to the forest and slay <color=#39CCFF>5 Leafies</color>. Even the guards seem too soft! As usual, Mari thinks I'm wrong.
 

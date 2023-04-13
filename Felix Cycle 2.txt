@@ -11,7 +11,7 @@ Response2:: I've traveled a lot around the Western Region. Some in the Eastern R
 Option1a:: You would fit in with Darius.
 Option1b:: Wow, you must really respect your grandfather.
 
-Response1a:: Not a chance. For lack of a better term, I think Darius is a jerk. He throws his weight around like a 'proper' Demon. I'm not one for bluster like that.
+Response1a:: Not a chance. For lack of a better term, I think Darius is a jerk. He throws his weight around like a "proper" Demon. I'm not one for bluster like that.
 Response1b:: Hm, I suppose I do. I never got a chance to meet him, as he died in battle before I was born. It's not a sensitive topic for me, I'm only saying.
 
 Option2a:: Business?

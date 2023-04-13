@@ -5,7 +5,7 @@ Dialogue:: I wrote a bit of music the other day, my muse. I'm not sure if it's v
 Option1:: Composing music for <i>fun</i>?! //Emote none Happy
 Option2:: I'm happy you're starting to enjoy life more.
 
-Response1:: Heheh, is it really that crazy a thought for me? I just feel so elated these days, it's as if I'm finding new joy in everything, including my music.[]You wouldn't happen to know why that is, would you, my muse? 
+Response1:: Heheh, is it really that crazy a thought for me? I just feel so elated these days. It's as if I'm finding new joy in everything, including my music.[]You wouldn't happen to know why that is, would you, my muse? 
 Response2:: I owe that to you, my muse. Without you in my life, all I'd see is the same mundane future ahead of me. I owe everything to you.
 
 Option1a:: Nope. I couldn't tell you! //Emote none Romantic

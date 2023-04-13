@@ -5,10 +5,10 @@ Dialogue:: Hi, sweetie!
 Option1:: What's your favorite part of Withergate?
 Option2:: What's your favorite candy?
 
-Response1:: I looooooove the ferris wheel. You can see so much from the top!
+Response1:: I looooooove the Ferris wheel. You can see so much from the top!
 Response2:: I can't believe you would approach me so casually with such a big question! This would take hours of consideration to reach a real answer...[]... if Fidget hadn't just asked me the same question! I'll tell you what I told him - gummies are my top favorite, followed verrrrry closely by salted caramel!
 
-Option1a:: What ferris wheel?
+Option1a:: What Ferris wheel?
 Option1b:: It's a fun ride!
 
 Response1a:: You really haven't seen it yet? It's above the carnival, just before heading up to the castle.[]I can't help but ride it over and over again. I feel like I see a new part of the city each time I ride!

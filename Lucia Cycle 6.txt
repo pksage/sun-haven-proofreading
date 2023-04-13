@@ -16,7 +16,7 @@ Option1a:: This might be the most excited I've seen you. It's very sweet! //Rela
 
 Option1b:: A leader should keep some distance from her citizens. //Relationship Lucia6 -1
 
-Response1a:: You're very sweet, XX. I'm happy you've decided to join our family. As far as I'm concerned, that's exactly what Sun Haven is - one big family![]I know that's a cliche, but some cliches are true!
+Response1a:: You're very sweet, XX. I'm happy you've decided to join our family. As far as I'm concerned, that's exactly what Sun Haven is - one big family![]I know that's a cliché, but some clichés are true!
 
 Response1b:: I won't apologize for being passionate about my friends here. That's what I love most about being Archmage - I get to know everybody!
 

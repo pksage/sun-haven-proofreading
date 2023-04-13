@@ -1,6 +1,6 @@
 Blossom Summer Cycle 1
 
-Dialogue:: Welcome to Blossom's Seasonal Shop! We have the cool goods to beat the summer heat! And by 'we' I mean 'I' - it's just me! Come take a look!
+Dialogue:: Welcome to Blossom's Seasonal Shop! We have the cool goods to beat the summer heat! And by "we" I mean "I" - it's just me! Come take a look!
 
 Option1:: Who are you?
 Option2:: What are seasonal tokens?

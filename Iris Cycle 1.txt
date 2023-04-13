@@ -18,7 +18,7 @@ Option1b:: How does your magic make life easier?
 
 Response1a:: Oh my, that's a big question. I guess nature and magic are just such huge bodies of knowledge, so the chance to combine the two... who could pass that up??
 
-Response1b:: Mainly by helping the ecosystem - keeping plants alive year-round, making trees grow from rocks, that sort of thing.[]Not to mention, my favorite berries are always in season now!
+Response1b:: Mainly by helping the ecosystem - keeping plants alive year-round, making trees grow from rocks, that sort of thing.[]Not to mention that my favorite berries are always in season now!
 
 
 Option2a:: Maybe you should study her. //Relationship Iris1 -1

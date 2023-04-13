@@ -8,9 +8,9 @@ Option1:: Do you like working here?
 Option2:: Nim, how do you pass the time?
 
 
-Response1:: I wouldn't want it any other way. Kitty is often busy taking care of her barn animals, so I like that I can help.[]Honestly though, Kitty is a very... unconventional boss. She's great at taking care of animals but sometimes she comes in and makes an even bigger mess than the pets!
+Response1:: I wouldn't want it any other way. Kitty is often busy taking care of her barn animals, so I like that I can help.[]Honestly though, Kitty is a very... unconventional boss. She's great at taking care of animals, but sometimes she comes in and makes an even bigger mess than the pets!
 
-Response2:: There's almost always something to clean in here. But when there's nothing to do, I like to watch our neighbors walking past the window.[]I try to think of the most interesting places they could be going. Like if it's Nathaniel, then he's going to battle! Or if it's Lucia then she must be rushing to soothe a raging dragon somewhere.
+Response2:: There's almost always something to clean in here. But when there's nothing to do, I like to watch our neighbors walking past the window.[]I try to think of the most interesting places they could be going. Like if it's Nathaniel, then he's going to battle! Or if it's Lucia, then she must be rushing to soothe a raging dragon somewhere.
 
 
 Option1a:: How do you manage that? 
@@ -26,7 +26,7 @@ Option2a:: Okay, then where am I going next? //Relationship Nim1 2
 
 Option2b:: Why not just ask where they're going? //Relationship Nim1 -1
 
-Response2a:: You, the farmer? I'd say you're on your way to fight the Snaccoons off of your crops! Be careful out there XX, heheh.
+Response2a:: You, the farmer? I'd say you're on your way to fight the Snaccoons off of your crops! Be careful out there, XX, heheh.
 
 Response2b:: I don't think you get the point of the game, XX.
 

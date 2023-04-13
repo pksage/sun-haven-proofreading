@@ -7,7 +7,7 @@ Option1:: Who in town do you trust the most?
 Option2:: I've got to know... What does the prince like to eat for dessert?
 
 
-Response1:: Certainly, it's Xyla. I've worked with her closely over years. What's more, I'm the reason she lives here in the first place.[]Having found her at a low point and raising her into glory... I know her loyalty is never in question.
+Response1:: Certainly, it's Xyla. I've worked with her closely over the years. What's more, I'm the reason she lives here in the first place.[]Having found her at a low point and raising her into glory... I know her loyalty is never in question.
 
 Response2:: Since I was little, our chef has made me an excellent moon cream pie. I'm sure you wouldn't stand it. It is an acquired taste.
 
@@ -27,7 +27,7 @@ Option2b:: It sounds weird. //Emote none Mad
 
 Response2a:: Some of the street vendors in Withergate serve a lesser version of it, but nobody makes it like the royal family's chef.
 
-Response2b:: I wouldn't expect an unrefined pallet to enjoy it.
+Response2b:: I wouldn't expect an unrefined palate to enjoy it.
 
 
 End

@@ -5,7 +5,7 @@ Dialogue:: Your smile is bright as the sun, XX. I hope your day has been good so
 Option1:: I only smile like this when I see you!
 Option2:: Are you happy in our relationship, Wornhardt?  //Emote none Romantic
 
-Response1:: You're such a cheeseball! I've actually heard of studies done on smiles. The idea is, people who smile more are healthier and live longer.
+Response1:: You're such a cheeseball! I've actually heard of studies done on smiles. The idea is that people who smile more are healthier and live longer.
 Response2:: Am I... XX, I'm the happiest I've been! If we were stuck together for the rest of our lives, it wouldn't be long enough![]Oh, heh. I didn't mean to suggest anything by that...
 
 Option1a:: If that's true, then we're going to live a looong time. //Emote none Happy

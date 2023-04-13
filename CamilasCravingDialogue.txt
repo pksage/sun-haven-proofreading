@@ -18,7 +18,7 @@ Option2a:: I'll get right on that. //Quest none CamilasCravingQuest
 Option2b:: I'm too busy to help.
 
 
-Response2a:: You will? Okay neighbor, come find me when you've made a catch. (End)
+Response2a:: You will? Okay, neighbor, come find me when you've made a catch. (End)
 
 Response2b:: Turns out your reputation was just nonsense after all. (End)
 

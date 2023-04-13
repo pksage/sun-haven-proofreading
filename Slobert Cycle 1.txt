@@ -5,7 +5,7 @@ Dialogue:: Phew, you stink!
 
 Option1:: Wait, you said I stink? Are you serious?
 
-Option2:: So, what... are you?
+Option2:: So what... are you?
 
 
 Response1:: Yeah! You smell, like grass and salt. It's disgusting!

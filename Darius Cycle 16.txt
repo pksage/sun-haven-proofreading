@@ -12,7 +12,7 @@ Option1a:: I can't wait for that day. //Emote none Romantic
 Option1b:: When do you think that day will come? //Emote none Romantic
 
 Response1a:: Neither can I, XX. My father has many years yet to rule, however. In the meantime, let us simply enjoy each other's company. And the power of a prince, of course. 
-Response1b:: My father has many years yet to rule, however. In the meantime, let us simply enjoy each other's company. And the power of a prince, of course. 
+Response1b:: My father has many years yet to rule. In the meantime, let us simply enjoy each other's company. And the power of a prince, of course. 
 
 Option2a:: That sounds almost wicked. //Relationship Darius16 -1
 Option2b:: I can't wait until I can wield power like yours. //Relationship Darius16 2 Happy

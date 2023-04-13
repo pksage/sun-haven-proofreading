@@ -10,7 +10,7 @@ Option2:: Have you heard of Withergate?
 
 Response1:: What's it matter to you?
 
-Response2:: The monster city, yeah I've heard of it. Haven't seen it though. Can't be sure anyone has.
+Response2:: The monster city. Yeah, I've heard of it. Haven't seen it, though. Can't be sure anyone has.
 
 
 Option1a:: I was just asking. 

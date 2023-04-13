@@ -12,12 +12,12 @@ Option1a:: I enjoy keeping busy. //Relationship Quincy1 2
 Option1b:: I don't like working, I'd rather relax. //Relationship Quincy1 -1
 
 Response1a:: I can see that just by looking at you. Your hands are calloused pretty good!
-Response1b:: It must be a struggle to keep your farm then. I guess that speaks to your character, huh?
+Response1b:: It must be a struggle to keep your farm, then. I guess that speaks to your character, huh?
 
 Option2a:: Productivity and relaxation? That's smart!
 Option2b:: You must be a great fisher, then.
 
 Response2a:: Do you think so? It's just the norm for me!
-Response2b:: I usually come away with a few fish. It's easy here, though.[]Hey, you should fish Nel'Vari waters! If you haven't already, I'm sure you'll catch something new.
+Response2b:: I usually come away with a few fish. It's easy here, though.[]Hey, you should fish Nel'Vari's waters! If you haven't already, I'm sure you'll catch something new.
 
 End

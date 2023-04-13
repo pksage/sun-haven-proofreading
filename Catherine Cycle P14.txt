@@ -6,12 +6,12 @@ Option1:: Why would you get your littermates something for <i>your</i> birthday?
 Option2:: I didn't know your birthday was coming up.
 
 Response1:: Oh, well, it's their birthday too. We were all born on the same day, after all! It's tricky since there are seven of them...
-Response2:: Oh, my birthday actually isn't for awhile! But with so many littermates, it takes all year to plan what I'm going to get for everyone.[]I want to go above and beyond so that everyone is happy, but it gets harder each year. I'm really struggling this time!
+Response2:: Oh, my birthday actually isn't for a while! But with so many littermates, it takes all year to plan what I'm going to get for everyone.[]I want to go above and beyond so that everyone is happy, but it gets harder each year. I'm really struggling this time!
 
 Option1a:: Your mom had eight kids at once?!
 Option1b:: Is that the same for all Amari?
 
-Response1a:: Well, yeah. What do you think a "litter" means, exactly? Some Amari might give birth to a single baby, others will have entire litters!
+Response1a:: Well, yeah. What do you think "litter" means, exactly? Some Amari might give birth to a single baby, others will have entire litters!
 Response1b:: Nope! Some Amari might give birth to a single baby, while others will have entire litters! 
 
 Option2a:: You could tell them their fortunes! //Relationship CatherineP14 2 Embarrassed

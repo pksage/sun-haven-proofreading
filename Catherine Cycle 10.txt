@@ -17,7 +17,7 @@ Option1a:: That's unbelievable! //Relationship Catherine10 2
 Option1b:: I don't believe that for a second. //Relationship Catherine10 -1 Mad
 
 
-Response1a:: Start believing XX, because it's true. If you stop by my house sometime, I could even show you my formula!
+Response1a:: Start believing, XX, because it's true. If you stop by my house sometime, I could even show you my formula!
 
 Response1b:: I can't tell if you're joking or... okay, you're serious. Wow, XX. Come on, I'm no liar.
 

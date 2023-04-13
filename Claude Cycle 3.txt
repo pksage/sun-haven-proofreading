@@ -21,7 +21,7 @@ Response1a:: I moved back into town to get a little peace and quiet while I work
 Response1b:: We have that in common, then. I never want to set foot in that city again, if I'm being honest. So dirty and loud.
 
 
-Option2a:: That's pretty cold hearted. //Relationship Claude3 -1
+Option2a:: That's pretty cold-hearted. //Relationship Claude3 -1
 
 Option2b:: But what about the people in town? //Relationship Claude3 2
 

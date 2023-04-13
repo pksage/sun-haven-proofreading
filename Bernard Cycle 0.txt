@@ -4,6 +4,6 @@ Dialogue:: Hm? Yes, may I help you?
 
 Option1:: I'm XX, the new farmer in town.
 
-Response1:: Oh, yes I suppose we haven't met. My name is Bernard. It's a pleasure.
+Response1:: Oh, yes, I suppose we haven't met. My name is Bernard. It's a pleasure.
 
 End

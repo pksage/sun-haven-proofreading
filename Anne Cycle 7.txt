@@ -7,9 +7,9 @@ Option1:: Wait, it looks like you're hiding something...
 Option2:: When are you off work? I was thinking I could see you after.
 
 
-Response1:: Aw, you caught me! All right XX, listen up.[]The first time I ever had enough money to buy myself something nice - just for fun, not like food or shelter - I bought myself pearl earrings.[]This is one of the two earrings. I'm keeping the other, but I want you to have this one. You're becoming a good friend and I guess I want to show you that it means something to me.[]But you better not lose this! Just stick it in your pocket or something, as long as it's safe.
+Response1:: Aw, you caught me! Alright, XX, listen up.[]The first time I ever had enough money to buy myself something nice - just for fun, not like food or shelter - I bought myself pearl earrings.[]This is one of the two earrings. I'm keeping the other, but I want you to have this one. You're becoming a good friend and I guess I want to show you that it means something to me.[]But you better not lose this! Just stick it in your pocket or something, as long as it's safe.
 
-Response2:: Oh, is that what you were thinking? Well I'm always open for business, but I close my cart around 4.
+Response2:: Oh, is that what you were thinking? Well, I'm always open for business, but I close my cart around 4.
 
 
 Option1a:: Are you sure? It sounds important. //AddItem none Anne'sPearlEarrings 1

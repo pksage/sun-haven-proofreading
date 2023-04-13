@@ -1,5 +1,5 @@
 Erica One Liner 4
 
-Dialogue:: Hope you have an apple-tastic day! Eh, "\apple-tastic\" sounds pretty corny, doesn't it?		
+Dialogue:: Hope you have an apple-tastic day! Eh, "apple-tastic" sounds pretty corny, doesn't it?		
 
 End

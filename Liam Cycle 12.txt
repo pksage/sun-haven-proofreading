@@ -2,7 +2,7 @@ Liam Cycle 12
 
 Dialogue:: How are you, XX? You're looking really good!
 
-Option1:: You seem to be doing well these days, too.
+Option1:: You seem to be doing well these days too.
 
 Option2:: You've gained some muscle yourself. //Emote none Embarrassed
 

@@ -7,7 +7,7 @@ Option1:: Does that worry you? I thought you weren't afraid of anything!
 Option2:: I've never been so popular! //Emote none Happy
 
 
-Response1:: What am I, some kind of action novel hero? Of course I have fears, XX. I'm just a person. But I'm not afraid of talk. Talk is just, talk.
+Response1:: What am I, some kind of action novel hero? Of course I have fears, XX. I'm just a person. But I'm not afraid of talk. Talk is just talk.
 
 Response2:: No? First time for everything, I guess![]I'm used to this kind of attention, but that shouldn't surprise you. Getting people to talk about me is part of my business plan, after all.
 
@@ -16,9 +16,9 @@ Option1a:: Will you tell me what scares you, then? //Relationship Anne12 2
 
 Option1b:: And here I thought you lived fearlessly. //Relationship Anne12 -1
 
-Response1a:: All right, sure. Part of me will always be afraid of losing everything, going broke, and living on the streets again. Also... crabs kind of freak me out.[]Have you noticed that I stay away from Peter? Now you know why. I can't believe he lives with that sea bug on his head!
+Response1a:: Alright, sure. Part of me will always be afraid of losing everything, going broke, and living on the streets again. Also... crabs kind of freak me out.[]Have you noticed that I stay away from Peter? Now you know why. I can't believe he lives with that sea bug on his head!
 
-Response1b:: You're being weird, XX. I'm just a normal person like anyone else. Except, more successful and attractive.
+Response1b:: You're being weird, XX. I'm just a normal person like anyone else. Except more successful and attractive.
 
 
 Option2a:: You've always got a plan, huh?

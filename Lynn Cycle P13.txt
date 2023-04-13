@@ -1,11 +1,11 @@
 Lynn Cycle P13
 
-Dialogue:: Catherine is a great neighbor, and it's really nice living so close to where I work. You're all the way out there on your farm, don't you ever get lonely?
+Dialogue:: Catherine is a great neighbor, and it's really nice living so close to where I work. You're all the way out there on your farm... don't you ever get lonely?
 
 
 Option1:: I tend to keep pretty busy.
 
-Option2:: It's hard to get lonely with such good friends, though.
+Option2:: It's hard to get lonely with such good friends.
 
 
 Response1:: That is very true. You're always coming and going, it seems. I don't know where you find the energy!
@@ -17,7 +17,7 @@ Option1a:: I see you working hard all the time, too. //Relationship LynnP13 2 Ha
 
 Option1b:: Hey, I'm Blessed and you're not. //Relationship LynnP13 -1 Mad
 
-Response1a:: Do you really notice? Solon is always telling me to slow down, but my mother was a real whip cracker! I don't know how to slow down, sometimes!
+Response1a:: Do you really notice? Solon is always telling me to slow down, but my mother was a real whip-cracker! I don't know how to slow down, sometimes!
 
 Response1b:: Maybe I'm not Blessed like you, but you seem like you're being a little bit rude about it...
 

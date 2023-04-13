@@ -1,6 +1,6 @@
 Darius Cycle P10
 
-Dialogue:: Ah XX, the cold night air is refreshing, yes?
+Dialogue:: Ah, XX, the cold night air is refreshing, yes?
 
 Option1:: The darkness is quite invigorating.
 Option2:: The Moon Dragon's power has made a wonderful community here.

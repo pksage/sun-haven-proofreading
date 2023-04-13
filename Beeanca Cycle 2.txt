@@ -6,7 +6,7 @@ Option1:: So... are you an Amari?
 Option2:: You're like a queen bee!
 
 Response1:: Of course I'm an Amari! Goodness, what a silly question. Bee Amari like me are quite rare, and are more naturally in tune with our animal cousins. Look at how these bees just follow me wherever I go![]Aren't we just absolutely fa-bee-lous?
-Response2:: Oh, honey, I am <i>the</i>  queen bee! There's no other bee quite like me, understand? No one matches my hustle, my style or my charms! Nel'Vari is lucky to have me, really.
+Response2:: Oh, honey, I am <i>the</i>  queen bee! There's no other bee quite like me, understand? No one matches my hustle, my style, or my charms! Nel'Vari is lucky to have me, really.
 
 Option1a:: Yes, you are! //Relationship Beeanca2 2
 Option1b:: That's an awfully shoehorned pun, lady. //Relationship Beeanca2 -1

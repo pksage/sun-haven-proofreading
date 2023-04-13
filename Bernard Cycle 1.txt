@@ -28,6 +28,6 @@ Option2b:: Are you bored with your job? //Relationship Bernard1 -1
 
 Response2a:: Indeed it is, even though it's entirely behind the scenes. However, I don't necessarily need recognition to make an impact on Sun Haven.
 
-Response2b:: It sounds that boring to you? Good thing it's not your job then. I enjoy helping the town, so I enjoy my work.
+Response2b:: It sounds that boring to you? Good thing it's not your job, then. I enjoy helping the town, so I enjoy my work.
 
 End

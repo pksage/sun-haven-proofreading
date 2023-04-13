@@ -2,7 +2,7 @@ Sylvia Cycle 0
 
 Dialogue:: Hello! I'm Sylvia, merchant of Elven goods.
 
-Option1:: Hi Sylvia, I'm XX.
+Option1:: Hi, Sylvia, I'm XX.
 
 Response1:: XX? What a curious name![]Hold on, you're the one who's from Sun Haven, right? That's so interesting!
 

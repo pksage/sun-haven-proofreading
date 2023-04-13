@@ -27,7 +27,7 @@ Option2b:: I think everything happens for a reason.
 
 Response2a:: Wow, XX. You really, uh, lay it all out there. I can admire your certainty, that's for sure.
 
-Response2b:: Yeah, yeah exactly. Even if it's not true, it's a comforting thought.
+Response2b:: Yeah, yeah, exactly. Even if it's not true, it's a comforting thought.
 
 
 End

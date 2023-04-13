@@ -16,9 +16,9 @@ Option1a:: That's really impressive.
 
 Option1b:: That's really sweet.
 
-Response1a:: Thank you for saying so, darlin'. But to us it's just normal. Nothing impressive to see here! Just hard workin' Amari.
+Response1a:: Thank you for saying so, darlin'. But to us it's just normal. Nothing impressive to see here! Just hard-workin' Amari.
 
-Response1b:: Thank you for saying so, darlin'. Family means a lot to us Amari, I'll always count my lucky stars for each one of them.  
+Response1b:: Thank you for saying so, darlin'. Family means a lot to us Amari. I'll always count my lucky stars for each one of them.  
 
 
 Option2a:: What incredible family history.

@@ -6,12 +6,12 @@ Option1:: How did you end up in Nel'Vari?
 Option2:: What do you do around here?
 
 Response1:: Ah, you mean because I'm not an Elf, right? I guess no matter how hard I try, I'll never quite blend in.[]Even if I wish I were an Elf, I'm Amari. I've lived in this forest for years and years, so it was only a matter of time before I found my way into Nel'Vari.
-Response2:: Me? Oh I work odd jobs. Really I'm just trying to do my part and earn my place. The Elder says I don't need to work so hard, but I know he's just being nice!
+Response2:: Me? Oh, I work odd jobs. Really I'm just trying to do my part and earn my place. The Elder says I don't need to work so hard, but I know he's just being nice!
 
 Option1a:: Why do you want to be an Elf?
 Option1b:: The Elves welcomed you, too?
 
-Response1a:: Life as an Elf seems peaceful. Living as an Amari in the forest is too dangerous these days. I just want a group of friends behind me is all.
+Response1a:: Life as an Elf seems peaceful. Living as an Amari in the forest is too dangerous these days. I just want a group of friends behind me, is all.
 Response1b:: Sure they did! The Elves are too considerate to kick me out. Besides, I have this job set up now. I'm basically a local, even if nobody else says so.
 
 Option2a:: A good work ethic is always respectable. //Relationship Clemmett1 2

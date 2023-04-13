@@ -2,12 +2,12 @@ Lucia Cycle 8
 
 Dialogue:: Sun Haven only gets more beautiful with each passing day. Don't you think so, XX?
 
-Option1:: You're not dating anyone, are you Lucia?
+Option1:: You're not dating anyone, are you, Lucia?
 
 Option2:: You really deserve to enjoy these beautiful days. Why don't we go on a date?
 
 
-Response1:: Oh no, not at the moment. I have precious little free time, so I prefer to wait until someone particularly special comes along. Although, I've certainly had my share of admirers.
+Response1:: Oh no, not at the moment. I have precious little free time, so I prefer to wait until someone particularly special comes along. Although I've certainly had my share of admirers.
 
 Response2:: I try to make time for myself, but it's difficult. There is always so much to be done.[]Perhaps you're right. A date would be a nice break from my daily work!
 

@@ -18,7 +18,7 @@ Option1b:: I can always get back on your good side.
 
 Response1a:: Don't tell me you're actually considering![]Oh, of course you're joking. I can't believe I thought you were serious for a moment!
 
-Response1b:: Big talk! But you better have a real good plan to win me back XX - I won't make it so easy the second time!
+Response1b:: Big talk! But you better have a real good plan to win me back, XX - I won't make it so easy the second time!
 
 
 Option2a:: I don't know how you stay so attentive all the time. //Relationship Xyla14 2 Romantic

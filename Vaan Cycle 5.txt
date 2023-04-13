@@ -4,12 +4,12 @@ Dialogue:: XX, I was just wondering something about you. I don't want to ask any
 
 Option1:: What's on your mind?
 
-Option2:: Vaan, you can ask me whatever you want, anytime.  //AddItem none Vaan'sRubyRing 1
+Option2:: Vaan, you can ask me whatever you want anytime.  //AddItem none Vaan'sRubyRing 1
 
 
 Response1:: Well, it's a couple things... but I was thinking about my connection to magic. It seems to be... louder than usual, if that makes sense.
 
-Response2:: I know that. I'm a little astonished with you, XX. I can already tell that you're an important person in my life. Someone who will change me, for the better.[]Because of that, I want to give you something. It's my ruby ring.
+Response2:: I know that. I'm a little astonished with you, XX. I can already tell that you're an important person in my life. Someone who will change me for the better.[]Because of that, I want to give you something. It's my ruby ring.
 
 
 Option1a:: I don't have much of a connection to magic. //Relationship Vaan5 -1 Sad
@@ -25,9 +25,9 @@ Option2a:: Your ruby ring?
 
 Option2b:: Is this important?
 
-Response2a:: Yes, it has great personal value to me. I trust you to take care of it, and it should help keep you safe too. I know you won't lose it, XX.
+Response2a:: Yes, it has great personal value to me. I trust you to take care of it, and it should help keep you safe, too. I know you won't lose it, XX.
 
-Response2b:: Yes, it has great personal value to me. I trust you to take care of it, and it should help keep you safe too. I know you won't lose it, XX.
+Response2b:: Yes, it has great personal value to me. I trust you to take care of it, and it should help keep you safe, too. I know you won't lose it, XX.
 
 
 End

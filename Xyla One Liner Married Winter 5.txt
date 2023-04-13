@@ -1,5 +1,5 @@
 Xyla One Liner Married Winter 5
 
-Dialogue:: It's cold but I'm with someone who is at least partially on my level. I'd say I'm feeling pretty good right about now, XX.
+Dialogue:: It's cold, but I'm with someone who is at least partially on my level. I'd say I'm feeling pretty good right about now, XX.
 
 End

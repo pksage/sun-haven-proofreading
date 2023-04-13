@@ -3,7 +3,7 @@ Lucius Cycle 2
 Dialogue:: Hello again, XX! I didn't see you for a second.
 
 Option1:: You look deep in thought.
-Option2:: So... Opal and you work together?
+Option2:: So... You and Opal work together?
 
 Response1:: So I am, XX. I was reflecting on some things. I'm used to being able to think for long stretches of time without being bothered. I apologize if it seemed like I was ignoring you.
 Response2:: Ah, yes. Opal is another attendent to the moon. We do work together, though we tend to work in silence. I think I've spoken to Opal... eh, maybe three times? She's a nice girl. I love our chats.

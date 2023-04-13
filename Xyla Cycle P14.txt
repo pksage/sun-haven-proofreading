@@ -6,7 +6,7 @@ Option1:: I can't believe you actually want my help with something.
 Option2:: What do you need?
 
 Response1:: What's so surprising about that, huh? You came to Withergate as an outsider, and I'm not so ignorant to believe that you don't have a unique perspective because of that.[]Sometimes unique perspective is what I need, got it?
-Response2:: Darius wishes for Withergate to be entirely self-sufficient, no need for outsiders immigrating into the city.[]But here you are, an outsider making it in Withergate. I can't help but think what we could do to attract more outsiders and all the talent they could bring.
+Response2:: Darius wishes for Withergate to be entirely self-sufficient, with no need for outsiders immigrating into the city.[]But here you are, an outsider making it in Withergate. I can't help but think what we could do to attract more outsiders and all the talent they could bring.
 
 Option1a:: I guess I never considered that.
 Option1b:: That makes sense to me.
@@ -18,6 +18,6 @@ Option2a:: I don't think many people would want to move to Withergate. //Relatio
 Option2b:: Making it easier to get into the city would be a start. //Relationship XylaP14 2 Happy
 
 Response2a:: I didn't ask if you thought anyone would move here or not. But if you aren't going to entertain my thoughts, then just forget it, okay?
-Response2b:: I know, I know. That's a great point, but "we have to protect our borders", according to the prince.[]It was no small task to get into Withergate from the outside, XX. But maybe that's a good filter. Only the really ambitious sewer rats, like you, can enter the city!
+Response2b:: I know, I know. That's a great point, but "we have to protect our borders," according to the prince.[]It was no small task to get into Withergate from the outside, XX. But maybe that's a good filter. Only the really ambitious sewer rats, like you, can enter the city!
 
 End

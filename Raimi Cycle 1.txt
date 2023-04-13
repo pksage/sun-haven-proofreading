@@ -1,6 +1,6 @@
 Raimi Cycle 1
 
-Dialogue:: Hey new neighbor, I want you to know that I've got your back!
+Dialogue:: Hey, new neighbor, I want you to know that I've got your back!
 
 
 Option1:: Do you always carry a bow with you?

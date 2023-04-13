@@ -4,6 +4,6 @@ Dialogue:: Hm? Oh, I mean... Roar! Fear my inhuman howl!
 
 Option1:: Okay... I'm XX.
 
-Response1:: Hold on, aren't you the newcomer from Sun Haven? Finally, someone I can trust.[]My name is Phoebe. I'm undercover here - nobody knows I'm Human so don't give me away!
+Response1:: Hold on, aren't you the newcomer from Sun Haven? Finally, someone I can trust.[]My name is Phoebe. I'm undercover here - nobody knows I'm Human, so don't give me away!
 
 End

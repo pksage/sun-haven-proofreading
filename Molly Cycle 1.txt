@@ -8,7 +8,7 @@ Option2:: What's your story?
 
 Response1:: Geology might seem boring to some people, but it's really important. Don't you know anyone who smiths? Or maybe you've cut stone for a path before?[]With our displays filled, everyone can come and learn the importance of geology!
 
-Response2:: I studied geology and earth magic at the Great Academia, in the Great City. Once I graduated though, I wasn't sure what sort of work an earth mage could find...[]That's when I met Covington. He told me I could continue my studies and show people the wonders of rock and minerals. I agreed, obviously.[]For awhile we didn't have what we needed... but thanks to you, we finally have a proper display of samples! I promise I won't knock it over on anyone, hehe.
+Response2:: I studied geology and earth magic at the Great Academia, in the Great City. Once I graduated, though, I wasn't sure what sort of work an earth mage could find...[]That's when I met Covington. He told me I could continue my studies and show people the wonders of rock and minerals. I agreed, obviously.[]For a while we didn't have what we needed... but thanks to you, we finally have a proper display of samples! I promise I won't knock it over on anyone, hehe.
 
 Option1a:: I see.
 

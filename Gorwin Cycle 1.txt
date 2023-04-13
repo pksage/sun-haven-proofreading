@@ -6,7 +6,7 @@ Option1:: I'm curious about Nel'Vari's history.
 Option2:: I'm curious about the Nel'Vari Elves.
 
 Response1:: To learn about our history, you need only learn the history of the Grand Tree. We've been with it since the first Elves stepped foot on these grounds.[]Yes, our origins are entwined with the tree like so many blooming vines, hoho! 
-Response2:: Ah, wonderful! But be careful XX, if you become too comfortable here then you may never want to leave, hoho![]I'm sure you know by now that there are different tribes of Elves, yes? Many Elves live a nomadic life in our world. Never settling, always moving.[]Nel'Vari Elves are different though, because we've been with the Grand Tree for the entire history of our civilization!
+Response2:: Ah, wonderful! But be careful, XX, if you become too comfortable here then you may never want to leave, hoho![]I'm sure you know by now that there are different tribes of Elves, yes? Many Elves live a nomadic life in our world. Never settling, always moving.[]Nel'Vari Elves are different, though, because we've been with the Grand Tree for the entire history of our civilization!
 
 Option1a:: So you're just tree people? //Relationship Gorwin1 -1
 Option1b:: No wonder it's such a revered monument. //Relationship Gorwin1 2

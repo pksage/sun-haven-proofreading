@@ -18,7 +18,7 @@ Option2a:: I'll do it! //Quest none AmandasBookQuest
 Option2b:: I'm too busy right now.
 
 
-Response2a:: I really appreciate it XX. And I know Amanda does, too! (End)
+Response2a:: I really appreciate it, XX. And I know Amanda does, too! (End)
 
 Response2b:: Oh man, that's too bad. (End)
 

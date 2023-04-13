@@ -5,16 +5,16 @@ Dialogue:: Heya, what can I help you with?
 
 Option1:: Is it busy on the orchard?
 
-Option2:: So, about the monkies...
+Option2:: So about the monkeys...
 
 Response1:: Is it ever! We grow and make all sorts of things here. There's never much time to relax, but that's okay. We'd all rather be busy!
 
-Response2:: Oh, them? Don't give them any worry! They're not like the chimchucks you find out in the wilderness, hehe. I wouldn't call them 'tame', exactly, but they're pretty friendly.[]They're willing to help with the harvest in exchange for some fruit!
+Response2:: Oh, them? Don't give them any worry! They're not like the chimchucks you find out in the wilderness, hehe. I wouldn't call them "tame", exactly, but they're pretty friendly.[]They're willing to help with the harvest in exchange for some fruit!
 
 
 Option1a:: Your productivity is amazing!
 
-Option1b:: You should slow down once in awhile..
+Option1b:: You should slow down once in a while.
 
 Response1a:: Heya, thanks! It's good to have our hard work appreciated. //Relationship Erica1 1
 

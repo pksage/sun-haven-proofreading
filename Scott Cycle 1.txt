@@ -8,7 +8,7 @@ Option1:: Can I ask you about your eye?
 Option2:: Do you ever sell your weapons to the army?
 
 
-Response1:: Go on kid, just ask your question.
+Response1:: Go on, kid, just ask your question.
 
 Response2:: The army? My weaponry would be wasted on their training dummies. The blades would dull long before they saw combat.[]My goods should be used by real fighters, not pansies running routines.
 
@@ -17,9 +17,9 @@ Option1a:: How did you lose it?
 
 Option1b:: Actually, I feel like I'm being rude now...
 
-Response1a:: When I was younger than you are now, I went looking in a crystal ball to see my future.[]Well, the ball turned out to be cursed. Held me captive and glowed so bright that it burned blindness into my eye. So, there you go.[]I can tell you more about it another time. I've got lots to tell, you know. If you have a spot of free time, why don't you come by for a tale?
+Response1a:: When I was younger than you are now, I went looking in a crystal ball to see my future.[]Well, the ball turned out to be cursed. Held me captive and glowed so bright that it burned blindness into my eye. So there you go.[]I can tell you more about it another time. I've got lots to tell, you know. If you have a spot of free time, why don't you come by for a tale?
 
-Response1b:: I figured you wouldn't have the guts to ask. I'm having a good day, so I'll tell you anyway.[]When I was younger than you are now, I went looking in a crystal ball to see my future.[]Well, the ball turned out to be cursed, flashed so bright that it burned blindness into my eye.[]I can tell you more about it another time. I've got lots to tell, you know. If you have a spot of free time, why don't you come by for a tale?
+Response1b:: I figured you wouldn't have the guts to ask. I'm having a good day, so I'll tell you anyway.[]When I was younger than you are now, I went looking in a crystal ball to see my future.[]Well, the ball turned out to be cursed, and flashed so bright that it burned blindness into my eye.[]I can tell you more about it another time. I've got lots to tell, you know. If you have a spot of free time, why don't you come by for a tale?
 
 
 Option2a:: You're right, soldiers really don't know what they're doing. //Relationship Scott1 2

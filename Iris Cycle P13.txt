@@ -6,7 +6,7 @@ Option1:: Do you not like the night?
 Option2:: The people living in Withergate must love it.
 
 Response1:: Well, no, that's not it. I quite like night, actually. It gives life a chance to rest. It also allows other types of life to flourish, under the light of the stars.[]But eternal night? Without ever seeing the sun? So many plants and animals would perish. I don't think I'd fare any better, either.
-Response2:: Maybe they do. I suppose I can't judge, but still... the thought of endless night gives me a chill. Is it true that Demons can not tolerate sunlight?[]The sun is the giver of energy and life. It's odd to imagine anyone could live without it.
+Response2:: Maybe they do. I suppose I can't judge, but still... the thought of endless night gives me a chill. Is it true that Demons cannot tolerate sunlight?[]The sun is the giver of energy and life. It's odd to imagine anyone could live without it.
 
 Option1a:: Good thing you're in Nel'Vari!
 Option1b:: You don't sound cut out for Withergate. //Emote none Embarrassed

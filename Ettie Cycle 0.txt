@@ -4,6 +4,6 @@ Dialogue:: Hm? Oh, hello there darlin'. Welcome to the orchard. Enjoy your stay,
 
 Option1:: Thanks, I think I will.
 
-Response1:: That's good to hear, darlin'. Our orchard is plenty big with plenty to explore!
+Response1:: That's good to hear, darlin'. Our orchard is plenty big, with plenty to explore!
 
 End

@@ -19,7 +19,7 @@ Option1b:: I don't like to gloat. //Relationship Solon4 2
 
 Response1a:: You think it's silly to work your hands raw for three decades? I didn't think so.
 
-Response1b:: Heh, well that's good. But I'm not telling you to gloat. You can be proud of yourself and humble to others at the same time.[]I don't call myself a master, but I don't deny it either. Just keep working hard, kid.
+Response1b:: Heh, well, that's good. But I'm not telling you to gloat. You can be proud of yourself and humble to others at the same time.[]I don't call myself a master, but I don't deny it either. Just keep working hard, kid.
 
 
 Option2a:: What did you do? 

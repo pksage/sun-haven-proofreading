@@ -27,7 +27,7 @@ Option2b:: Actually, I'll have to pass on this one. //Emote none Sad
 
 Response2a:: Let's meet at my house at 5:00 pm tomorrow. I'm excited to see you there!
 
-Response2b:: Oh, okay. I'm sorry, I guess I just thought... Well, nevermind. 
+Response2b:: Oh, okay. I'm sorry, I guess I just thought... Well, never mind. 
 
 
 End

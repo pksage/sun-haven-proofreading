@@ -6,7 +6,7 @@ Option1:: Why do you ask if my body is sharp?
 Option2:: Look, I've always been meaning to ask. How do you do your hair?
 
 Response1:: Good question. Well, it's my belief that mental and physical health are very closely linked with one another.[]A healthy body is important in order to have a healthy mind and spirit. That's why I tell all my clients to try to eat a good diet and get plenty of sleep.
-Response2:: Catherine developed it for me, using her plants. I had no idea something like Greenroot could be used to make a hair dye! I think my hair really expresses my individuality.
+Response2:: Catherine developed it for me, using her plants. I had no idea something like greenroot could be used to make a hair dye! I think my hair really expresses my individuality.
 
 Option1a:: That's a very interesting theory. //Relationship JunP14 2 Happy
 Option1b:: Maybe save physiology for Wornhardt. //Relationship JunP14 -1 Sad
@@ -18,6 +18,6 @@ Option2a:: But is your hair blue with dark dye, or dark with blue dye?  //Emote 
 Option2b:: You're certainly a unique person, Jun.
 
 Response2a:: Oh, I can't spoil the mystery completely, can I? You'll just have to use your imagination, XX, heh.
-Response2b:: Everyone is unique in their own way. Whether it's a hairstyle or a favorite food. In a way, we're all different. That's what makes the world so special, I think.
+Response2b:: Everyone is unique in their own way, whether it's a hairstyle or a favorite food. In a way, we're all different. That's what makes the world so special, I think.
 
 End

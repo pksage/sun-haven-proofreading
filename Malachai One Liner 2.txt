@@ -1,5 +1,5 @@
 Malachai One Liner 2
 
-Dialogue:: ... Okay you can buzz off now.																																																																									
+Dialogue:: ... Okay, you can buzz off now.																																																																									
 
 End

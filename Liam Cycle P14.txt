@@ -5,13 +5,13 @@ Dialogue:: Elizabeth made a painting of me the other day. She's so adorable, and
 Option1:: Why don't you know how to thank Jun?
 Option2:: Elizabeth must really love you to paint a picture of you. //Emote none Embarrassed
 
-Response1:: I mean, I'm really grateful he let Elizabeth use his paints. It was very kind of him, but... how do I thank him the right way?[]What if I try to get him a thank you gift and he doesn't like it? Oh, that'd be so awkward!
+Response1:: I mean, I'm really grateful he let Elizabeth use his paints. It was very kind of him, but... how do I thank him the right way?[]What if I try to get him a thank-you gift and he doesn't like it? Oh, that'd be so awkward!
 Response2:: Shucks! Both my sisters love me! And I love them, too. Still, though, when I saw Elizabeth's little painting of me, I almost cried a little.[]Ah, I can't believe I just told you that!
 
 Option1a:: Just let him know what it means to you, that'd be enough. //Relationship LiamP14 2 Happy
 Option1b:: If you're that worried, then don't do anything. //Relationship LiamP14 -1 Sad
 
-Response1a:: You think so, XX? Yeah, I guess you're right. Jun is a really peaceful guy, he wouldn't really be expecting a gift as a thank you. Hm, maybe a fresh batch of rolls though?[]That seems like a fair gift in exchange for paint, I think.
+Response1a:: You think so, XX? Yeah, I guess you're right. Jun is a really peaceful guy, he wouldn't really be expecting a gift as a thank you. Hm, maybe a fresh batch of rolls, though?[]That seems like a fair gift in exchange for paint, I think.
 Response1b:: That's even worse! I'm going to worry about this all night, now! All this over a painting, yeesh!
 
 Option2a:: Don't be embarrassed, Liam. //Emote none Embarrassed

@@ -9,7 +9,7 @@ Option2:: Did you ever see this in your future?
 
 Response1:: What? Booo. I thought that married people had to share everything they own!
 
-Response2:: What, falling for the romantic wiles of the Human Town's only farmer? Of course XX, this was always the plan.
+Response2:: What, falling for the romantic wiles of the Human town's only farmer? Of course, XX, this was always the plan.
 
 
 Option1a:: You don't need a wedding to get what you want, Xyla. //Relationship Xyla16 2

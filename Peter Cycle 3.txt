@@ -19,14 +19,14 @@ Option1b:: Some fish are really amazing. //Relationship Peter3 2
 
 Response1a:: My equipment is top-notch, buddy. You think you can make a stronger line? Be my guest.
 
-Response1b:: No kidding! This isn't a loss for me though - it's a challenge. One day, I'll catch that fish.
+Response1b:: No kidding! This isn't a loss for me, though - it's a challenge. One day, I'll catch that fish.
 
 
 Option2a:: Do you use traps?
 
 Option2b:: Do traps work better than rods?
 
-Response2a:: Nah, I prefer the struggle between fish and man. The instant you get a bite on the hook is a special experience. For a split-second, nothing else in the world matters.
+Response2a:: Nah, I prefer the struggle between fish and man. The instant you get a bite on the hook is a special experience. For a split second, nothing else in the world matters.
 
 Response2b:: Maybe for small fish, but I'm always after the big fish. You strike me as a big fish kind of person, too!
 

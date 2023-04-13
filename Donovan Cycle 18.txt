@@ -6,13 +6,13 @@ Option1:: What have you been doing to keep from getting bored?
 Option2:: Why is that so weird, anyway?
 
 Response1:: I can't really explain it, but I haven't been doing anything different at all. Even if I'm at home alone for a few hours, I'm just... relaxed?[]Ugh, I'm starting to bore myself now.
-Response2:: I always thought boredom was like failing yourself. I mean, if I can't even keep <i>myself</i> interested then how am I supposed to be interesting to other people?
+Response2:: I always thought boredom was like failing yourself. I mean, if I can't even keep <i>myself</i> interested, then how am I supposed to be interesting to other people?
 
 Option1a:: You're becoming a boring person! //Relationship Donovan18 -1 Mad
 Option1b:: Maybe you're just more content now. //Relationship Donovan18 2 Happy
 
 Response1a:: No way! I would sniff the Moon Dragon's <i>butt</i> before I let that happen!
-Response1b:: Content, huh? Eh, I guess. Sounds a little too similar to "boring" but maybe it's not as bad.[]Who knows? This could be a turning point for me! 
+Response1b:: Content, huh? Eh, I guess. Sounds a little too similar to "boring", but maybe it's not as bad.[]Who knows? This could be a turning point for me! 
 
 Option2a:: You're always interesting to me, Donovan. //Emote none Happy
 Option2b:: You worry too much about how other people see you. //Emote none Happy

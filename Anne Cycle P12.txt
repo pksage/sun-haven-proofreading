@@ -22,8 +22,8 @@ Option2a:: What would we get in return for those fees? //Relationship AnneP12 2 
 Option2b:: That sounds greedy. //Relationship AnneP12 -1 Mad
 
 
-Response2a:: Well for starters, did you know the entire mine is dangerously unstable? It'll need to have support beams installed, which isn't cheap.[]And the minecart tracks haven't been cleaned or repaired since being laid down years and years ago.[]There's a lot of work to be done and it won't come cheap, but I can make it happen if I'm smart about it. 
+Response2a:: Well, for starters, did you know the entire mine is dangerously unstable? It'll need to have support beams installed, which isn't cheap.[]And the minecart tracks haven't been cleaned or repaired since being laid down years and years ago.[]There's a lot of work to be done and it won't come cheap, but I can make it happen if I'm smart about it. 
 
-Response2b:: I might charge people to use the mines, but then I'd also be responsible for making sure it's safe - something no one is doing.[]It's a lot more than just me making a quick buck, but thanks for assuming the worst of me XX.
+Response2b:: I might charge people to use the mines, but then I'd also be responsible for making sure it's safe - something no one is doing.[]It's a lot more than just me making a quick buck, but thanks for assuming the worst of me, XX.
 
 End

@@ -10,7 +10,7 @@ Option2:: You have a reputation as a tough teacher.
 
 Response1:: A lifetime of putting iron to the forge will do that.[]Anyway, can't be any kind of blacksmith before you've got an anvil. Have you made yourself one?
 
-Response2:: You're darn right, I do. You don't learn discipline by being coddled.
+Response2:: You're darn right I do. You don't learn discipline by being coddled.
 
 
 Option1a:: Of course I have. 

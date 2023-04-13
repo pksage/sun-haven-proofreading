@@ -5,7 +5,7 @@ Dialogue:: I think I feel a blister on my foot. I'll have to address it as soon 
 Option1:: Who treats the soldiers when you're wounded?
 Option2:: If you could change something about Sun Haven, what would it be?
 
-Response1:: Oh, you mean like blisters on the foot? Heh. All of our medical aid is provided by the local hospital, Doctor Wornhardt does a great job with us.[]Thankfully we don't normally need much more than that, though we do have a few soldiers trained as medics. Field medics don't quite have the finesse of a doctor, though.
+Response1:: Oh, you mean like blisters on the foot? Heh. All of our medical aid is provided by the local hospital. Doctor Wornhardt does a great job with us.[]Thankfully we don't normally need much more than that, though we do have a few soldiers trained as medics. Field medics don't quite have the finesse of a doctor, though.
 Response2:: Hm, that's a pretty big question. Well, let's see...[]I love cozy little Sun Haven, but if there's one thing I miss from my time in the Great City, it's all the roads being stone![]Stone roads are harder than dirt, but much smoother. All these rough dirt roads give me blisters!
 
 Option1a:: I'm glad you all get taken care of. //Relationship NathanielP14 2 Happy

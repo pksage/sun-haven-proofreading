@@ -1,5 +1,5 @@
 Peter Boat One Liner 2
 
-Dialogue:: You handle the fishing, farmer. I'll keep the waters nice and chummed to attract the bomb fish, so that you can catch them.							
+Dialogue:: You handle the fishing, farmer. I'll keep the waters nice and chummed to attract the bomb fish so that you can catch them.							
 
 End

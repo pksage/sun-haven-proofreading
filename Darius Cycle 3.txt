@@ -9,7 +9,7 @@ Option2:: The responsibilities of a prince must be a burden.
 
 Response1:: Unsurprisingly, you continue to show your ignorance. I work when I want and take what free time I please, as a prince should.
 
-Response2:: I consider them a privilege. That's the differences between us - we're simply cut from a different cloth.
+Response2:: I consider them a privilege. That's the difference between us - we're simply cut from a different cloth.
 
 
 Option1a:: I can only imagine what the prince does with his free time.

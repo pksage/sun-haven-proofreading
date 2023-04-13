@@ -17,7 +17,7 @@ Option1a:: ... That's it?
 
 Option1b:: Good advice, thanks!
 
-Response1a:: I see, you were hoping for a quick-fix, some kind of trick. Go talk to Lucia or Catherine if that's what you're after. I don't work magic.
+Response1a:: I see. You were hoping for a quick fix, some kind of trick. Go talk to Lucia or Catherine if that's what you're after. I don't work magic.
 
 Response1b:: I'm happy to help any way I can. That's the job, after all.
 
@@ -26,7 +26,7 @@ Option2a:: That's a good soldier! //Relationship Roza2 2
 
 Option2b:: You won't let her overtake you, right?  //Relationship Roza2 -1
 
-Response2a:: Darn right that is! She's quickly becoming my favorite. Maybe I'll even take little Sophie under my wing.
+Response2a:: Darn right it is! She's quickly becoming my favorite. Maybe I'll even take little Sophie under my wing.
 
 Response2b:: If she works hard enough to surpass me, then she's earned it. We reward good effort in the Sun Haven Corps.[]... Not that she really stands a chance, anyway.
 

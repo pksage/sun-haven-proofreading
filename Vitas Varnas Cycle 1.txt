@@ -2,7 +2,7 @@ Vitas Varnas Cycle 0
 
 Dialogue:: Hello there. I believe last time we spoke I was busy thinking, and never properly introduced myself. I'm free now if you'd like to have a chat.
 
-Option1:: So, who are you?
+Option1:: So who are you?
 Option2:: What are you doing here in Sun Haven?
 
 Response1:: My name is Vitas Varnas, explorer and scholar. I've traveled through many different lands in pursuit of my research - lands you couldn't even imagine!
@@ -17,7 +17,7 @@ Response1b:: It <i>is</i>  an exotic name, isn't it? Maybe it's a false identity
 Option2a:: I hope you find what you're looking for, Vitas. //Relationship VitasVarnas1 1
 Option2b:: Your adventure sounds boring. //Relationship VitasVarnas1 -1
 
-Response2a:: Much thanks! My journey has been a long one, I predict it still has a long ways to go.
+Response2a:: Much thanks! My journey has been a long one, and I predict it still has a long ways to go.
 Response2b:: I'm sorry to hear you say that. Perhaps I should keep more to myself from now on.
 
 End

@@ -1,5 +1,5 @@
 Solon One Liner 3
 
-Dialogue:: You ever been so far down a mineshaft, you forget which way is up?						
+Dialogue:: You ever been so far down a mineshaft you forget which way is up?						
 
 End

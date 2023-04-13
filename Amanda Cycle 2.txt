@@ -28,6 +28,6 @@ Option2b:: It must have been nicer for you after she moved here. //Relationship 
 
 Response2a:: You better stop bugging me then, or else the scary ladies will get you.
 
-Response2b:: Sure, it's nice having a like minded friend in town. You must have made some friends by now, right?[]It's not that hard in this town. Just start talking to people. Everyone's so keen on making friends here.
+Response2b:: Sure, it's nice having a like-minded friend in town. You must have made some friends by now, right?[]It's not that hard in this town. Just start talking to people. Everyone's so keen on making friends here.
 
 End

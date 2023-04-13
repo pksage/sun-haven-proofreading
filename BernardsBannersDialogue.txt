@@ -1,6 +1,6 @@
 BernardsBannersQuest
 
-Dialogue:: Oh, hello there XX. I've heard that you're quite helpful around town. I have a task I could use a hand with, if you have the time.
+Dialogue:: Oh, hello there, XX. I've heard that you're quite helpful around town. I have a task I could use a hand with, if you have the time.
 
 
 Option1:: What kind of a task is it?

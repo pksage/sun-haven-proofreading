@@ -9,7 +9,7 @@ Option2:: So how does Sun Haven's doctor relax?
 
 Response1:: You think so, huh? I've been trying to exercise a bit more lately. Good to know it shows!
 
-Response2:: The tavern is so warm and cozy, it's the best place to unwind. Ronald and Mari are fun conversationalists too, and if I'm lucky I'll catch Camila there in the evening. I often have good talks with her.
+Response2:: The tavern is so warm and cozy, it's the best place to unwind. Ronald and Mari are fun conversationalists, too, and if I'm lucky I'll catch Camila there in the evening. I often have good talks with her.
 
 
 Option1a:: Oh, I was only being polite. //Relationship Wornhardt6 -1 Mad
@@ -18,14 +18,14 @@ Option1b:: I thought you must be doing something different. Good for you, doc! /
 
 Response1a:: I don't know why you would tell me that, XX.
 
-Response1b:: You know XX, I try and make people feel good about themselves when I talk to them. But I don't often get to feel that way myself.[]I guess I'm just trying to say thanks!
+Response1b:: You know, XX, I try and make people feel good about themselves when I talk to them. But I don't often get to feel that way myself.[]I guess I'm just trying to say thanks!
 
 
 Option2a:: Are you close with Camila?
 
 Option2b:: What's your go-to order at the tavern?
 
-Response2a:: I guess you could say so. It's nothing romantic - she's a bit young for me that way. But she's good company on slow nights.
+Response2a:: I guess you could say so. It's nothing romantic - she's a bit young for me in that way. But she's good company on slow nights.
 
 Response2b:: I just like a drink of something to go with a nice big burger... Oh man, now you've got me thinking about food. Did Mari send you? She's a clever one, so I wouldn't put it past her!
 

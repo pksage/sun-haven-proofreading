@@ -4,6 +4,6 @@ Dialogue:: Hello. Um, who are you?
 
 Option1:: I'm XX, the new farmer.
 
-Response1:: Oh that's right! Nathaniel briefed us on the new arrival. My name is Pinto.
+Response1:: Oh, that's right! Nathaniel briefed us on the new arrival. My name is Pinto.
 
 End

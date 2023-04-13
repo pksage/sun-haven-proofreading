@@ -5,7 +5,7 @@ Dialogue:: Jingle jingle, don't you like how Kitty's bells jingle? Teehee.
 Option1:: Your bells must make sneaking up on critters hard.
 Option2:: Why do you have so many jingle bells on your outfit, anyway? //Emote none Happy
 
-Response1:: Give Kitty more credit, XX! If Kitty is prowling, the bells don't make a sound! Kitty only jingles with Kitty wants to jingle!
+Response1:: Give Kitty more credit, XX! If Kitty is prowling, the bells don't make a sound! Kitty only jingles when Kitty wants to jingle!
 Response2:: I just like the sound they make! Jingle jingle! Kitty can make music whenever, wherever! Claude says Kitty's bells don't count as music, but Kitty disagrees! Nya!
 
 Option1a:: Makes sense. You're a cat, after all.

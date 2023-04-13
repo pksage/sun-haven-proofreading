@@ -16,7 +16,7 @@ Option1a:: Is all of that safe?
 
 Option1b:: Why come to you for remedies when we can just go to Dr. Wornhardt?
 
-Response1a:: People have doubted my products before, but they change their mind when they actually try some. Here XX, take a sample!
+Response1a:: People have doubted my products before, but they change their mind when they actually try some. Here, XX, take a sample!
 
 Response1b:: Wornhardt is great at what he does, but he can't give the same boosts I can. Try some of my restorative herbs sometime and you'll see what I mean.
 

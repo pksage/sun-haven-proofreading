@@ -17,7 +17,7 @@ Response1b:: Monsterfolk were outcasts from everywhere. As for Demons, well, our
 Option2a:: Oh, I live in the apartments, too!
 Option2b:: Oh yeah, the apartment building! Which apartment is yours?
 
-Response2a:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a night club. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
-Response2b:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a night club. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
+Response2a:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a nightclub. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
+Response2b:: Oh... I didn't mean Flemmett's apartment building. We live in an apartment above a nightclub. It's got all the space we need.[]...Sorry, they're not the type of apartments I could really recommend for you. They're, uh, all occupied. Sorry.
 
 End

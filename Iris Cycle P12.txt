@@ -6,7 +6,7 @@ Option1:: I'm curious how 'self-trimming' grass works.
 Option2:: It seems like such an innovative invention.
 
 Response1:: Okay, so it's not really "self-trimming" in the sense it cuts itself. But it only grows to a certain height![]This first variation tops out at around two inches, but now I can make future variants that grow to varying heights. Great for lawn control!
-Response2:: I look at life as being a never-ending race, there's always something you can improve and make better![] First I'll probably take it to Nivara and get her approval. She likes to have the first look at anything I create, at least. Then I'll show it off to the Elven Elder.[]If he likes it, and believe me he always does, we'll roll it out around Nel'Vari. We'll just have to replace the native grass first, of course. But no more trimming!
+Response2:: I look at life as being a never-ending race. There's always something you can improve and make better![]First I'll probably take it to Nivara and get her approval. She likes to have the first look at anything I create, at least. Then I'll show it off to the Elven Elder.[]If he likes it, and believe me he always does, we'll roll it out around Nel'Vari. We'll just have to replace the native grass first, of course. But no more trimming!
 
 Option1a:: How did you do it? //Emote none Happy
 Option1b:: I can't even imagine how that works.
@@ -17,7 +17,7 @@ Response1b:: Well, let me explain in a way that's easy to understand...[]Plants,
 Option2a:: The native grass is boring and unenchanted, anyways. //Relationship IrisP12 2 Happy
 Option2b:: So the current grass has to be gotten rid of? That seems a bit extreme. //Relationship IrisP12 -1 Mad
 
-Response2a:: I don't think Nel'Vari's native grass is bad or anything, but I do love knowing that you're in-tune with perpetual progress! 
+Response2a:: I don't think Nel'Vari's native grass is bad or anything, but I do love knowing that you're in tune with perpetual progress! 
 Response2b:: That is how progress works, XX. My enchanted grass is easier to control, and will never have to be trimmed down to size.[]But you didn't stop to consider any of that, did you? 
 
 End

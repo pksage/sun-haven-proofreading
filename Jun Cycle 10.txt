@@ -18,14 +18,14 @@ Option1b:: It is a bit weird... //Relationship Jun10 -1 Sad
 
 Response1a:: Oh thank goodness - I was worried you'd think I was being a creep!
 
-Response1b:: I was worried you would feel that way. I'm sorry XX, but I can't control what happens in my dreams.
+Response1b:: I was worried you would feel that way. I'm sorry, XX, but I can't control what happens in my dreams.
 
 
 Option2a:: Aw, come on! 
 
 Option2b:: Oh well, at least I tried. //Emote none Romantic
 
-Response2a:: All right, let me think... I suppose I have been looking for a new decoration to go in my home. I would love a new houseplant!
+Response2a:: Alright, let me think... I suppose I have been looking for a new decoration to go in my home. I would love a new houseplant!
 
 Response2b:: You're so full of surprises, XX. I think I know every little detail about you and then you come back with another surprise.
 

@@ -28,6 +28,6 @@ Option2b:: What did he say to you?
 
 Response2a:: That's not something to get upset about. Making a fuss because you weren't given a gift? That's behaving like a child.
 
-Response2b:: I don't remember it word for word. It was some time back, now.[]It might've been, "As a newborn dragon breaks from the egg, your future will be born of flame."[]Have to say, he hit the nail on the head with that one.
+Response2b:: I don't remember it word-for-word. It was some time back, now.[]It might've been, "As a newborn dragon breaks from the egg, your future will be born of flame."[]Have to say, he hit the nail on the head with that one.
 
 End

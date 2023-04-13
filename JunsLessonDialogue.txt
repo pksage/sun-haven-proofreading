@@ -8,7 +8,7 @@ Option1:: How can I help?
 Option2(Permanent):: Where should I go?
 
 
-Response1:: I'm planning a reward-based lesson for the kids and I need <color=#39CCFF>Cookies</color> to use as the reward. You'd be doing me a big favor if you brought me <color=#39CCFF>4 cookies</color>.
+Response1:: I'm planning a reward-based lesson for the kids and I need <color=#39CCFF>Cookies</color> to use as the reward. You'd be doing me a big favor if you brought me <color=#39CCFF>4 Cookies</color>.
 
 Response2:: After you have the <color=#39CCFF>Cookies</color>, you can bring them to my desk in the library.
 

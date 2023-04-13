@@ -5,19 +5,19 @@ Dialogue:: What's this? Oh, you again. Elder Gorwin trusts you, so I suppose I s
 Option1:: I appreciate the welcome!
 Option2:: You enjoy being the Elder's assistant, then?
 
-Response1:: Yes well, again, it's only for Elder Gorwin. If it were up to me, the gates to Nel'Vari would be blocked off for good. Nobody in or out other than Elves.
+Response1:: Yes, well, again, it's only for Elder Gorwin. If it were up to me, the gates to Nel'Vari would be blocked off for good. Nobody in or out other than Elves.
 Response2:: <i>I</i> prefer the term <i>advisor</i>. I assist the Elder in making decisions that shape the way of life for all Elves in Nel'Vari.
 
 Option1a:: People would still find a way in. //Relationship Wesley1 -1
 Option1b:: I can't blame you for trying to be safe. //Relationship Wesley1 2
 
-Response1a:: That's no excuse for opening ourselves up to preventable dangers, like yourself. I'm keeping an eye on you, XX.
+Response1a:: That's no excuse for opening ourselves up to preventable dangers... like yourself. I'm keeping an eye on you, XX.
 Response1b:: Hm, you're more reasonable than I expected. I suppose you being here is fine. But I still think we should be more discriminatory about who we allow beyond our gates.
 
 Option2a:: What kind of decisions?
 Option2b:: I thought the Elder worked with Nivara?
 
-Response2a:: Oh, decisions managing our resources, ensuring the health of the forest, keeping our people engaged with our culture...[]There's a lot to be done here and Elder Gorwin isn't as, let's say, "spry" as he once was.
+Response2a:: Oh, decisions managing our resources, ensuring the health of the forest, keeping our people engaged with our culture...[]There's a lot to be done here, and Elder Gorwin isn't as, let's say, "spry" as he once was.
 Response2b:: In a sense, yes. However, I would say Nivara is more of a teacher than a colleague. She's called a Guardian Dragon for a reason, you know.
 
 End

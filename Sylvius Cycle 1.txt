@@ -19,7 +19,7 @@ Option1b:: How did you become such a fine artisan?
 
 Response1a:: You bet! Between Sylvia and me, there's not an Elf in the world that holds a candle to our skill.
 
-Response1b:: Practice, practice, practice. All I've done since I was a kid is carve wood. Sometimes it's like I can hear the wood, telling me how to shape it.
+Response1b:: Practice, practice, practice. All I've done since I was a kid is carve wood. Sometimes it's like I can hear the wood telling me how to shape it.
 
 
 Option2a:: Doesn't Telumbe get tired pulling the cart? //Relationship Sylvius1 -1

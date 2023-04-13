@@ -6,7 +6,7 @@ Option1:: Why does Withergate use tickets, anyways?
 Option2:: I worked hard for my tickets.
 
 Response1:: They're wonderful, right? So much easier to use than those gaudy gold coins the Humans love so much. Plus, they're perfect for our carnival![]Needless to say, I was the one who pitched the ticket idea to King Minos. I truly am the best!
-Response2:: Yeah, yeah. I'm sure you're very proud of all your 'hard' work, farmer. Do you have any idea how hard I work?[]One day in my shoes, and you'd be begging for your little farm back!
+Response2:: Yeah, yeah. I'm sure you're very proud of all your "hard" work, farmer. Do you have any idea how hard I work?[]One day in my shoes and you'd be begging for your little farm back!
 
 Option1a:: Paper money is a very novel idea. //Emote none Happy
 Option1b:: Your idea seems to work for Withergate. //Emote none Happy
@@ -15,7 +15,7 @@ Response1a:: Looks like you're finally starting to get it. Sometimes you gotta t
 Response1b:: Looks like you're finally starting to get it. Sometimes you gotta think outside of the box to solve a problem, and no one does that better than me!
 
 Option2a:: I work way harder than you. //Relationship XylaP10 -1 Mad
-Option2b:: Well you wouldn't last one <i>hour</i> on a farm. //Relationship XylaP10 2 Happy
+Option2b:: Well, you wouldn't last one <i>hour</i> on a farm. //Relationship XylaP10 2 Happy
 
 Response2a:: Oh yeah? Name the first three things I do when I wake up every morning. What's that? You don't know what they are? Typical. Keep walking, outsider!
 Response2b:: Ohh, big talk is my favorite kinda talk, XX. You aren't half-bad, for a stinky outsider.

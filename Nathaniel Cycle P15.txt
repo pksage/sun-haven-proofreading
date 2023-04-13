@@ -2,7 +2,7 @@ Nathaniel Cycle P15
 
 Dialogue:: You've really become a valuable part of our community, XX.[]I just wanted to tell you that because I think it's important to let people know their value. It's good for morale!
 
-Option1:: Thanks Nathaniel, but my morale is just fine. //Emote none Happy
+Option1:: Thanks, Nathaniel, but my morale is just fine. //Emote none Happy
 Option2:: You seem to think about morale a lot.
 
 Response1:: Yeah, I can tell! You must be doing well on the farm, eh? Glad to see it, truly.[]And I mean what I said, XX. Sun Haven wouldn't feel the same without you here.
@@ -17,7 +17,7 @@ Response1b:: It must be nice, working on a quiet farm all on your own. The barra
 Option2a:: This is why you're such a good leader. //Relationship NathanielP15 2 Happy
 Option2b:: That's childish, a good mood can't replace proper training. //Relationship NathanielP15 -1 Mad
 
-Response2a:: Heh, well thanks! Not everyone in town sees the value in my leadership strategy. I appreciate your support, XX.
+Response2a:: Heh, well, thanks! Not everyone in town sees the value in my leadership strategy. I appreciate your support, XX.
 
 Response2b:: It's foolish of you to think that I would cut back on my soldiers' training for any reason. Trust me, each soldier in the Sun Haven Corps is a capable fighter.
 

@@ -1,6 +1,6 @@
 Benson Cycle 1
 
-Dialogue:: "If we ain't collecting honey, we ain't makin' money". That's what my grandma always says, at least.
+Dialogue:: "If we ain't collecting honey, we ain't makin' money." That's what my grandma always says, at least.
 
 
 Option1:: Who is your grandma?

@@ -1,5 +1,5 @@
 Rupert Intro One Liner 1
 
-Dialogue:: Some people get real poetic about their fishin'. For me, it's just rod in the water, pullin' up a catch. Don't need to be more than that, I think.									
+Dialogue:: Some people get real poetic about their fishin'. For me, it's just a rod in the water, pullin' up a catch. Don't need to be more than that, I think.									
 
 End

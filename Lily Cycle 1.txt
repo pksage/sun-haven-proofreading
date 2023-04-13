@@ -5,7 +5,7 @@ Dialogue:: Hey, XX! I hope your day is as good as mine!
 Option1:: Gorwin mentioned that you have a lot of hobbies.
 Option2:: How do you stay so cheerful?
 
-Response1:: Oh, yes absolutely! There's too much interesting stuff in this world, and not enough time to do it all.
+Response1:: Oh yes, absolutely! There's too much interesting stuff in this world, and not enough time to do it all.
 Response2:: Something I learned early on is that life is different when you're living on the ground. I can't always be the most helpful since I'm so small, but I <i>can</i> keep a good attitude!
 
 Option1a:: What kind of things?

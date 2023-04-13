@@ -5,14 +5,14 @@ Dialogue:: I love your scent. I can smell you a mile away!
 Option1:: Can you really smell me from a mile away?
 Option2:: What's my scent smell like?
 
-Response1:: Well not an <i>actual</i> mile. It's a figure of speech, I think. But I really do smell you before I see you... I don't know, maybe a couple blocks away?
+Response1:: Well, not an <i>actual</i> mile. It's a figure of speech, I think. But I really do smell you before I see you... I don't know, maybe a couple blocks away?
 Response2:: It's a nice mix of fresh dirt and sweat. And maybe a hint of the beach. Is your farm close to the ocean?
 
 Option1a:: That's not very far. //Relationship Donovan17 -1 Mad
 Option1b:: That's still pretty far! //Relationship Donovan17 2
 
 Response1a:: I'm sorry, I didn't realize my nose was under review. Say, how far does your nose smell?
-Response1b:: You think? Heh, thanks! It's not always a good thing though. I can smell Slobert halfway across the city...
+Response1b:: You think? Heh, thanks! It's not always a good thing, though. I can smell Slobert halfway across the city...
 
 Option2a:: Hey, that's pretty good! //Emote none Happy
 Option2b:: I'm right next to the beach, actually. //Emote none Happy

@@ -1,5 +1,5 @@
 Kitty One Liner 5
 
-Dialogue:: AH! - Sorry XX, I saw a birdie.					
+Dialogue:: AH! - Sorry, XX, I saw a birdie.					
 
 End

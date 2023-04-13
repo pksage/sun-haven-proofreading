@@ -4,6 +4,6 @@ Dialogue:: You might have impressed everyone else by aiding Ulmus and winning th
 
 Option1:: Well... I'm XX.
 
-Response1:: My name is Morgan. I don't expect us to make friends.
+Response1:: My name is Morgan. I don't expect us to be friends.
 
 End

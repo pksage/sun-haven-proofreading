@@ -21,7 +21,7 @@ Response1a:: To hear you say that... Well, the feeling is mutual. I don't have a
 Response1b:: I understand. Take your time, XX.
 
 
-Option2a:: Everything about that screams, "Jun." //Emote none Happy
+Option2a:: Everything about that screams "Jun." //Emote none Happy
 
 Option2b:: I can't think of a more perfect day. //Emote none Happy
 

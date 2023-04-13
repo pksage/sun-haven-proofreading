@@ -1,6 +1,6 @@
 Lucia Cycle 9
 
-Dialogue:: Hello XX! Oh my, you appear to have gotten a little too much sun. Your cheeks are extra rosey today!
+Dialogue:: Hello XX! Oh my, you appear to have gotten a little too much sun. Your cheeks are extra rosy today!
 
 Option1:: I've been outside a lot lately, I guess... //Emote none Happy
 
@@ -16,7 +16,7 @@ Option1a:: I don't think that's a good idea. //Relationship Lucia9 -1 sad
 
 Option1b:: I would love that! //Quest none LuciaHangout2Quest
 
-Response1a:: Oh dear, my apologies XX. I must have simply misread things between us. //Emote none Sad
+Response1a:: Oh dear, my apologies, XX. I must have simply misread things between us. //Emote none Sad
 
 Response1b:: Fantastic! Meet me outside of my house tomorrow night at 5:00 pm. I can't wait, XX!
 
@@ -25,9 +25,9 @@ Option2a:: I assumed it was because of your magic.
 
 Option2b:: Are you saying that Catherine's magic is as strong as yours?
 
-Response2a:: Not everything I do is done magically, you know. Although, Catherine's salves certainly work like magic!
+Response2a:: Not everything I do is done magically, you know. Although Catherine's salves certainly work like magic!
 
-Response2b:: Actually XX, I'm talking about her herbalism practice and not her witchcraft. She makes many helpful potions without relying on any spells! She's quite remarkable.
+Response2b:: Actually, XX, I'm talking about her herbalism practice and not her witchcraft. She makes many helpful potions without relying on any spells! She's quite remarkable.
 
 
 End

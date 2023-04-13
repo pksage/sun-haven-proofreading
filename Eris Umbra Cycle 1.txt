@@ -3,7 +3,7 @@ Eris Umbra Cycle 1
 Dialogue:: Because surely you're wondering - yes, I am <i>that</i> Eris Umbra.
 
 
-Option1:: I've never heard of you before
+Option1:: I've never heard of you before.
 
 Option2:: What's a pirate like yourself doing in a city like this?
 

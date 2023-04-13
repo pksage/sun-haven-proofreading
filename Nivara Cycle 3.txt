@@ -9,9 +9,9 @@ Response1:: I wondered when you would ask me about Dynus. As for your question, 
 Response2:: My most important lesson? Be kind to others.
 
 Option1a:: I think everyone is capable of changing, too. //Relationship Nivara3 2
-Option1b:: WI'll make Dynus see the error of his ways. //Relationship Nivara3 2
+Option1b:: I'll make Dynus see the error of his ways. //Relationship Nivara3 2
 
-Response1a:: I am glad you think so. It is a good way of looking at the world, and the people who live within in.
+Response1a:: I am glad you think so. It is a good way of looking at the world, and the people who live within it.
 Response1b:: You speak with confidence, little sprout. I do not doubt your words.
 
 Option2a:: That's... a really simple lesson.

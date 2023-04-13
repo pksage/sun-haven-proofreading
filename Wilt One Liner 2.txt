@@ -1,5 +1,5 @@
 Wilt One Liner 2
 
-Dialogue:: You remind me of my old friend, Squirrel.																																																																			
+Dialogue:: You remind me of my old friend Squirrel.																																																																			
 
 End

@@ -1,6 +1,6 @@
 Iris Cycle P15
 
-Dialogue:: I remember, one day I was feeding the fish in Nivara's pools when she told me I had great purpose. I'm still not sure what she meant by that.
+Dialogue:: I remember that one day I was feeding the fish in Nivara's pools when she told me I had great purpose. I'm still not sure what she meant by that.
 
 Option1:: Do <i>you</i> feel like you have great purpose?
 Option2:: Can't you ask her to explain?

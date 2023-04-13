@@ -1,6 +1,6 @@
 Lynn Cycle P10
 
-Dialogue:: Solon is having me craft a set of very intricate gauntlets! It's precise work so I'm trying really hard not to mess it up.
+Dialogue:: Solon is having me craft a set of very intricate gauntlets! It's precise work, so I'm trying really hard not to mess it up.
 
 Option1:: "Gauntlets," those are a suit of armor's gloves, right?
 
@@ -25,9 +25,9 @@ Option2a:: You're going to fail if you don't relax. //Relationship LynnP10 -1 Sa
 
 Option2b:: Be honest with Solon and tell him you're having trouble. //Relationship LynnP10 2 Embarrassed
 
-Response2a:: I know! That's just making it impossible for me to calm down! I should just tell Solon I'm not ready for this. He'll be dissappointed, probably...
+Response2a:: I know! That's just making it impossible for me to calm down! I should just tell Solon I'm not ready for this. He'll be disappointed, probably...
 
-Response2b:: D-do you really think I should do that? He is my teacher, after all. Maybe he'll understand, or even help me out. Hmm, it's a little scary, but I think you're right, XX![]Or, at least, I hope you're right...
+Response2b:: D-do you really think I should do that? He is my teacher, after all. Maybe he'll understand, or even help me out. Hmm, it's a little scary, but I think you're right, XX![]Or at least I hope you're right...
 
 
 End

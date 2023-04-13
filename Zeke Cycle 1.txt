@@ -6,7 +6,7 @@ Option1:: Do you like living in Withergate?
 Option2:: What do you do here?
 
 Response1:: The folk in this town are worth their salt, that's for certain. I'm a martial artist, so I know how to spot people with potential.[]I love being surrounded by that energy, like anyone around might start a fight.
-Response2:: I do work around the carnival. It's nothing exciting, just keeping people in order for the most part.[]I like it because it comes with a lot of down time. That's why I practice my martial arts.
+Response2:: I do work around the carnival. It's nothing exciting, just keeping people in order for the most part.[]I like it because it comes with a lot of down time. That's when I practice my martial arts.
 
 Option1a:: So you're hoping for a fight?
 Option1b:: You sound like a violent person.

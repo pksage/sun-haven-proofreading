@@ -7,7 +7,7 @@ Option1:: I think it's working! I think.
 Option2:: I've had a lot of fun with you, Nathaniel. I was thinking we could go on a date!
 
 
-Response1:: Oh I almost forgot - XX, close your eyes! I have something for you.
+Response1:: Oh, I almost forgot - XX, close your eyes! I have something for you.
 
 Response2:: Honestly, XX, talking to you is easy for some reason. It's not often I get to speak so freely. What I mean is that I'd love to go out with you! //Emote none Happy
 
@@ -16,9 +16,9 @@ Option1a:: Okay, my eyes are closed. //AddItem none Nathaniel'sHelmet 1
 
 Option1b:: No way, just give it to me! //AddItem none Nathaniel'sHelmet 1
 
-Response1a:: All right, here. This is my helmet. It was crafted specially for me when I first joined the military.[]XX, this helmet saved my head more than once. I want it to protect you now. Go on, have it!
+Response1a:: Alright, here. This is my helmet. It was crafted specially for me when I first joined the military.[]XX, this helmet saved my head more than once. I want it to protect you now. Go on, have it!
 
-Response1b:: All right, here. This is my helmet. It was crafted specially for me when I first joined the military.[]XX, this helmet saved my head more than once. I want it to protect you now. Go on, have it!
+Response1b:: Alright, here. This is my helmet. It was crafted specially for me when I first joined the military.[]XX, this helmet saved my head more than once. I want it to protect you now. Go on, have it!
 
 
 Option2a:: Great, let's do it! //Quest none NathanielHangout2Quest

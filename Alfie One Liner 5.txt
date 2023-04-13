@@ -1,5 +1,5 @@
 Alfie One Liner 5
 
-Dialogue:: Bees are always busy, us beekeepers have to be even busier.												
+Dialogue:: Bees are always busy. Us beekeepers have to be even busier.												
 
 End

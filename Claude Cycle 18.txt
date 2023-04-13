@@ -17,7 +17,7 @@ Response1b:: I knew you'd be excited. Maybe this is the start of a brand new Cla
 Option2a:: Give it a go. It can't hurt. //Relationship Claude18 2 Happy
 Option2b:: Do what makes you comfortable. //Emote none Embarrassed
 
-Response2a:: You're right. Maybe it really will help. And at least I can say I tried, that'd make Jun happy if nothing else. 
+Response2a:: You're right. Maybe it really will help, and at least I can say I tried. That'd make Jun happy, if nothing else. 
 Response2b:: I was worried you'd push me really hard to give it a go, but it's nice that you're not breathing down my neck about it.
 
 End

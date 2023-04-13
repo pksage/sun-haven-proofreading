@@ -25,7 +25,7 @@ Option2a:: Have your feelings ever gotten away from you? //Emote none Embarrasse
 
 Option2b:: I never considered that side of your training before.
 
-Response2a:: Oh, yes... once as a teenager, I got into a shouting match with Catherine about who-knows-what.[]We were both hard headed and adept with magic, a bad combination for teenagers... I ended up burning her hair off by accident.[]But that's in the past! We haven't fought even once since then. We were only foolish kids at the time.
+Response2a:: Oh, yes... once as a teenager, I got into a shouting match with Catherine about who-knows-what.[]We were both hard-headed and adept with magic, a bad combination for teenagers... I ended up burning her hair off by accident.[]But that's in the past! We haven't fought even once since then. We were only foolish kids at the time.
 
 Response2b:: Naturally, it's not the first thing that comes to mind when you hear "fire magic," but that was actually where Grandfather's training started - with simple meditation.
 

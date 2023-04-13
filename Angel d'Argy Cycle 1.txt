@@ -6,7 +6,7 @@ Option1:: What made you so sure the Elder would like me?
 Option2:: What does the Elder do with people he doesn't like?
 
 Response1:: I have a sense for these things. Some people call it intuition, some tell me it's a magic sense.[]I don't know which is true. I don't really care anyway. All I know is that I can always tell when a person has a kind soul.
-Response2:: I don't think that's ever happened before, not while I've been here anyway. Not a lot of folks find their way in here.[]I assume Salix would escort the person out of Nel'Vari. He's the big tree guy you saw guarding the entrance.[]We don't need much security, but it's nice having him around just in case!
+Response2:: I don't think that's ever happened before. Not while I've been here, anyway. Not a lot of folks find their way in here.[]I assume Salix would escort the person out of Nel'Vari. He's the big tree guy you saw guarding the entrance.[]We don't need much security, but it's nice having him around just in case!
 
 Option1a:: That's a useful skill.
 Option1b:: What if I'm secretly evil?

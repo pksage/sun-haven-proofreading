@@ -5,7 +5,7 @@ Dialogue:: I was just thinking the other day, XX. You and I are like kindred fla
 Option1:: What's a kindred flame?
 Option2:: What do you mean we're 'kindred flames'?  //Emote none Happy
 
-Response1:: Ah, you know. Like "peas in a pod" or "cut from the same cloth"? In Nel'Vari we usually say "kindred flame", though I've always thought I'm more of a 'breeze' than a 'flame'.
+Response1:: Ah, you know. Like "peas in a pod" or "cut from the same cloth?" In Nel'Vari we usually say "kindred flame," though I've always thought I'm more of a breeze than a flame.
 Response2:: You go all over the place. Nel'Vari, Sun Haven. I'm pretty sure I've spotted you going towards Withergate, even! And you grew up in the Great City.[]I never want to stay in one place for very long, either. There's just so much world to be seen, and people like us gotta get out and see it!
 
 Option1a:: What a neat saying.
@@ -17,7 +17,7 @@ Response1b:: I know, right? The words of Nel'Vari can certainly be pretty eloque
 Option2a:: The world was made to be explored. //Relationship VaanP11 2 Happy
 Option2b:: I travel so I can earn a living, though. //Relationship VaanP11 -1 Sad
 
-Response2a:: Well said! And might I add, it's so commemorable that you do it all without even being able to fly! 
+Response2a:: Well said! And, might I add, it's so commendable that you do it all without even being able to fly! 
 Response2b:: Well, sure. But come on, now. Are you telling me you don't enjoy the adventure of it...?
 
 End

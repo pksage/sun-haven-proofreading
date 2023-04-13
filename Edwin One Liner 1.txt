@@ -1,5 +1,5 @@
 Edwin One Liner 1
 
-Dialogue:: Tender, one more round!																																																																			
+Dialogue:: 'Tender, one more round!																																																																			
 
 End

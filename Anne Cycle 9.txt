@@ -1,6 +1,6 @@
 Anne Cycle 9
 
-Dialogue:: Before you ask, no I will not be your mentor. I work too much to be someone's role model!
+Dialogue:: Before you ask, no, I will not be your mentor. I work too much to be someone's role model!
 
 Option1:: Is there any role model you look up to?
 
@@ -27,7 +27,7 @@ Option2b:: Cake on the beach sounds risky. What about the sand?
 
 Response2a:: I don't like days that don't make me any money. Too many days like that and I don't eat.[]A while back, I promised myself that I would never go to bed hungry again. I definitely intend to keep that promise.
 
-Response2b:: XX, if you think a little sand would stand between me and a delicious raspberry cheesecake then you really don't know a thing about me. Besides, I've eaten some nasty food in my time.
+Response2b:: XX, if you think a little sand would stand between me and a delicious raspberry cheesecake, then you really don't know a thing about me. Besides, I've eaten some nasty food in my time.
 
 
 End

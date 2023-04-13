@@ -9,7 +9,7 @@ Option2(Permanent):: Okay, I promise. How can I help?
 
 Response1:: Sorry, I need you to promise you won't tell or I could get in trouble.
 
-Response2:: My parents have been telling me I need to be more responsible lately and then I go and lose my notebook! It has all my schoolwork inside. Can you find it for me?
+Response2:: My parents have been telling me I need to be more responsible lately, and then I go and lose my notebook! It has all my schoolwork inside. Can you find it for me?
 
 
 Option2a:: I'll find your notebook, Topi. //Quest none TopisStudiesQuest
@@ -19,6 +19,6 @@ Option2b:: Sorry, I can't help right now.
 
 Response2a:: What a relief. You're a lifesaver, XX. (End)
 
-Response2b:: Aw... Dad was right, I am irresponsible. I guess I better start doing my homework, again. (End)
+Response2b:: Aw... Dad was right, I am irresponsible. I guess I better start doing my homework over again. (End)
 
 End

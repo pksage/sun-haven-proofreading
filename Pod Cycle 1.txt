@@ -8,7 +8,7 @@ Option1:: Who's your best friend in town?
 Option2:: Do you like school?
 
 
-Response1:: Topi is my best friend, but mama is my BEST best friend.
+Response1:: Topi is my best friend, but Mama is my BEST best friend.
 
 Response2:: Yuck, no.
 

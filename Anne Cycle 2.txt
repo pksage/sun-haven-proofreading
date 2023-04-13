@@ -10,7 +10,7 @@ Option2:: Do you plan to stay in Sun Haven long?
 
 Response1:: Let's just say I've been supporting myself for a long time. I learned the ins and outs of trade to survive from a young age.[]I'm living proof that survival is for the fittest!
 
-Response2:: If business doesn't pick up someday soon, I might have to move on. Sun Haven has been good to me though. I'm really pulling for this town.
+Response2:: If business doesn't pick up someday soon, I might have to move on. Sun Haven has been good to me, though. I'm really pulling for this town.
 
 
 Option1a:: That sounds hard on your own. Don't be afraid to lean on others for help. //Relationship Anne2 -1 Mad
@@ -26,7 +26,7 @@ Option2a:: If I didn't know better, I'd say you like this town for more than its
 
 Option2b:: I hope you're able to stick around.
 
-Response2a:: Don't get me wrong, profit is my North Star. But, okay, there's part of me that likes Sun Haven for what it is.[]Or maybe making friends is part of my marketing strategy - who knows!
+Response2a:: Don't get me wrong, profit is my North Star. But okay, there's part of me that likes Sun Haven for what it is.[]Or maybe making friends is part of my marketing strategy - who knows!
 
 Response2b:: Me too, XX. Packing everything up and moving is such a hassle for me, not to mention expensive.[]No matter how well I secure the cart, something always comes loose and makes a huge mess...
 

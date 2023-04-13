@@ -4,6 +4,6 @@ Dialogue:: Well hello there, I haven't seen you around yet. I'm Cynthia, it's a 
 
 Option1:: Hi Cynthia, I'm XX.
 
-Response1:: XX, why does that name sound familiar? Oh well, who knows.[]Come to me if you need a little help in the romance department. I'm sure I can lend a hand!
+Response1:: XX... why does that name sound familiar? Oh well, who knows.[]Come to me if you need a little help in the romance department. I'm sure I can lend a hand!
 
 End

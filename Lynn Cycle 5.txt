@@ -9,7 +9,7 @@ Option2:: So Lynn... do you have a partner back home? //Emote none Embarrassed
 
 Response1:: I do go there, at the end of hard work days when I need to zone out. I like to find a corner of the tavern and listen to the chatter of voices for a while. It's oddly soothing!
 
-Response2:: As in, a romantic partner? Sorry, that caught me off guard.[]Just pretend like I'm not blushing for a second![]The answer is no. Actually... I've never even been on a date.[]Oh sheesh, why did I tell you that?? Pretend like you don't know that, okay?
+Response2:: As in a romantic partner? Sorry, that caught me off guard.[]Just pretend like I'm not blushing for a second![]The answer is no. Actually... I've never even been on a date.[]Oh sheesh, why did I tell you that?? Pretend like you don't know that, okay?
 
 
 Option1a:: I'm surprised you can zone out in the tavern with all that noise. //Emote none Happy

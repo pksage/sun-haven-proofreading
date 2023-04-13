@@ -9,11 +9,11 @@ Response1:: Sure we are! Look at everything we get done on our own - we practica
 
 Response2:: I guess it isn't a whole lot different than before. But with you on my side, there's no end to what I could accomplish!![]Well, what <i>we</i> could accomplish, I mean. Sorry, my head is racing right now with possibilities.
 
-Option1a:: All right, I'm on board! //Relationship Anne17 2 Romantic
+Option1a:: Alright, I'm on board! //Relationship Anne17 2 Romantic
 
-Option1b:: All right, don't get ahead of yourself. //Relationship Anne17 -1
+Option1b:: Alright, don't get ahead of yourself. //Relationship Anne17 -1
 
-Response1a:: Of course you are XX, this is a lifelong commitment after all. I can already see our success building right in front of us...
+Response1a:: Of course you are, XX! This is a lifelong commitment, after all. I can already see our success building right in front of us...
 
 Response1b:: Sorry XX, my momentum only ever increases. Better get ready, because you're in this with me, now!
 
@@ -22,8 +22,8 @@ Option2a:: What kind of possibilities?
 Option2b:: I'm glad to be your inspiration! //Emote none Happy
 
 
-Response2a:: The most obvious one is, I could sell your produce on my cart. Heck, I could even cart it to nearby villages and charge extra!
+Response2a:: The most obvious one is that I could sell your produce on my cart. Heck, I could even cart it to nearby villages and charge extra!
 
-Response2b:: Two great people are going to have that affect when you put them together, aren't they? 
+Response2b:: Two great people are going to have that effect when you put them together, aren't they? 
 
 End

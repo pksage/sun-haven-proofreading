@@ -12,7 +12,7 @@ Response1:: I'm a composer, so I make music. Making music is all I've ever done,
 Response2:: I'm hardly ever not working. But when I do take a break, I'll stop in the tavern to have a meal or go for a walk. That's maybe once a day.
 
 
-Option1a:: I'd love to hear your music, sometime. //Relationship Claude2 2 Embarrassed
+Option1a:: I'd love to hear your music sometime. //Relationship Claude2 2 Embarrassed
 
 Option1b:: Is that how you got so rich? //Relationship Claude2 -1 Mad
 

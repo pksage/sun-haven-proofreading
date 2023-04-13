@@ -18,6 +18,6 @@ Option2a:: I have doubts. //Relationship Jun15 -1 Sad
 Option2b:: I'm just thinking about our future together. //Relationship Jun15 2 Romantic
 
 Response2a:: Well, at least we're talking about it. Addressing the problem is always the first step. I'm willing to work through this if you are, XX.
-Response2b:: Oh... XX, if you're saying what I think you're saying then you should know that I've already thought about this a lot.[]I'm not afraid of commitment, and the idea of being with you for the rest of my life is... a dream!
+Response2b:: Oh... XX, if you're saying what I think you're saying, then you should know that I've already thought about this a lot.[]I'm not afraid of commitment, and the idea of being with you for the rest of my life is... a dream!
 
 End

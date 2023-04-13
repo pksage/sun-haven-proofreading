@@ -12,12 +12,12 @@ Option1a:: So go complain about it. //Relationship XylaP15 -1 Mad
 Option1b:: Feel free to sleep on the roof, then! //Relationship XylaP15 2
 
 Response1a:: You need to check your attitude, sewer rat. Besides, Flemmett doesn't take complaints.
-Response1b:: Oh, I see how it is! You think you've earned that apartment, huh? Well then I vow to be the <i>worst</i> next door neighbor possible. Just for you!
+Response1b:: Oh, I see how it is! You think you've earned that apartment, huh? Well then, I vow to be the <i>worst</i> next door neighbor possible. Just for you!
 
 Option2a:: I won't give you any trouble. //Emote none Happy
-Option2b:: Well now I kind of want to give you some trouble... //Emote none Mad
+Option2b:: Well, now I kind of want to give you some trouble... //Emote none Mad
 
 Response2a:: Good! Because I don't respond well to annoying neighbors. Why do you think your apartment was empty in the first place?
-Response2b:: Trust me XX, that's not what you want. I don't respond well to annoying neighbors. Why do you think your apartment was empty in the first place?
+Response2b:: Trust me, XX, that's not what you want. I don't respond well to annoying neighbors. Why do you think your apartment was empty in the first place?
 
 End

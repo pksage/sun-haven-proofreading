@@ -1,6 +1,6 @@
 Calvin Cycle 0
 
-Dialogue:: Hi, citizen. Oh, you're the new arrival huh? Neat.
+Dialogue:: Hi, citizen. Oh, you're the new arrival, huh? Neat.
 
 Option1:: My name's XX. What's yours?
 

@@ -9,10 +9,10 @@ Option2:: That was barely a compliment, by the way.
 
 Response1:: Don't worry, you'll always be a sewer rat to me.
 
-Response2:: That's about as good as my compliments get. But maybe I'm just lacking a good example. Go ahead farmer, lay one on me.
+Response2:: That's about as good as my compliments get. But maybe I'm just lacking a good example. Go ahead, farmer, lay one on me.
 
 
-Option1a:: Well I wouldn't want you to like me too much.
+Option1a:: Well, I wouldn't want you to like me too much.
 
 Option1b:: And you'll always be a bully!
 
@@ -25,7 +25,7 @@ Option2a:: Your breath is tolerable today. //Relationship Xyla10 2 Happy
 
 Option2b:: Your strength is rivaled only by your beauty. //Relationship Xyla10 -1 Mad
 
-Response2a:: Aw, you mean it? That's the nicest thing anyone has ever said to me! Thanks XX, you really know how to treat a girl right.
+Response2a:: Aw, you mean it? That's the nicest thing anyone has ever said to me! Thanks, XX, you really know how to treat a girl right.
 
 Response2b:: ... I don't know what I was prepared for, but it was not that. I think I'm sick to my stomach.
 

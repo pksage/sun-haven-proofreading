@@ -4,6 +4,6 @@ Dialogue:: Oh! Hello there. You're an interesting one, eh?[]You can call me Eve.
 
 Option1:: You can call me XX.
 
-Response1:: Ah, the farmer! You must tell me all about it sometime. Farming, that is. And of course, I mean sometime other than now.
+Response1:: Ah, the farmer! You must tell me all about it sometime. Farming, that is. And of course I mean sometime other than now.
 
 End

@@ -24,12 +24,12 @@ Response1b:: Exactly! I'm glad you agree. It makes me feel like less of an oddba
 
 Option2a:: Actually, I'm starting to think we should just be friends.
 
-Option2b:: So, what do you say? //Quest none CatherineHangout2Quest
+Option2b:: So what do you say? //Quest none CatherineHangout2Quest
 
 
-Response2a:: Is that so? Well jeez XX, that's pretty disappointing. But, I'm glad that we still get to be friends.
+Response2a:: Is that so? Well jeez, XX, that's pretty disappointing. But I'm glad that we still get to be friends.
 
-Response2b:: Absolutely, yes XX. Come by my house tomorrow at 5:00 pm. I can't wait!
+Response2b:: Yes, absolutely, XX. Come by my house tomorrow at 5:00 pm. I can't wait!
 
 
 End

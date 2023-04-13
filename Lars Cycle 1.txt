@@ -1,6 +1,6 @@
 Lars Cycle 1
 
-Dialogue:: Were you talking to me? Sorry friend, I was thinking over a theory on hornsnakes.
+Dialogue:: Were you talking to me? Sorry, friend, I was thinking over a theory on hornsnakes.
 
 Option1:: What kind of theory?
 Option2:: I hate hornsnakes!
@@ -11,7 +11,7 @@ Response2:: Huh? How can you hate an animal? Especially one as unique as the hor
 Option1a:: That's a noble goal. Knowledge is important to any society. //Relationship Lars1 2
 Option1b:: Maybe you need some help. //Relationship Lars1 -1
 
-Response1a:: Wow, thank you! Some of the Elves think I'm just wasting my time. Apparently, tradition is more important than education to some of my kind.[]I can't blame them though. Tradition is how we've survived all these years hidden in the forest.
+Response1a:: Wow, thank you! Some of the Elves think I'm just wasting my time. Apparently, tradition is more important than education to some of my kind.[]I can't blame them, though. Tradition is how we've survived all these years hidden in the forest.
 Response1b:: I appreciate the offer, but I only want my name on this encyclopedia. Maybe that's selfish, but it's <i>my</i> dream.
 
 Option2a:: I don't get it, what do you mean?

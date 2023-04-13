@@ -8,7 +8,7 @@ Option1:: What are the people like at the inn?
 Option2:: Your tavern is very cozy. There's an inn upstairs too?
 
 
-Response1:: These visitors, I tell ya. Baker's dozen, you know? For every twelve good donuts, you get that one weird donut. I keep 'em in line though.
+Response1:: These visitors, I tell ya. Baker's dozen, you know? For every twelve good donuts, you get that one weird donut. I keep 'em in line, though.
 
 Response2:: Yup, travelers need a place to refuel and rest their sore behinds.
 

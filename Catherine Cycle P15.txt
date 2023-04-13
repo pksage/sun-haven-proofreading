@@ -11,8 +11,8 @@ Response2:: Well, the study of aeromancy involves studying the shape and consist
 Option1a:: Sounds complex.
 Option1b:: You sound like you have a good grasp on it.
 
-Response1a:: It is a bit tricky, but once you've been at it for awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
-Response1b:: It is a bit tricky, but once you've been at it for awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
+Response1a:: It is a bit tricky, but once you've been at it awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
+Response1b:: It is a bit tricky, but once you've been at it awhile it gets a lot easier. The hardest part is clearing your mind and staying receptive to the universe.
 
 Option2a:: Cloud watching sounds like a boring pastime. //Relationship CatherineP15 -1 Mad
 Option2b:: That sounds very peaceful. //Relationship CatherineP15 2 Happy

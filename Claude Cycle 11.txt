@@ -9,7 +9,7 @@ Option2:: Hey, why don't we go out on a date?
 
 Response1:: There's a waterfall below the cliff outside my house. Sometimes I sit there when I need to clear my head.
 
-Response2:: Oh, you're being serious? Sorry, I just thought you must be joking.[]Okay then, if you want that XX then I'd be happy to.
+Response2:: Oh, you're being serious? Sorry, I just thought you must be joking.[]Okay then, if you want that, XX, then I'd be happy to.
 
 
 Option1a:: I knew it would be something like that! //Relationship Claude11 2

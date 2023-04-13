@@ -25,7 +25,7 @@ Option2a:: Only monsters live in darkness. //Relationship Donovan1 -1 Mad
 
 Option2b:: Maybe I should try living in the darkness for a while. //Relationship Donovan1 2 Happy
 
-Response2a:: Well... yeah. Look around, we're all monsters here. You might want to rethink your view on monsters. Or at least, shut up about it!
+Response2a:: Well... yeah. Look around, we're all monsters here. You might want to rethink your view on monsters. Or at least shut up about it!
 
 Response2b:: Really, you? I would love to see that! You could show the Human town that not everything is scary in the dark.
 

@@ -1,5 +1,5 @@
 Kitty One Liner Married Fall 3
 
-Dialogue:: Can you cook Kitty some Fish Tempura? It's too hard to cook alone, nyan...
+Dialogue:: Can you cook Kitty some fish tempura? It's too hard to cook alone, nyan...
 
 End

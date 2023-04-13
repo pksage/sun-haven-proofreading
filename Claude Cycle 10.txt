@@ -18,7 +18,7 @@ Option1b:: I don't know what to say, Claude. //AddItem none Claude'sHouseKey 1
 
 Response1a:: Sure it is, the key to my house is like the key to my life. I want you to know that you're welcome in my life, XX. Here, take it. 
 
-Response1b:: Sure it is, the key to my house is like the key to my life. I want you to know that you're welcome in my life, XX. Here, take it.
+Response1b:: The key to my house is like the key to my life. I want you to know that you're welcome in my life, XX. Here, take it.
 
 
 Option2a:: If you never think of the future, then how will you make progress? //Relationship Claude10 -1 Mad

@@ -7,7 +7,7 @@ Option1:: Are you finally having second thoughts?
 Option2:: Are you happy with our relationship? //Emote none Embarrassed
 
 
-Response1:: Eh, no such luck... It's not everyday I find someone who can keep up with me like you do, XX. That's worth something, even if it came from the sewer!
+Response1:: Eh, no such luck... It's not every day I find someone who can keep up with me like you do, XX. That's worth something, even if it came from the sewer!
 
 Response2:: Ugh, you know I hate getting into mushy talk. But since you asked...[]There's a <i>teeny tiny</i> chance that I'm happier than ever before... just a chance![]I've even been thinking that I wouldn't mind staying this happy for the rest of my life, you know. Do you catch my drift, XX? Or is that too subtle for your little rat brain?
 

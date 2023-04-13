@@ -5,8 +5,8 @@ Dialogue:: Ugh. Hello again, XX. I'm a bit busy right now, can you try and keep 
 Option1:: Anything I could do to help?
 Option2:: Busier than usual?
 
-Response1:: Well let's see. Do you either know a team of sewer dredgers who are ready to pull a quadruple shift, or are you willing to put some heavy duty gloves on and do it yourself?[]No to both? I thought so.
-Response2:: Nothing gets past you, huh? Darius is alllllways going on about how 'busy' he is, but I'm the one doing all the <i>real</i> work!
+Response1:: Well, let's see. Do you either know a team of sewer dredgers who are ready to pull a quadruple shift, or are you willing to put some heavy duty gloves on and do it yourself?[]No to both? I thought so.
+Response2:: Nothing gets past you, huh? Darius is alllllways going on about how "busy" he is, but I'm the one doing all the <i>real</i> work!
 
 Option1a:: Sometimes your job is hard to envy.
 Option1b:: You sure do have a lot of stuff to do.

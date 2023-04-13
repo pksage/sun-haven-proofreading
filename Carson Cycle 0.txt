@@ -4,6 +4,6 @@ Dialogue:: Huh? What can I do for you?
 
 Option1:: Are you alright?
 
-Response1:: Yeah, I'm fine... I'm just stung. I'm not supposed to get stung, being a beekeeper and all, but somehow I always get stung anyways. Go figure.
+Response1:: Yeah, I'm fine... I just got stung. I'm not supposed to get stung, being a beekeeper and all, but somehow I always get stung anyways. Go figure.
 
 End

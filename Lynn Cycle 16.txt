@@ -1,22 +1,22 @@
 Lynn Cycle 16
 
-Dialogue:: "Lynn, the farmer's wife", oh, I still get giddy when I say it!
+Dialogue:: "Lynn, the farmer's wife." Oh, I still get giddy when I say it!
 
 Option1:: I married the pretty blacksmith.
 
 Option2:: Did you ever think you'd marry a farmer?
 
 
-Response1:: Farmer and blacksmith really seem to fit together, don't they? That has to settle it, it was fate that we met each other, XX!
+Response1:: Farmer and blacksmith really seem to fit together, don't they? That has to settle it. It was fate that we met each other, XX!
 
-Response2:: I honestly didn't know who I'd marry. I never thought I'd leave home, really. Back in my village, it's customary for the women to choose their husbands and propose marriage.[]I never saw myself feeling confident enough to do something like that, but before you proposed, I secretly chose you![]To myself, anyways. So I guess I sort of adhered to traditon?
+Response2:: I honestly didn't know who I'd marry. I never thought I'd leave home, really. Back in my village, it's customary for the women to choose their husbands and propose marriage.[]I never saw myself feeling confident enough to do something like that, but before you proposed, I secretly chose you![]In my head, anyways. So I guess I sort of adhered to tradition?
 
 
 Option1a:: I really don't think it was fate. //Relationship Lynn16 -1 Embarrassed
 
 Option1b:: Whatever it was, it brought you to me. //Relationship Lynn16 2 Happy
 
-Response1a:: ...Yeah, I guess it's silly to think it was 'fate'. But I'm still glad we met on that train.
+Response1a:: ...Yeah, I guess it's silly to think it was "fate". But I'm still glad we met on that train.
 
 Response1b:: And me to you, XX. Oh, now I'm feeling all giddy again...
 
@@ -25,7 +25,7 @@ Option2a:: You "secretly" chose me? You're so adorable. //Relationship Lynn16 2 
 
 Option2b:: You should've proposed to me!
 
-Response2a:: Hey, you ended up proposing, didn't you? Good thing too, because I'm not sure I would have made a mess of it if I tried to!
+Response2a:: Hey, you ended up proposing, didn't you? Good thing, too, because I'm not sure if I would have made a mess of it if I tried to!
 
 Response2b:: Ooh, I know, it's tradition for my village!! You can't ever tell my mother, alright? She'd never let me hear the end of it!
 

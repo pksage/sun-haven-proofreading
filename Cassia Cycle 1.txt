@@ -5,11 +5,11 @@ Dialogue:: I've heard you're from the Human town. What is it like over there?
 Option1:: I'm from Sun Haven. It's a good place.
 Option2:: So you're half-Naga, half-Demon?
 
-Response1:: Are even Naga and Demons welcome there? Here in Withergate people tend to reject anyone from Human towns, but I wonder if that rejection is so mutual.
+Response1:: Are even Naga and Demons welcome there? Here in Withergate people tend to reject anyone from Human towns, but I wonder if that rejection is mutual.
 Response2:: I know, it's an uncommon mix. I've never seen anyone else like me, anyway.[]My parents are both very thoughtful and wanted to prepare me for a world where I may not be accepted. But for all their worry, I've fit into Withergate just fine!
 
 Option1a:: It's a very accepting place.
-Option1b:: There are not so many monsterfolk, to be honest
+Option1b:: There are not so many monsterfolk, to be honest.
 
 Response1a:: So you think even someone like me could visit sometime? Not that the king's council would approve of something like that, of course. Xyla would probably think I was some kind of spy...
 Response1b:: Still, it would be nice to visit a place like that. Withergate is such a busy city. I just want a little peace and quiet every once in a while.

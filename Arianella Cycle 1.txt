@@ -1,6 +1,6 @@
 Arianella Cycle 1
 
-Dialogue:: Hello again, XX was it? I thought you might be back! It's great to see you again. 
+Dialogue:: Hello again. XX, was it? I thought you might be back! It's great to see you again. 
 
 
 Option1:: Have you been a seamstress your whole life?

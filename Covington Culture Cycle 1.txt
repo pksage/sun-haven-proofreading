@@ -1,12 +1,12 @@
 Covington Culture Cycle 1
 
-Dialogue:: Back so soon, my adventerous compatriot?
+Dialogue:: Back so soon, my adventurous compatriot?
 
 Option1:: Wait, aren't you in the lobby right now?!
 
 Option2:: What's your story?
 
-Response1:: Eh? Not at all, old bean. I'm right here in front of you! But I suppose you mean the haste in which I traveled from one room to the next. Hah, just something that runs in our family.[]Have you met Emmett? Why, the lad is a nephew of mine! Don't worry, if you go to the lobby, I'll zip over there and be waiting for you!
+Response1:: Eh? Not at all, old bean. I'm right here in front of you! But I suppose you mean the haste with which I traveled from one room to the next. Hah, just something that runs in our family.[]Have you met Emmett? Why, the lad is a nephew of mine! Don't worry, if you go to the lobby, I'll zip over there and be waiting for you!
 
 Response2:: Ah, my story? I was born and raised here in Sun Haven. I spent much of my youth traveling the world, seeing wonders and dangers on every continent![]Now, however, I want to give back to my humble home town. Sun Haven is a very special place, don't you know? A key piece of our collective history! Of all the places I've seen, none are more important to preserve than here![]Truth told, my days of adventure are long behind me. I spent the fortune I amassed on my travels to build this fine museum building.
 

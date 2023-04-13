@@ -3,7 +3,7 @@ Ronald Cycle 1
 Dialogue:: Welcome in, farmer. Make yourself comfortable.
 
 
-Option1:: Your tavern is so cozy. There's an inn upstairs too?
+Option1:: Your tavern is so cozy. There's an inn upstairs, too?
 
 Option2:: What's it like running a tavern?
 

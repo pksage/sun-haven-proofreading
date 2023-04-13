@@ -7,7 +7,7 @@ Option2:: You work pretty hard, too.
 
 Response1:: Oh, come now, don't give me that look! I'm not <i>always</i> trying to get something from you. I like to chat, too.
 
-Response2:: Sure, but I've come a very long way from doing any of my own dirty work. You're out there everyday, working in the dirt.[]Truth be told, the only physical labor I want to do is counting my money.
+Response2:: Sure, but I've come a very long way from doing any of my own dirty work. You're out there every day, working in the dirt.[]Truth be told, the only physical labor I want to do is counting my money.
 
 Option1a:: Sometimes it's hard to tell with you.
 
@@ -24,6 +24,6 @@ Option2b:: On second thought, you sound kind of lazy. //Relationship AnneP13 -1 
 
 Response2a:: That's true, this is who I am. And I wouldn't change that for anything, not even a mountain of gold. 
 
-Response2b:: Well that's the funny thing about thoughts. You can have as many of them as you like, but it doesn't mean they're any good. 
+Response2b:: Well, that's the funny thing about thoughts. You can have as many of them as you like, but it doesn't mean they're any good. 
 
 End

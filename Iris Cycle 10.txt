@@ -9,7 +9,7 @@ Option2:: Life in Nel'Vari seems so peaceful, but do you ever get bored?
 
 Response1:: I've heard that the Southern Islands are lush with exotic plants, which sounds amazing. I don't think I'd leave Nel'Vari for it, but it's a fun thought.
 
-Response2:: Personally, I don't get bored. I keep busy with enchanting and the occasional woodworking.[]I know Vaan gets bored though. That guy spends more time outside of Nel'Vari than inside, it seems like.
+Response2:: Personally, I don't get bored. I keep busy with enchanting and the occasional woodworking.[]I know Vaan gets bored, though. That guy spends more time outside of Nel'Vari than inside, it seems like.
 
 
 Option1a:: What WOULD you leave Nel'Vari for?
@@ -25,7 +25,7 @@ Option2a:: You're incredibly devoted to your profession, Iris. //Relationship Ir
 
 Option2b:: You should be more like Vaan. //Relationship Iris10 -1
 
-Response2a:: What's that Human saying? "Practice makes it perfect?" Something like that.[]Anyway, I'm proud of my skills so practicing a lot keeps me happy.
+Response2a:: What's that Human saying? "Practice makes it perfect?" Something like that.[]Anyway, I'm proud of my skills, so practicing a lot keeps me happy.
 
 Response2b:: Hm, I don't think so. He spends a lot of time around other people. I need more time to myself.
 

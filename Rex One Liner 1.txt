@@ -1,5 +1,5 @@
 Rex One Liner 1
 
-Dialogue:: Looking for tools? I'm always open! Erm, except for when I'm closed of course.																															
+Dialogue:: Looking for tools? I'm always open! Erm, except for when I'm closed, of course.																															
 
 End

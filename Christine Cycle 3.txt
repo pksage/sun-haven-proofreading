@@ -15,7 +15,7 @@ Response2:: Well, it was a lovely little Elven forest. The Elves there lived the
 
 Option1a:: I'm grateful you're here to sell me seeds.
 
-Option1b::Nature really is incredible. 
+Option1b:: Nature really is incredible. 
 
 Response1a:: Aw, thanks so much for saying so! And I'm glad you're here to grow them! We make a great team!
 

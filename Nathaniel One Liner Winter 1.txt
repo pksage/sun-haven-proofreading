@@ -1,5 +1,5 @@
 Nathaniel One Liner Winter 1
 
-Dialogue:: I can't help but feel a little restless in the winter. I can't wait for spring to get here, I have all sorts of pent up energy.
+Dialogue:: I can't help but feel a little restless in the winter. I can't wait for spring to get here, I have all sorts of pent-up energy.
 
 End

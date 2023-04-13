@@ -1,12 +1,12 @@
 Wornhardt Cycle P10
 
-Dialogue:: Oh, XX. You haven't gotten your annual check-up. We should schedule one sometime.
+Dialogue:: Oh, XX. You haven't gotten your annual checkup. We should schedule one sometime.
 
-Option1:: You seem like you're always on top of everyone's wellbeing. //Emote none Embarrassed
-Option2:: Why would I need an annual check-up?
+Option1:: You seem like you're always on top of everyone's well-being. //Emote none Embarrassed
+Option2:: Why would I need an annual checkup?
 
-Response1:: You mean that as a good thing, right? I am a doctor after all. It's my job!
-Response2:: It's just good to stay on top of things, don't you agree? Especially health. You're always putting your body through the ringer, we should make sure you're in good condition.
+Response1:: You mean that as a good thing, right? I am a doctor, after all. It's my job!
+Response2:: It's just good to stay on top of things, don't you agree? Especially health. You're always putting your body through the wringer, so we should make sure you're in good condition.
 
 Option1a:: It can be a little annoying, but I know it's for my own good.
 Option1b:: Sun Haven is lucky to have a dedicated doctor like you. //Relationship WornhardtP10 2 Happy
@@ -18,6 +18,6 @@ Option2a:: Nah, no thanks, doc. //Relationship WornhardtP10 -1 Sad
 Option2b:: Sure, pencil me in sometime soon. //Relationship WornhardtP10 2 Happy
 
 Response2a:: I see. Well, I can't force you, though I think your decision is quite unwise.
-Response2b:: Great. I'm actually pretty full up right now but it's good to know you take medical appointments seriously. I'll let you know when I have a spot available and we'll get you in.
+Response2b:: Great. I'm actually pretty full up right now, but it's good to know you take medical appointments seriously. I'll let you know when I have a spot available and we'll get you in.
 
 End

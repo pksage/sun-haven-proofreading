@@ -1,5 +1,5 @@
 Covington Cycle 1
 
-Dialogue:: Back so soon, my adventerous compatriot?																																																																						
+Dialogue:: Back so soon, my adventurous compatriot?																																																																						
 
 End

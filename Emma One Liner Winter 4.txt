@@ -1,5 +1,5 @@
 Emma One Liner Winter 4
 
-Dialogue:: What do you want for christmas, farmer?
+Dialogue:: What do you want for the Winter Festival, farmer?
 
 End

@@ -1,6 +1,6 @@
 Wornhardt Cycle 12
 
-Dialogue:: Hey XX, I think I overheard someone talking about us in the tavern last night.[]I hate when people talk behind my back...
+Dialogue:: Hey, XX, I think I overheard someone talking about us in the tavern last night.[]I hate when people talk behind my back...
 
 Option1:: Does it make you that uncomfortable?
 
@@ -16,7 +16,7 @@ Option1a:: No way, I think you love the attention! //Relationship Wornhardt12 -1
 
 Option1b:: I figured - you don't exactly love the spotlight. //Relationship Wornhardt12 2 Happy
 
-Response1a:: Well, you're just plain wrong about me then.
+Response1a:: Well, you're just plain wrong about me, then.
 
 Response1b:: Heh, I guess you've gotten to know me pretty well. I'm glad, XX.
 
@@ -25,7 +25,7 @@ Option2a:: You and I can gossip about everyone in town to get back at them.  //E
 
 Option2b:: Who was it?
 
-Response2a:: Heh, I don't think that will be necessary. Thank you for the laugh though, XX.
+Response2a:: Heh, I don't think that will be necessary. Thank you for the laugh, though, XX.
 
 Response2b:: Oh, Calvin and some guards. I guess I shouldn't be surprised - Calvin is always talking about other people.
 

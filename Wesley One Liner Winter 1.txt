@@ -1,5 +1,5 @@
 Wesley One Liner Winter 1
 
-Dialogue:: I swear I feel a chill in the air... colder than usual.							
+Dialogue:: I swear I feel a chill in the air... one colder than usual.							
 
 End

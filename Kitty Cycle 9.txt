@@ -2,26 +2,26 @@ Kitty Cycle 9
 
 Dialogue:: Kitty thinks XX looks especially good today, nya!
 
-Option1:: Kitty, you're adorable but also kind of intense. //Emote none Happy
+Option1:: Kitty, you're adorable, but also kind of intense. //Emote none Happy
 
 Option2:: Do you feel okay? You look a little red. //Emote none Embarrassed
 
 
 Response1:: I've heard that before, nya! I think it's a compliment. Do you like it?
 
-Response2:: I spent yesterday prowling the areas near your farm, nyaa. I wanted to protect it for you now that we're a couple! Maybe that's weird...Woops, tee hee. But the farm is safe, nya!
+Response2:: I spent yesterday prowling the areas near your farm, nyaa. I wanted to protect it for you now that we're a couple! Maybe that's weird... Whoops, tee hee. But the farm is safe, nya!
 
 
 Option1a:: I wish you were more calm. //Relationship Kitty9 -1 Sad
 
 Option1b:: I love it - you make every day fun! //Relationship Kitty9 2 Happy
 
-Response1a:: Calm? Ooh sorry XX, I thought you knew me better than that!
+Response1a:: Calm? Ooh, sorry XX, I thought you knew me better than that!
 
 Response1b:: Oh, good! Not everyone thinks the same, but it doesn't bother me. Kitty has to be Kitty, after all!
 
 
-Option2a:: Good to know it's safe, thanks Kitty!
+Option2a:: Good to know it's safe. Thanks, Kitty!
 
 Option2b:: You don't have to do that. 
 

@@ -1,5 +1,5 @@
 Elizabeth One Liner Fall 3
 
-Dialogue:: Why do you think they call it 'fall'? Is it cuz of the leaves falling?							
+Dialogue:: Why do you think they call it "fall"? Is it 'cuz of the leaves falling?							
 
 End

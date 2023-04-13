@@ -4,6 +4,6 @@ Dialogue:: Hi there! I haven't seen you before, have I? My name is Sierra.
 
 Option1:: Hi Sierra, my name's XX.
 
-Response1:: XX, got it. Well it's good to meet you, and I hope to see you soon![]But, um, hopefully not in one of our beds...
+Response1:: XX, got it. Well, it's good to meet you, and I hope to see you soon![]But, um, hopefully not in one of our beds...
 
 End

@@ -15,7 +15,7 @@ Response1a:: Indeed, there is no hoard like this anywhere else... in the entire 
 Response1b:: I care only... for what Withergate will do for my rise to power... This place is but a stepping stone... on my path to greatness.
 
 Option2a:: You've secured a lot of power here. //Relationship Dynus1 2
-Option2b:: Did you need the Demon's help? //Relationship Dynus1 -1
+Option2b:: Did you need the Demons' help? //Relationship Dynus1 -1
 
 Response2a:: This is a mere fraction of what is to come... When my empire is complete, no power in this world... will rival mine.
 

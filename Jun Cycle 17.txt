@@ -5,7 +5,7 @@ Dialogue:: My dear XX, I hope you're enjoying your day. I see you're already bui
 Option1:: ... Am I really sweaty? //Emote none Embarrassed
 Option2:: I hope your day is going well, too!
 
-Response1:: Oh! Sorry XX, I didn't mean to make you self-conscious.[]Anyway, I like it! It lets me know that you've been busy.
+Response1:: Oh! Sorry, XX, I didn't mean to make you self-conscious.[]Anyway, I like it! It lets me know that you've been busy.
 Response2:: Well, so far I stopped Emma and Elizabeth from fighting over a book they both wanted, then I picked up some trash around town, and now I'm talking to you![]You could say it's a pretty standard day for me.
 
 Option1a:: I guess I don't mind it then! //Relationship Jun17 2 Happy

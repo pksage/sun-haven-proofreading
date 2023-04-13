@@ -4,12 +4,12 @@ Dialogue:: Excuse me if I seem short of breath, XX. I was just practicing some f
 
 Option1:: You practice fire magic in your house?
 
-Option2:: Lucia, how strong is your magic really?
+Option2:: Lucia, how strong is your magic, really?
 
 
 Response1:: Yes, I have a training area beneath my house. It's perfect for practicing my spells. Grandfather used to call them "fire drills."[]The next time you visit my home, you should look closely at my owl statue!
 
-Response2:: As a matter of fact, I've mastered fire magic since I was blessed by Elios. But that doesn't quite answer the question, does it? Oh, I have a story for you![]A few years ago, I found a fledgling dragon tangled in brambles. It was quite scared, spouting flames in every direction. I wanted to help, but it wouldn't allow me to. So, I established dominance.[]Every time the dragon spat fire my way, I responded with a larger burst of flame. Eventually, the young dragon submitted and allowed me to set it free!
+Response2:: As a matter of fact, I've mastered fire magic since I was blessed by Elios. But that doesn't quite answer the question, does it? Oh, I have a story for you![]A few years ago, I found a fledgling dragon tangled in brambles. It was quite scared, spouting flames in every direction. I wanted to help, but it wouldn't allow me to. So I established dominance.[]Every time the dragon spat fire my way, I responded with a larger burst of flame. Eventually, the young dragon submitted and allowed me to set it free!
 
 
 Option1a:: A secret training area? Isn't that a little overboard?
@@ -25,7 +25,7 @@ Option2a:: You beat a dragon? That's amazing! //Relationship Lucia11 2 Happy
 
 Option2b:: That story doesn't make you sound so tough. //Relationship Lucia11 -1 Mad
 
-Response2a:: It was merely a fledgling, but still quite a challenge! Besides, you never really doubted my strength, right XX?
+Response2a:: It was merely a fledgling, but still quite a challenge! Besides, you never really doubted my strength, right, XX?
 
 Response2b:: I'll keep that in mind the next time you're fighting a dragon!
 

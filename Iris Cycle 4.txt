@@ -2,7 +2,7 @@ Iris Cycle 4
 
 Dialogue:: XX, welcome back. It's a beautiful day in Nel'Vari, huh?
 
-Option1:: It seems like everyday is a beautiful day around here.
+Option1:: It seems like every day is a beautiful day around here.
 
 Option2:: Do you like living in Nel'Vari, Iris?
 

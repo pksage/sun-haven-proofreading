@@ -5,8 +5,8 @@ Dialogue:: Let's see... what shall I do first today? Collect nectar, or perhaps 
 Option1:: Could I help you with anything?
 Option2:: What do you have to do today?
 
-Response1:: You're an absolute doll to ask, but please don't take it this the wrong way...[]But unless you suddenly shrink in size, sprout wings and turn into a bee - there is no way you are capable of helping me with my work.
-Response2:: Goodness, where do I begin? Well, there's collecting nectar, color coordinate the pollen, process the nectar, jar the honey, make sure the bees take their nap, un-color coordinate the pollen...[]...Scrub yesterday's honey jars, water all of the flowers, align the pollen alphabetically, send out the evening crew to do a nectar run of the evening's flowers, plan morning crew's flight path...[]...Un-align the pollen alphabetically, prepare the jars for tomorrow's honey run...
+Response1:: You're an absolute doll to ask, and please don't take it this the wrong way...[]But unless you suddenly shrink in size, sprout wings, and turn into a bee - there is no way you are capable of helping me with my work.
+Response2:: Goodness, where do I begin? Well, I need to collect nectar, color coordinate the pollen, process the nectar, jar the honey, make sure the bees take their nap, un-color coordinate the pollen...[]...Scrub yesterday's honey jars, water all of the flowers, align the pollen alphabetically, send out the evening crew to do a nectar run of the evening's flowers, plan the morning crew's flight path...[]...Un-align the pollen alphabetically, prepare the jars for tomorrow's honey run...
 
 Option1a:: Oh. Fair enough. //Relationship Beeanca4 2
 Option1b:: You don't know that. //Relationship Beeanca4 -1

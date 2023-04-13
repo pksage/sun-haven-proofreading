@@ -1,6 +1,6 @@
 Wornhardt Cycle 5
 
-Dialogue:: Looks like you're making yourself right at home in Sun Haven! It took me a while to really get comfortable here as a native.
+Dialogue:: Looks like you're making yourself right at home in Sun Haven! It took me a while to really get comfortable here.
 
 Option1:: So what brought you to Sun Haven to begin with?
 
@@ -21,9 +21,9 @@ Response1a:: These days, I keep myself looking forward. No point in looking back
 Response1b:: These days, I keep myself looking forward. No point in looking back when there's a beautiful future ahead. I'm sure you can relate, having just moved here yourself.
 
 
-Option2a:: I'm sure Elios could help your practice, somehow. //Relationship Wornhardt5 -1 Mad
+Option2a:: I'm sure Elios could help your practice somehow. //Relationship Wornhardt5 -1 Mad
 
-Option2b:: You seem to know what's best for yourself, I'd trust your instincts. //Relationship Wornhardt5 2
+Option2b:: You seem to know what's best for yourself. I'd trust your instincts. //Relationship Wornhardt5 2
 
 Response2a:: I don't mean to offend you, but you just don't know what you're talking about.
 

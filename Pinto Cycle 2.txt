@@ -17,12 +17,12 @@ Option1a:: I'll find your helmet for you!
 
 Option1b:: I hope you find it soon.
 
-Response1a:: You will? Wow, okay! I think I was walking nearby town square when I lost it. Thanks, farmer!
+Response1a:: You will? Wow, okay! I think I was walking near the town square when I lost it. Thanks, farmer!
 
 Response1b:: That makes two of us. How many chances do you get before they kick you out of the army?
 
 
-Option2a:: Your training will catch on, one day! //Relationship Pinto2 2
+Option2a:: Your training will catch on one day! //Relationship Pinto2 2
 
 Option2b:: There are easier ways to make friends. //Relationship Pinto2 -1
 

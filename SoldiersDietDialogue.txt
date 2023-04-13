@@ -1,6 +1,6 @@
 SoldiersDietQuest
 
-Dialogue:: Hey XX, I've got a job for you if you're interested! We need some extra breakfast rations at the barracks.
+Dialogue:: Hey, XX, I've got a job for you if you're interested! We need some extra breakfast rations at the barracks.
 
 
 Option1:: Extra rations?
@@ -20,6 +20,6 @@ Option2b:: I'm too busy to help right now.
 
 Response2a:: Great! Eggs are a perfect way to start a hard day of training drills. Deliver them to Roza when they're ready. (End)
 
-Response2b:: Aw, shoot. Well, that's okay XX. You're a busy farmer doing farmer things. (End)
+Response2b:: Aw, shoot. Well, that's okay, XX. You're a busy farmer doing farmer things. (End)
 
 End

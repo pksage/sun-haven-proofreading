@@ -1,8 +1,8 @@
 Nathaniel Cycle 6
 
-Dialogue:: Hey XX, taking a break from farming? It's healthy to have interests outside of work.
+Dialogue:: Hey, XX, taking a break from farming? It's healthy to have interests outside of work.
 
-Option1:: I was wondering, if you weren't a soldier then what job would you want?
+Option1:: I was wondering. If you weren't a soldier, then what job would you want?
 
 Option2:: Do you have a hobby outside of work?
 
@@ -25,7 +25,7 @@ Option2a:: It makes sense to me. //Relationship Nathaniel6 2 Happy
 
 Option2b:: That does sound a little silly. //Relationship Nathaniel6 -1 Sad
 
-Response2a:: Oh yeah? Well don't get me wrong - I know it comes down to good hand-eye coordination. But I like to think that the rock actually skips because it refuses to sink.[]Hey, I haven't told that to anyone!
+Response2a:: Oh yeah? Well, don't get me wrong - I know it comes down to good hand-eye coordination. But I like to think that the rock actually skips because it refuses to sink.[]Hey, I haven't told that to anyone!
 
 Response2b:: Yeah, I know. I guess being a little silly just helps lift my spirits, sometimes.
 

@@ -5,7 +5,7 @@ Dialogue:: If you wanna get pumped, you're in the right place!
 Option1:: Where do you get all these pumpkin things?
 Option2:: Are you an Amari?
 
-Response1:: Funny story, actually! I was traveling to Withergate from the far west when I saw a little Elf lady in the forest, working on some kind of magic something-or-other.[]Well she poured some potion on a squash and it grew the size of a house! So naturally, I snatched that magic potion from under her nose when her back was turned, heheh.
+Response1:: Funny story, actually! I was traveling to Withergate from the far west when I saw a little Elf lady in the forest, working on some kind of magic something-or-other.[]Well, she poured some potion on a squash and it grew the size of a house! So naturally, I snatched that magic potion from under her nose when her back was turned, heheh.
 Response2:: Who, me? No way! I'm a regular old Human, believe it or not. I just got on the bad side of a witch some time ago. Thought I was going to live my whole life as a freak until I heard about this place!
 
 Option1a:: You're a no-good thief. //Relationship Malachai1 -1

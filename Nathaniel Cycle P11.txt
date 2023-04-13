@@ -1,23 +1,23 @@
 Nathaniel Cycle P11
 
-Dialogue:: How goes it, XX. Have anything to report?
+Dialogue:: How goes it, XX? Have anything to report?
 
 Option1:: Drop and give me twenty! //Emote none Embarrassed
 Option2:: Fine looking sword you have. Are you any good with it?
 
-Response1:: Argh![]Jeez, XX. You just took me right back to my days as a trainee grunt... I almost fell to the ground out of instinct! Whew, at least was only you pulling me leg.
+Response1:: Argh![]Jeez, XX. You just took me right back to my days as a trainee grunt... I almost fell to the ground out of instinct! Whew, at least that was only you pulling my leg.
 Response2:: First of all, thanks for noticing the sword! It's actually my mother's old army sword. The military decommissions weapons after so long, but she took great care of this one.[]To answer your question, I'm pretty good with every type of melee weapon. Not a big fan of the crossbow, though. Never cared for fighting at a distance.
 
 Option1a:: I was only having a bit of fun.
 Option1b:: I don't think I've ever seen you flustered like that.
 
-Response1a:: I know, I know. But my heart jump right into my throat for a second! Thanks for waking me up, at least, heh.
-Response1b:: Yeah yeah, 'big, stoic Nathaniel', scared of some old drill instructor memories. But my heart jump right into my throat for a second! Thanks for waking me up, at least, heh.
+Response1a:: I know, I know. But my heart jumped right into my throat for a second! Thanks for waking me up, at least, heh.
+Response1b:: Yeah yeah, 'big, stoic Nathaniel,' scared of some old drill instructor memories. But my heart jumped right into my throat for a second! Thanks for waking me up, at least, heh.
 
 Option2a:: Shouldn't a captain of the guard be handy with any weapon? //Relationship NathanielP11 -1 Mad
 Option2b:: Hey, focus on what you're good at, right? //Relationship NathanielP11 2
 
 Response2a:: Well, thanks for the concern, XX. I can handle crossbows just fine, they're just not my preferred weapon. I hope my preference is alright with you.
-Response2b:: In reality I'm passable with a crossbow, thanks to plenty of 'enriching' training. I'm just more up-close-and-personal with my fighting, I guess.
+Response2b:: In reality I'm passable with a crossbow, thanks to plenty of "enriching" training. I'm just more up-close-and-personal with my fighting, I guess.
 
 End

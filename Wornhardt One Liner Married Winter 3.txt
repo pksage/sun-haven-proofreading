@@ -1,5 +1,5 @@
 Wornhardt One Liner Married Winter 3
 
-Dialogue:: What kind of crops do you grow in the winter, XX? You wouldn't happen to be able to grow, let's say, <i>coffee beans</i>, would you? Oh, I'm just curious is all... yeah, 'curious'...
+Dialogue:: What kind of crops do you grow in the winter, XX? You wouldn't happen to be able to grow, let's say, <i>coffee beans</i>, would you? Oh, I'm just curious is all... yeah, "curious"...
 
 End

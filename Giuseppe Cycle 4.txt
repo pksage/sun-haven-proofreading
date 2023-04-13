@@ -19,7 +19,7 @@ Option2a:: I bet Elios would be honored if you sculpted him. //Relationship Gius
 Option2b:: I don't think you could pull that off. //Relationship Giuseppe4 -1
 
 
-Response2a:: He's a mighty guardian, but he also strikes me as very humble.[]Maybe when I finished the sculpture, I could travel to Dragon's Meet and show it to him? Nah, I'd be too nervous...
+Response2a:: He's a mighty guardian, but he also strikes me as very humble.[]Maybe when I finish the sculpture, I could travel to Dragon's Meet and show it to him? Nah, I'd be too nervous...
 
 Response2b:: I can't tell if you're being serious, or just trying to motivate me... Anyway, failure isn't a bad thing. It's how people learn. Trust me - I've learned a lot over the years!
 

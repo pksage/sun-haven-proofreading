@@ -1,6 +1,6 @@
 Luke Cycle 1
 
-Dialogue:: Hi XX. Be sure to draw plenty of mana orbs today, alright?
+Dialogue:: Hi, XX. Be sure to draw plenty of mana orbs today, alright?
 
 Option1:: Are you friends with Vaan?
 Option2:: Why do you want me to draw mana orbs?
@@ -17,7 +17,7 @@ Response1b:: No way. They say rivers take the path of least resistance. If it's 
 Option2a:: You've been stealing my mana orbs?
 Option2b:: How do you leave mana behind?
 
-Response2a:: No no, nothing like that! It's only the mana you left behind. It can be found everywhere if you know how to look for it.[]In fact, gathering leftover mana is important to protecting fragile plants and insects. Just think of me as another part of the ecosystem!
-Response2b:: When you draw mana orbs from nature, you don't get every last bit. Some gets left behind, but I know how to find it.[]In fact, gathering leftover mana is important to protecting fragile plants and insects. Just think of me as another part of the ecosystem!
+Response2a:: No no, nothing like that! It's only the mana you left behind. It can be found everywhere if you know how to look for it.[]In fact, gathering leftover mana is important to protect fragile plants and insects. Just think of me as another part of the ecosystem!
+Response2b:: When you draw mana orbs from nature, you don't get every last bit. Some gets left behind, but I know how to find it.[]In fact, gathering leftover mana is important to protect fragile plants and insects. Just think of me as another part of the ecosystem!
 
 End

@@ -15,7 +15,7 @@ Option1b:: She does have lots of mouths to feed.
 
 Response1a:: She might be a bit of a goof, but the girl does own her own business, after all. Seems like she's doing well for herself, too.
 
-Response1b:: True, but I've seen her open a bag of the stuff and start munching on it right away![]She's a real character, but she pays well so I'm not complaining.
+Response1b:: True, but I've seen her open a bag of the stuff and start munching on it right away![]She's a real character, but she pays well, so I'm not complaining.
 
 
 Option2a:: Looks like you owe me one. //Relationship AnneP14 -1 Mad

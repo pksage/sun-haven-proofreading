@@ -17,10 +17,10 @@ Response:: <i>You scream like a madman at the machine, ranting and raving. It fe
 Response:: <i>You grab a stick from the ground and jam it squarely into the ticket slot of the machine. Wrenching the stick around, you reclaim your ticket![]You feed the ticket back into the slot, and this time the machine knows better than to cross you.</i>
 
 
-LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine begins to float, levitating off of the ground!</i>
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i>[]<i>The machine begins to float, levitating off of the ground!</i>
 
 
-Option:: Stand up on your tippytoes. //RIGHTANSWER
+Option:: Stand up on your tippy-toes. //RIGHTANSWER
 
 Option:: //HEALTH2 Punch the machine.
 
@@ -34,7 +34,7 @@ Response:: <i>You take a good swing at the machine, but it floats out of the way
 Response:: <i>You beg the machine to land back on the ground, but it merely responds by floating even higher. This clearly isn't going to work out in your favor.</i>
 
 
-LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine turns into a frog!</i> 
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i>[]<i>The machine turns into a frog!</i> 
 
 
 Option:: Call a manager.
@@ -44,9 +44,9 @@ Option:: Give it a smooch. //RIGHTANSWER
 Option:: //HEALTH2 Kick the machine.
 
 
-Response:: <i>You call the frog's manager. It's another frog. Of course it is.</i>
+Response:: <i>You call for the frog's manager. It's another frog. Of course it is.</i>
 
-Response:: <i>A vending machine turning into a frog is weird, but <b>kissing</b> a vending machine that turned into a frog is definitely even weirder.</i>[]<i>But, hey, the frog turns back into a machine and out comes the potion! Totally worth it. ...Right?</i>
+Response:: <i>A vending machine turning into a frog is weird, but <b>kissing</b> a vending machine that turned into a frog is definitely even weirder.</i>[]<i>But hey, the frog turns back into a machine, and out comes the potion! Totally worth it. ...Right?</i>
 
 Response:: <i>You attempt to deliver a swift kick to the machine, but it hops out of the way. You try again, only for your kick to once again be dodged. Ribbit.</i>
 

@@ -4,6 +4,6 @@ Dialogue:: Oh! It's you...[]Um, the new farmer! Sorry, you caught me with my hea
 
 Option1:: I didn't mean to startle you. My name's XX.
 
-Response1:: No no, it's fine. I was just in my head is all. It's really nice meeting you, XX.
+Response1:: No no, it's fine. I was just in my head, is all. It's really nice meeting you, XX.
 
 End

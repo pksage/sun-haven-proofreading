@@ -6,7 +6,7 @@ Option1:: Do you have any favorite memories of your training days?
 Option2:: Your grandfather must have been an extraordinary person.
 
 Response1:: Of course! All my memories with my grandfather are dear to me, though some stories really stick out, like this one time...[]Early in my training, it was obvious how talented I was. I got such an attitude! Grandfather proposed a challenge, and I eagerly accepted.[]I was challenged with igniting four torches, and to keep them all blazing simultaneously. I thought it sounded like a breeze, and went at it with all my power.[]...Which is exactly what Grandfather knew I'd do. In the end, I completely incinerated the torches in my attempt to keep them all aflame. I had little control of my magic.[]I'd completely failed the challenge, but the experience taught me a very important thing: humility. I'll never forget it.
-Response2:: He was indeed. Though he wasn't Blessed, as you and I are, it didn't stop him from applying basic, universal principles to my training.[]Those principles are what helped forge me, and I live by them to this day.
+Response2:: He was indeed. Though he wasn't Blessed as you and I are, it didn't stop him from applying basic, universal principles to my training.[]Those principles are what helped forge me, and I live by them to this day.
 
 Option1a:: That was quite the story, Lucia. Thanks for sharing it. //Emote none Happy
 Option1b:: Wow, you really do have some great stories to tell. //Emote none Happy
@@ -15,9 +15,9 @@ Response1a:: Don't mention it, XX. I love remembering my days with my grandfathe
 Response1b:: Don't mention it, XX. I love remembering my days with my grandfather. I should thank you for listening.
 
 Option2a:: That's very touching, Lucia. //Relationship LuciaP12 2 Happy
-Option2b:: Yeah but he's gone now, so forget about it. //Relationship LuciaP12 -1 Mad
+Option2b:: Yeah, but he's gone now, so forget about it. //Relationship LuciaP12 -1 Mad
 
-Response2a:: It is, isn't it? My grandfather and grandmother may be gone now, but I can keep them both alive by teaching others the lessons I learned from him.
+Response2a:: It is, isn't it? My grandfather and grandmother may be gone now, but I can keep them both alive by teaching others the lessons I learned from them.
 Response2b:: You should really learn which thoughts are best kept to yourself, XX.
 
 End

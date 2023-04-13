@@ -1,5 +1,5 @@
 Lucia One Liner Fall 2
 
-Dialogue:: I'm sure you could never guess which color I like the most in the changing leaves! ...Oh, well yes. You're right. It <i>is</i>  red.
+Dialogue:: I'm sure you could never guess which color I like the most in the changing leaves! ...Oh, well, yes. You're right. It <i>is</i>  red.
 
 End

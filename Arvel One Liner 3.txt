@@ -1,5 +1,5 @@
 Arvel One Liner 3
 
-Dialogue:: We're hoping for a shipment of new records soon. There's nothing like that new-record-smell.																																																																					
+Dialogue:: We're hoping for a shipment of new records soon. There's nothing like that new-record smell.																																																																					
 
 End

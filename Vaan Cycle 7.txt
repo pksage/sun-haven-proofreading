@@ -1,6 +1,6 @@
 Vaan Cycle 7
 
-Dialogue:: Hey XX, I got these for you. Think of them as a thank-you for our date.
+Dialogue:: Hey, XX, I got these for you. Think of them as a thank-you for our date.
 
 Option1:: What should I do with this?
 

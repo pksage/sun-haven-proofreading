@@ -2,12 +2,12 @@ Donovan Cycle 2
 
 Dialogue:: Enjoying Withergate? There's always something to do here.
 
-Option1:: What do you do here in your down time?
+Option1:: What do you do here in your downtime?
 
 Option2:: So do you like this city a lot?
 
 
-Response1:: I talk to people, sniff around, look for something fun. I don't really like having down time, so I try to find something to do as soon as I can.
+Response1:: I talk to people, sniff around, look for something fun. I don't really like having downtime, so I try to find something to do as soon as I can.
 
 Response2:: This place is a great home base when I need one. Lots of good food and new people to talk to. Yeah, it's a nice spot when you've got nowhere else to go.
 

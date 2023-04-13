@@ -17,7 +17,7 @@ Option1a:: It sounds like you owe Claude big time.
 
 Option1b:: I definitely appreciate music, too! 
 
-Response1a:: Yeah, maybe I should thank him somehow. I guess, a record on the house? What do you get somebody who's rich, anyway?
+Response1a:: Yeah, maybe I should thank him somehow. A record on the house, I guess? What do you get somebody who's rich, anyway?
 
 Response1b:: Well great! Grab yourself a jukebox and some records, and you'll be ready to jam out![]Is that what people say now? "Jam out?" I should really know these things.
 
@@ -28,6 +28,6 @@ Option2b:: There's nothing else you're good at? //Relationship Arvel1 -1
 
 Response2a:: Hey, thanks! I'm sure that if I tried farming like you, I'd only end up hurting myself. So you bet I'm grateful to be here!
 
-Response2b:: Well... Man, now you put me on the spot and my mind drawing blanks.
+Response2b:: Well... Man, you put me on the spot and my mind is drawing blanks.
 
 End

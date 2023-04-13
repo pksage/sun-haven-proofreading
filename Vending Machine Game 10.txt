@@ -10,14 +10,14 @@ Option:: Try another ticket. //RIGHTANSWER
 Option:: Pull the "REFUND" lever.
 
 
-Response:: <i>You break down and begin all out ugly crying. Why, why oh why! Why must the world be so cruel?!</i>
+Response:: <i>You break down and begin all-out ugly crying. Why, why, oh why! Why must the world be so cruel?!</i>
 
 Response:: <i>Upon closer inspection, you realize you were trying to feed the machine a candy wrapper, not a ticket. Silly you. You produce a proper ticket and feed it into the machine, no problem.</i>
 
-Response:: <i>You pull a lever labeled "refund". A mechanical buzz emits from within the machine and a length of paper pops out. Grabbing the piece of paper, you read two words: "NO REFUNDS".</i>
+Response:: <i>You pull a lever labeled "REFUND." A mechanical buzz emits from within the machine, and a length of paper pops out. Grabbing the piece of paper, you read two words: "NO REFUNDS."</i>
 
 
-LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine becomes ghostly and immaterial! Your hand passes straight through it!</i>
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i>[]<i>The machine becomes ghostly and immaterial! Your hand passes straight through it!</i>
 
 
 Option:: Write a formal complaint.
@@ -27,14 +27,14 @@ Option:: Call the Specter Squishers. //RIGHTANSWER
 Option:: Tickle the machine.
 
 
-Response:: <i>Grabbing a quill and parchment, you draft out a strongly worded letter that details, in great length, the hardship and difficulty that the machine has dealt to you.</i>[]<i>The machine, incapable of reading anything, is unmoved by your letter.</i>
+Response:: <i>Grabbing a quill and parchment, you draft out a strongly-worded letter that details, in great length, the hardship and difficulty that the machine has dealt to you.</i>[]<i>The machine, incapable of reading anything, is unmoved by your letter.</i>
 
 Response:: <i>Who are you going to call? The Specter Squishers, that's who. You give them a call and they show right up, restoring the ghostly machine back to physical form. What a great bunch of guys.</i>
 
 Response:: <i>You attempt to tickle the machine, but it's no good! Your tickles pass straight through its intangible form. Curses! Bested once again!</i>
 
 
-LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i> [] <i>The machine relequinishes the potion, and instead of falling down where you can grab it, the potion floats inside the machine!</i>
+LeadIn:: <i>The machine settles down and begins processing your order... something must be working! But then...</i>[]<i>The machine relinquishes the potion, and instead of falling down where you can grab it, the potion floats inside the machine!</i>
 
 
 Option:: //HEALTH2 Shake the machine. //RIGHTANSWER

@@ -8,7 +8,7 @@ Option1:: What's the problem?
 Option2(Permanent):: What do you need me to do?
 
 
-Response1:: I don't have enough <color=#39CCFF>Coal</color> to finish this armor order. I need a resupply but I also need to stay and keep the forge burning.
+Response1:: I don't have enough <color=#39CCFF>Coal</color> to finish this armor order. I need a resupply, but I also need to stay and keep the forge burning.
 
 Response2:: Would you bring me <color=#39CCFF>10 Coal</color>? Soon as possible would be best.
 

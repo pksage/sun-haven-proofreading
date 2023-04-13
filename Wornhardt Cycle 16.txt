@@ -11,13 +11,13 @@ Response2:: Ah! You noticed??[]I don't get as much exercise as you, XX, that's f
 Option1a:: I'm plenty happy, Wornhardt, even if I don't gain any weight. //Emote none Happy
 Option1b:: We're not like other married couples. //Emote none Happy
 
-Response1a:: Heh, well that's good to hear! Hm, maybe I should weigh myself at the hospital...
+Response1a:: Heh, well, that's good to hear! Hm, maybe I should weigh myself at the hospital...
 Response1b:: Heheh, is that what you think?[]I always thought of us as something special, too. I wonder if everyone feels this way?
 
 Option2a:: That would probably be good for you. //Relationship Wornhardt16 -1 Sad
 Option2b:: Nonsense - you look good! //Relationship Wornhardt16 2 //Emote none Happy
 
-Response2a:: You know XX, there are gentler ways to tell somebody to lose weight.
+Response2a:: You know, XX, there are gentler ways to tell somebody to lose weight.
 Response2b:: Oh! Hah, well now that you mention it, I am a good weight for my height. But I'll keep an eye on it to be sure I stay healthy, of course!
 
 End

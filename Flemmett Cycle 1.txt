@@ -19,7 +19,7 @@ Option1b:: You're pretty funny! //Relationship Flemmett1 2
 
 Response1a:: Actually, I do. It's my defense mechanism. In other words, it's how I get rid of annoyin' kids like yourself.
 
-Response1b:: You think that's funny? Ah, sheesh... Can't you tell I'm tryin' to get rid of you? Well at least one of us is havin' a good time.
+Response1b:: You think that's funny? Ah, sheesh... Can't you tell I'm tryin' to get rid of you? Well, at least one of us is havin' a good time.
 
 
 Option2a:: Oh - of course, I totally knew that.

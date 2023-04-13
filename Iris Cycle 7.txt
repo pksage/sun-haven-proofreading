@@ -18,14 +18,14 @@ Option1b:: It's lucky you have something to be excited about, at least. //Emote 
 
 Response1a:: I know you're right and I should treat myself better, but I get so wrapped up in my research that I just don't have the capacity to care.
 
-Response1b:: Thanks XX. Most people just lecture me on self-care. They're not wrong or anything, I just don't have the capacity to care right now.
+Response1b:: Thanks, XX. Most people just lecture me on self-care. They're not wrong or anything, I just don't have the capacity to care right now.
 
 
 Option2a:: You should let your feelings out more often. //Relationship Iris7 -1 Mad
 
 Option2b:: It shows great self-control. //Relationship Iris7 2 Happy
 
-Response2a:: Don't assume that I'm suppressing my feelings just because I'm calm. Did you ever think that maybe I'm just, actually calm?
+Response2a:: Don't assume that I'm suppressing my feelings just because I'm calm. Did you ever think that maybe I'm just... actually calm?
 
 Response2b:: That's the first time anyone's ever said that about me. I usually get the opposite...
 

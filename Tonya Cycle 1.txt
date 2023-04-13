@@ -8,7 +8,7 @@ Option1:: Do you like delivering mail?
 Option2:: Doesn't it get tiring, being so healthy all the time?
 
 
-Response1:: Well I get to see everybody in town once a day and I get some great cardio out of it. I don't see any downside!
+Response1:: Well, I get to see everybody in town once a day, and I get some great cardio out of it. I don't see any downside!
 
 Response2:: Sure it does, but being tired makes me happy. I never feel better than when my muscles are all sore from a really good workout.
 

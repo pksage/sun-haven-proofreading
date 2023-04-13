@@ -6,7 +6,7 @@ Option1:: I'm going to stop Dynus.
 
 Option2:: Can you explain the altars?
 
-Response1:: Oh, dear. That must mean you came here to fight the Moon Dragon himself. Well, thank you for letting me know. It's always easier to clean up his challengers when I have warning.[]Dynus is in the next room straight ahead. And allow me to extend my sympathies, for your imminent loss.
+Response1:: Oh, dear. That must mean you came here to fight the Moon Dragon himself. Well, thank you for letting me know. It's always easier to clean up his challengers when I have warning.[]Dynus is in the next room straight ahead. And allow me to extend my sympathies for your imminent loss.
 
 Response2:: As you can see, this is the altar room. These are the altars at which peasants such as yourself may present an offering to the Moon Dragon in an attempt to gain his blessing.[]Simply place a tribute in the correct altar and Dynus shall receive it when the altar is full. When you're ready, Dynus is in the next room straight ahead.[]Be warned, none yet have made an offering that the Moon Dragon has deemed satisfactory.
 

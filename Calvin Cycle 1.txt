@@ -10,7 +10,7 @@ Option2:: Why did you choose to become a soldier?
 
 Response1:: Yeah, that's on purpose. There's no party here.
 
-Response2:: It was my last option. I dropped out of my apprenticeship and didn't feel like delivering baby griffons for a living like my parents. So, here I am. Soldier boy.
+Response2:: It was my last option. I dropped out of my apprenticeship and didn't feel like delivering baby griffons for a living like my parents. So here I am. Soldier boy.
 
 
 Option1a:: You should just leave if you hate it here. //Relationship Calvin1 -1
@@ -22,7 +22,7 @@ Response1a:: Listen, I don't hate it here. I don't love it either. I'm just bore
 Response1b:: Hah, good one. 
 
 
-Option2a:: Well this isn't so bad compared to that, huh?
+Option2a:: Well, this isn't so bad compared to that, huh?
 
 Option2b:: So you don't have any personal interest in being a soldier?
 

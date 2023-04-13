@@ -19,7 +19,7 @@ Option1b:: I'll take your word for it! //Relationship Peter1 2
 
 Response1a:: Well, change them or don't. Complaints don't solve a thing.
 
-Response1b:: Well I've visited every port town on the western coast, so I'm not just blowing hot air here!
+Response1b:: Well, I've visited every port town on the western coast, so I'm not just blowing hot air here!
 
 
 Option2a:: Does fishing allow you more freedom, then?

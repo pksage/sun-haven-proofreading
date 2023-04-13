@@ -17,7 +17,7 @@ Response1b:: You've learned much about me, XX. Maybe the most important thing yo
 Option2a:: This wine must be very important to your family. //Relationship DariusP12 2
 Option2b:: Wine from a melon sounds pretty weird, anyways. //Relationship DariusP12 -1 Mad
 
-Response2a:: There are two worlds, XX. My family and our allies live in one, and everyone else lives in the other. We are separated by a fundamental culture.[]From how we dress, how we speak and even what we eat and drink. That is the difference between you and I. You do not have to understand it, but you will have to recognize it.
+Response2a:: There are two worlds, XX. My family and our allies live in one, and everyone else lives in the other. We are separated by a fundamental culture.[]From how we dress, how we speak, and even what we eat and drink. That is the difference between you and I. You do not have to understand it, but you will have to recognize it.
 Response2b:: You've the taste of a low-born, XX. Your opinion on the subject is irrelevant. 
 
 End

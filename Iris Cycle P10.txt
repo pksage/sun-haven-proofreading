@@ -5,8 +5,8 @@ Dialogue:: I've been wondering lately, what is life outside of Nel'Vari like? In
 Option1:: What has you wondering about the world outside Nel'Vari?
 Option2:: It varies widely, depending on where you go.
 
-Response1:: I've lived in Nel'Vari for a very long time. I know how everything works here. How the people go about their days, and the powers that make our society tick.[]I might be an Enchanter, but I've given everything around here at least a cursory try before.[]But what's it like outside of Nel'Vari? What sort of fundamental power turns the wheels in places like Sun Haven?
-Response2:: The power of Enchanting has so deeply altered how we are able to live and work in Nel'Vari, it's strange but fun to sometimes imagine how we'd get by without it.[]I would never want to leave Nel'Vari, but it does makes me wonder... Would I still be the same Iris if I were born in Sun Haven?
+Response1:: I've lived in Nel'Vari for a very long time. I know how everything works here. How the people go about their days, and the powers that make our society tick.[]I might be an enchantress, but I've given everything around here at least a cursory try before.[]But what's it like outside of Nel'Vari? What sort of fundamental power turns the wheels in places like Sun Haven?
+Response2:: The power of enchanting has so deeply altered how we are able to live and work in Nel'Vari. It's strange but fun to sometimes imagine how we'd get by without it.[]I would never want to leave Nel'Vari, but it does makes me wonder... Would I still be the same Iris if I were born in Sun Haven?
 
 Option1a:: I'd love to tell you all about it sometime. //Relationship IrisP10 2 Happy
 Option1b:: Go out and see for yourself sometime! //Relationship IrisP10 -1 Mad

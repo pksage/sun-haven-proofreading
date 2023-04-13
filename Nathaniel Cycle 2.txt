@@ -1,6 +1,6 @@
 Nathaniel Cycle 2
 
-Dialogue:: Good day, citizen! Heh, don't worry XX, I haven't forgotten your name.[]I've been here long enough to know everyone's name by heart.
+Dialogue:: Good day, citizen! Heh, don't worry, XX, I haven't forgotten your name.[]I've been here long enough to know everyone's name by heart.
 
 Option1:: You're in a good mood.
 

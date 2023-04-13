@@ -1,6 +1,6 @@
 Stephen Cycle 1
 
-Dialogue:: Oh- heh... It's you...[]<i>Stephen coughs nervously, not able to find his words for a moment.</i>[]Er... say, I never did have a moment to say this, but... thanks for the second chance you gave me back there.
+Dialogue:: Oh - heh... It's you...[]<i>Stephen coughs nervously, not able to find his words for a moment.</i>[]Er... say, I never did have a moment to say this, but... thanks for the second chance you gave me back there.
 
 Option1:: You're welcome for the second chance.
 
@@ -18,7 +18,7 @@ Option1b:: We all make mistakes in life. //Relationship Stephen 1
 
 Response1a:: ...Right.[]<i>Stephen coughs into his hand, a look of shame on his face.</i>
 
-Response1b:: Boy am I glad you're the forgiving type. I won't let it go to waste, that's a promise!
+Response1b:: Boy, am I glad you're the forgiving type. I won't let it go to waste, that's a promise!
 
 
 Option2a:: Welcome to the right side of the law. 

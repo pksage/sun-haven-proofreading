@@ -16,7 +16,7 @@ Option1a:: That's so thoughtful!
 
 Option1b:: You painted me without telling me? I don't know how I feel about that.
 
-Response1a:: Oh good! I was worried you might be uncomfortable with it.[]It was one day that I noticed you in your field with the sun setting behind you, and I was simply inspired.
+Response1a:: Oh good! I was worried you might be uncomfortable with it.[]It was a day that I noticed you in your field with the sun setting behind you, and I was simply inspired.
 
 Response1b:: I'm sorry if that's uncomfortable. One day I noticed you in your field with the sun setting behind you, and I was simply inspired.
 

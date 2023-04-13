@@ -27,7 +27,7 @@ Option2b:: I would love to run a farm with you! //Relationship Nathaniel13 2 Hap
 
 Response2a:: Give me some credit, XX. I don't need excitement every hour of every day. Heck, I've been in Sun Haven for five years without any major incidents.
 
-Response2b:: Maybe one day, we can make that a reality. But for now, I have to fulfill my duty to the army and our people.
+Response2b:: Maybe one day we can make that a reality. But for now, I have to fulfill my duty to the army and our people.
 
 
 End

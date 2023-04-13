@@ -1,5 +1,5 @@
 Camila One Liner 2
 
-Dialogue:: I've got a busy day so unless you're giving free back massages, you should keep walking.																							
+Dialogue:: I've got a busy day, so unless you're giving free back massages, you should keep walking.																							
 				
 End

@@ -7,9 +7,9 @@ Option1:: What does Kitty need help with?
 Option2(Permanent):: What do I need to do?
 
 
-Response1:: I'm making a faaaancy dress. It's so so fancy that it even has a gem! Except, I don't have the gem yet, nyan.
+Response1:: I'm making a faaaancy dress. It's so so fancy that it even has a gem! Except I don't have the gem yet, nyan.
 
-Response2:: Just find me <color=#39CCFF>1 Sapphire</color> for my fancy fancy dress, and I'll reward you!
+Response2:: Just find me a <color=#39CCFF>Sapphire</color> for my fancy fancy dress, and I'll reward you!
 
 
 Option2a:: I'll help you! //Quest none KittysDressQuest

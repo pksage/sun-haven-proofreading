@@ -8,7 +8,7 @@ Option1:: Do you know who owned the farm before me?
 Option2:: What do you do here?
 
 
-Response1:: Sure do, they were a workhorse too. Also, a dear friend to Judith and me. He left out of the blue about ten years ago.
+Response1:: Sure do! He was a workhorse like you. Also, a dear friend to Judith and me. He left out of the blue about ten years ago.
 
 Response2:: I'm a knight of the Queen's court, of course!
 

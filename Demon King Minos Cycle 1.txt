@@ -17,9 +17,9 @@ Option1a:: I thought you made Withergate to unify monsterfolk.
 
 Option1b:: How did the monsterfolk come to be here?
 
-Response1a:: At the time of Withergate's founding, there was indeed rising conflict among the monsterfolk.[]Monsterfolk aren't well liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many Monsterfolk began to see their days as numbered.[]All the Monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
+Response1a:: At the time of Withergate's founding, there was indeed rising conflict among the monsterfolk.[]Monsterfolk aren't well-liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many monsterfolk began to see their days as numbered.[]All the monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
 
-Response1b:: At the time of Withergate's founding, there was rising conflict among the Monsterfolk.[]Monsterfolk aren't well liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many Monsterfolk began to see their days as numbered.[]All the Monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
+Response1b:: At the time of Withergate's founding, there was rising conflict among the monsterfolk.[]Monsterfolk aren't well-liked by other races, you see. Mistrusted, hated, cast aside. Pressured by the growing presence of a strong military in Sun Haven, many monsterfolk began to see their days as numbered.[]All the monsterfolk really needed was a call for unity from a powerful leader, and the enticing promise of everlasting darkness.
 
 Option2a:: Do you really think that will help much? //Relationship DemonKing1 -1
 

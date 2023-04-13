@@ -26,8 +26,8 @@ Option2a:: I wasn't worried. //Relationship Christine1 -1
 
 Option2b:: I'm glad you decided to stay. //Relationship Christine1 2
 
-Response2a:: Oh, well yes that's obvious. You don't need to be so direct about it, though.
+Response2a:: Oh, well yes, that's obvious. You don't need to be so direct about it, though.
 
-Response2b:: I simply had to. Withergate is perfect for my business. Not many other places you find never ending darkness!
+Response2b:: I simply had to. Withergate is perfect for my business. Not many other places you find never-ending darkness!
 
 End

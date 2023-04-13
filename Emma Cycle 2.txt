@@ -8,7 +8,7 @@ Option1:: You like bugs?
 Option2:: Did Liam really run away?
 
 
-Response1:: I think they're weird. So, yes! You like bugs too, right?
+Response1:: I think they're weird. So yes! You like bugs too, right?
 
 Response2:: My brother doesn't like bugs like me. One time he found little beetles in the flour and screamed!
 

@@ -1,6 +1,6 @@
 Jordan Cycle 1
 
-Dialogue:: Hey, the farmer is back! Heh, good to see you XX. What can I do for you?
+Dialogue:: Hey, the farmer is back! Heh, good to see you, XX. What can I do for you?
 
 
 Option1:: Are you close with Liam?
@@ -8,9 +8,9 @@ Option1:: Are you close with Liam?
 Option2:: What do you like to do around here?
 
 
-Response1:: Yeah, I'd say so. Jun introduced us not long after Liam came into town. He recommend that I start working here to take some pressure off Liam, so I did!
+Response1:: Yeah, I'd say so. Jun introduced us not long after Liam came into town. He recommended that I start working here to take some pressure off Liam, so I did!
 
-Response2:: Well I mostly clean and bake and handle sales... Oh wait, you mean in Sun Haven![]I like to go to the library and the record store. I try to keep some creativity in my life, even if it's just from a new song.
+Response2:: Well, I mostly clean and bake and handle sales... Oh wait, you mean in Sun Haven![]I like to go to the library and the record store. I try to keep some creativity in my life, even if it's just from a new song.
 
 
 Option1a:: So you're just coworkers?
@@ -28,6 +28,6 @@ Option2b:: Listening to music isn't really creative. //Relationship Jordan1 -1
 
 Response2a:: Sure, when I can. I'm not as skilled an artist as Liam, but I don't need to be the best. I just try to enjoy myself.
 
-Response2b:: I get what you mean since I'm not actually making the music, but even just listening to music can be a creative exercise for your brain. You should give it a try, seems like you need it.
+Response2b:: I get what you mean, since I'm not actually making the music, but even just listening to music can be a creative exercise for your brain. You should give it a try, seems like you need it.
 
 End

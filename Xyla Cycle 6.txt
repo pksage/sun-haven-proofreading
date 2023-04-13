@@ -9,23 +9,23 @@ Option2:: So was the carnival your idea?
 
 Response1:: Well, the carnival is great, but really the best thing about Withergate is my position here.[]The people here respect me, fear me, and desire me all at once. What more could I want?
 
-Response2:: What do you think? Of course, that carnival is my baby! I didn't want to live in some boring city with no nightlife, so I pitched the idea.[]Thankfully the Demon King appreciates fun as much as I do. Now I have a great place to hang out and bragging rights to boot.
+Response2:: What do you think? Of course, that carnival is my baby! I didn't want to live in some boring city with no nightlife, so I pitched the idea.[]Thankfully the Demon King appreciates fun as much as I do. Now I have a great place to hang out, and bragging rights to boot.
 
 
 Option1a:: Why would you want to be feared? //Relationship Xyla6 -1 Mad
 
 Option1b:: What - um - makes you think I desire you? //Relationship Xyla6 2 Romantic
 
-Response1a:: Asked like a true commoner. Take notes, sewer rat: fear is power and power is freedom.[]When you ask why I want to be feared, what you're really asking is, "Why do you want to be free?"
+Response1a:: Asked like a true commoner. Take notes, sewer rat: fear is power, and power is freedom.[]When you ask why I want to be feared, what you're really asking is, "Why do you want to be free?"
 
-Response1b:: Oh come on, sewer rat. You really think I haven't noticed you glancing up and down? Like I told you some time ago, we keep our eyes and ears open around here.
+Response1b:: Oh, come on, sewer rat. You really think I haven't noticed you glancing up and down? Like I told you some time ago, we keep our eyes and ears open around here.
 
 
 Option2a:: So you made it just so you wouldn't be bored here? //Emote none Happy
 
 Option2b:: I've seen the carnival - it really is fun! //Emote none Happy
 
-Response2a:: Of course. Oh, what have they got in Sun Haven again? A library? And you're telling me you don't get bored over there? Yeah, right.[]Just admit that we monsters know how to have more fun than those humans. Come on, I know you're thinking it!
+Response2a:: Of course. Oh, what have they got in Sun Haven, again? A library? And you're telling me you don't get bored over there? Yeah, right.[]Just admit that we monsters know how to have more fun than those Humans. Come on, I know you're thinking it!
 
 Response2b:: You're darn right it is. What better way is there to bring people together than a carnival? You'll see, the success of Withergate will boil down to games and neon lights, with me to thank.
 

@@ -18,7 +18,7 @@ Option1b:: Maybe you should just move on to another project. //Relationship Clau
 
 Response1a:: There's truth to that, even if it's kind of an annoying truth. I'll try to remember that, XX.
 
-Response1b:: Thanks XX, but I don't need you to tell me how to give up. I already know how to do that.
+Response1b:: Thanks, XX, but I don't need you to tell me how to give up. I already know how to do that.
 
 
 Option2a:: Wouldn't it be helpful to have other people listen to it? //Emote none Mad

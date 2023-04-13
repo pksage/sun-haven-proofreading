@@ -9,7 +9,7 @@ Option2:: Sorry, I didn't mean to stare.
 
 Response1:: Oh! Hah, thank you. It actually grew out before I moved here, when I wasn't taking very good care of myself. But then I decided to keep it!
 
-Response2:: No harm done, XX. I know I can look a bit run down at times. That's to be expected after twelve years of medical work.
+Response2:: No harm done, XX. I know I can look a bit run-down at times. That's to be expected after twelve years of medical work.
 
 
 Option1a:: It definitely suits you.  //Emote none Happy

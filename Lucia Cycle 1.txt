@@ -1,6 +1,6 @@
 Lucia Cycle 1
 
-Dialogue:: Hello, XX. Despite the looming darkness, I've had a good feeling ever since you've moved in... It's as though Sun Haven is embers, but a sudden wind is rekindling flame.
+Dialogue:: Hello, XX. Despite the looming darkness, I've had a good feeling ever since you've moved in... It's as though Sun Haven is an ember, but a sudden wind is rekindling the flame.
 
 Option1:: So what's it like being in charge of Sun Haven?
 

@@ -16,12 +16,12 @@ Option1a:: That's not a very fun answer. //Relationship Jun5 -1 Mad
 
 Option1b:: That's very you, Jun! //Relationship Jun5 2 Happy
 
-Response1a:: No? Well I'm concerned with being more helpful than fun.
+Response1a:: No? Well, I'm more concerned with being helpful than fun.
 
 Response1b:: Ah, do you already know me so well? I'm flattered!
 
 
-Option2a:: Actually Jun, I don't think this is the best time. //Emote none Sad
+Option2a:: Actually, Jun, I don't think this is the best time. //Emote none Sad
 
 Option2b:: Don't be silly - this is real! What do you say? //Quest none JunHangout1Quest
 

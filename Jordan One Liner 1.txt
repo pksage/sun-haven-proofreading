@@ -1,5 +1,5 @@
 Jordan One Liner 1
 
-Dialogue:: Hey XX, what's new? It's business as usual on my end.																																																																			
+Dialogue:: Hey, XX, what's new? It's business as usual on my end.																																																																			
 
 End

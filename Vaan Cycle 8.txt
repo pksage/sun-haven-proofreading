@@ -7,7 +7,7 @@ Option1:: If you didn't live in Nel'Vari, where would you want to live?
 Option2:: When are you going to ask me out on a date?
 
 
-Response1:: That's tough. I don't know many places outside of Nel'Vari and Sun Haven. Although, I have heard of towering peaks in the Northern Region covered in snow.[]The wind must blast up those steep cliffs with such force... I can only imagine what I would learn from the wind there.
+Response1:: That's tough. I don't know many places outside of Nel'Vari and Sun Haven. Although I have heard of towering peaks in the Northern Region covered in snow.[]The wind must blast up those steep cliffs with such force... I can only imagine what I would learn from the wind there.
 
 Response2:: Ask you out on a date, hm? I admit, it's been on my mind. Well... how about tomorrow? //Emote none Happy
 
@@ -25,7 +25,7 @@ Option2a:: Sure, I'd love to! //Quest none VaanHangout2Quest
 
 Option2b:: It's best that we don't, Vaan. //Emote none Sad
 
-Response2a:: Alright! Meet outside of my house tomorrow night at 5:00 pm. I can't wait to see you there, XX.
+Response2a:: Alright! Meet me outside of my house tomorrow night at 5:00 pm. I can't wait to see you there, XX.
 
 Response2b:: No problem, I completely understand. Even if it is disappointing.
 

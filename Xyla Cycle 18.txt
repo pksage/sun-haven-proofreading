@@ -27,7 +27,7 @@ Option2b:: I'll try to smell like pizza for you. //Emote none Romantic
 
 Response2a:: Yeah, yeah, don't get a big head. As far as I'm concerned, I can live without the smell of pizza. It would just be nice, is all...
 
-Response2b:: And just like that, I swoon![]... I don't actually know what it means to "swoon" but you get the point.
+Response2b:: And just like that, I swoon![]... I don't actually know what it means to "swoon," but you get the point.
 
 
 End

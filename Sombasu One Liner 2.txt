@@ -1,5 +1,5 @@
 Sombasu One Liner 2
 
-Dialogue:: Not right now kid. I'm takin' a break.
+Dialogue:: Not right now, kid. I'm takin' a break.
 
 End

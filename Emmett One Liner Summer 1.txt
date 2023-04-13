@@ -1,5 +1,5 @@
 Emmett One Liner Summer 1
 
-Dialogue:: Eh, I'd rather be in doors where it's cooler, anyways.							
+Dialogue:: Eh, I'd rather be indoors where it's cooler, anyways.							
 
 End

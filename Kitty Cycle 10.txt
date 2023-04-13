@@ -1,15 +1,15 @@
 Kitty Cycle 10
 
-Dialogue:: This morning I met a traveler from the East. From what they said, the Eastern Region sounds beautiful!
+Dialogue:: This morning I met a traveler from the east. From what they said, the Eastern Region sounds beautiful!
 
-Option1:: You don't plan to ever leave Sun Haven for good, right Kitty?
+Option1:: You don't plan to ever leave Sun Haven for good, right, Kitty?
 
 Option2:: I haven't asked, have you traveled much outside of Sun Haven?
 
 
 Response1:: Actually, I never thought about it before... Sun Haven is such a comfy home, the thought of leaving is so so sad!
 
-Response2:: Yes yes, I've gone across the big bridge once! ... Well actually, only halfway. Nyaaan - it's too scary!
+Response2:: Yes yes, I've gone across the big bridge once! ... Well, actually, only halfway. Nyaaan - it's too scary!
 
 
 Option1a:: I can't imagine staying. //Relationship Kitty10 -1 Sad

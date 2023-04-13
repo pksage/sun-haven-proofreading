@@ -27,7 +27,7 @@ Option2b:: True, but we all take after your example. //Emote none Happy
 
 Response2a:: XX, of course you do. In fact, I suspect you do more than you realize.
 
-Response2b:: XX, we should talk every day because I always seem to come away with lifted spirits. You have a truly kind soul!
+Response2b:: XX, we should talk every day, because I always seem to come away with lifted spirits. You have a truly kind soul!
 
 
 End

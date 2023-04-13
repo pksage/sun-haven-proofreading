@@ -7,7 +7,7 @@ Option1:: Why not head to the carnival if you need a distraction?
 Option2:: Darius, as the prince of Withergate... are you dating anyone? //Emote none Embarrassed
 
 
-Response1:: Because I have no capacity for childish games... but, at least the citizens enjoy it.[]Xyla suggested it would raise spirits here. Monsterfolk are a downtrodden people, so my father made the call.[]In actuality, I would prefer to have barracks and barracks of fighters to protect our city. Maybe we will, one day.
+Response1:: Because I have no capacity for childish games... but at least the citizens enjoy it.[]Xyla suggested it would raise spirits here. Monsterfolk are a downtrodden people, so my father made the call.[]In actuality, I would prefer to have barracks and barracks of fighters to protect our city. Maybe we will, one day.
 
 Response2:: Oh? Heh, that caught me off guard. I never know what to expect from you, XX.[]In fact, I have no romantic involvement right now. I'm very much open to the idea, though.
 

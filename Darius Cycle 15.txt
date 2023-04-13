@@ -18,6 +18,6 @@ Option2a:: There's only one way to make that happen. //Relationship Darius15 2 R
 Option2b:: Is that what's best for us? //Relationship Darius15 -1 Sad
 
 Response2a:: Indeed, now you're catching on! Heheh, I mean that I am ready for you whenever you're ready for me. And don't worry about the ring - any kind will do, so long as it's from you. 
-Response2b:: Of course it is. Do you doubt my word, XX? Or perhaps, you don't feel the way I do. 
+Response2b:: Of course it is. Do you doubt my word, XX? Or perhaps you don't feel the way I do. 
 
 End

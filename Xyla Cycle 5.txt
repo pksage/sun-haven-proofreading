@@ -4,7 +4,7 @@ Dialogue:: Oh, you again. Don't you have anyone else to bother? Friends or famil
 
 Option1:: So who do you usually spend time with around here?
 
-Option2:: Do you have family here? Or, at all?
+Option2:: Do you have family here? Or at all?
 
 
 Response1:: The king and prince, obviously. Then Cordelia, since she's on the royal council with me. You know, I don't spend a lot of time with many other people... except you, for some reason.[]Why <i>do</i> I bother with you, anyway? Ugh, I'm starting to worry about my sanity.

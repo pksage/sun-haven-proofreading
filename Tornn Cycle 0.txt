@@ -2,7 +2,7 @@ Tornn Cycle 0
 
 Dialogue:: Hm? Oh, hello. My name is Tornn, I sell capes here.
 
-Option1:: Hi Tornn, my name is XX. It's good to meet you.
+Option1:: Hi, Tornn, my name is XX. It's good to meet you.
 
 Response1:: Likewise, traveler.
 

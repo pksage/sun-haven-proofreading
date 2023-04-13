@@ -5,7 +5,7 @@ Dialogue:: Another fan coming to see Withergate's finest busker? Sorry kid, I do
 Option1:: Do you have a lot of fans?
 Option2:: What's a busker?
 
-Response1:: Well, no. Not yet! I will soon though. I've got all the time in the world to build my fanbase!
+Response1:: Well, no. Not yet! I will soon, though. I've got all the time in the world to build my fanbase!
 Response2:: Huh? You mean you aren't a busker-buff? Hmph, that's a slap in the ego...[]A busker is a street performer, obviously!
 
 Option1a:: That will never happen. //Relationship Benny1 -1

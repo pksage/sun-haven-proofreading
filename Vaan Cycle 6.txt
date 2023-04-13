@@ -1,6 +1,6 @@
 Vaan Cycle 6
 
-Dialogue:: Hey XX, I'm happy to see you.[]I've actually been meaning to ask you... I was thinking we could go visit your farm together. What do you think?
+Dialogue:: Hey, XX, I'm happy to see you.[]I've actually been meaning to ask you... I was thinking we could go visit your farm together. What do you think?
 
 Option1:: I didn't know you liked my farm so much.
 
@@ -16,7 +16,7 @@ Option1a:: What do you reflect on?
 
 Option1b:: I don't quite understand.
 
-Response1a:: I reflect on lots of things. Simply put, the things I'll do, and the things I won't do. I'm captivated by the idea of having opportunities.[]It's the idea that I can pick and choose from any future - just reach out and grab it if I want to. Knowing I have this capability feels almost more powerful than my wind magic.
+Response1a:: I reflect on lots of things. Simply put, the things I'll do and the things I won't do. I'm captivated by the idea of having opportunities.[]It's the idea that I can pick and choose from any future - just reach out and grab it if I want to. Knowing I have this capability feels almost more powerful than my wind magic.
 
 Response1b:: It's the idea that I can pick and choose from any future - just reach out and grab it if I want to. Knowing I have this capability feels almost more powerful than my wind magic.
 
@@ -27,7 +27,7 @@ Option2b:: Of course I meant it! When should we go? //Quest none VaanHangout1Que
 
 Response2a:: That's okay. I guess I can wait. But I won't wait forever, XX.
 
-Response2b:: Meet me outside of my house and we'll go together. Let's say, tomorrow at 12:00 pm. I already can't wait!
+Response2b:: Meet me outside of my house and we'll go together. Let's say... tomorrow at 12:00 pm. I already can't wait!
 
 
 End

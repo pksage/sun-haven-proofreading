@@ -1,5 +1,5 @@
 Jun One Liner Summer 5
 
-Dialogue:: I love catching the sunrise, the summer air is always so crisp and fresh in the morning.
+Dialogue:: I love catching the sunrise. The summer air is always so crisp and fresh in the morning.
 
 End

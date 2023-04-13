@@ -23,11 +23,11 @@ Response1b:: That will do for now. Keep that up, and you might yet earn your pla
 
 Option2a:: I'm sorry, I didn't know.
 
-Option2b:: Well if you're not an advisor then what is your job? //Emote none Mad
+Option2b:: Well, if you're not an advisor, then what is your job? //Emote none Mad
 
 Response2a:: Consider yourself forgiven, but I can only accept so many of your mistakes.
 
-Response2b:: Do you prefer a crowded jail cell or a solitary cage hanging from the ceiling? Oh nevermind - I'll surprise you.
+Response2b:: Do you prefer a crowded jail cell or a solitary cage hanging from the ceiling? Oh never mind - I'll surprise you.
 
 
 End

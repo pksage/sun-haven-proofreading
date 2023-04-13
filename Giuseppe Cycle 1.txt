@@ -1,6 +1,6 @@
 Giuseppe Cycle 1
 
-Dialogue:: Hi neighbor. Got something on your mind?
+Dialogue:: Hi, neighbor. Got something on your mind?
 
 
 Option1:: Would you say Sun Haven is a good place to raise a family?

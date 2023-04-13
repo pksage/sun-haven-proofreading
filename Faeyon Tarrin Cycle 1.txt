@@ -28,6 +28,6 @@ Option2b:: You've been here for years?
 
 Response2a:: This city is full of monsterfolk from all over the world. Monsterfolk aren't all that dangerous, but they can be unpredictable.[]Just look at what they've done in one short decade - the lights, the buildings... it's unlike anything I've ever seen.
 
-Response2b:: Yes I have. It doesn't feel that long to an experienced watcher - we are trained to withstand the passing of time. We have to stay sharp if we're to be impartial observers, after all.
+Response2b:: Yes, I have. It doesn't feel that long to an experienced Watcher - we are trained to withstand the passing of time. We have to stay sharp if we're to be impartial observers, after all.
 
 End

@@ -1,5 +1,5 @@
 Emma One Liner 3
 
-Dialogue:: I asked Liam if we could get a puppy but he got sweaty like when he's nervous.										
+Dialogue:: I asked Liam if we could get a puppy, but he got sweaty like when he's nervous.										
 
 End

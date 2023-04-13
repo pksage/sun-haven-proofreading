@@ -18,7 +18,7 @@ Option2a:: I can find your cap for you! //Quest none RexCapQuest
 Option2b:: I hope you find your cap.
 
 
-Response2a:: Well how about that! I'd be remarkably grateful if you did. (End)
+Response2a:: Well, how about that! I'd be remarkably grateful if you did. (End)
 
 Response2b:: Me too. (End)
 

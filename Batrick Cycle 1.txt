@@ -2,7 +2,7 @@ Batrick Cycle 1
 
 Dialogue:: Skree skree! Batsmith! BATSMITH! Skreeee!!
 
-Option1:: So, what's a 'batsmith'?
+Option1:: So what's a "batsmith"?
 Option2:: Can I learn to be a batsmith?
 
 Response1:: Curious, skree? Bat monsters teach themselves lots of tricks, skree. Tricks like blacksmithing... but call it <i>batsmithing</i>, because bat monsters are bats. Skree!

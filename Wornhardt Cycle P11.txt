@@ -5,14 +5,14 @@ Dialogue:: Working in Sun Haven is a challenge. I never treated Amari patients b
 Option1:: Was being a doctor easier where you used to live?
 Option2:: Wouldn't it be easier if you could just chill out all day?
 
-Response1:: Not necessarily "easier". I used to only provide care to Human patients, but medicine is still difficult whether you're treating a Human or an Amari.[]Maybe "simpler" is a better way of putting it. Do you have any idea how good Catherine is at hearing, for instance? Giving her a hearing exam is a real challenge!
+Response1:: Not necessarily "easier." I used to only provide care to Human patients, but medicine is still difficult whether you're treating a Human or an Amari.[]Maybe "simpler" is a better way of putting it. Do you have any idea how good Catherine is at hearing, for instance? Giving her a hearing exam is a real challenge!
 Response2:: It would! But I have to earn my living somehow. Besides, if I got lazy and stopped working, people wouldn't be taken care of. Sure, a new doctor would come around, but...[]The only way I know for sure that everyone is getting what they need is to do it myself.
 
-Option1a:: Broadening your horizons never hurt.
+Option1a:: Broadening your horizons never hurts.
 Option1b:: So you're saying Catherine has super-hearing?  //Emote none Embarrassed
 
-Response1a:: I've come to appreciate learning more about caring for a diverse range of patients, at least. It's a tough job but someone's gotta do it, and I'm happy it can be me.
-Response1b:: Ehh, alright, forget we talked about that, alright? Catherine is a little sensitive of how well her ears work compared to Humans...[]I shouldn't have went off and revealed my patient's private matters. Man, where's a windmill when you need one?
+Response1a:: I've come to appreciate learning more about caring for a diverse range of patients, at least. It's a tough job, but someone's gotta do it, and I'm happy it can be me.
+Response1b:: Ehh, forget we talked about that, alright? Catherine is a little sensitive of how well her ears work compared to Humans'...[]I shouldn't have went off and revealed my patient's private matters. Man, where's a windmill when you need one?
 
 Option2a:: You don't have to stress so much. //Relationship WornhardtP11 2 Happy
 

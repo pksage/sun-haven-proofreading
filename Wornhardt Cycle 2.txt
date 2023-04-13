@@ -7,9 +7,9 @@ Option1:: Are you worried about the rumors?
 Option2:: How long do you think you'll stay here, Wornhardt?
 
 
-Response1:: Ah yes, Withergate, land of monsters, city of the underbelly... I don't know about any of that, but the idea of a monster attack is worrying even if it's unlikely.
+Response1:: Ah yes, Withergate, land of monsters, city of the underbelly... I don't know about any of that, but the idea of a monster attack is worrying, even if it's unlikely.
 
-Response2:: I haven't thought about it too much, but as long as I'm happy then I don't see any reason to leave. 
+Response2:: I haven't thought about it too much, but as long as I'm happy, then I don't see any reason to leave. 
 
 
 Option1a:: It's a good thing we have you in town, just in case.

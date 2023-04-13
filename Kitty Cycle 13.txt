@@ -9,7 +9,7 @@ Option2:: What's your dream pet, Kitty?
 
 Response1:: They're so sweet and funny. And did you know each one has their own unique personality? Plus plus, I can talk as much as I want and they don't leave as long as I have food for them.
 
-Response2:: Ooooh, dream pet? XX, that's a tough tough question... No it's not! A White Lion would be my top top choice.[]White Lions are majestic and fast and strong - just like me! Except, maybe stronger... and a loooot bigger.
+Response2:: Ooooh, dream pet? XX, that's a tough tough question... No it's not! A white lion would be my top top choice.[]White lions are majestic and fast and strong - just like me! Except maybe stronger... and a loooot bigger.
 
 
 Option1a:: You really think of them as friends, huh? //Emote none Happy
@@ -21,9 +21,9 @@ Response1a:: Aw, of course! What else would they be? They're some of my best fri
 Response1b:: Aw, of course! What else would they be? They're some of my best friends, nya!
 
 
-Option2a:: Are you sure you could handle a White Lion? //Relationship Kitty13 -1 Mad
+Option2a:: Are you sure you could handle a white lion? //Relationship Kitty13 -1 Mad
 
-Option2b:: You would be the perfect friend for a White Lion! //Relationship Kitty13 2 Happy
+Option2b:: You would be the perfect friend for a white lion! //Relationship Kitty13 2 Happy
 
 Response2a:: If anyone can, it's Kitty. No doubting, XX!
 

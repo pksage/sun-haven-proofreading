@@ -18,6 +18,6 @@ Option2a:: Why not?
 Option2b:: "Broody" is one way to describe him.  //Emote none Embarrassed
 
 Response2a:: Most of the musicians I know are mushrooms... But besides that, he doesn't look very happy.[]In Nel'Vari, the best crafters are the happiest ones. You can feel their happiness in their work. To create from a place of sadness sounds wrong to me, but maybe it's just a Human thing.
-Response2b:: I don't mean to judge him harshly. I've just never seen a smile on his face, I don't think.[]Can you imagine, never smiling? That would be so sad, and boring!
+Response2b:: I don't mean to judge him harshly. I've just never seen a smile on his face, I don't think.[]Can you imagine, never smiling? That would be so sad and boring!
 
 End

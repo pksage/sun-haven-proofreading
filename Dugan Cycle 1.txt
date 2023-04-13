@@ -5,19 +5,19 @@ Dialogue:: Welcome back - what'd ya say yer name was? - right, XX!
 Option1:: How come I haven't seen any other Cyclops?
 Option2:: Are you really an archer?
 
-Response1:: We're a dyin' breed! Problem is, we Cyclops are too infatuated by folks with two eyes. Then when we have babies - they come out with two eyes as well! T'is a shame, but a shame of our own makin'.
+Response1:: We're a dyin' breed! Problem is, we Cyclops are too infatuated by folks with two eyes. Then when we have babies - they come out with two eyes as well! 'Tis a shame, but a shame of our own makin'.
 Response2:: An archer? Sure, I could be! Never really tried a'fore, to be perfectly honest with ya.
 
 Option1a:: Why don't you just marry other Cyclops?
 Option1b:: Follow your heart and everything will work out.
 
 Response1a:: I would, if not fer that pink-haired mermaid... She slips by every day, and every day she smiles as she goes... I'd give up my one and only eye fer her, and I mean that!
-Response1b:: Thanks kid. That's what I keep tellin' me'self but the fact is, Cyclops numbers are still droppin'.[]Aw heck, who knows? Maybe there's a commune with dozens of families out there that I just don't know about! 
+Response1b:: Thanks kid. That's what I keep tellin' meself, but the fact is, Cyclops numbers are still droppin'.[]Aw heck, who knows? Maybe there's a commune with dozens of families out there that I just don't know about! 
 
 Option2a:: Then why do you run this game?
 Option2b:: Doesn't that make you kind of a phoney?
 
-Response2a:: S'only a job, kiddo. Sorry if that dissapoints ya, but I need t'make ends meet, now don't I?
+Response2a:: S'only a job, kiddo. Sorry if that disappoints ya, but I need t'make ends meet, now don't I?
 Response2b:: Phoney?! Yer lucky I really ain't an archer, else I'd have you stuck like a pincushion!
 
 End

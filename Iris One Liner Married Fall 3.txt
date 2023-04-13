@@ -1,5 +1,5 @@
 Iris One Liner Married Fall 3
 
-Dialogue:: Bring me some fallen leaves, won't you? They'll be little reminders for me, for when you're not around.
+Dialogue:: Bring me some fallen leaves, won't you? They'll be little reminders for me when you're not around.
 
 End

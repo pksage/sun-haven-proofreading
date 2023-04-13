@@ -19,7 +19,7 @@ Option1b:: I'm not going anywhere. //Relationship LynnP15 2 Happy
 
 Response1a:: Oh... well, that's your choice. I thought we might stay friends here for a while longer, but you should do what's best for yourself.
 
-Response1b:: Oh, yay! Heh, maybe it's silly but I hate to imagine you leaving. You're the first friend I made here and... well, that's special to me.
+Response1b:: Oh, yay! Heh, maybe it's silly, but I hate to imagine you leaving. You're the first friend I made here, and... well, that's special to me.
 
 
 Option2a:: You've become a stronger person since then.

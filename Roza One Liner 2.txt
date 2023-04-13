@@ -1,5 +1,5 @@
 Roza One Liner 2
 
-Dialogue:: Nathaniel has lots of charisma but he's not very organized.																																																			
+Dialogue:: Nathaniel has lots of charisma, but he's not very organized.																																																			
 
 End

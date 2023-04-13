@@ -6,7 +6,7 @@ Option1:: Your sword sure does make you look imposing.
 Option2:: It's been fifty years since you sharpened your sword?
 
 Response1:: You really think so, hm? Of course you do. I am Darius, prince of Withergate! Son of Minos! Might is my right, and my choice in arms reflects that.
-Response2:: This blade is more powerful than most any other. I've cut down foes in full Mithril as if they were wheat to a scythe.[]It rarely needs service, despite how often I might use it.[]It isn't just a weapon, however. It is a symbol of my family's raw strength. What I hold here is my family's legacy.
+Response2:: This blade is more powerful than most any other. I've cut down foes in full mithril as if they were wheat to a scythe.[]It rarely needs service, despite how often I might use it.[]It isn't just a weapon, however. It is a symbol of my family's raw strength. What I hold here is my family's legacy.
 
 Option1a:: Isn't it heavy?
 Option1b:: I'd like to give it a swing sometime.

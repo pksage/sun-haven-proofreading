@@ -1,8 +1,8 @@
 Jun Cycle 7
 
-Dialogue:: Did you do your hair different? Wait, that's just the wind. Let me fix that for you.
+Dialogue:: Did you do your hair differently? Wait, that's just the wind. Let me fix that for you.
 
-Option1:: Thanks Jun - but my hair will never look as good as yours!
+Option1:: Thanks, Jun - but my hair will never look as good as yours!
 
 Option2:: Jun, I really enjoy getting to know you. Let's go out on a date!  //Emote none Romantic
 
@@ -18,7 +18,7 @@ Option1b:: I love the style and color. It's perfect for you. //Relationship Jun7
 
 Response1a:: That's what you think? Maybe it's time for a change...
 
-Response1b:: I'm starting to think<i>you're</i> perfect for me, XX.[]Oh, I hope that wasn't too forward!
+Response1b:: I'm starting to think <i>you're</i> perfect for me, XX.[]Oh, I hope that wasn't too forward!
 
 
 Option2a:: Then again, maybe a date is a bad idea. //Emote none Sad

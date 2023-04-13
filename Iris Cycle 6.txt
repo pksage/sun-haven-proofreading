@@ -7,7 +7,7 @@ Option1:: I know you work mostly with plants, but have you ever tried your magic
 Option2:: Do you enjoy working with plants all the time? //Emote none Happy
 
 
-Response1:: Casting enchantments on animals is a big mistake. The spell has to be exactly correct because even the tiniest miscalculation can have huge effects. Trees and rocks are safer, trust me.
+Response1:: Casting enchantments on animals is a big mistake. The spell has to be exactly correct, because even the tiniest miscalculation can have huge effects. Trees and rocks are safer, trust me.
 
 Response2:: Oh yeah, I absolutely love plants! It's why I've dedicated my work to them, of course. They're so important to our world, don't you agree?
 

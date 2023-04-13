@@ -1,9 +1,9 @@
 Sophie Cycle 2
 
-Dialogue:: Hey XX, is it true that you moved here from the Great City? I bet that place is amazing.
+Dialogue:: Hey, XX, is it true that you moved here from the Great City? I bet that place is amazing.
 
 
-Option1:: The Great City is nice, if you like cities.
+Option1:: The Great City is nice if you like cities.
 
 Option2:: Where are you from, Sophie?
 
@@ -19,7 +19,7 @@ Option1b:: You should try to travel more.
 
 Response1a:: Do you really think that? Hm. I believe you, but I still want to see for myself one day.
 
-Response1b:: That's actually part of what made me join the military, so I could travel more. I guess I didn't expect to be stationed in the same town for five years...
+Response1b:: That's actually part of what made me join the military, that I could travel more. I guess I didn't expect to be stationed in the same town for five years...
 
 
 Option2a:: I've heard nice things about the north. //Relationship Sophie2 2

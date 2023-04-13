@@ -16,9 +16,9 @@ Option1a:: Isn't that dangerous? //Emote none Embarrassed
 
 Option1b:: How did you manage to climb that high? //Emote none Embarrassed
 
-Response1a:: Well it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble so... I don't try it anymore.
+Response1a:: Well, it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble, so... I don't try it anymore.
 
-Response1b:: Well it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble so... I don't try it anymore. 
+Response1b:: Well, it isn't like we were clinging to the bark or anything. There used to be sturdy knots on the Grand Tree that you could climb on to get to the top.[]It was easy when I was little, but I got too big and took a tumble, so... I don't try it anymore. 
 
 
 Option2a:: It's a date! //Quest none IrisHangout1Quest

@@ -1,6 +1,6 @@
 Prepare the Event Square Quest
 
-Dialogue:: Hey XX, want to lend a hand to our construction effort? We're short on some stone... and funds.
+Dialogue:: Hey, XX, want to lend a hand to our construction effort? We're short on some stone... and funds.
 
 
 Option1:: What kind of construction are you doing?

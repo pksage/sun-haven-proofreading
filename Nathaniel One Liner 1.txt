@@ -1,5 +1,5 @@
 Nathaniel One Liner 1
 
-Dialogue:: Be honest - does my armor look shinier today? I'm trying a new wax but I haven't noticed a difference.
+Dialogue:: Be honest - does my armor look shinier today? I'm trying a new wax, but I haven't noticed a difference.
 
 End

@@ -1,6 +1,6 @@
 Wornhardt Cycle 17
 
-Dialogue:: So, what do you think? Am I a good husband so far?
+Dialogue:: So? What do you think? Am I a good husband so far?
 
 Option1:: It's barely been any time at all!
 Option2:: Where is this coming from?

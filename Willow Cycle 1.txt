@@ -5,13 +5,13 @@ Dialogue:: You must be here to judge my power as an enchantress, right?
 Option1:: I wouldn't judge you - you're just a kid.
 Option2:: What do you want to do with enchanting?
 
-Response1:: Just a kid?? That does it! When I learn enchanting as strong as Iris does it then I'll show you! You just made yourself a lifelong enemy.
+Response1:: Just a kid?? That does it! When I learn enchanting as strong as Iris does it, then I'll show you! You just made yourself a lifelong enemy.
 Response2:: I wanna be even stronger than Iris one day. Then I can help the town and be loved by everyone, just like her!
 
 Option1a:: I didn't mean to offend you, miss. //Relationship Willow1 2
 Option1b:: Good luck, kid. //Relationship Willow1 -1
 
-Response1a:: Miss? ... Okay, I forgive you! Being lifelong enemies sounds hard anyways.
+Response1a:: Miss? ... Okay, I forgive you! Being lifelong enemies sounds hard, anyways.
 Response1b:: I won't need luck to teach you a lesson!
 
 Option2a:: Everyone loves Iris?

@@ -5,7 +5,7 @@ Dialogue:: My sisters are already talking about you like a parental figure. I ho
 Option1:: I think that's sweet. //Emote none Romantic
 Option2:: I haven't been a parent before.
 
-Response1:: Ah, thank goodness for you XX. You're not only perfect for me, but you seem perfect for my sisters too.
+Response1:: Ah, thank goodness for you, XX. You're not only perfect for me, but you seem perfect for my sisters, too.
 Response2:: Don't worry, I'm still figuring it out too. For the most part, I just try to keep them clean and fed. It's been working so far!
 
 Option1a:: I don't mind them, as long as you're doing the work. //Relationship Liam16 -1 Sad
@@ -14,7 +14,7 @@ Option1b:: I'm so happy to be part of your family, Liam! //Relationship Liam16 2
 Response1a:: You don't want to help? Not even a little bit? Oh sheesh... we might have a problem, XX.
 Response1b:: Honestly, it's a relief having someone to help carry the load. You're too good for me, XX.
 
-Option2a:: There must be more to it than that?
+Option2a:: There must be more to it than that.
 Option2b:: Haven't you had any trouble with them?
 
 Response2a:: Honestly, the girls are big enough now to stay out of trouble on their own.[]Sometimes I need to do a little parenting, sure, but they're already very mature for their ages. I lucked out with Emma and Elizabeth!

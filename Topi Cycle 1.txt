@@ -26,7 +26,7 @@ Option2a:: What do you do with them?
 
 Option2b:: I'm going to make an even bigger collection!
 
-Response2a:: Oh, nothing I guess. They're just pretty, is all.
+Response2a:: Oh, nothing, I guess. They're just pretty, is all.
 
 Response2b:: Yeah right - you're on!
 

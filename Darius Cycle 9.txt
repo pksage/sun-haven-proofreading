@@ -27,7 +27,7 @@ Option2b:: If it pleases you, my prince! //Quest none DariusHangout1Quest
 
 Response2a:: I see. Forget it, it was a foolish idea anyway.
 
-Response2b:: Of course it would. Be at the ferris wheel tomorrow at 5:00 pm. Don't make me wait around, XX...
+Response2b:: Of course it would. Be at the Ferris wheel tomorrow at 5:00 pm. Don't make me wait around, XX...
 
 
 End

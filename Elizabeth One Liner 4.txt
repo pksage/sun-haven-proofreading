@@ -1,5 +1,5 @@
 Elizabeth One Liner 4
 
-Dialogue:: I watch Liam bake at home at night time. He calls it "prepping" but I don't know what that is.							
+Dialogue:: I watch Liam bake at home at nighttime. He calls it "prepping", but I don't know what that is.							
 
 End

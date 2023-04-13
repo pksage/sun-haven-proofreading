@@ -3,7 +3,7 @@ Scuzzy Cycle 1
 Dialogue:: You got any tickets? I don't take those little gold things you call coins.
 
 
-Option1:: So, what exactly are you?
+Option1:: So what exactly are you?
 Option2:: Why not sell your wares at the town square?
 
 
@@ -15,7 +15,7 @@ Option1a:: Sounds like you got run out of town. //Relationship Scuzzy1 -1
 Option1b:: If you say so... //Relationship Scuzzy1 1
 
 
-Response1a:: Run outta...?! What!![]Have you <i>seen</i>  the things I'm selling?! Who would 'run' this out of town, huh? And at such fair prices, too![]<i>(...Jeez, this kid doesn't have me figured out already, do they?...)</i>[]<i>(...Nah! They don't suspect a thing, heheh...)</i>
+Response1a:: Run outta...?! What!![]Have you <i>seen</i>  the things I'm selling?! Who would "run" this out of town, huh? And at such fair prices, too![]<i>(...Jeez, this kid doesn't have me figured out already, do they?...)</i>[]<i>(...Nah! They don't suspect a thing, heheh...)</i>
 Response1b:: That's the right attitude, kid! And the customer is always right, and you're the customer! Which makes you always right! And you're right!![]<i>(...Jeez, this kid doesn't have me figured out already, do they?...)</i>[]<i>(...Nah! They don't suspect a thing, heheh...)</i>
 
 
@@ -23,7 +23,7 @@ Option2a:: So... what's the answer?
 Option2b:: Spit it out, bear.
 
 
-Response2a:: Look, the people around here... they aren't exactly 'ready' for wares as great as mine! When I heard there was a farmer in town, though, I knew they'd be the perfect rube, er...[]...I mean, uh, the perfect <i>market partner</i>  to test out the sell-a-bility of my wares!
-Response2b:: Look, the people around here... they aren't exactly 'ready' for wares as great as mine! When I heard there was a farmer in town, though, I knew they'd be the perfect rube, er...[]...I mean, uh, the perfect <i>market partner</i>  to test out the sell-a-bility of my wares!
+Response2a:: Look, the people around here... they aren't exactly "ready" for wares as great as mine! When I heard there was a farmer in town, though, I knew they'd be the perfect rube, er...[]...I mean, uh, the perfect <i>market partner</i>  to test out the sell-ability of my wares!
+Response2b:: Look, the people around here... they aren't exactly "ready" for wares as great as mine! When I heard there was a farmer in town, though, I knew they'd be the perfect rube, er...[]...I mean, uh, the perfect <i>market partner</i>  to test out the sell-ability of my wares!
 
 End

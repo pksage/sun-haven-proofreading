@@ -12,7 +12,7 @@ Option1a:: You must be a great help if Nivara called you herself! //Relationship
 Option1b:: So all you do is work? //Relationship Beeanca1 -1
 
 Response1a:: Not everyone likes to work so much, but me and my bees get such satisfaction from a job well done. Just look around you! All these healthy plants - most of them are here because of me and my bees!
-Response1b:: Well don't say that like it's a <i>bad</i> thing! Not everyone likes to work so much, but me and my bees get such satisfaction from a job well done.[]Just look at all these healthy plants around you - most of them are here because of me and my bees!
+Response1b:: Well, don't say that like it's a <i>bad</i> thing! Not everyone likes to work so much, but me and my bees get such satisfaction from a job well done.[]Just look at all these healthy plants around you - most of them are here because of me and my bees!
 
 Option2a:: So are you going to tell me?
 Option2b:: I don't really care anymore.

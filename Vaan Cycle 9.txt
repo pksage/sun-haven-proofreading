@@ -21,7 +21,7 @@ Response1a:: I feel exactly the same way. XX, I'm constantly amazed at you. I al
 Response1b:: Every part of me disagrees, XX. But that's okay, you'll see when the time comes.
 
 
-Option2a:: Be patient, I'm sure you'll something will come to you. //Emote none Happy
+Option2a:: Be patient, I'm sure something will come to you. //Emote none Happy
 
 Option2b:: Keep looking. You won't find it if you don't look. //Emote none Happy
 

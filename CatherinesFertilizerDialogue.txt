@@ -8,7 +8,7 @@ Option1:: Why do you need a farmer?
 Option2(Permanent):: What do I need to do?
 
 
-Response1:: I need someone to grow my Cinaberry plant for me, but nobody has a free plot of dirt. Then I remembered, duh, XX has plenty of free dirt!
+Response1:: I need someone to grow my cinnaberry plant for me, but nobody has a free plot of dirt. Then I remembered, duh, XX has plenty of free dirt!
 
 Response2:: The thing is, I have a new kind of fertilizer that I'd like to test. Will you try it out for me? I'll give you the seeds to try it with and everything!
 

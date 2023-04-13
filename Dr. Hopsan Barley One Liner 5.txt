@@ -1,4 +1,4 @@
 Dr. Hopsan Barley One Liner 5
 
-Dialogue:: Brewing takes patience and care, just like grooming but with grains instead of hairballs.																																																																						
+Dialogue:: Brewing takes patience and care, just like grooming, but with grains instead of hairballs.																																																																						
 End

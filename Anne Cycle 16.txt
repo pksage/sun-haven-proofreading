@@ -24,6 +24,6 @@ Option2b:: I wasn't competing, I was only doing what I wanted to do. //Emote non
 
 Response2a:: Excuse me? That's <i>Mrs.</i> Renowned Merchant now!
 
-Response2b:: That's the kind of thing that sets you apart from the others XX. Did you hear yourself? You weren't even competing! Oh my, what style, what class! 
+Response2b:: That's the kind of thing that sets you apart from the others, XX. Did you hear yourself? You weren't even competing! Oh my, what style, what class! 
 
 End

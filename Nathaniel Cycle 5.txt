@@ -27,7 +27,7 @@ Option2b:: If you could live anywhere, where would it be?
 
 Response2a:: My first assignment was protecting an outpost from ice ghasts in the freezing north. Given the orders, I would take that fight again without blinking... but I'm sure thankful to be here instead!
 
-Response2b:: You know, I don't think I have an answer. The military takes me all over the world so I've lived just about everywhere.[]I guess I care less about where I am than who I'm with. I'd be happy to settle just about anywhere if I had family with me - and maybe a dog!
+Response2b:: You know, I don't think I have an answer. The military takes me all over the world, so I've lived just about everywhere.[]I guess I care less about where I am than who I'm with. I'd be happy to settle just about anywhere if I had family with me - and maybe a dog!
 
 
 End

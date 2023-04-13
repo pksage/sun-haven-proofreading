@@ -8,7 +8,7 @@ Option2:: I look forward to the songs you'll compose throughout our lives togeth
 Response1:: It's impossible for me to imagine perfection. If I do something, then inherently it will have flaws. That's just how I've always been, and how I've done my music.[]But... I can't seem to find anything imperfect about us. It's new to me, but I think I can adjust.
 Response2:: In the past, something like that might have made me feel as if I were put under pressure. But now, I feel excited. Inspired. This is the best I've ever felt in my life, maybe.[]I look forward to the songs I will compose during our marriage, too. 
 
-Option1a:: Well believe it or not, we're perfect together! //Relationship Claude16 2 Romantic
+Option1a:: Well, believe it or not, we're perfect together! //Relationship Claude16 2 Romantic
 Option1b:: I thought you'd feel better about our marriage. //Relationship Claude16 -1 Sad
 
 Response1a:: I think so too, XX. I've committed my everything to you, and I know I won't ever regret it. 

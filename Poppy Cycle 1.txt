@@ -8,7 +8,7 @@ Option1:: Who taught you blacksmithing?
 Option2:: You should meet Sun Haven's blacksmith.
 
 
-Response1:: Blacksmithing isn't a very common trade among Nel'Varians. Or at least it hasn't been in recent generations... but we've discovered ancient texts that detail long lost Elven smithing![]I studied those texts, until I had a pretty good idea of how it all worked.
+Response1:: Blacksmithing isn't a very common trade among Nel'Varians. Or at least it hasn't been in recent generations... but we've discovered ancient texts that detail long lost Elven smithing![]I studied those texts until I had a pretty good idea of how it all worked.
 
 Response2:: Oh really? Does Sun Haven have a blacksmith too? I've never thought about going beyond Nel'Vari's borders before... but I wonder what things a <i>Human</i>  blacksmith knows...
 

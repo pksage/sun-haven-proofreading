@@ -16,14 +16,14 @@ Option1a:: Is it really that important?
 
 Option1b:: How did it change the way you think?
 
-Response1a:: Absolutely. One day, I'll show you so you can see. Standing in one spot, it's easy to miss the squirrels in the trees or the deer on the other side of the lake.[]You can see it all at once from above. That's when I realized that I'm just one small piece in a constantly changing picture.
+Response1a:: Absolutely. One day I'll show you so you can see. Standing in one spot, it's easy to miss the squirrels in the trees or the deer on the other side of the lake.[]You can see it all at once from above. That's when I realized that I'm just one small piece in a constantly changing picture.
 
 Response1b:: I realized how active the world is. Standing in one spot, it's easy to miss the squirrels in the trees or the deer on the other side of the lake.[]You can see it all at once from above. That's when I realized that I'm just one small piece in a constantly changing picture.
 
 
-Option2a:: You have an intense energy, working with animals might be hard for you. //Relationship Vaan10 -1 Sad
+Option2a:: You have an intense energy. Working with animals might be hard for you. //Relationship Vaan10 -1 Sad
 
-Option2b:: You have a gentle spirit, you could figure it out if you tried. //Relationship Vaan10 2 Romantic
+Option2b:: You have a gentle spirit. You could figure it out if you tried. //Relationship Vaan10 2 Romantic
 
 Response2a:: I haven't even tried yet, but you think I'd fail? I was hoping for a little more support from my own partner.
 

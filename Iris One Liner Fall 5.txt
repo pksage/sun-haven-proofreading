@@ -1,5 +1,5 @@
 Iris One Liner Fall 5
 
-Dialogue:: Why do they call it 'fall', anyways? Oh... right, because the leaves <i>fall</i>  from the trees. Quite obvious now that I think about it...
+Dialogue:: Why do they call it "fall", anyways? Oh... right, because the leaves <i>fall</i>  from the trees. Quite obvious now that I think about it...
 
 End

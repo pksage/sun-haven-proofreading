@@ -8,7 +8,7 @@ Option1:: What late fees?
 Option2(Permanent):: Do you need help?
 
 
-Response1:: We charge people for keeping books past their due date. It's some good extra income, but people don't always pay on time.[]Four people owe late fees but none have paid yet and I can't leave to track these people down. It's just a little frustrating.
+Response1:: We charge people for keeping books past their due date. It's some good extra income, but people don't always pay on time.[]Four people owe late fees, but none have paid yet and I can't leave to track these people down. It's just a little frustrating.
 
 Response2:: Not unless you can collect each of these late fees and bring them back here.
 

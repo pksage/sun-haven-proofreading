@@ -9,16 +9,16 @@ Option2:: How's everyone doing back home, anyways?
 
 Response1:: Well, I never told you this, but when we first started getting a little serious, I wrote to my mother about you. At first she didn't seem to approve of you.[]...But after hearing more about all the incredible things you've done, she really came around. I'd love it so much if you could meet one day in person.
 
-Response2:: Oh, everyone is getting by just well! They all say they miss me, but it's okay. They're never too far away, after all.
+Response2:: Oh, everyone is getting by just fine! They all say they miss me, but it's okay. They're never too far away, after all.
 
 
 Option1a:: I'm glad I got her seal of approval. //Relationship Lynn18 2 Happy
 
 Option1b:: Your mother seems really judgy. //Relationship Lynn18 -1
 
-Response1a:: She can be a bit old fashioned, but she always means well. She knows farming is dutiful and important, but she always envisioned me with someone "worthy."[]I guess you're more than worthy for her taste, XX!
+Response1a:: She can be a bit old-fashioned, but she always means well. She knows farming is dutiful and important, but she always envisioned me with someone "worthy."[]I guess you're more than worthy for her taste, XX!
 
-Response1b:: She can be... really old fashioned, yeah. But she means well. I hope you don't think she's too judgmental or anything.
+Response1b:: She can be... really old-fashioned, yeah. But she means well. I hope you don't think she's too judgmental or anything.
 
 
 Option2a:: How long does it take to get back to your home village? 

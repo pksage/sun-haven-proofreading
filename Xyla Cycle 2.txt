@@ -25,9 +25,9 @@ Option2a:: I'm just curious! //Emote none Romantic
 
 Option2b:: Fine, don't tell me. //Emote none Romantic
 
-Response2a:: Listen, spikes look good and hurt people... Remind you of anyone... ?
+Response2a:: Listen, spikes look good and hurt people... Remind you of anyone...?
 
-Response2b:: Listen, spikes look good and hurt people... Remind you of anyone... ?
+Response2b:: Listen, spikes look good and hurt people... Remind you of anyone...?
 
 
 End

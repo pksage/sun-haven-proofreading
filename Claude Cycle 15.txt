@@ -11,7 +11,7 @@ Response2:: Finding happiness is something I've had trouble with... but when it 
 Option1a:: Unfocus what?
 Option1b:: So you actually feel better, too?
 
-Response1a:: Just, myself. It's a relief.[]I think I was working myself ragged before you started spending time with me. In fact, having something else to focus on has made my work a lot more productive.
+Response1a:: Just... myself. It's a relief.[]I think I was working myself ragged before you started spending time with me. In fact, having something else to focus on has made my work a lot more productive.
 Response1b:: Definitely. I think I was working myself ragged before you started spending time with me. In fact, having something else to focus on has made my work a lot more productive.
 
 Option2a:: You should still focus on your music. //Relationship Claude15 -1 Sad

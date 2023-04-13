@@ -9,7 +9,7 @@ Option2:: Where would you settle down, if you could?
 
 Response1:: Heh, me either. I guess I'm starting to rethink some things. It's new. And weird. XX, you're making me weird.
 
-Response2:: The sewer isn't good enough? No actually, you're probably right... I don't really want to spend the rest of my life surrounded by rats. Even if they're fun to scare away.
+Response2:: The sewer isn't good enough? No, actually, you're probably right... I don't really want to spend the rest of my life surrounded by rats. Even if they're fun to scare away.
 
 
 Option1a:: You're finally growing up. //Relationship Donovan14 -1 Sad

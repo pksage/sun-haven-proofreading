@@ -1,6 +1,6 @@
 Topi Cycle 5
 
-Dialogue:: I want a little sister, but mom says dad is too lazy to go and get one!
+Dialogue:: I want a little sister, but Mom says Dad is too lazy to go and get one!
 
 Option1:: You should tell your dad to try harder!
 Option2:: What would you do if you had a little sister?
@@ -18,6 +18,6 @@ Option2a:: What if she's better at Dragons than you?
 Option2b:: Where are your best hiding spots?
 
 Response2a:: Then we'd be the best brother and sister Dragon team ever!
-Response2b:: Well there's one right behind the record shop where... just kidding! I'm never telling you, XX!
+Response2b:: Well, there's one right behind the record shop where... just kidding! I'm never telling you, XX!
 
 End

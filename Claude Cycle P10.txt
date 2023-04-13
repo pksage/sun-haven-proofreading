@@ -5,7 +5,7 @@ Dialogue:: I've been thinking of romance a lot these past days. It's strange to 
 Option1:: What's got you thinking about romance?
 Option2:: Haven't you ever wanted to fall in love?
 
-Response1:: I dunno. Just strange, I wonder how people seem so easily cut out for it.[]Meeting, getting married, the home life. All that stuff.
+Response1:: I dunno. It's just strange, I wonder how people seem so easily cut out for it.[]Meeting, getting married, the home life. All that stuff.
 Response2:: I've never pictured myself doing it, at least. There's been times where I thought maybe I was feeling that way, but they never worked out.[]If I think about the future, it's mostly just about my music.
 
 Option1a:: I guess it just comes more naturally to some people.

@@ -5,7 +5,7 @@ Dialogue:: When's the last time you climbed a nice, tall tree, XX? We should go 
 Option1:: I don't really climb any trees.
 Option2:: Where do you usually climb trees?
 
-Response1:: Nya?! Well you should start! It's a great pastime!  
+Response1:: Nya?! Well, you should start! It's a great pastime!  
 Response2:: Any tree is a good tree to climb, nya. Out in the forest there's always big, soft, lazy Snaccoons sleeping under the trees![]They're just sooo big and cute, I wish I could keep one as a pet, like my kitties!
 
 Option1a:: What if I fall?  //Emote none Happy

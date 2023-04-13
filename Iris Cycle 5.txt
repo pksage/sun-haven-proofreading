@@ -1,6 +1,6 @@
 Iris Cycle 5
 
-Dialogue:: I never told you, I think it's really impressive how you found your way into NelVari!
+Dialogue:: I never told you, I think it's really impressive how you found your way into Nel'Vari!
 
 Option1:: Have you been outside of Nel'Vari much?
 

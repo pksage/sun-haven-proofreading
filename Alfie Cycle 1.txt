@@ -18,7 +18,7 @@ Option1b:: How much honey do your bees make?
 
 Response1a:: That's right. The bees. Every bee you see making honey is a worker bee, and they're all female. Interesting, huh?
 
-Response1b:: Oh, a few hundred jars worth. Each day, that is. Maybe not the most when compared to the great bee farms you find further out west, but no one beats us in quality.
+Response1b:: Oh, a few hundred jars' worth. Each day, that is. Maybe not the most when compared to the great bee farms you find further out west, but no one beats us in quality.
 
 
 Option2a:: That's un-bee-lievable.

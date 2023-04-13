@@ -5,7 +5,7 @@ Dialogue:: Sunny days are always nice, but I still appreciate a good gloomy day 
 Option1:: Does Sun Haven get many gloomy days?
 Option2:: What do you like to do on a gloomy day?
 
-Response1:: Not usually. It's a bit out of our weather pattern, if you haven't realized that yet. I guess as a farmer, you would prefer it to be perfect farming weather, more often than not!
+Response1:: Not usually. It's a bit out of our weather pattern, if you haven't realized that yet. I guess as a farmer, you would prefer it to be perfect farming weather more often than not!
 Response2:: Well, it's a perfect excuse to relax at home. I like to lay back and maybe focus on mind games or a picture puzzle.[]If you try looking on the positive sides, then I believe you can find something good about almost any situation.
 
 Option1a:: Sun Haven does seem to have predictable weather. //Emote none Happy

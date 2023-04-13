@@ -15,7 +15,7 @@ Option1b:: That's a smart precaution for a business owner. //Relationship AnneP1
 
 Response1a:: Call it dramatic if you like, XX. I've been in the game a long time, so I know I'm not just blowing smoke. 
 
-Response1b:: It might sound like I'm being dramatic, but I've been in the game a long time.  I know I'm not just blowing smoke.[]Oh, but it's not that I don't trust <i>you</i>, of course.
+Response1b:: It might sound like I'm being dramatic, but I've been in the game a long time. I know I'm not just blowing smoke.[]Oh, but it's not that I don't trust <i>you</i>, of course.
 
 
 Option2a:: You're a very driven person. 

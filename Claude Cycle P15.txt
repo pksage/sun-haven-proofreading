@@ -6,7 +6,7 @@ Option1:: Do you not want to compose a town anthem for Sun Haven?
 Option2:: If Lucia asked you personally, she must really want you to do it.
 
 Response1:: Not especially, no. It's a quaint idea, but I just don't know what Lucia would be expecting. It seems like it's doomed to fail.
-Response2:: She does. She spoke a lot about "pride in Sun Haven" all that. I like living in Sun Haven, but I can't really see myself composing music in its honor.
+Response2:: She does. She spoke a lot about "pride in Sun Haven" and all that. I like living in Sun Haven, but I can't really see myself composing music in its honor.
 
 Option1a:: You have a pretty sour attitude about it. //Relationship ClaudeP15 -1 Sad
 Option1b:: Try asking Lucia to clarify what she wants. //Relationship ClaudeP15 2
@@ -14,7 +14,7 @@ Option1b:: Try asking Lucia to clarify what she wants. //Relationship ClaudeP15 
 Response1a:: Oh well. Call it what you want, it's just how I feel.
 Response1b:: That is one option, yes. If I'm really going to go through with this request, of course. I suppose at the very least I can ask her exactly what she wants from me.
 
-Option2a:: If you aren't inspired then the music wouldn't be good, anyways. //Emote none Happy
+Option2a:: If you aren't inspired then the music wouldn't be good anyway. //Emote none Happy
 Option2b:: Lucia asked you, so you should really try. //Relationship ClaudeP15 -1 Embarrassed
 
 Response2a:: It's good you know me well enough to understand that I can't just force music to happen. I'll just have to explain that to Lucia next time we talk. 

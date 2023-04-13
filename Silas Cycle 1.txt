@@ -3,11 +3,11 @@ Silas Cycle 1
 Dialogue:: Great wares are in your future, my friend.
 
 
-Option1:: So, Sylvia and Sylvius are your kids?
+Option1:: So Sylvia and Sylvius are your kids?
 
 Option2:: Do you have any talents?
 
-Response1:: Ah yes, so you've met the kids? Great kids, aren't they? You know it's rare for Elves to have twins, just another thing for their old pa' to brag about!
+Response1:: Ah yes, so you've met the kids? Great kids, aren't they? You know, it's rare for Elves to have twins! Just another thing for their old pa' to brag about!
 
 Response2:: Hey, I'm an Elf of many pursuits. Woodcarving, gemcutting... I've even dabbled in magic. It's my kids, Sylvia and Sylvius, who're the real talent, though.[]I taught those two everything they know! They taught themselves everything <i>else</i>!
 
@@ -16,7 +16,7 @@ Option1a:: They're good kids. //Relationship Silas1 1
 
 Option1b:: You shouldn't boast about your kids so much. //Relationship Silas1 -1
 
-Response1a:: Good? They're great! So young and yet they're already master woodworkers. They've brought our family much honor... not to mention fortune!
+Response1a:: Good? They're great! So young, and yet they're already master woodworkers. They've brought our family much honor... not to mention fortune!
 
 Response1b:: And why not? I'm proud of the little anklebiters. If you don't want to hear about it, just plug your ears!
 

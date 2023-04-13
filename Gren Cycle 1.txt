@@ -6,7 +6,7 @@ Option1:: Are you from Nel'Vari, then?
 Option2:: The Elves have welcomed guests before, right?
 
 Response1:: My family has lived here for years beneath the Grand Tree. We were here before there were enough Elves to even make a city!
-Response2:: Well certainly! They're gracious hosts, the Nel'Vari Elves. Quite a few Amari folk have found wonderful lives here. Something about this place just feels like home to us.
+Response2:: Well, certainly! They're gracious hosts, the Nel'Vari Elves. Quite a few Amari folk have found wonderful lives here. Something about this place just feels like home to us.
 
 Option1a:: You live <i>under</i> the Grand Tree? //Relationship Gren1 2
 Option1b:: That sounds a little... dirty. //Relationship Gren1 -1

@@ -13,7 +13,7 @@ Response1:: Is it HARD? Well, it ain't easy. I'm not the young man I used to be,
 Response2:: Eh... I had some. A brother, a sister. They started their own families and moved off to I-forget-just-where. Me? I'm too busy on the road. No family for this man, nope.
 
 
-Option1a:: I could be your body guard.
+Option1a:: I could be your bodyguard.
 
 Option1b:: Why don't you settle down like Anne?
 
@@ -22,7 +22,7 @@ Response1a:: Now that's an idea, XX. But let's get real, you have your own dutie
 Response1b:: Hmm. I could... but where's the fun in that? Better to be free and on the road than tied down and safe. I'm sure even Anne would agree with that, despite her choice to settle.
 
 
-Option2a:: Aw come on, Sun Haven is your family! //Relationship Rex3 2
+Option2a:: Aw, come on, Sun Haven is your family! //Relationship Rex3 2
 
 Option2b:: That's very sad. //Relationship Rex3 -1
 

@@ -7,12 +7,12 @@ Option1:: What kind of music do you listen to, Claude?
 Option2:: Have you played music for a long time?
 
 
-Response1:: I usually listen to stringed instruments. Sometimes I'll draw inspiration from my records.
+Response1:: I usually listen to stringed instruments. Sometimes I'll draw inspiration from those records.
 
 Response2:: Music has been a companion to me my whole life, even when nobody else was. It feels like eons now...
 
 
-Option1a:: I'd love to hear your favorite records, sometime! //Relationship Claude7 2
+Option1a:: I'd love to hear your favorite records sometime! //Relationship Claude7 2
 
 Option1b:: Sounds kind of boring. I like loud music. //Relationship Claude7 -1 Embarrassed
 

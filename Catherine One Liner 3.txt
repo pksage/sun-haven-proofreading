@@ -1,5 +1,5 @@
 Catherine One Liner 3
 
-Dialogue:: What's that? Oh, yes the carrot in my hat is real. What can I say, I like to have snacks on hand. Or, head!									
+Dialogue:: What's that? Oh, yes, the carrot in my hat is real. What can I say, I like to have snacks on hand. Or head!									
 
 End

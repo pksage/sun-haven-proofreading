@@ -1,6 +1,6 @@
 SolonNeedsMeat
 
-Dialogue:: Hey XX, I've got a job for you. I need some meat.
+Dialogue:: Hey, XX, I've got a job for you. I need some meat.
 
 
 Option1:: Meat?
@@ -8,7 +8,7 @@ Option1:: Meat?
 Option2(Permanent):: How can I help?
 
 
-Response1:: Yeah. Doesn't matter what kind of meat. Doesn't even need to be cooked. I'd do it myself, but I just don't have the time.
+Response1:: Yeah. Doesn't matter what kind of meat. Doesn't even need to be cooked. I'd get it myself, but I just don't have the time.
 
 Response2:: Bring some meat my way and I'll give you some coin.
 

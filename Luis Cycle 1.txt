@@ -11,13 +11,13 @@ Response2:: I get yelled at by children, I clean up sticky messes all day long, 
 Option1a:: You're right, I am a tourist! //Relationship Luis1 -1
 Option1b:: Actually, I live here! //Relationship Luis1 2
 
-Response1a:: Yes, that's obvious. You're so... happy and enthusiastic... ugh. I would throw up, but then I'd have to clean it..
+Response1a:: Yes, that's obvious. You're so... happy and enthusiastic... ugh. I would throw up, but then I'd have to clean it.
 Response1b:: Is that so? Yeesh, they'll let anyone in nowadays... What is this town coming to?
 
 Option2a:: You're being sarcastic.
 Option2b:: Sounds like a dream!
 
 Response2a:: Wow, how very observant. You must be some kind of mastermind.
-Response2b:: Heh, yeah that's me. Living the dream.
+Response2b:: Heh, yeah, that's me. Living the dream.
 
 End

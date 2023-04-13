@@ -11,13 +11,13 @@ Response2:: Oh no, I wouldn't claim this space as my own. It's part of the Grand
 Option1a:: Teaching yourself sounds tough. Good work! //Relationship Slate1 2
 Option1b:: It took you that long?? //Relationship Slate1 -1
 
-Response1a:: Heh, well it's easy when you've got the time. You'll find that many of us in Nel'Vari have a <i>lot</i> of free time. Just talk to Caspian or Quincy and you'll see what I mean.
+Response1a:: Heh, well, it's easy when you've got the time. You'll find that many of us in Nel'Vari have a <i>lot</i> of free time. Just talk to Caspian or Quincy and you'll see what I mean.
 Response1b:: I didn't have a teacher or anything, so I don't think it's that strange...
 
 Option2a:: How come you're the only one working?
 Option2b:: Don't you wish the others would help?
 
-Response2a:: Simply put... it's what I love to do! Showing hospitality and warmth is what Nel'Vari should be all about, so I'm here doing my part.[]Not to mention, I get all the free honeybrew I can drink!
-Response2b:: Not really. Honestly, it's what I love to do! Showing hospitality and warmth is what Nel'Vari should be all about, so I'm here doing my part.[]Not to mention, I get all the free honeybrew I can drink!
+Response2a:: Simply put... it's what I love to do! Showing hospitality and warmth is what Nel'Vari should be all about, so I'm here doing my part.[]Not to mention that I get all the free honeybrew I can drink!
+Response2b:: Not really. Honestly, it's what I love to do! Showing hospitality and warmth is what Nel'Vari should be all about, so I'm here doing my part.[]Not to mention that I get all the free honeybrew I can drink!
 
 End

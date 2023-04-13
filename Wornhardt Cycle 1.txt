@@ -1,6 +1,6 @@
 Wornhardt Cycle 1
 
-Dialogue:: Settling in all right, are we?[]What's on your mind, farmer?
+Dialogue:: Settling in alright, are we?[]What's on your mind, farmer?
 
 Option1:: Have you lived here your whole life, doctor? //Emote none none Happy
 
@@ -16,7 +16,7 @@ Option1a:: Do you miss the Southern Region?
 
 Option1b:: The south? But you're so...  //Emote none Embarrassed
 
-Response1a:: I'll tell you what I do miss, the fruit. Fruit trees grow all over the place down there. I used to pick a free breakfast while walking to work every day! One less thing to worry about, you know?
+Response1a:: I'll tell you what I do miss - the fruit. Fruit trees grow all over the place down there. I used to pick a free breakfast while walking to work every day! One less thing to worry about, you know?
 
 Response1b:: I know what you're going to say - I'm very pale. Believe me, it was a challenge growing up on a tropical island with this complexion.
 
@@ -27,7 +27,7 @@ Option2b:: More people could use a little boredom in their life. //Relationship 
 
 Response2a:: It's a good thing I don't care what some people think!
 
-Response2b:: I agree completely. I always feel better after slowing down and taking a breath. Sun Haven has let me to do that more than ever before.
+Response2b:: I agree completely. I always feel better after slowing down and taking a breath. Sun Haven has let me do that more than ever before.
 
 
 End

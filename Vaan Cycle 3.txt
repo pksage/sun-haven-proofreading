@@ -23,7 +23,7 @@ Response1b:: It's not that simple. That guard has eyes like a hawk. I swear, nob
 
 Option2a:: Do you always deal with your feelings alone?
 
-Option2b:: You can spend time with me, if you need a friend. //Relationship Vaan3 2 Embarrassed
+Option2b:: You can spend time with me if you need a friend. //Relationship Vaan3 2 Embarrassed
 
 Response2a:: I've never thought much about it. But yes, I often seek solitude when I need to process my thoughts. It's how I've always been.
 

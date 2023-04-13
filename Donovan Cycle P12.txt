@@ -18,6 +18,6 @@ Option2a:: Whoever it was, just ignore them. //Relationship DonovanP12 2 Happy
 Option2b:: You have to stop letting it get to you. //Relationship DonovanP12 -1 Embarrassed
 
 Response2a:: Heh. Sure, you're right. Helps to hear you feel the same way, though.
-Response2b:: I wanted some support from a friend, not a lecture. Nevermind, I shouldn't have asked in the first place.
+Response2b:: I wanted some support from a friend, not a lecture. Never mind, I shouldn't have asked in the first place.
 
 End

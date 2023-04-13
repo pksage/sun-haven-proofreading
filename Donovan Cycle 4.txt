@@ -9,7 +9,7 @@ Option2:: If you're bored, tell me the wildest thing that happened to you last w
 
 Response1:: That's a hard question, XX. On the one hand, I'm very bored. On the other, I actually do like you for some reason. I guess I just don't know how to answer the question.
 
-Response2:: Last week... Oh, you've heard of Elementals? People made of fire or ice or whatever? I was sitting on a rock taking a rest and... Yep, it was an elemental.[]This lady was not happy to wake up under my butt, let me tell you. She threw me so far, I landed in a harpy's nest halfway up a tree.[]The upside? Harpy omelettes for breakfast the next day!
+Response2:: Last week... Oh, you've heard of Elementals? People made of fire or ice or whatever? I was sitting on a rock taking a rest and... Yep, it was an Elemental.[]This lady was not happy to wake up under my butt, let me tell you. She threw me so far, I landed in a harpy's nest halfway up a tree.[]The upside? Harpy omelettes for breakfast the next day!
 
 
 Option1a:: What do you mean, "for some reason?" //Emote none Embarrassed

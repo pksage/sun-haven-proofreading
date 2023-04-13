@@ -1,5 +1,5 @@
 Xyla One Liner Fall 1
 
-Dialogue:: That carnival just keeps getting better and better! It must be because <i>I</i> built it, eh XX?
+Dialogue:: That carnival just keeps getting better and better! It must be because <i>I</i> built it, eh, XX?
 
 End

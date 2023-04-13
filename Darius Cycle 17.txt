@@ -5,11 +5,11 @@ Dialogue:: The Moon Dragon once told me that I would forge a strong alliance to 
 Option1:: Do you think that means something?
 Option2:: Have you learned much from the Moon Dragon?
 
-Response1:: Who knows? It could mean a future alliance between our towns. Or, it could mean Withergate's conquest over Sun Haven, as well as the outlying towns.[]There's really no telling. Perhaps I should confer with the Moon Dragon again.
+Response1:: Who knows? It could mean a future alliance between our towns. Or it could mean Withergate's conquest over Sun Haven, as well as the outlying towns.[]There's really no telling. Perhaps I should confer with the Moon Dragon again.
 Response2:: Dynus is extremely knowledgeable, but he is no teacher. He granted me his blessing, which increased my strength well past its natural limits. Other than that, he simply keeps the skies dark.
 
 Option1a:: I can't believe you would threaten to overthrow Sun Haven! //Relationship Darius17 -1 Mad
-Option1b:: We will figure it out together, when the time comes. //Relationship Darius17 2
+Option1b:: We will figure it out together when the time comes. //Relationship Darius17 2
 
 Response1a:: If you let sentiment hold you back, XX, you will have a difficult time adjusting to leadership.
 Response1b:: Precisely. You already have the makings of a true ruler, XX. You're ruthless and decisive, but you also know when patience is needed.

@@ -4,7 +4,7 @@ Dialogue:: Finally, someone I can talk to.[]Guess what, XX... I finally saw Elio
 
 Option1:: How'd it go??
 
-Option2:: So do you feel like a "Sun Haven Local" now?
+Option2:: So do you feel like a "Sun Haven local" now?
 
 
 Response1:: Elios is so huge! I knew he'd be big, but it was pretty unnerving to stand right in front of him.[]But of course everything went fine. I didn't get any blessing, but he did tell me some really nice things.
@@ -25,7 +25,7 @@ Option2a:: You're fitting in fine! //Relationship Lynn7 2 Happy
 
 Option2b:: I could tell you were having some trouble. //Relationship Lynn7 -1 Sad
 
-Response2a:: Aw, really? Maybe I'm just overthinking again. Thanks XX.
+Response2a:: Aw, really? Maybe I'm just overthinking again. Thanks, XX.
 
 Response2b:: You can tell? Maybe I really am the odd girl out here.
 

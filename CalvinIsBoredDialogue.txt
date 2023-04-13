@@ -8,7 +8,7 @@ Option1:: Where can I find this book?
 Option2(Permanent):: What kind of book do you want?
 
 
-Response1:: If you chop a tree down and make paper out of it, you could make one from scratch. Or just go to the library... that's probably a better idea.[]Try not to get sidetracked, would you? The safety of all at Sun Haven is at stake, here.
+Response1:: If you chop a tree down and make paper out of it, you could make one from scratch. Or just go to the library... that's probably a better idea.[]Try not to get sidetracked, would you? The safety of all of Sun Haven is at stake, here.
 
 Response2:: Something to keep me awake. Maybe something funny? Look for a <color=#39CCFF>Joke Book</color>, if they have one.
 

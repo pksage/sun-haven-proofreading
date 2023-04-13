@@ -1,6 +1,6 @@
 Anne Cycle 10
 
-Dialogue:: Hey XX. Have you put on some muscle? You look really good!
+Dialogue:: Hey, XX. Have you put on some muscle? You look really good!
 
 Option1:: I haven't asked, what kind of music do you listen to?
 
@@ -29,7 +29,7 @@ Option2b:: Actually, maybe that's not the best idea.
 
 Response2a:: Then let's do it! Come by my cart at 4:00 pm tomorrow.
 
-Response2b:: Oh... really? Well, all right then XX. If that's what you think.
+Response2b:: Oh... really? Well, alright then, XX. If that's what you think.
 
 
 End

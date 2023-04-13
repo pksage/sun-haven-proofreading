@@ -21,7 +21,7 @@ Response1a:: Of course, I should have guessed that one.
 Response1b:: Ah, XX! You're too good at making me blush!
 
 
-Option2a:: Aw Jun, you're going to be the best dad one day! //Relationship Jun12 2 Happy
+Option2a:: Aw, Jun, you're going to be the best dad one day! //Relationship Jun12 2 Happy
 
 Option2b:: I don't know how you can stand being around kids that much. //Relationship Jun12 -1 Sad
 

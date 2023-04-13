@@ -11,13 +11,13 @@ Response2:: What's wrong with it? Maybe it's no good as real armor, but I don't 
 Option1a:: You don't seem like the others. //Relationship Clay1 2
 Option1b:: You haven't been here long, have you? //Relationship Clay1 -1
 
-Response1a:: Aw, I'm still not talking right huh? Wesley told me my tone of voice is too rough for this place. I get that it's a nice town and all, but people gotta let people be themselves.
+Response1a:: Aw, I'm still not talking right, huh? Wesley told me my tone of voice is too rough for this place. I get that it's a nice town and all, but people gotta let people be themselves.
 Response1b:: Actually, I used to live in a place called Withergate. Then I got lost and ended up in the forest near here where Rel'Tar picked me up. I was surprised to see Amari and Elves living so nicely with each other, so I just had to stay!
 
 Option2a:: At least you like it.
 Option2b:: It looks weird.
 
 Response2a:: I like it plenty. One of the Elves said it suits me, so I stuck with it. Maybe that's a weak argument, but it's not every day I get a compliment like that.
-Response2b:: Well I like it plenty. One of the Elves said it suits me, so I stuck with it. Maybe that's a weak argument, but it's not every day I get a compliment like that.
+Response2b:: Well, I like it plenty. One of the Elves said it suits me, so I stuck with it. Maybe that's a weak argument, but it's not every day I get a compliment like that.
 
 End

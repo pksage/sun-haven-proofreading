@@ -4,7 +4,7 @@ Dialogue:: XX, I had hoped to run into you today. Why? Oh, for no reason in part
 
 Option1:: Lucia, you're giving me a look. //Emote none Embarrassed
 
-Option2:: So, can I start calling you cinderhead now that we're officially dating? //Emote none Happy
+Option2:: So can I start calling you cinderhead now that we're officially dating? //Emote none Happy
 
 
 Response1:: Yes indeed I am! I'm just a bit nervous. I've brought you a gift!
@@ -16,9 +16,9 @@ Option1a:: What is it? //AddItem none Lucia'sFireOrb 1
 
 Option1b:: What a surprise! //AddItem none Lucia'sFireOrb 1
 
-Response1a:: This is a charm to boost your magical abilities. I know you're blessed just as I am, but this charm will bring your power to the next level.[]I made this myself when I was still young and lacked control. I don't use it much because it's more powerful than I need. I believe it could prove useful to you!
+Response1a:: This is a charm to boost your magical abilities. I know you're Blessed just as I am, but this charm will bring your power to the next level.[]I made this myself when I was still young and lacked control. I don't use it much because it's more powerful than I need. I believe it could prove useful to you!
 
-Response1b:: This is a charm to boost your magical abilities. I know you're blessed just as I am, but this charm will bring your power to the next level.[]I made this myself when I was still young and lacked control. I don't use it much because it's more powerful than I need. I believe it could prove useful to you!
+Response1b:: This is a charm to boost your magical abilities. I know you're Blessed just as I am, but this charm will bring your power to the next level.[]I made this myself when I was still young and lacked control. I don't use it much because it's more powerful than I need. I believe it could prove useful to you!
 
 
 Option2a:: Fine, I won't call you cinderhead... in public. //Relationship Lucia10 2 Happy

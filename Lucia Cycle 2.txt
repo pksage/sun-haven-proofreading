@@ -25,9 +25,9 @@ Option2a:: What everyday things can be done with fire magic?
 
 Option2b:: Do you think your job is easier because of your magic?
 
-Response2a:: Well firstly, I never need a lantern. I also power the lighthouse with a charm that lasts through each night.[]Oh yes, and I keep all of the torches in town alight when it rains. It's actually quite fun for me to walk through the rain and hear it sizzle away on my skin.
+Response2a:: Well, firstly, I never need a lantern. I also power the lighthouse with a charm that lasts through each night.[]Oh yes, and I keep all of the torches in town alight when it rains. It's actually quite fun for me to walk through the rain and hear it sizzle away on my skin.
 
-Response2b:: Certainly, it gives me an advantage. However, Sun Haven needs any and all advantages it can get right now.
+Response2b:: Certainly it gives me an advantage. However, Sun Haven needs any and all advantages it can get right now.
 
 
 End

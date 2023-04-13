@@ -1,5 +1,5 @@
 Nathaniel One Liner Dating 5
 
-Dialogue:: To be honest with you XX, I'm really trying not to screw this up with you.																									
+Dialogue:: To be honest with you, XX, I'm really trying not to screw this up with you.																									
 
 End

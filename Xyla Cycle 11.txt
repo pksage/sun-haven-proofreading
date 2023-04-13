@@ -1,6 +1,6 @@
 Xyla Cycle 11
 
-Dialogue:: You just can't stay away, can you XX?
+Dialogue:: You just can't stay away, can you, XX?
 
 Option1:: I could stay away, but I'd rather go on a date with you.
 

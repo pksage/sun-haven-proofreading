@@ -2,14 +2,14 @@ Zuri Cycle 1
 
 Dialogue:: How's tricks?
 
-Option1:: Why are you running this ferris wheel anyway?
+Option1:: Why are you running this Ferris wheel, anyway?
 Option2:: How did you end up here?
 
-Response1:: I used to loooove ferris wheels as a living girl. I guess even in the afterlife some things never change, eh?
+Response1:: I used to loooove Ferris wheels as a living girl. I guess even in the afterlife some things never change, eh?
 Response2:: After I passed, I finally had time to visit all the theme parks I'd dreamed of visiting. It's a lot cheaper when you're dead![]I finally found Withergate's carnival, and it's the best one I've seen by far. I figure, why not stick around and enjoy it, eh?
 
 Option1a:: Don't you think it's time to move on? //Relationship Zuri1 -1
-Option1b:: I love the ferris wheel, too. //Relationship Zuri1 2
+Option1b:: I love the Ferris wheel, too. //Relationship Zuri1 2
 
 Response1a:: Nah, but maybe it's time for <i>you</i> to move on.
 Response1b:: Glad to see someone still appreciates the classic rides. The view from the top is too good to pass up!

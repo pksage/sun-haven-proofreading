@@ -8,7 +8,7 @@ Option2:: What did this person want?
 Response1:: Yeah? I knew you would believe Kitty, XX! Thank you for always being good to me, nya.[]The man said his name was Vaan. He was an Elf from the forest!
 Response2:: I don't think he wanted anything, nya. He said he was only visiting. But he hid from the guards when they came by, and then he left! He was a funny guy, hehe.
 
-Option1a:: Okay, now your story is getting a little far fetched. //Relationship Kitty18 -1 Mad
+Option1a:: Okay, now your story is getting a little far-fetched. //Relationship Kitty18 -1 Mad
 Option1b:: I hope he was nice to you. //Relationship Kitty18 2 Happy
 
 Response1a:: Nyan!? You don't believe me after all...

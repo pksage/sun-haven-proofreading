@@ -1,5 +1,5 @@
 Scott Intro One Liner 1
 
-Dialogue:: This is a nice little town, I think I'll make it a regular stop.									
+Dialogue:: This is a nice little town. I think I'll make it a regular stop.									
 
 End

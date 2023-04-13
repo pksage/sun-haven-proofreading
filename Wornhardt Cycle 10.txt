@@ -1,18 +1,18 @@
 Wornhardt Cycle 10
 
-Dialogue:: Hey XX, I was just thinking about you. Actually, you've been on my mind a lot lately.
+Dialogue:: Hey, XX, I was just thinking about you. Actually, you've been on my mind a lot lately.
 
 Option1:: Oh yeah? I hope they've been good thoughts.
 
 Option2:: I've been thinking about you a lot, too.
 
 
-Response1:: They definitely have been. In fact XX, I was actually hoping that we could maybe go out on a date.
+Response1:: They definitely have been. In fact, XX, I was actually hoping that we could maybe go out on a date.
 
 Response2:: I trust that you're not thinking poorly of me, but the little voice in my head can't help but worry.
 
 
-Option1a:: Actually Wornhardt, I don't think we should. //Relationship Wornhardt10 -1 Sad
+Option1a:: Actually, Wornhardt, I don't think we should. //Relationship Wornhardt10 -1 Sad
 
 Option1b:: That sounds wonderful! //Quest none WornhardtHangout2Quest
 
@@ -21,13 +21,13 @@ Response1a:: Oh... is that so? That's okay. Just forget I asked. //Emote none Sa
 Response1b:: Fantastic! Meet me at my house tomorrow at 5:00 pm. XX, this is going to be great!
 
 
-Option2a:: Don't worry Wornhardt, I only have positive thoughts about you. //Emote none Happy
+Option2a:: Don't worry, Wornhardt, I only have positive thoughts about you. //Emote none Happy
 
 Option2b:: Sometimes I do think of you in a romantic way.
 
 Response2a:: Heh... you don't know how much of a relief it is to hear you say that.
 
-Response2b:: Oh? Well now I'm really curious! If it's gushy romantic stuff, you don't need to be embarrassed.[]We're adults, XX. We've all seen gushy romance before, and we all know how embarrassing it is!
+Response2b:: Oh? Well, now I'm really curious! If it's gushy romantic stuff, you don't need to be embarrassed.[]We're adults, XX. We've all seen gushy romance before, and we all know how embarrassing it is!
 
 
 End

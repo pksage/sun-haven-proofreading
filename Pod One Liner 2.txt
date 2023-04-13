@@ -1,5 +1,5 @@
 Pod One Liner 2
 
-Dialogue:: Topi is my friend. Maybe even my best friend! No wait, that's mama.																																																																																																																																				
+Dialogue:: Topi is my friend. Maybe even my best friend! No wait, that's Mama.																																																																																																																																				
 
 End

@@ -1,6 +1,6 @@
 Donovan Cycle 8
 
-Dialogue:: Hey XX! I'm short on time today so if you wanna talk, better make it snappy.
+Dialogue:: Hey XX! I'm short on time today, so if you wanna talk, better make it snappy.
 
 Option1:: You know, we should we hang out. Just the two of us.
 
@@ -16,7 +16,7 @@ Option1a:: I'm going to go ahead and call this a date right away. //Quest none D
 
 Option1b:: It's better if we don't.
 
-Response1a:: Haha! XX, you're so weird. Sure, it's a date then. Meet me in the sewers right outside my house by 12:00 tomorrow. I've already got ideas!
+Response1a:: Haha! XX, you're so weird. Sure, it's a date, then. Meet me in the sewers right outside my house by 12:00 tomorrow. I've already got ideas!
 
 Response1b:: Suit yourself. I'll have more fun on my own, anyway.
 

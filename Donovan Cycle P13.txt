@@ -1,18 +1,18 @@
 Donovan Cycle P13
 
-Dialogue:: Man, I'm tired. The castle held some big royal parade after midnight the other day. Imagine, the castle guards all stomping down the streets non-stop![]My sewer was shaking the whole time, and it took forever to get to sleep!
+Dialogue:: Man, I'm tired. The castle held some big royal parade after midnight the other day. Imagine, the castle guards all stomping down the streets nonstop![]My sewer was shaking the whole time, and it took forever to get to sleep!
 
 Option1:: A military parade sounds out of place for Withergate.
 Option2:: How did you finally get to sleep?
 
 Response1:: Oh, trust me, everyone pretty much feels the same way. No one really wants to watch a big, boring parade of armored stiffs walk up and down the streets.
-Response2:: I figured I'd wait it out, at first. But they never stopped. Finally I just went out into the forest and found a good log to snooze on.[]It's been awhile since I slept outside and I thought that would be as good a reason to as any.
+Response2:: I figured I'd wait it out, at first. But they never stopped. Finally I just went out into the forest and found a good log to snooze on.[]It's been a while since I slept outside, and I thought that would be as good a reason to as any.
 
 Option1a:: What's the point of a parade? //Emote none Mad
 Option1b:: Minos probably likes flaunting his power. //Emote none Mad
 
 Response1a:: I guess it was to "celebrate Withergate's sovereignty," whatever that means. It sounds like a bunch of goblin cake to me.[]Just the king flexing his power, and keeping me awake! 
-Response1b:: See, that's what I said! The parade was supposed to "celebrate Withergate's sovereignty", whatever that means.[]Like you said, though, it was just the king showing off his power, and keeping me awake!  
+Response1b:: See, that's what I said! The parade was supposed to "celebrate Withergate's sovereignty," whatever that means.[]Like you said, though, it was just the king showing off his power, and keeping me awake!  
 
 Option2a:: Desperate times call for Donovan solutions. //Relationship DonovanP13 2 Happy
 Option2b:: Maybe you'd have slept better if you had an apartment. //Relationship DonovanP13 -1 Mad

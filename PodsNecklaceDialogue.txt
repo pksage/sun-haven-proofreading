@@ -8,9 +8,9 @@ Option1:: A necklace?
 Option2(Permanent):: What do you need me to do?
 
 
-Response1:: Mama likes seashells so I want to make a necklace with seashells and fishing string. I already have the string. I found it in the garbage!
+Response1:: Mama likes seashells, so I want to make a necklace with seashells and fishing string. I already have the string. I found it in the garbage!
 
-Response2:: I'm not allowed at the beach on my own but I need seashells. Bring me <color=#39CCFF>5 Clams</color> so I can make a really good necklace. I mean, please!
+Response2:: I'm not allowed at the beach on my own, but I need seashells. Bring me <color=#39CCFF>5 Clams</color> so I can make a really good necklace. I mean - please!
 
 
 Option2a:: I'm on it, Pod. //Quest none PodsNecklaceQuest

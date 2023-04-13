@@ -28,6 +28,6 @@ Option2b:: How do you choose which art form to practice?
 
 Response2a:: I haven't been sculpting that long, but I'm completely obsessed with it. I'm probably just in the honeymoon phase, though. I'm sure I'll discover something new in a couple months.
 
-Response2b:: When something new finds me, I become completely obsessed with it. I know I'm just in the honeymoon phase with sculpting right now.  I'll probably discover something new in a couple months.
+Response2b:: When something new finds me, I become completely obsessed with it. I know I'm just in the honeymoon phase with sculpting right now. I'll probably discover something new in a couple months.
 
 End

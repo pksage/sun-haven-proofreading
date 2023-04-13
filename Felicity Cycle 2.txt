@@ -17,7 +17,7 @@ Response1b:: Is that so? Then it sounds like they NEED someone like me down ther
 Option2a:: I'm from the Great City, too!
 Option2b:: Small world. I'm also from the Great City.
 
-Response2a:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
-Response2b:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
+Response2a:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari, and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
+Response2b:: Get. Out. No way!! Well, I guess it's not too surprising. It IS the biggest city in the world, after all. Or at least in the Four Regions.[]So you know exactly how Demons, Humans, Amari, and everyone else can ALL get along just fine with each other! People around Withergate don't like Sun Haven... but they REALLY don't like the Great City, either. It's so sad.
 
 End

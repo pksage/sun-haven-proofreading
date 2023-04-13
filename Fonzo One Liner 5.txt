@@ -1,5 +1,5 @@
 Fonzo One Liner 5
 
-Dialogue:: Nel'Vari itself is a natural sanctuary but I still help the animals when I can.			 																																																																
+Dialogue:: Nel'Vari itself is a natural sanctuary, but I still help the animals when I can.			 																																																																
 
 End

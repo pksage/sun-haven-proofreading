@@ -8,7 +8,7 @@ Option2:: Is marriage everything you thought it would be? //Emote none Happy
 Response1:: Hehe, oh yeah? Then I guess this is the first chapter of our story together.
 Response2:: You know, I never thought about it that much. I only wanted to be in love and connect with someone on a deep level.[]I think I really have that with you, XX. So I suppose marriage really is everything I thought it would be! 
 
-Option1a:: Let's make it's a fun story! //Emote none Romantic
+Option1a:: Let's make it a fun story! //Emote none Romantic
 Option1b:: It will be the first of many. //Emote none Romantic
 
 Response1a:: Oh, XX. I was lucky to marry someone like you. I knew it all along. 

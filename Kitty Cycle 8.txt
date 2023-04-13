@@ -9,7 +9,7 @@ Option2:: Kitty, what do you like most about your work?
 
 Response1:: I've had fun with you too, XX! We should go out together, nya! Like, on a date!
 
-Response2:: Oh, sooo many things. The pet store looks so cute on the outside. But even most of all is the adorable animals! I always get along with animals so it's easy and fun for me, nya.
+Response2:: Oh, sooo many things. The pet store looks so cute on the outside. But even most of all is the adorable animals! I always get along with animals, so it's easy and fun for me, nya.
 
 
 Option1a:: Would you like to go out tomorrow?  //Quest none KittyHangout2Quest

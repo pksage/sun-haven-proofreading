@@ -1,6 +1,6 @@
 Rel'Tar Cycle 1
 
-Dialogue:: Welcome back, traveler. Enjoying the fruits of Nel'Vari? Or, is this about business?
+Dialogue:: Welcome back, traveler. Enjoying the fruits of Nel'Vari? Or is this about business?
 
 
 Option1:: Where did you learn to make crossbows?
@@ -17,9 +17,9 @@ Option1a:: I can see that - I can't wait to try one out! //Relationship Rel'Tar1
 
 Option1b:: I'll believe it when I see it. //Relationship Rel'Tar1 -1
 
-Response1a:: Heh, I see you appreciate quality gear. That makes sense for a traveler. And yet, you strike me as more than the average adventuring-type.[]Anyway, I'm happy to help you however I can. Maybe one day you can help me out, too.
+Response1a:: Heh, I see you appreciate quality gear. That makes sense for a traveler. And yet, you strike me as more than the average adventuring type.[]Anyway, I'm happy to help you however I can. Maybe one day you can help me out, too.
 
-Response1b:: All right, don't take me at my word then. The evidence is right in front of you.
+Response1b:: Alright, don't take me at my word, then. The evidence is right in front of you.
 
 
 Option2a:: What do you mean by that?

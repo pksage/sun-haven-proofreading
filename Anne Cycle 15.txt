@@ -7,7 +7,7 @@ Option2:: Anne, are you happy with our relationship?
 
 Response1:: Our future? I've got a plan for my own future, XX.[]If your future plan joins with mine, then great! But I'm not changing course anytime soon.
 
-Response2:: Whoa - that was out of the blue! What, you think I'll leave you for a business opportunity or something?[]Sure, my life is a constant race with money at the goal, but that's business. And I still want to race, you know?[]But now I have you and suddenly I find myself thinking of something other than the next big score.[]Wow... I wasn't even sure of that until I said it out loud!
+Response2:: Whoa - that was out of the blue! What, you think I'll leave you for a business opportunity or something?[]Sure, my life is a constant race with money at the goal, but that's business. And I still want to race, you know?[]But now I have you, and suddenly I find myself thinking of something other than the next big score.[]Wow... I wasn't even sure of that until I said it out loud!
 
 Option1a:: I would expect nothing less from you, Anne.
 
@@ -24,6 +24,6 @@ Option2b:: Maybe what you need is a partner in your race. //Relationship Anne15 
 
 Response2a:: Nope. Never have, never will. If you ever want to have a life with me down the road, you have to consider that.
 
-Response2b:: Aw, using my own analogy to say something sweet! Unoriginal, but sweet. I knew there was a reason I fell for you, XX.[]Maybe you're right - maybe I could use a partner like you in my race. But if you join me, it has to be for good.[]Are you getting the hint, XX? Well here's another - I could really use a new ring! 
+Response2b:: Aw, using my own analogy to say something sweet! Unoriginal, but sweet. I knew there was a reason I fell for you, XX.[]Maybe you're right - maybe I could use a partner like you in my race. But if you join me, it has to be for good.[]Are you getting the hint, XX? Well, here's another - I could really use a new ring! 
 
 End

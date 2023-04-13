@@ -9,7 +9,7 @@ Option2:: You look really tired. What were you doing yesterday?
 
 Response1:: Work? I try not to! I just do odd jobs when they come up. And if some treasure happens to cross my path, you can bet I'll take it. A dog's gotta eat, you know.
 
-Response2:: I'm fine. I was just looking for griffon eggs is all. There's a man who sells them as pets, but someone robbed him of his nest. So, I went out looking for them.[]I couldn't find them, so I'm going to go back out there tomorrow. It's a shame what happened to this guy.
+Response2:: I'm fine. I was just looking for griffon eggs, is all. There's a man who sells them as pets, but someone robbed him of his nest. So I went out looking for them.[]I couldn't find them, so I'm going to go back out there tomorrow. It's a shame what happened to this guy.
 
 
 Option1a:: You just sound lazy. //Relationship Donovan3a -1

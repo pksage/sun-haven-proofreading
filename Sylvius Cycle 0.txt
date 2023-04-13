@@ -1,6 +1,6 @@
 Sylvius Cycle 0
 
-Dialogue:: Hi, I'm Sylvius. My sister and I are the best merchants out of Nel'Vari. 
+Dialogue:: Hi, I'm Sylvius. My sister and I are the best merchants in Nel'Vari. 
 
 Option1:: Hi there, my name's XX.
 

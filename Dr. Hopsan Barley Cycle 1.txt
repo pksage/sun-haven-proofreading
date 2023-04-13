@@ -19,14 +19,14 @@ Option1b:: What is the best drink you've made?
 
 Response1a:: But of course! I'm preparing an ale that will be nothing short of perfection. I can already taste it - bittersweet and refreshing...[]Nothing motivates me more than the thought of that first, crisp sip of golden ale!
 
-Response1b:: The best drink is the one I've yet to make! I'm preparing an ale that will be nothing short of perfection. I can already taste it - bittersweet, crisp and refreshing...[]Every night I dream of that first sip of fizzy golden ale!
+Response1b:: The best drink is the one I've yet to make! I'm preparing an ale that will be nothing short of perfection. I can already taste it - bittersweet, crisp, and refreshing...[]Every night I dream of that first sip of fizzy golden ale!
 
 
 Option2a:: I'd say you fit in just fine here. //Relationship Dr. Hopsan Barley1 2
 
 Option2b:: I don't know if I would call you a "regular" house cat. //Relationship Dr. Hopsan Barley1 -1
 
-Response2a:: You think so, do you? Well that's good, then! I don't want to seem unapproachable to the people here.
+Response2a:: You think so, do you? Well, that's good, then! I don't want to seem unapproachable to the people here.
 
 Response2b:: What in the world do you mean? Is it the goggles?
 

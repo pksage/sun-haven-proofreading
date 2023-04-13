@@ -15,9 +15,9 @@ Response1a:: I simply thought that, since you found your way to Nel'Vari in the 
 Response1b:: That's surprising. I thought that, since you found your way to Nel'Vari in the first place, you would have been a well-traveled adventurer. You still have a lot to learn, it seems.
 
 Option2a:: You make your own food <i>and</i> you tell jokes? //Relationship Reed1 2
-Option2b:: That's the funniest joke I ever heard a plant make! //Relationship Reed1 -1
+Option2b:: That's the funniest joke I've ever heard a plant make! //Relationship Reed1 -1
 
 Response2a:: I suppose all that extra time lets my mind wander. I'm bound to stumble on a joke here or there.
-Response2b:: Please, don't insult my intelligence. Plants are mindless beings. I am Amari, not plant. 
+Response2b:: Please don't insult my intelligence. Plants are mindless beings. I am Amari, not plant. 
 
 End

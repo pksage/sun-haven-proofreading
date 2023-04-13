@@ -17,7 +17,7 @@ Option1a:: Has anyone else seen it?
 
 Option1b:: Where did you see it?
 
-Response1a:: No, I was alone. Well, I had my friend with me but he was knocked unconscious by a golem. I barely got us out of there alive!
+Response1a:: No, I was alone. Well, I had my friend with me, but he was knocked unconscious by a golem. I barely got us out of there alive!
 
 Response1b:: I can't be sure because it was so dark. I wandered alone for two days before I found the road back to Sun Haven.
 
@@ -26,7 +26,7 @@ Option2a:: Your parents were lucky to have you. //Relationship Raimi2 2
 
 Option2b:: You've never had any professional lessons? //Relationship Raimi2 -1 
 
-Response2a:: Thanks farmer. Not to get a big head about it, but I'm real proud of being a provider! It feels good to give back.
+Response2a:: Thanks, farmer. Not to get a big head about it, but I'm real proud of being a provider! It feels good to give back.
 
 Response2b:: You're not hearing me, farmer - I <i>am</i> the professional in this situation.
 

@@ -5,11 +5,11 @@ Dialogue:: You've had your powers for some time now, XX. How are you adjusting?
 Option1:: I think I'm pretty comfortable with my powers. //Emote none Happy
 Option2:: How long did it take you to adjust to your powers, Lucia?
 
-Response1:: Well, as one Blessed to another, I'm glad to hear that! You're going to develop into an incredibly powerful individual some day, XX. It's good to have you on our side!
-Response2:: Well you should remember that I was training my powers as a little girl. But maybe that's not quite what you meant.[]I'd say it took a year or two to finally adjust to actually having powers. To feel like they weren't just something to keep under control, and instead were truly part of me.
+Response1:: Well, as one Blessed to another, I'm glad to hear that! You're going to develop into an incredibly powerful individual someday, XX. It's good to have you on our side!
+Response2:: Well, you should remember that I was training my powers as a little girl. But maybe that's not quite what you meant.[]I'd say it took a year or two to finally adjust to actually having powers. To feel like they weren't just something to keep under control, and instead were truly part of me.
 
 Option1a:: It's good to be on your side, too! //Relationship LuciaP14 2 Happy
-Option1b:: Well what if I... decided to switch sides? //Relationship LuciaP14 -1 Mad
+Option1b:: Well, what if I... decided to switch sides? //Relationship LuciaP14 -1 Mad
 
 Response1a:: With our powers put together, we'll secure the future of Sun Haven!
 Response1b:: If that's your idea of a joke, I really don't appreciate it. You shouldn't joke about using your powers like that, XX.

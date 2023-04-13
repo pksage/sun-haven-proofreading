@@ -7,7 +7,7 @@ Option1:: Why should you win? //Emote none Mad
 Option2:: Hey, the carnival was your doing.
 
 
-Response1:: Because it's <i>my</i> carnival! Without me, there wouldn't be any prizes to win in the first place. And now I can't even win one.[]Well forget it, I don't need any of those dumb plushies anyway.
+Response1:: Because it's <i>my</i> carnival! Without me, there wouldn't be any prizes to win in the first place. And now I can't even win one.[]Well, forget it, I don't need any of those dumb plushies anyway.
 
 Response2:: Exactly! That's why it's so stupid that I can't win the darn games. I've seen Donovan walk out of the carnival grounds with his arms full of toys. What's he doing that I'm not??
 
@@ -27,7 +27,7 @@ Option2b:: Maybe he's cheating.
 
 Response2a:: Hmph. I don't have time to practice these games all day. It must be nice, not working a steady job. I really don't know how that fleabag survives here.
 
-Response2b:: Maybe... nah, that doesn't seem like his style. I don't know him too well but he doesn't seem dishonest to me.
+Response2b:: Maybe... nah, that doesn't seem like his style. I don't know him too well, but he doesn't seem dishonest to me.
 
 
 End

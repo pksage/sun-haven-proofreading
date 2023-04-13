@@ -4,7 +4,7 @@ Dialogue:: Is it just me, or does Sun Haven feel like a different town than it d
 
 Option1:: So then, what's the next step for your future?
 
-Option2:: Nathaniel, What's your proudest moment?
+Option2:: Nathaniel, what's your proudest moment?
 
 
 Response1:: You mean after the service? Hm, I don't really know.[]Maybe I really could try to be a sailor.
@@ -23,7 +23,7 @@ Response1b:: If my military time has taught me anything, it's that I can do anyt
 
 Option2a:: That's a pretty heroic story... I guess.
 
-Option2b:: Monster or not, you sprung into action! //Relationship Nathaniel8 2 Happy
+Option2b:: Monster or not, you sprang into action! //Relationship Nathaniel8 2 Happy
 
 Response2a:: It was an important moment for me, so I don't even care what anyone else thinks about it.
 

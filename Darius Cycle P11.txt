@@ -11,13 +11,13 @@ Response2:: Running Withergate is always a challenge. Which is why mistakes are 
 Option1a:: You should take it easier on her. //Relationship DariusP11 -1 Mad
 Option1b:: Well, small mistakes can add up. //Relationship DariusP11 2
 
-Response1a:: Feh! "Take it easy on her?" Mercy is a key ingredient in laziness. Xyla's job is too important to allow her to slip up...[]Today it might be a small blunder, then tomorrow it might be the city's undoing.  
+Response1a:: Feh! "Take it easy on her?" Mercy is a key ingredient in laziness. Xyla's job is too important to allow her to slip up...[]Today it might be a small blunder, but tomorrow it might be the city's undoing.  
 Response1b:: I'm glad you understand, XX. Maybe it makes me harsh, but so what? I'm not trying to be the nicest Demon in Withergate.[]Sometimes the hand that rules must do so... sternly. 
 
 Option2a:: What about the times when you mess up? //Emote none Mad
 Option2b:: Doesn't seem like such a big deal. //Relationship DariusP11 -1 Mad
 
-Response2a:: Don't you think I hold myself to the same standards? I can't make any mistakes, either. I am prince, soon to be king. Every problem is ultimately my responsibility.
+Response2a:: Don't you think I hold myself to the same standards? I can't make any mistakes either. I am prince, soon to be king. Every problem is ultimately my responsibility.
 Response2b:: I came to believe you had better foresight, XX. It seems, however, that you merely long for the days when your opinion meant nothing to me. 
 
 End

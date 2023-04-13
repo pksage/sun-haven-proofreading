@@ -1,8 +1,8 @@
 Vaan Cycle P13
 
-Dialogue:: I've been making strides in my work with Nivara lately. You should spend some time with the World Dragon if you're ever feeling lost, spiritually.
+Dialogue:: I've been making strides in my work with Nivara lately. You should spend some time with the World Dragon if you're ever feeling spiritually lost.
 
-Option1:: I thought you already mastered your magic?
+Option1:: I thought you'd already mastered your magic?
 Option2:: Are you very spiritual, Vaan?
 
 Response1:: Sure I have, but Nivara still has plenty to teach. Her wisdom spans farther than just magic, anyway.[]I'm talking about spirituality, XX! You must be slightly familiar with the concept.

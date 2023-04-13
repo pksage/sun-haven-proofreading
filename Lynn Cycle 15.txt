@@ -18,14 +18,14 @@ Option1b:: I'll never forget the train we met on, at any rate.
 
 Response1a:: Heheh, either fate or good timing! Maybe we'll never know for sure, but that's okay, XX. We're together now.
 
-Response1b:: Me either. I was still so nervous that day. Meeting you helped me feel a lot easier, so maybe it was only natural we bonded so well. It's still romantic, though!
+Response1b:: Me either. I was still so nervous that day. Meeting you helped me feel a lot better, so maybe it was only natural we bonded so well. It's still romantic, though!
 
 
 Option2a:: I see. //Relationship Lynn15 -1 Sad
 
 Option2b:: I see the same thing. //Relationship Lynn15 2 Happy
 
-Response2a:: Maybe you don't feel the same way right now? It's okay, XX. I'm going to be here for you, as soon as you do.
+Response2a:: Maybe you don't feel the same way right now? It's okay, XX. I'm going to be here for you as soon as you do.
 
 Response2b:: Oh, XX, I don't even know what to say right now!! I won't rush you... just try and surprise me, okay?!
 

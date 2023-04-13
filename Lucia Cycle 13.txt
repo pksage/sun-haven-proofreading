@@ -2,7 +2,7 @@ Lucia Cycle 13
 
 Dialogue:: You make Sun Haven feel more like home than ever before. I didn't think that was a possibility!
 
-Option1:: Do you think people will talk about you, marrying a farmer?
+Option1:: Do you think people will talk about you marrying a farmer?
 
 Option2:: You seem more relaxed these days.
 
@@ -14,7 +14,7 @@ Response2:: I'm sure I know why that is - don't act coy, clearly I'm talking abo
 
 Option1a:: I don't know, I wouldn't want to hurt your career. //Relationship Lucia13 -1 Mad
 
-Option1b:: You're right, it's none of their business //Relationship Lucia13 2
+Option1b:: You're right, it's none of their business. //Relationship Lucia13 2
 
 Response1a:: My career is mine alone to worry about. Focus on your own problems, XX.
 

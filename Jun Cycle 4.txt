@@ -1,6 +1,6 @@
 Jun Cycle 4
 
-Dialogue:: You're looking energetic today - you must have slept well, huh?[]One of the first things I tell my clients is, good sleep is key to a healthy attitude!
+Dialogue:: You're looking energetic today - you must have slept well, huh?[]One of the first things I tell my clients is that good sleep is key to a healthy attitude!
 
 Option1:: What made you want to be a counselor to begin with?
 

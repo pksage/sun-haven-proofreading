@@ -12,29 +12,29 @@ Option:: Sigh loudly.
 
 Response:: <i>You hype the machine up, attempting to get it to run a few laps around the city with you... but the machine doesn't do so much as budge an inch. Ghosts must not respond to exercising.</i>
 
-Response:: <i>You quickly chant powerful words of exorcism. "Be gone, ghosts. Get out of here. Leave. Go away."</i>[]<i>It works! The ghosts take off, the exorcism was a success!</i>
+Response:: <i>You quickly chant powerful words of exorcism. "Be gone, ghosts. Get out of here. Leave. Go away."</i>[]<i>It works! The ghosts take off, and the exorcism was a success!</i>
 
 Response:: <i>You throw your arms up and sigh with abandon. The ghosts make fun of you. Oh, and you never get your potion.</i>
 
 
-LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i> [] <i>The machine falls into a portal leading to another dimension!</i>
+LeadIn:: <i>Mechanical gears whirr and click into place... something must be working! But then...</i>[]<i>The machine falls into a portal leading to another dimension!</i>
 
 
 Option:: Wait it out.
 
 Option:: Go in after it. //RIGHTANSWER
 
-Option:: Dance awkardly.
+Option:: Dance awkwardly.
 
 
 Response:: <i>You're not going in that weird cross-dimensional portal. You decide to wait right there for the machine to reappear.</i>[]<i>...After awhile, it dawns on you that maybe waiting won't do any good.</i>
 
-Response:: <i>Refusing to go away empty handed, you boldly leap into the portal and follow the wayward machine.</i>[]<i>What occurs next is an epic adventure spanning a strange and wonderful new world... though upon reappearing back in Withergate, you lose all memory of your escapades.</i>
+Response:: <i>Refusing to go away empty-handed, you boldly leap into the portal and follow the wayward machine.</i>[]<i>What occurs next is an epic adventure spanning a strange and wonderful new world... though upon reappearing back in Withergate, you lose all memory of your escapades.</i>
 
-Response:: <i>You attempt to appease the dimensional portal with a dance. Flailing your arms and legs about, you do an awful dance number. All you accomplished was embarassing yourself.</i>
+Response:: <i>You attempt to appease the dimensional portal with a dance. Flailing your arms and legs about, you do an awful dance number. All you accomplish is embarrassing yourself.</i>
 
 
-LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i> [] <i>Your potion begins to drop down... and gets stuck against the glass!</i>
+LeadIn:: <i>You're glad that's all over. The machine begins to cooperate, so something must be working! But then...</i>[]<i>Your potion begins to drop down... and gets stuck against the glass!</i>
 
 
 Option:: //HEALTH2 Punch the machine. //RIGHTANSWER
@@ -48,7 +48,7 @@ Response:: <i>Stupid machine! You give it a solid punch. Your fingers hurt, but 
 
 Response:: <i>You suggest that you and the machine could put your differences aside and become friends. The machine declines your offer of friendship. Wow, what a jerk!</i>
 
-Response:: <i>You channel your inner-Emmett and begin complaining about your busy work schedule. It's not the best impression ever, and gets you nowhere with the machine.</i>
+Response:: <i>You channel your inner Emmett and begin complaining about your busy work schedule. It's not the best impression ever, and gets you nowhere with the machine.</i>
 
 
 End

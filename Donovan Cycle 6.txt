@@ -1,6 +1,6 @@
 Donovan Cycle 6
 
-Dialogue:: XX... You're staring at my dog parts. I don't really care, but if you have a question then just ask. No need to be all... starey.
+Dialogue:: XX... You're staring at my dog parts. I don't really care, but if you have a question then just ask. No need to be all... stare-y.
 
 Option1:: Sorry... Is it hard to wear hats with those wolf ears?
 
@@ -18,7 +18,7 @@ Option1b:: I think it's cute! //Relationship Donovan6 2
 
 Response1a:: Whatever, I can hear a pin drop on the other side of a crowded room. Who cares if I can't wear dumb hats?
 
-Response1b:: Whatever, I can hear a pin drop on the other side of a crowded room. But, I guess looking cute can be useful too!
+Response1b:: Whatever, I can hear a pin drop on the other side of a crowded room. But I guess looking cute can be useful too!
 
 
 Option2a:: What kind of trouble? //Emote none Embarrassed

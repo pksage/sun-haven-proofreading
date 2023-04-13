@@ -18,6 +18,6 @@ Option2a:: A mistake is nothing to be happy about. //Relationship Kitty16 -1
 Option2b:: That's amazing, Kitty! //Relationship Kitty16 2 Happy
 
 Response2a:: Mm, I disagree! Turning a mistake into a happy moment is a great thing, nya! Maybe you just don't understand?
-Response2b:: Because Kitty wasn't hurt? It's normal for me! I fall all the time and haven't been hurt not once, nya!
+Response2b:: Because Kitty wasn't hurt? It's normal for me! I fall all the time and haven't been hurt, not once, nya!
 
 End

@@ -10,7 +10,7 @@ Option2:: What a cute deer!
 
 Response1:: Nobody compares to Elves when it comes to woodcraft, don't you know?
 
-Response2:: That's Telumbe, he's really smart. He knows the way back home to Nel'Vari by heart.
+Response2:: That's Telumbe! He's really smart. He knows the way back home to Nel'Vari by heart.
 
 
 Option1a:: I'm surprised to see such skill from Elves as young as you. //Relationship Sylvia1 -1

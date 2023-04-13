@@ -2,7 +2,7 @@ Lynn Cycle 12
 
 Dialogue:: You know, I really wish you could meet my family. My father would love you.
 
-Option1:: Maybe I will, one day.
+Option1:: Maybe I will one day.
 
 Option2:: You look a little far away. What's up?
 

@@ -1,5 +1,5 @@
 Emmett One Liner 6
 
-Dialogue:: Got lots of planting to do this spring?  You should check out our seed sales at the general store. Since you're a farmer, and all.							
+Dialogue:: Got lots of planting to do this spring? You should check out our seed sales at the general store. Since you're a farmer, and all.							
 
 End

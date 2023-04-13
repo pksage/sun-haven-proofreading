@@ -10,7 +10,7 @@ Option2:: I know you've traveled a lot for work. How many cities have you lived 
 
 Response1:: My mobility is a key part of my success. To put it simply, I find my way out when the gold stops coming in. That's how I've survived this long.[]It's a lot harder to leave if my shop isn't on wheels!
 
-Response2:: Oh jeez... I've visited too many to count but I only actually lived in about ten of them. A couple here in the Western Region, five in the Eastern Region, and three in the north.
+Response2:: Oh jeez... I've visited too many to count, but I only actually lived in about ten of them. A couple here in the Western Region, five in the Eastern Region, and three in the north.
 
 
 Option1a:: Maybe if you put your effort into a store, customers would travel to you. //Relationship Anne4 -1 Mad
@@ -28,7 +28,7 @@ Option2a:: You've never lived in the south?
 Option2b:: You spent a lot of time in the east, huh? //Emote none Happy
 
 
-Response2a:: One day I will, but only after I'm done with my merchant cart. Getting it to the islands in the south is a real pain - it doesn't float and transportation costs more than it's worth.
+Response2a:: One day I will, but only after I'm done with my merchant cart. Getting it to the islands in the south is a real pain - it doesn't float, and transportation costs more than it's worth.
 
 Response2b:: Easterners treated me very kindly. Plus, they have very loose pockets, if you know what I mean! They can be a little traditional for my taste, but everyone is welcoming no matter where you go.[]Not to mention the food. The servings they give are huge!
 

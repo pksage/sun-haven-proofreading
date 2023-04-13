@@ -1,5 +1,5 @@
 Vaan One Liner Married 7
 
-Dialogue:: Spring in Sun Haven. Spring in Nel'vari... where else should we go to see spring together, XX?																																														
+Dialogue:: Spring in Sun Haven, spring in Nel'vari... where else should we go to see spring together, XX?																																														
 
 End

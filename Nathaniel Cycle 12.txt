@@ -7,7 +7,7 @@ Option1:: You mean you wouldn't cover for me?
 Option2:: Have you ever gotten into serious trouble before?
 
 
-Response1:: Luckily, it won't come to that because you're a good citizen who doesn't commit crimes. Right?
+Response1:: Luckily it won't come to that, because you're a good citizen who doesn't commit crimes. Right?
 
 Response2:: The most trouble I ever got into was as a kid. I stole a toy slingshot by hiding it in my pants.[]I didn't even make it out of the store before they caught me. The sling was still hanging out the back of my pants. I guess I wasn't cut out to be a criminal.
 
@@ -16,7 +16,7 @@ Option1a:: Riiiight... //Relationship Nathaniel12 -1
 
 Option1b:: Right! //Relationship Nathaniel12 2 Happy
 
-Response1a:: I hope you're only joking because I really don't want to turn you in. For the record, I would if I had to.
+Response1a:: I hope you're only joking, because I really don't want to turn you in. For the record, I would if I had to.
 
 Response1b:: I thought so! I really don't want to turn you in for a crime, XX.
 
@@ -25,9 +25,9 @@ Option2a:: What happened to you?
 
 Option2b:: Did you feel guilty?
 
-Response2a:: I felt terrible after getting caught. My mom didn't yell at me or anything, but she was completely disappointed. In a way, that was much worse than being yelled at.[]And of course, she grounded me for a month.
+Response2a:: I felt terrible after getting caught. My mom didn't yell at me or anything, but she was completely disappointed. In a way, that was much worse than being yelled at.[]And, of course, she grounded me for a month.
 
-Response2b:: I felt terrible after getting caught. My mom didn't yell at me or anything, but she was completely disappointed. In a way, that was much worse than being yelled at.[]And of course, she grounded me for a month.
+Response2b:: I felt terrible after getting caught. My mom didn't yell at me or anything, but she was completely disappointed. In a way, that was much worse than being yelled at.[]And, of course, she grounded me for a month.
 
 
 End

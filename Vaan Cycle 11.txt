@@ -2,14 +2,14 @@ Vaan Cycle 11
 
 Dialogue:: Have you met Iris yet? She was a big help with getting my house set up.
 
-Option1:: Why is your house so far away from everyone else?
+Option1:: Why is your house so far away from everyone else's?
 
 Option2:: Is she a good friend of yours?
 
 
 Response1:: I like it that way. It's a little quieter, a little more my own. It's important for me to have control of my own space.
 
-Response2:: Iris? Sure, we've known each other for many years. Without Iris, many of the buildings in town wouldn't have been possible to build - like my house.[]She's the second strongest magic user in Nel'Vari - other than me, of course.
+Response2:: Iris? Sure, we've known each other for many years. Without Iris, many of the buildings in town wouldn't have been possible to build - like my house.[]She's the second strongest magic user in Nel'Vari - after me, of course.
 
 
 Option1a:: That sounds a little isolated. //Relationship Vaan11 -1 Mad

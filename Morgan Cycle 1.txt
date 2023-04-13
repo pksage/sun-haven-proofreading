@@ -6,7 +6,7 @@ Option1:: What's wrong with newcomers?
 Option2:: You need a new attitude.
 
 Response1:: The last time we let a newcomer inside of Nel'Vari, they came back with a small army. That may have been fifty years ago, but it could happen today.
-Response2:: Yeah? Well you need to stay in your own town, with your own people. Leave the Elves alone for once.
+Response2:: Yeah? Well, you need to stay in your own town, with your own people. Leave the Elves alone for once.
 
 Option1a:: You sound paranoid. //Relationship Morgan1 -1
 Option1b:: It's smart to be on guard. //Relationship Morgan1 2

@@ -17,7 +17,7 @@ Response1b:: Oh? Well, it's not for everyone. Kitty, on the other hand, <i>loves
 Option2a:: I could see you working at an anvil.
 Option2b:: You could be a physical trainer.
 
-Response2a:: Is that so? Giuseppe has his sculptures so maybe I could try metalworking. I know he'd love that since he's always encouraging me to find new ways to express myself.
+Response2a:: Is that so? Giuseppe has his sculptures, so maybe I could try metalworking. I know he'd love that, since he's always encouraging me to find new ways to express myself.
 Response2b:: You mean like a teacher, but for exercise? That's... a really good idea! Maybe someday I'll hang up my courier pouch and open my own training grounds!
 
 End

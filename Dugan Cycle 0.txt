@@ -4,6 +4,6 @@ Dialogue:: Hm... aren'tcha that outsider from Sun Haven? What'd they say yer nam
 
 Option1:: I don't know what they said, but my name is XX.
 
-Response1:: Oh, yep that's not what they called you at all. Anyway, mine's Dugan![]I've no problem with you taking a shot at my game, s'long as you've got tickets. I don't take gold, got it?
+Response1:: Oh, yep, that's not what they called you at all. Anyway, mine's Dugan![]I've no problem with you taking a shot at my game, s'long as you've got tickets. I don't take gold, got it?
 
 End

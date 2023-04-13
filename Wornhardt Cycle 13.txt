@@ -7,23 +7,23 @@ Option1:: I thought you looked a little healthier.
 Option2:: Since we're together, do I get free medical care?
 
 
-Response1:: Oh yeah? Well feel free to mention it next time! I'm not opposed to flattery, you know. Who doesn't enjoy a nice compliment?
+Response1:: Oh yeah? Well, feel free to mention it next time! I'm not opposed to flattery, you know. Who doesn't enjoy a nice compliment?
 
 Response2:: I still have to make a living, you know. Unless you want to take over paying my bills?
 
 
-Option1a:: All right then - nobody wears a white cloak like you do! //Relationship Wornhardt13 2 Happy
+Option1a:: Alright then - nobody wears a white cloak like you do! //Relationship Wornhardt13 2 Happy
 
 Option1b:: I don't want your head getting too big. //Relationship Wornhardt13 -1 Mad
 
-Response1a:: Despite the fact that nobody in Sun Haven wears a white cloak other than me, I'll take the compliment. Haha, thank you XX!
+Response1a:: Despite the fact that nobody in Sun Haven wears a white cloak other than me, I'll take the compliment. Haha, thank you, XX!
 
 Response1b:: Is this a legitimate concern of yours? I'm a grown man, XX. I know how to handle my own ego.
 
 
 Option2a:: You're on your own there, Wornhardt. //Emote none Happy
 
-Option2b:: I'll always support you, even paying your bills if I have to.
+Option2b:: I'll always support you, including paying your bills if I have to.
 
 Response2a:: Haha, I think I'll manage! A doctor's paycheck is pretty good, you know.
 

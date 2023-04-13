@@ -1,6 +1,6 @@
 Vaan Cycle 14
 
-Dialogue:: You're just like one of your crops - started as a seed but grown strong and elegant.
+Dialogue:: You're just like one of your crops - started as a seed, but grown strong and elegant.
 
 Option1:: You see me like a plant? //Emote none Happy
 

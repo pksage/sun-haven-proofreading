@@ -8,7 +8,7 @@ Option1:: Where did you lose it?
 Option2(Permanent):: Do you need help finding it?
 
 
-Response1:: A fish took it! Must have been a real trophy to break my line, too. Probably, the bobber washed up on the beach somewhere. Haven't seen it yet, though.
+Response1:: A fish took it! Must have been a real trophy to break my line, too. The bobber probably washed up on the beach somewhere. Haven't seen it yet, though.
 
 Response2:: I couldn't ask your help with that. I'm sure you're plenty busy with your farm.
 

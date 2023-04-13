@@ -4,7 +4,7 @@ Dialogue:: I've been in such a good mood lately. I think I have you to blame!
 
 Option1:: Have I told you that you're glowing? Because you're glowing. //Emote none Embarrassed
 
-Option2:: You're always cheerful, even before we were a couple.
+Option2:: You've always been cheerful, even before we were a couple.
 
 
 Response1:: Oh, shut up! You're just saying that because you think you have to.

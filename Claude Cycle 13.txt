@@ -16,7 +16,7 @@ Option1a:: Does that mean vegetables are my muse?
 
 Option1b:: I don't know what's so inspiring about me.
 
-Response1a:: That's not... well, I guess anything could be a muse. But it's usually something a bit more, say, refined.
+Response1a:: That's not... well, I guess anything could be a muse. But it's usually something a bit more, say... refined.
 
 Response1b:: I don't know either, but that's not important.[]A muse isn't meant to be figured out, it's meant to be a source of creative energy. And you, XX, are overflowing.
 
@@ -25,7 +25,7 @@ Option2a:: I will always help, however I can. //Relationship Claude13 2 Happy
 
 Option2b:: I'm afraid you're using me like a crutch. //Relationship Claude13 -1 Sad
 
-Response2a:: All you need to do it be yourself. And you're good at that. Who knows what I'll produce with you around?
+Response2a:: All you need to do is be yourself. And you're good at that. Who knows what I'll produce with you around?
 
 Response2b:: Even if I was, would that be bad? I don't see why. I just want to have you around me, all the time.
 

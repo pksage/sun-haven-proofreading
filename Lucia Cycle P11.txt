@@ -12,7 +12,7 @@ Option1a:: I hope to stay here a long time, too. //Relationship LuciaP11 2 Happy
 Option1b:: Sun Haven is honestly pretty dull. //Relationship LuciaP11 -1 Sad
 
 Response1a:: That's what I was hoping! You're part of the Sun Haven family now, you can't just up and leave us!
-Response1b:: That really is too bad that feel that way, XX. If you ever left us, your presence would be sorely missed.
+Response1b:: It really is too bad you feel that way, XX. If you ever left us, your presence would be sorely missed.
 
 Option2a:: You're really a true leader. //Relationship LuciaP11 2 Happy
 Option2b:: That sounds about right, coming from you. //Emote none Happy

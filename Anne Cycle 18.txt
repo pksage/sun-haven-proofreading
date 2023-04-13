@@ -13,12 +13,12 @@ Option1a:: Yes, dear... //Emote none Mad
 
 Option1b:: You'll change your mind when you hear my <i>good</i> jokes.
 
-Response1a:: Oh, don't pout like a child - that makes me feel bad! It's not like I'm sending you to your room, for goodness sake.
+Response1a:: Oh, don't pout like a child - that makes me feel bad! It's not like I'm sending you to your room, for goodness' sake.
 
 Response1b:: I somehow doubt that, XX... But feel free to try!
 
 
-Option2a:: So, expensive tastes then. Got it! //Relationship Anne18 2 Happy
+Option2a:: So expensive tastes, then. Got it! //Relationship Anne18 2 Happy
 Option2b:: What about homemade gifts? //Relationship Anne18 -1
 
 

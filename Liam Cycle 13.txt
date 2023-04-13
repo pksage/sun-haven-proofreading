@@ -7,12 +7,12 @@ Option1:: Don't worry, your face is perfect. //Emote none Embarrassed
 Option2:: Have you told the girls that we're dating?
 
 
-Response1:: Well I wouldn't call it perfect...
+Response1:: Well, I wouldn't call it perfect...
 
 Response2:: I had that conversation with them last night. It took a looooot of explaining, but they know about us now.[]They were more curious than anything, but they're excited that I'm "best friends with the farmer." Especially Emma!
 
 
-Option1a:: Well I think you're the sweetest guy in Sun Haven - literally! //Emote none Embarrassed
+Option1a:: Well, I think you're the sweetest guy in Sun Haven - literally! //Emote none Embarrassed
 
 Option1b:: Don't sell yourself short, Liam. You're the handsomest guy in Sun Haven! //Emote none Embarrassed
 

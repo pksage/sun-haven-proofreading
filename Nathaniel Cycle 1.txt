@@ -7,7 +7,7 @@ Option1:: So you're in charge of all the soldiers in Sun Haven?
 Option2:: With everything that's happened, is Sun Haven in any danger?
 
 
-Response1:: Yes indeed, I'm Captain of the guard. The Sun Haven Corps includes some of the finest soldiers I've seen! In truth, I'm honored to lead them.
+Response1:: Yes indeed, I'm captain of the guard. The Sun Haven Corps includes some of the finest soldiers I've seen! In truth, I'm honored to lead them.
 
 Response2:: At the moment? No, not at all. The Great Army has established a military outpost in Sun Haven for a time like this. We're here to keep an eye on things and ensure that the town's borders remain secure.
 

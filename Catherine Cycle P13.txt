@@ -6,7 +6,7 @@ Option1:: I didn't know a palm could be read.
 Option2:: Why learn to read palms?
 
 Response1:: Well, you don't read them like you read a book. It's more about tracing both the physical shape of your palm and the aura that flows through it.[]It's said that a hand can tell you a lot about a person, after all. Their past and their future.
-Response2:: It interests me, is all. Besides, it may be useful someday to someone. Helping someone out in the future is a good a reason as any, I think.
+Response2:: It interests me, is all. Besides, it may be useful someday to someone. Helping someone out in the future is as good a reason as any, I think.
 
 Option1a:: Do you worry about the future often?
 Option1b:: Do you think about the past often?

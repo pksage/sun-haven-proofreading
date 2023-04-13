@@ -1,5 +1,5 @@
 Lynn One Liner 4
 
-Dialogue:: Hi XX, I made some really nice armor today! I wish you could have seen it, but Solon already packaged it for shipment.
+Dialogue:: Hi, XX, I made some really nice armor today! I wish you could have seen it, but Solon already packaged it for shipment.
 
 End

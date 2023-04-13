@@ -8,7 +8,7 @@ Option1:: Where is your garden?
 Option2(Permanent):: What do you need me to do?
 
 
-Response1:: It's just on the side of my house, you know, stuck in the dirt like plants are.
+Response1:: It's just on the side of my house. You know, stuck in the dirt like plants are.
 
 Response2:: Just make sure all my leafy babies have enough water. I'd be crushed if they withered in the sunshine. Let me know when you've finished so I can repay you.
 

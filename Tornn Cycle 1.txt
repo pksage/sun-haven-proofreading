@@ -8,7 +8,7 @@ Option1:: Do you make the capes yourself?
 Option2:: Have you always been a cape salesman?
 
 
-Response1:: From the finest silk I can forage, that's right. Of course I'm careful to make sure any spider webs are empty before I collect them. I don't want to steal anybody's home.
+Response1:: From the finest silk I can forage, that's right. Of course, I'm careful to make sure any spider webs are empty before I collect them. I don't want to steal anybody's home.
 
 Response2:: I used to do some jobs with Rel'Tar, but we've retired from that work now. I much prefer the peace and quiet of Nel'Vari to the action that goes on outside of the forest here.
 
@@ -26,7 +26,7 @@ Option2a:: Who were the jobs for?
 
 Option2b:: It sounds like you were doing dangerous work.
 
-Response2a:: We charged a hefty sum for our skills, since the work was often dangerous. So we were mostly hired by officials from other cities since they were the only ones who could afford us.[]I can tell you're curious, so I'll say right up front that I don't care to dwell on those times. But I'll say this one thing about it - at the end of the day, all we did was help people. 
+Response2a:: We charged a hefty sum for our skills, since the work was often dangerous. So we were mostly hired by officials from other cities, since they were the only ones who could afford us.[]I can tell you're curious, so I'll say right up front that I don't care to dwell on those times. But I'll say this one thing about it - at the end of the day, all we did was help people. 
 
 Response2b:: You're right about the work being dangerous, but I really don't care to dwell on those times.[]I can tell you're curious. I'll say this one thing about it - at the end of the day, all we did was help people. 
 

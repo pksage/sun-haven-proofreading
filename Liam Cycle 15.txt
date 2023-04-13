@@ -1,23 +1,23 @@
 Liam Cycle 15
 
-Dialogue:: Say, are you feeling okay XX? You look a little... I don't know. Preoccupied?
+Dialogue:: Say, are you feeling okay, XX? You look a little... I don't know. Preoccupied?
 
 Option1:: I've been thinking about our future.
 Option2:: Are you happy in our relationship? //Emote none Embarrassed
 
 Response1:: Ah, our future! Yes, let's plan for the future. Just, excuse me if I get a little fidgety. Thinking too far ahead gets me quite anxious, but you know that.
-Response2:: Am I happy? Do I seem sad? Oh sheesh, have I been worrying you or something? I'm sorry XX, I don't mean to give you any reason to doubt.[]I'm <i>very</i> happy being with you, XX. Happier than I've ever been, actually.
+Response2:: Am I happy? Do I seem sad? Oh sheesh, have I been worrying you or something? I'm sorry, XX, I don't mean to give you any reason to doubt.[]I'm <i>very</i> happy being with you, XX. Happier than I've ever been, actually.
 
 Option1a:: I think we'll be together for a long time, Liam. //Emote none Happy
 Option1b:: I might want to stay in Sun Haven for a long time. //Emote none Happy
 
-Response1a:: Oh! Well thank goodness. That's actually nice to think about, XX. It isn't often I enjoy planning ahead, you know.
-Response1b:: Oh! Well thank goodness. That's actually nice to think about, XX. It isn't often I enjoy planning ahead, you know.
+Response1a:: Oh! Well, thank goodness. That's actually nice to think about, XX. It isn't often I enjoy planning ahead, you know.
+Response1b:: Oh! Well, thank goodness. That's actually nice to think about, XX. It isn't often I enjoy planning ahead, you know.
 
 Option2a:: I'm having doubts. //Relationship Liam15 -1 Sad
-Option2b:: So would you want to be this happy, forever? //Relationship Liam15 2 Embarrassed
+Option2b:: So would you want to be this happy forever? //Relationship Liam15 2 Embarrassed
 
 Response2a:: Oh... I see.[]I'll help in any way I can. I just, uh, don't really know how to.
-Response2b:: Forever... OH. Wow. Sorry XX, I'm just kind of caught off guard here.[]But of course, I love the idea of being with you for as long as possible. If that means wearing a ring on my finger, then go ahead and give me the ring![]Er, I didn't mean right now. Just, whenever you're ready XX.
+Response2b:: Forever... OH. Wow. Sorry, XX, I'm just kind of caught off guard here.[]But of course I love the idea of being with you for as long as possible. If that means wearing a ring on my finger, then go ahead and give me the ring![]Er, I didn't mean right now. Just whenever you're ready, XX.
 
 End

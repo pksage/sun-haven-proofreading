@@ -1,5 +1,5 @@
 Vaan One Liner Fall 4
 
-Dialogue:: Your farm is looking extra busy these days. I guess that's why the Humans call this time "the season of harvest".
+Dialogue:: Your farm is looking extra busy these days. I guess that's why the Humans call this time "the season of harvest."
 
 End

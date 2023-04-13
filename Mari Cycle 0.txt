@@ -1,6 +1,6 @@
 Mari Cycle 0
 
-Dialogue:: Well hello there, welcome on in. I'm Mari, and I'll be takin' good care of you today. 
+Dialogue:: Well hello there, come on in. I'm Mari, and I'll be takin' good care of you today. 
 
 Option1:: Hi Mari, I'm XX. I just moved in.
 

@@ -19,7 +19,7 @@ Option1b:: That's nothing to be proud of, you know. //Relationship Anne5 -1 Mad
 
 Response1a:: It's easy to be smart about your business when you work alone. No coworkers to disagree with you, and no splitting profits!
 
-Response1b:: Whatever, it's decisions like that that helped me rise to the top.
+Response1b:: Whatever. It's decisions like that that helped me rise to the top.
 
 
 Option2a:: It must be easier working alone.
